@@ -1,11 +1,19 @@
-. Finalise the data columns height + width handling code
+The tasks are listed in a totally random order:
 
-. Convert tooltips + animations checkboxes to native UI widgets
+. Convert tooltips + animations checkboxes to native jQuery UI widgets
 
 . Add tooltips explaining each search algorithm and search mode
 
-. Localise "No hits found" message
+. Refine the search function to take account of the interface flags
 
-. Implement global search function
+. Integrate Cosmic Citizenship Quiz (and translate to Russian!)
 
-. Solve the column width problems
+. Implement readonly annotations
+
+. Import British Study Edition text + annotations
+
+. Import Russian NYS translation text
+
+. Import the text of all other translations
+
+. Implement user-defined annotations (major task, can wait until version 2)
