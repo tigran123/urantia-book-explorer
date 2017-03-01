@@ -1,6 +1,3 @@
-urantia-book-explorer
-=====================
-
 # The Urantia Boook Explorer Web Application
 ## by Tigran Aivazian
 
