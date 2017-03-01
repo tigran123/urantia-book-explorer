@@ -17,3 +17,5 @@ The tasks are listed in a totally random order:
 . Import the text of all other translations
 
 . Implement user-defined annotations (major task, can wait until version 2)
+
+. Make all text optionally simultaneously scrolling by select item in TOC and by clicking on search result
