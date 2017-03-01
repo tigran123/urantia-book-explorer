@@ -1,4 +1,4 @@
-# The Urantia Boook Explorer Web Application
+# The Urantia Book Explorer Web Application
 ## by Tigran Aivazian
 
 The Urantia Book Explorer is expected to have the following features when completed
