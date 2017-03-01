@@ -1,0 +1,11 @@
+. Finalise the data columns height + width handling code
+
+. Convert tooltips + animations checkboxes to native UI widgets
+
+. Add tooltips explaining each search algorithm and search mode
+
+. Localise "No hits found" message
+
+. Implement global search function
+
+. Solve the column width problems

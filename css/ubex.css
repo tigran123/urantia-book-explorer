@@ -1,0 +1,75 @@
+body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-serif; margin:0;}
+.ui-widget { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, sans-serif; font-size: 14px; }
+.hidden {display: none;}
+/* #tabs .ui-tabs-nav .ui-icon {display: inline-block;} */
+/* .buttons .ui-icon {display: inline-block;} */
+.ui-tabs .ui-tabs-panel { padding: 0.7em 0em 0.5em 0em; }
+
+#search_text {
+   margin: 0px 0px 0px 10px;
+   height: 20px;
+   width: 250px;
+}
+
+.key { font-weight: bold; color: red; }
+
+#help {
+  position: absolute;
+  left: 50px;
+  top: 30px;
+  padding: 1.2em;
+  font-size: 14px;
+}
+
+.ui-tooltip { text-align: center; }
+
+.toc li {
+  line-height: 140%;
+  padding-bottom: 7px;
+ }
+
+.toc_container {
+  font-family: 'Arial Narrow', Arial;
+  padding: 0px;
+  font-size: 14px;
+  overflow-y: scroll;
+}
+
+legend { font-weight: bold; }
+.uxtra { font-size: 15px; }
+#radioset { padding-right: 10px; }
+
+.headers { border: solid darkgrey 2px; white-space: nowrap; padding-top: 12px; }
+.col0 { background: #f4f4ed; }
+.col1 { background: #fffae6; }
+.col2 { background: #e6fdeb; }
+.col3 { background: #ffefe4; }
+.col4 { background: #f0ffff; }
+.col5 { background: #e6fccc; }
+
+.coltxt h4,#search_results h4 { text-align: center; text-transform: uppercase; font-family: 'Arial Narrow', Arial; }
+.coltxt sup,#search_results sup { font-family: 'Arial Narrow', Arial; font-size: 0.7em; font-weight: bold; color: blue; vertical-align: text-top;}
+.coltitle { padding-top: 10px; font-size: 11px; }
+.container div { float: left; }
+
+.coltitle { padding: 5px; text-transform: uppercase;}
+
+.coltxt {
+   overflow-y: scroll;
+   text-align: justify;
+   padding-right: 5px;
+   font-family: 'Georgia', 'Arno Pro', 'Garamond Premier Pro', 'Minion Pro', 'GoudyOlSt BT';
+   font-size: 16px;
+}
+
+#search_results {
+   font-family: 'Georgia', 'Arno Pro', 'Garamond Premier Pro', 'Minion Pro', 'GoudyOlSt BT';
+   text-align: justify;
+   font-size: 16px;
+   overflow-x: scroll;
+   overflow-y: scroll;
+}
+
+a: { color: blue; }
+a:hover, a:focus { color: #018fe2; }
+a, a:hover, a:active, a:focus { text-decoration: none; }
