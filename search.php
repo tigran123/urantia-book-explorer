@@ -9,9 +9,6 @@ if ($text) {
    $cmd = "LANG=en_GB.UTF-8 fgrep --no-filename ";
    if ($ic) $cmd .= "--ignore-case ";
    $cmd .= escapeshellarg($text) . " text/" . $mod_idx . "/p???.html";
-
-   //$cmd = "LANG=en_GB.UTF-8 sed -ne 's/" . escapeshellarg($text) . "//gi'" . " text/" . $mod_idx . "/p???.html";
-
    $output = [];
    exec($cmd, $output);
    foreach($output as $line) {
