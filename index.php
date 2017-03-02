@@ -53,6 +53,7 @@ echo "<div id='tabs'>
 <tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 4</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
 <tr><td class='key'>Ctrl + V</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_NOTES</td></tr>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
+<tr><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td><td class='key'></td><td></td></tr>
 </table>
 </div>
 

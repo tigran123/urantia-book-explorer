@@ -1,4 +1,5 @@
 <?php
+$TOGGLE_TOOLTIPS = 'Вкл/Выкл. авто-подсказку';
 $CLOSE_WINDOW = 'Убрать данный столбец';
 $CONTACT_DETAILS = 'Контактные детали';
 $CONTACT_TEXT = 'Вы можете связаться с автором сайта следующим образом: <ol><li>Эл. почта: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Скайп: <b>tigran.aivazian</b></li></ol>';

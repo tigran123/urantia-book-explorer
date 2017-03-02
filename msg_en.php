@@ -1,4 +1,5 @@
 <?php
+$TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';
 $CLOSE_WINDOW = 'Close this column';
 $CONTACT_DETAILS = 'Contact Details';
 $CONTACT_TEXT = 'You may contact this site\'s author in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';

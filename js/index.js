@@ -266,6 +266,9 @@ $(document).keydown(function(event) {
    } else if (ctrl && key == 65) { /* Ctrl + A */
       event.preventDefault();
       $('#ic').trigger("click");
+   } else if (ctrl && key == 80) { /* Ctrl + P */
+      event.preventDefault();
+      $('#tooltips').trigger("click");
    } else return;
 });
 
