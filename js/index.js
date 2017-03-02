@@ -95,7 +95,7 @@ $('#animations').change(function() {
 
 $('#help').draggable();
 $('#help_button').click(function(event) { $('#help').toggleClass('hidden'); });
-$('#clear').click(function(event) { $('#search_text').val('').trigger('focus'); });
+$('#clear').click(function(event) { $('#search_text').val('').focus(); });
 
 $('.toc_container,#search_results').on('click', 'a', function(e) {
   e.preventDefault();
@@ -178,7 +178,7 @@ var ic = 1;
 $('#ic').click(function(event) {
    $('#ic_lab').html(ic ? 'a &#8800; A' : 'a = A');
    ic = 1 - ic;
-   $('#search_text').trigger('focus');
+   $('#search_text').focus();
 });
 
 $('#max_height').click(function(event) {
@@ -208,7 +208,7 @@ $('#search').click(function(event) {
           var colored = data.replace(new RegExp('(' + text + ')', regflags), '<span style="background-color:yellow;">$1</span>');
           $('#search_results').html(colored);
           $('#search_status').removeClass('ui-icon-refresh').addClass('ui-icon-search');
-          $('#search_text').prop('disabled', false).trigger('focus');
+          $('#search_text').prop('disabled', false).focus();
        }, dataType: "html"});
     }
 });
@@ -218,14 +218,14 @@ $(document).keydown(function(event) {
    //console.log("key=" + key);
    if (key == 112) { /* F1 */
       event.preventDefault();
-      $('#help_button').trigger("click");
+      $('#help_button').click();
    } if (key == 13 && event.target.id == 'search_text') { /* ENTER in a search input box */
       event.preventDefault();
-      $('#search').trigger("click");
+      $('#search').click();
    } else if (ctrl && key == 48) { /* Ctrl + 0 */
       event.preventDefault();
       $('.col0').toggleClass('hidden');
-      $('#max_width').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 49) { /* Ctrl + 1 */
       event.preventDefault();
       switch_active_column('.col1');
@@ -238,41 +238,41 @@ $(document).keydown(function(event) {
    } else if (ctrl && key == 52) { /* Ctrl + 4 */
       event.preventDefault();
       $('.col4').toggleClass('hidden');
-      $('#max_width').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 53) { /* Ctrl + 5 */
       event.preventDefault();
       $('.col5').toggleClass('hidden');
-      $('#max_width').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 72) { /* Ctrl + H */
       event.preventDefault();
       $('#tabs_top').toggleClass('hidden');
-      $('#max_height').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 66) { /* Ctrl + B */
       event.preventDefault();
-      $('#max_width').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 86) { /* Ctrl + V */
       event.preventDefault();
-      $('#max_height').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 83) { /* Ctrl + S */
       event.preventDefault();
       $('#controls').toggleClass('hidden');
-      $('#max_height').trigger("click");
+      $('#max_width').click();
    } else if (ctrl && key == 88) { /* Ctrl + X */
       event.preventDefault();
-      $('#clear').trigger("click");
+      $('#clear').click();
    } else if (ctrl && key == 79) { /* Ctrl + O */
       event.preventDefault();
-      $('#toc_expand_collapse').trigger("click");
+      $('#toc_expand_collapse').click();
    } else if (ctrl && key == 65) { /* Ctrl + A */
       event.preventDefault();
-      $('#ic').trigger("click");
+      $('#ic').click();
    } else if (ctrl && key == 80) { /* Ctrl + P */
       event.preventDefault();
       $('#tooltips').click();
    } else return;
 });
 
-$('.colsize_controls').trigger('click');
+$('.colsize_controls').click();
 
 function getCookie(name) {
    var value = "; " + document.cookie;
@@ -282,7 +282,7 @@ function getCookie(name) {
 
 function switch_active_column(current_column) {
    $(current_column).toggleClass('hidden');
-   $('#max_width').trigger("click");
+   $('#max_width').click();
    var newcol = $('.txthdr').not('.hidden').first().attr('id');
    if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
 }
