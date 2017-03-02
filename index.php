@@ -63,11 +63,11 @@ echo "<div id='tabs'>
 <legend>$EXPLORER_PANEL</legend>
 <div id='radioset'>
    <input class='radio' type='radio' name='radio' id='col1rad'>
-      <label for='col1rad' class='col1' title='$SELECT_TEXT1'><span class='uxtra'>1</span></label>
+      <label for='col1rad' id='col1lab' title='$SELECT_TEXT1'><span class='uxtra'>1</span></label>
    <input class='radio' type='radio' name='radio' id='col2rad'>
-      <label for='col2rad' class='col2' title='$SELECT_TEXT2'><span class='uxtra'>2</span></label>
+      <label for='col2rad' id='col2lab' title='$SELECT_TEXT2'><span class='uxtra'>2</span></label>
    <input class='radio' type='radio' name='radio' id='col3rad'>
-      <label for='col3rad' class='col3' title='$SELECT_TEXT3'><span class='uxtra'>3</span></label>
+      <label for='col3rad' id='col3lab' title='$SELECT_TEXT3'><span class='uxtra'>3</span></label>
 </div>
 <button class='buttons colsize_controls' type='button' id='max_height' title='$MAX_HEIGHT'><span class='ui-icon ui-icon-arrowthick-2-n-s'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_width' title='$MAX_WIDTH'><span class='ui-icon ui-icon-arrowthick-2-e-w'></span></button>

@@ -21,7 +21,9 @@ $('#' + active_column_id.replace('hdr','rad')).prop('checked', true).checkboxrad
 $('#' + active_column_id).css('border', 'solid darkblue 2px');
 $('.radio').on('change', function() {
    $('#' + active_column_id.replace('hdr','toc')).addClass('hidden');
-   active_column_id = $(this).attr('id').replace('rad','hdr');
+   var col = $(this).attr('id').replace('rad','');
+   $('.' + col).removeClass('hidden');
+   active_column_id = col + 'hdr';
    $('#' + active_column_id.replace('hdr','toc')).removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + active_column_id).css('border', 'solid darkblue 2px');

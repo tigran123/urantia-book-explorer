@@ -41,9 +41,16 @@ legend { font-weight: bold; }
 
 .headers { border: solid darkgrey 2px; white-space: nowrap; padding-top: 12px; }
 .col0 { background: #f4f4ed; }
+
 .col1 { background: #fffae6; }
+#col1lab { color: black; background: #fffae6; }
+
 .col2 { background: #e6fdeb; }
+#col2lab { color: black; background: #e6fdeb; }
+
 .col3 { background: #ffefe4; }
+#col3lab { color: black; background: #ffefe4; }
+
 .col4 { background: #f0ffff; }
 .col5 { background: #e6fccc; }
 
