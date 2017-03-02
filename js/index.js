@@ -268,7 +268,7 @@ $(document).keydown(function(event) {
       $('#ic').trigger("click");
    } else if (ctrl && key == 80) { /* Ctrl + P */
       event.preventDefault();
-      $('#tooltips').trigger("click");
+      $('#tooltips').click();
    } else return;
 });
 
