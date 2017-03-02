@@ -199,10 +199,16 @@ echo "<div id='tabs'>
 </fieldset>
 </div>
 
-<div id='tab_contact'>
+<div class='container' id='tab_contact'>
+<div style='padding: 20px'>
 <img src='img/logo.png'></img>
+</div>
+<div style='padding: 20px'>
 <h1>$CONTACT_DETAILS</h1>
 <p>$CONTACT_TEXT
+<h1>$SOURCE_CODE</h1>
+<p>$SOURCE_CODE_TEXT
+</div>
 </div>
 
 </div>"; /* tabs div */
