@@ -252,7 +252,7 @@ $(document).keydown(function(event) {
       $('#max_width').click();
    } else if (ctrl && key == 86) { /* Ctrl + V */
       event.preventDefault();
-      $('#max_width').click();
+      $('#max_height').click();
    } else if (ctrl && key == 83) { /* Ctrl + S */
       event.preventDefault();
       $('#controls').toggleClass('hidden');
