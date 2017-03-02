@@ -273,6 +273,7 @@ $(document).keydown(function(event) {
 });
 
 $('.colsize_controls').click();
+$('body').removeClass('hidden');
 
 function getCookie(name) {
    var value = "; " + document.cookie;
