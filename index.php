@@ -47,13 +47,12 @@ echo "<div id='tabs'>
 <table>
 <th colspan=4 title='$HELP_TIP'>$HELP<hr></th>
 <tr><td class='key'>F1</td><td>$CALL_HELP</td><td class='key'>Ctrl + 0</td><td>$SHOW_HIDE_TOC</td></tr>
-<tr><td class='key'>Ctrl + X</td><td>$CLEAR_SEARCH_STRING_HELP</td><td class='key'>Ctrl + 1</td><td>$SHOW_HIDE_COL1</td></tr>
-<tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_CONTROL_PANEL</td><td class='key'>Ctrl + 2</td><td>$SHOW_HIDE_COL2</td></tr>
-<tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 3</td><td>$SHOW_HIDE_COL3</td></tr>
-<tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 4</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
-<tr><td class='key'>Ctrl + V</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_NOTES</td></tr>
-<tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
-<tr><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td><td class='key'></td><td></td></tr>
+<tr><td class='key'>Ctrl + X</td><td>$CLEAR_SEARCH_STRING_HELP</td><td class='key'>Ctrl + 1/2/3</td><td>$SHOW_HIDE_COL123</td></tr>
+<tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_CONTROL_PANEL</td><td class='key'>Ctrl + Shift 1/2/3</td><td>$SELECT_TEXT123</td></tr>
+<tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 4</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
+<tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_NOTES</td></tr>
+<tr><td class='key'>Ctrl + V</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
+<tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
 </table>
 </div>
 
@@ -61,14 +60,12 @@ echo "<div id='tabs'>
 <div>
 <fieldset>
 <legend>$EXPLORER_PANEL</legend>
-<div id='radioset'>
-   <input class='radio' type='radio' name='radio' id='col1rad'>
-      <label for='col1rad' id='col1lab' title='$SELECT_TEXT1'><span class='uxtra'>1</span></label>
-   <input class='radio' type='radio' name='radio' id='col2rad'>
-      <label for='col2rad' id='col2lab' title='$SELECT_TEXT2'><span class='uxtra'>2</span></label>
-   <input class='radio' type='radio' name='radio' id='col3rad'>
-      <label for='col3rad' id='col3lab' title='$SELECT_TEXT3'><span class='uxtra'>3</span></label>
-</div>
+<button class='buttons colsw' type='button' id='col0rad' title='$SHOW_HIDE_TOC'><span class='ui-icon ui-icon-lightbulb'></span></button>
+<button class='buttons coltxtsw' type='button' id='col1rad' title='$SELECT_TEXT1'><span class='uxtra'>1</span></button>
+<button class='buttons coltxtsw' type='button' id='col2rad' title='$SELECT_TEXT2'><span class='uxtra'>2</span></button>
+<button class='buttons coltxtsw' type='button' id='col3rad' title='$SELECT_TEXT3'><span class='uxtra'>3</span></button>
+<button class='buttons colsw' type='button' id='col4rad' title='$SHOW_HIDE_SEARCH_RESULTS'><span class='ui-icon ui-icon-search'></span></button>
+<button class='buttons colsw' type='button' id='col5rad' title='$SHOW_HIDE_NOTES'><span class='ui-icon ui-icon-note'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_height' title='$MAX_HEIGHT'><span class='ui-icon ui-icon-arrowthick-2-n-s'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_width' title='$MAX_WIDTH'><span class='ui-icon ui-icon-arrowthick-2-e-w'></span></button>
 <button class='buttons' type='button' id='help_button' title='$HELP_TOOLTIP'><span class='ui-icon ui-icon-help'></span></button>
@@ -108,9 +105,6 @@ echo "<div id='tabs'>
       <span class='ui-icon ui-icon-arrow-4-diag'></span>
     </button>
     <span id='col0title'>$CONTENTS</span>
-    <a href='javascript:void(0)' class='closewin' title='$CLOSE_WINDOW'>
-      <span class='ui-icon ui-icon-closethick'></span>
-    </a>
   </th>
   <th class='col1 headers txthdr' id='col1hdr' title='$PRESS_CTRL_1'>
     <span class='uxtra'>1</span>
@@ -121,7 +115,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     </a>
-    <a href='javascript:void(0)' class='closewin' title='$CLOSE_WINDOW'>
+    <a href='javascript:void(0)' class='close_txtcol' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
     <div class='coltitle' id='col1title'></div>
@@ -135,7 +129,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     </a>
-    <a href='javascript:void(0)' class='closewin' title='$CLOSE_WINDOW'>
+    <a href='javascript:void(0)' class='close_txtcol' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
     <div class='coltitle' id='col2title'></div>
@@ -149,23 +143,13 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     <a>
-    <a href='javascript:void(0)' class='closewin' title='$CLOSE_WINDOW'>
+    <a href='javascript:void(0)' class='close_txtcol' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
     <div class='coltitle' id='col3title'></div>
   </th>
-  <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>
-    $SEARCH_RESULTS
-    <a href='javascript:void(0)' class='closewin' title='$CLOSE_WINDOW'>
-       <span class='ui-icon ui-icon-closethick'></span>
-    </a>
-  </th>
-  <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
-    $NOTES
-    <a href='javascript:void(0)' class='closewin' title='$CLOSE_WINDOW'>
-       <span class='ui-icon ui-icon-closethick'></span>
-    </a>
-  </th>
+  <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>$SEARCH_RESULTS</th>
+  <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>$NOTES</th>
 <tr>
   <td class='col0' id='col0toc' valign='top'>
     <div class='toc_container hidden data' id='col1toc'></div>

@@ -40,12 +40,12 @@ legend { font-weight: bold; }
 #radioset { padding-right: 10px; }
 
 .headers { border: solid darkgrey 2px; white-space: nowrap; padding-top: 12px; }
-.col0 { color: black; background: #f4f4ed; }
-.col1,#col1lab { color: black; background: #fffae6; }
-.col2,#col2lab { color: black; background: #e6fdeb; }
-.col3,#col3lab { color: black; background: #ffefe4; }
-.col4 { color: black; background: #f0ffff; }
-.col5 { color: black; background: #e6fccc; }
+.col0,#col0rad { color: black; background: #f4f4ed; }
+.col1,#col1rad { color: black; background: #fffae6; }
+.col2,#col2rad { color: black; background: #e6fdeb; }
+.col3,#col3rad { color: black; background: #ffefe4; }
+.col4,#col4rad { color: black; background: #cfffff; }
+.col5,#col5rad { color: black; background: #e6fccc; }
 
 .coltxt h4,#search_results h4 { text-align: center; text-transform: uppercase; font-family: 'Arial Narrow', Arial; }
 .coltxt sup,#search_results sup { font-family: 'Arial Narrow', Arial; font-size: 0.7em; font-weight: bold; color: blue; vertical-align: text-top;}

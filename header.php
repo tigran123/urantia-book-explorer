@@ -30,7 +30,7 @@ $htmlhead = "<!DOCTYPE html>
 <link id='stylesheet' rel='stylesheet' href='jquery/jquery-ui-themes-1.12.1/themes/$theme/jquery-ui.min.css'>
 <link rel='stylesheet' type='text/css' href='jquery/jquery.bonsai.css' />
 <link rel='stylesheet' type='text/css' href='css/ubex.css' />
-</head><body class='hidden'>";
+</head><body>";
 
 $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery-ui-1.12.1/jquery-ui.min.js'></script>

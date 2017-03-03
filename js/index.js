@@ -13,13 +13,19 @@ $.extend($.expr[':'], { /* case-insensitive version of :contains() */
   }
 });
 
+$('.buttons').button();
 $('#tabs').tabs();
 $('#tabs').on('click', 'a', function(e) { if (e.target.id == '#forum') location.href = e.target.href; });
 
-$('.radio').checkboxradio({ icon: false });
-$('#' + active_column_id.replace('hdr','rad')).prop('checked', true).checkboxradio('refresh');
 $('#' + active_column_id).css('border', 'solid darkblue 2px');
-$('.radio').on('click', function() {
+
+$('.colsw').on('click', function() {
+   var col = $(this).attr('id').replace('rad','');
+   $('.' + col).toggleClass('hidden');
+   $('#max_width').click();
+});
+
+$('.coltxtsw').on('click', function() {
    $('#' + active_column_id.replace('hdr','toc')).addClass('hidden');
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).removeClass('hidden');
@@ -79,7 +85,6 @@ $('.coltxt').each(function() {
 $('#search_part').selectmenu({width: 120});
 $('#search_mode').selectmenu({width: 130});
 $('#search_range').selectmenu({width: 180});
-$('.buttons').button();
 $(document).tooltip({ content: function () { return this.getAttribute("title"); }, }); /* this enables html in tooltips */
 $('#tooltips').change(function() {
     if ($(this).is(':checked')) {
@@ -152,7 +157,7 @@ $('.colupdown').click(function() {
   $(coltxt).scrollTo(offset, delay);
 });
 
-$('.closewin').click(function() { switch_active_column('.' + $(this).parent().attr('id').replace('hdr','')); });
+$('.close_txtcol').click(function() { toggle_active_text_column($(this).parent().attr('id').replace('hdr','')); });
 
 $('#language').selectmenu({
   change: function(event, ui) {
@@ -195,6 +200,8 @@ $('#max_width').click(function(event) {
     $('.headers,.toc_container,#search_results').width(column_width);
 });
 
+$('.colsize_controls').click();
+
 $('#search').click(function(event) {
     var html = $('#search_text').val().trim(); /* may contain html tags */
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
@@ -203,20 +210,20 @@ $('#search').click(function(event) {
        var mod_idx = $('#' + col + 'mod').val();
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic;
        var txtmod = text_map[mod_idx];
-       $('#search_status').removeClass('ui-icon-search').addClass('ui-icon-refresh');
+       $('#search_status').removeClass('ui-icon-search').addClass('ui-icon-clock');
        $('#search_text').prop('disabled', true);
        $.ajax({url: search_req, success: function(data) {
           var regflags = ic ? 'gi' : 'g';
           var colored = data.replace(new RegExp('(' + text + ')', regflags), '<span style="background-color:yellow;">$1</span>');
           $('#search_results').html(colored);
-          $('#search_status').removeClass('ui-icon-refresh').addClass('ui-icon-search');
+          $('#search_status').removeClass('ui-icon-clock').addClass('ui-icon-search');
           $('#search_text').prop('disabled', false).focus();
        }, dataType: "html"});
     }
 });
 
 $(document).keydown(function(event) {
-   var key = event.which, ctrl = event.ctrlKey;
+   var key = event.which, ctrl = event.ctrlKey, shift = event.shiftKey;
    //console.log("key=" + key);
    if (key == 112) { /* F1 */
       event.preventDefault();
@@ -226,29 +233,35 @@ $(document).keydown(function(event) {
       $('#search').click();
    } else if (ctrl && key == 48) { /* Ctrl + 0 */
       event.preventDefault();
-      $('.col0').toggleClass('hidden');
-      $('#max_width').click();
+      $('#col0rad').click();
+   } else if (ctrl && shift && key == 49) { /* Ctrl + Shift + 1 */
+      event.preventDefault();
+      $('#col1rad').click();
    } else if (ctrl && key == 49) { /* Ctrl + 1 */
       event.preventDefault();
-      switch_active_column('.col1');
+      toggle_active_text_column('col1');
+   } else if (ctrl && shift && key == 50) { /* Ctrl + Shift + 2 */
+      event.preventDefault();
+      $('#col2rad').click();
    } else if (ctrl && key == 50) { /* Ctrl + 2 */
       event.preventDefault();
-      switch_active_column('.col2');
+      toggle_active_text_column('col2');
+   } else if (ctrl && shift && key == 51) { /* Ctrl + Shift + 3 */
+      event.preventDefault();
+      $('#col3rad').click();
    } else if (ctrl && key == 51) { /* Ctrl + 3 */
       event.preventDefault();
-      switch_active_column('.col3');
+      toggle_active_text_column('col3');
    } else if (ctrl && key == 52) { /* Ctrl + 4 */
       event.preventDefault();
-      $('.col4').toggleClass('hidden');
-      $('#max_width').click();
+      $('#col4rad').click();
    } else if (ctrl && key == 53) { /* Ctrl + 5 */
       event.preventDefault();
-      $('.col5').toggleClass('hidden');
-      $('#max_width').click();
+      $('#col5rad').click();
    } else if (ctrl && key == 72) { /* Ctrl + H */
       event.preventDefault();
       $('#tabs_top').toggleClass('hidden');
-      $('#max_width').click();
+      $('#max_height').click();
    } else if (ctrl && key == 66) { /* Ctrl + B */
       event.preventDefault();
       $('#max_width').click();
@@ -258,7 +271,7 @@ $(document).keydown(function(event) {
    } else if (ctrl && key == 83) { /* Ctrl + S */
       event.preventDefault();
       $('#controls').toggleClass('hidden');
-      $('#max_width').click();
+      $('#max_height').click();
    } else if (ctrl && key == 88) { /* Ctrl + X */
       event.preventDefault();
       $('#clear').click();
@@ -274,18 +287,15 @@ $(document).keydown(function(event) {
    } else return;
 });
 
-$('.colsize_controls').click();
-$('body').removeClass('hidden');
-
 function getCookie(name) {
    var value = "; " + document.cookie;
    var parts = value.split("; " + name + "=");
    if (parts.length == 2) return parts.pop().split(";").shift();
 }
 
-function switch_active_column(current_column) {
-   $(current_column).toggleClass('hidden');
-   $('#max_width').click();
+function toggle_active_text_column(column) {
+   $('.' + column).toggleClass('hidden');
    var newcol = $('.txthdr').not('.hidden').first().attr('id');
    if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
+   $('#max_width').click();
 }
