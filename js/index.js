@@ -19,7 +19,7 @@ $('#tabs').on('click', 'a', function(e) { if (e.target.id == '#forum') location.
 $('.radio').checkboxradio({ icon: false });
 $('#' + active_column_id.replace('hdr','rad')).prop('checked', true).checkboxradio('refresh');
 $('#' + active_column_id).css('border', 'solid darkblue 2px');
-$('.radio').on('change', function() {
+$('.radio').on('click', function() {
    $('#' + active_column_id.replace('hdr','toc')).addClass('hidden');
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).removeClass('hidden');
