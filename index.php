@@ -184,15 +184,18 @@ echo "<div id='tabs'>
 </div>
 
 <div class='container' id='tab_contact'>
-<div style='padding: 20px'>
-<img src='img/logo.png'></img>
-</div>
-<div style='padding: 20px'>
-<h1>$CONTACT_DETAILS</h1>
-<p>$CONTACT_TEXT
-<h1>$SOURCE_CODE</h1>
-<p>$SOURCE_CODE_TEXT
-</div>
+<table>
+<th><h2 style='text-transform:uppercase;'>$SOURCE_CODE</h2></th>
+<tr><td>$SOURCE_CODE_TEXT</td></tr>
+</table>
+
+<table>
+<th colspan=2><h2 style='text-transform:uppercase;'>$CONTACT_DETAILS</h2></th>
+<tr>
+<td><img src='img/contact.png' height='100'></img></td>
+<td>$CONTACT_TEXT</td>
+</tr>
+</table>
 </div>
 
 </div>"; /* tabs div */
