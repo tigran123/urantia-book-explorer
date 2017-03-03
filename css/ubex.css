@@ -42,14 +42,14 @@ legend { font-weight: bold; }
 .headers { border: solid darkgrey 2px; white-space: nowrap; padding-top: 12px; }
 .col0 { background: #f4f4ed; }
 
-.col1 { background: #fffae6; }
-#col1lab { color: black; background: #fffae6; }
+.col1,#col1lab { background: #fffae6; }
+#col1lab { color: black; }
 
-.col2 { background: #e6fdeb; }
-#col2lab { color: black; background: #e6fdeb; }
+.col2,#col2lab { background: #e6fdeb; }
+#col2lab { color: black; }
 
-.col3 { background: #ffefe4; }
-#col3lab { color: black; background: #ffefe4; }
+.col3,#col3lab { background: #ffefe4; }
+#col3lab { color: black; }
 
 .col4 { background: #f0ffff; }
 .col5 { background: #e6fccc; }
