@@ -210,13 +210,15 @@ $('#search').click(function(event) {
        var mod_idx = $('#' + col + 'mod').val();
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic;
        var txtmod = text_map[mod_idx];
-       $('#search_status').removeClass('ui-icon-search').addClass('ui-icon-clock');
+       $('#search_status').removeClass('ui-icon-search').addClass('ui-icon-refresh');
+       $('#search_text').addClass('loading');
        $('#search_text').prop('disabled', true);
        $.ajax({url: search_req, success: function(data) {
           var regflags = ic ? 'gi' : 'g';
           var colored = data.replace(new RegExp('(' + text + ')', regflags), '<span style="background-color:yellow;">$1</span>');
           $('#search_results').html(colored);
           $('#search_status').removeClass('ui-icon-clock').addClass('ui-icon-search');
+          $('#search_text').removeClass('loading');
           $('#search_text').prop('disabled', false).focus();
        }, dataType: "html"});
     }

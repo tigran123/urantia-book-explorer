@@ -92,7 +92,7 @@ echo "<div id='tabs'>
   <option value=2>$TITLES_ONLY</option>
 </select>
 <button class='buttons' type='button' id='clear' title='$CLEAR_SEARCH_STRING'><span class='ui-icon ui-icon-close'></span></button>
-<input  placeholder='$INPUT_SEARCH_STRING' autofocus id='search_text'>
+<input placeholder='$INPUT_SEARCH_STRING' type='text' autofocus id='search_text'>
 <button class='buttons' type='button' id='search' title='$START_SEARCH'><span class='ui-icon ui-icon-search' id='search_status'></span></button>
 <button class='buttons' type='button' id='ic' title='$IGNORE_CASE'><span id='ic_lab'>a = A</span></button>
 </fieldset>
