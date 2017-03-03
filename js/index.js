@@ -295,7 +295,9 @@ function getCookie(name) {
 
 function toggle_active_text_column(column) {
    $('.' + column).toggleClass('hidden');
-   var newcol = $('.txthdr').not('.hidden').first().attr('id');
-   if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
+   if (active_column_id.replace('hdr','') == column) {
+      var newcol = $('.txthdr').not('.hidden').first().attr('id');
+      if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
+   }
    $('#max_width').click();
 }
