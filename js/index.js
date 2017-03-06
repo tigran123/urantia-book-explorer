@@ -33,6 +33,7 @@ $('.coltxtsw').on('click', function() {
    $('#' + active_column_id.replace('hdr','toc')).removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + active_column_id).css('border', 'solid darkblue 2px');
+   $('#max_width').click();
 });
 
 $('.colmod').html(text_options).selectmenu({
@@ -157,7 +158,7 @@ $('.colupdown').click(function() {
   $(coltxt).scrollTo(offset, delay);
 });
 
-$('.close_txtcol').click(function() { toggle_active_text_column($(this).parent().attr('id').replace('hdr','')); });
+$('.colclose').click(function() { toggle_active_text_column($(this).attr('id').replace('close','')); });
 
 $('#language').selectmenu({
   change: function(event, ui) {
@@ -235,7 +236,7 @@ $(document).keydown(function(event) {
       $('#search').click();
    } else if (ctrl && key == 48) { /* Ctrl + 0 */
       event.preventDefault();
-      $('#col0rad').click();
+      toggle_active_text_column('col0');
    } else if (ctrl && shift && key == 49) { /* Ctrl + Shift + 1 */
       event.preventDefault();
       $('#col1rad').click();
@@ -256,10 +257,10 @@ $(document).keydown(function(event) {
       toggle_active_text_column('col3');
    } else if (ctrl && key == 52) { /* Ctrl + 4 */
       event.preventDefault();
-      $('#col4rad').click();
+      toggle_active_text_column('col4');
    } else if (ctrl && key == 53) { /* Ctrl + 5 */
       event.preventDefault();
-      $('#col5rad').click();
+      toggle_active_text_column('col5');
    } else if (ctrl && key == 72) { /* Ctrl + H */
       event.preventDefault();
       $('#tabs_top').toggleClass('hidden');

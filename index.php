@@ -105,6 +105,9 @@ echo "<div id='tabs'>
       <span class='ui-icon ui-icon-arrow-4-diag'></span>
     </button>
     <span id='col0title'>$CONTENTS</span>
+    <a href='javascript:void(0)' class='colclose' id='col0close' title='$CLOSE_WINDOW'>
+       <span class='ui-icon ui-icon-closethick'></span>
+    </a>
   </th>
   <th class='col1 headers txthdr' id='col1hdr' title='$PRESS_CTRL_1'>
     <span class='uxtra'>1</span>
@@ -115,7 +118,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     </a>
-    <a href='javascript:void(0)' class='close_txtcol' title='$CLOSE_WINDOW'>
+    <a href='javascript:void(0)' class='colclose' id='col1close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
     <div class='coltitle' id='col1title'></div>
@@ -129,7 +132,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     </a>
-    <a href='javascript:void(0)' class='close_txtcol' title='$CLOSE_WINDOW'>
+    <a href='javascript:void(0)' class='colclose' id='col2close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
     <div class='coltitle' id='col2title'></div>
@@ -143,13 +146,23 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     <a>
-    <a href='javascript:void(0)' class='close_txtcol' title='$CLOSE_WINDOW'>
+    <a href='javascript:void(0)' class='colclose' id='col3close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
     <div class='coltitle' id='col3title'></div>
   </th>
-  <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>$SEARCH_RESULTS</th>
-  <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>$NOTES</th>
+  <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>
+    $SEARCH_RESULTS
+    <a href='javascript:void(0)' class='colclose' id='col4close' title='$CLOSE_WINDOW'>
+       <span class='ui-icon ui-icon-closethick'></span>
+    </a>
+  </th>
+  <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
+    $NOTES
+    <a href='javascript:void(0)' class='colclose' id='col5close' title='$CLOSE_WINDOW'>
+       <span class='ui-icon ui-icon-closethick'></span>
+    </a>
+  </th>
 <tr>
   <td class='col0' id='col0toc' valign='top'>
     <div class='toc_container hidden data' id='col1toc'></div>
