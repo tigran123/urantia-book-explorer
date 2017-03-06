@@ -158,7 +158,7 @@ $('.colupdown').click(function() {
   $(coltxt).scrollTo(offset, delay);
 });
 
-$('.colclose').click(function() { toggle_active_text_column($(this).attr('id').replace('close','')); });
+$('.colclose').click(function() { toggle_active_column($(this).attr('id').replace('close','')); });
 
 $('#language').selectmenu({
   change: function(event, ui) {
@@ -236,31 +236,31 @@ $(document).keydown(function(event) {
       $('#search').click();
    } else if (ctrl && key == 48) { /* Ctrl + 0 */
       event.preventDefault();
-      toggle_active_text_column('col0');
+      toggle_active_column('col0');
    } else if (ctrl && shift && key == 49) { /* Ctrl + Shift + 1 */
       event.preventDefault();
       $('#col1rad').click();
    } else if (ctrl && key == 49) { /* Ctrl + 1 */
       event.preventDefault();
-      toggle_active_text_column('col1');
+      toggle_active_column('col1');
    } else if (ctrl && shift && key == 50) { /* Ctrl + Shift + 2 */
       event.preventDefault();
       $('#col2rad').click();
    } else if (ctrl && key == 50) { /* Ctrl + 2 */
       event.preventDefault();
-      toggle_active_text_column('col2');
+      toggle_active_column('col2');
    } else if (ctrl && shift && key == 51) { /* Ctrl + Shift + 3 */
       event.preventDefault();
       $('#col3rad').click();
    } else if (ctrl && key == 51) { /* Ctrl + 3 */
       event.preventDefault();
-      toggle_active_text_column('col3');
+      toggle_active_column('col3');
    } else if (ctrl && key == 52) { /* Ctrl + 4 */
       event.preventDefault();
-      toggle_active_text_column('col4');
+      toggle_active_column('col4');
    } else if (ctrl && key == 53) { /* Ctrl + 5 */
       event.preventDefault();
-      toggle_active_text_column('col5');
+      toggle_active_column('col5');
    } else if (ctrl && key == 72) { /* Ctrl + H */
       event.preventDefault();
       $('#tabs_top').toggleClass('hidden');
@@ -296,7 +296,7 @@ function getCookie(name) {
    if (parts.length == 2) return parts.pop().split(";").shift();
 }
 
-function toggle_active_text_column(column) {
+function toggle_active_column(column) {
    $('.' + column).toggleClass('hidden');
    if (active_column_id.replace('hdr','') == column) {
       var newcol = $('.txthdr').not('.hidden').first().attr('id');
