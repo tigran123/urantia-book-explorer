@@ -14,8 +14,8 @@ body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-seri
 
 #help {
   position: absolute;
-  left: 50px;
-  top: 30px;
+  right: 50px;
+  bottom: 70px;
   padding: 1.2em;
   font-size: 14px;
 }
