@@ -1,11 +1,18 @@
 var active_column_id = 'col1hdr';
 var colpaper_map = { 'col1hdr': '000', 'col2hdr': '000', 'col3hdr': '000' };
+
 var text_map = ['English: (SRT 0.20)',
                 'Русский: (UF 1997-1.9)',
                 'Български: (UF 2013-1.0)',
                 'Deutsch: (UF 2015-1)'];
+
+var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain',
+                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
+                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
+                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation'];
+
 var text_options = '';
-$.each(text_map, function(idx, item) { text_options += '<option value=' + idx + '>' + text_map[idx] + '</option>'; });
+$.each(text_map, function(idx, item) { text_options += '<option value=' + idx + ' title="' + info_map[idx] + '">' + text_map[idx] + '</option>'; });
 
 $.extend($.expr[':'], { /* case-insensitive version of :contains() */
   'containsic': function(elem, i, match, array) {
