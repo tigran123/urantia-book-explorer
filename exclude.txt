@@ -4,3 +4,4 @@ logs/
 TODO
 tools/
 .git/
+README.md
