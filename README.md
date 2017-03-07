@@ -1,6 +1,6 @@
 # The Urantia Book Explorer Web Application
 
-The Urantia Book Explorer is expected to have the following features when completed
+The Urantia Book Explorer (UBE) is expected to have the following features when completed:
 
 * Side-by-side comparison of multiple (ultimately ALL) translations of the Urantia Book with the English text.
 
