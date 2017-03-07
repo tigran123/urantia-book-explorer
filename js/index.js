@@ -131,6 +131,11 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   } else {
      $(coltxt).scrollTo(href, delay);
   }
+  var colclass = $('.' + col);
+  if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
+      colclass.removeClass('hidden');
+      $('#max_width').click();
+  }
 });
 
 $('.coltxt').on('click', 'a', function(e) {
