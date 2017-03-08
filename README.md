@@ -33,3 +33,5 @@ When deploying the application you should not copy the files mentioned in `exclu
 ```
 $ rsync --exclude-from=exclude.txt --delete -ahv . tigran123@quantuminfodynamics.com:public_html/ubex/
 ```
+
+The application relies on PHP version >= 5.6.27 on the server.
