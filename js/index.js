@@ -1,4 +1,4 @@
-var active_column_id = 'col1';
+var active_column = 'col1';
 var colpaper_map = { 'col1': '000', 'col2': '000', 'col3': '000' };
 
 var text_map = ['English: (SRT 0.20)',
@@ -24,7 +24,7 @@ $('.buttons').button();
 $('#tabs').tabs();
 $('#tabs').on('click', 'a', function(e) { if (e.target.id == '#forum') location.href = e.target.href; });
 
-$('#' + active_column_id + 'hdr').css('border', 'solid darkblue 2px');
+$('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
 
 $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
@@ -33,10 +33,10 @@ $('.colsw').on('click', function() {
 });
 
 $('.coltxtsw').on('click', function() {
-   $('#' + active_column_id + 'toc').addClass('hidden');
+   $('#' + active_column + 'toc').addClass('hidden');
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).removeClass('hidden');
-   active_column_id = col;
+   active_column = col;
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
@@ -74,17 +74,16 @@ $('.colmod').html(text_options).selectmenu({
 
 $('.coltxt').each(function() {
    var col = $(this).attr('id').replace('txt', '');
-   var col_id = col;
    var toc_id = '#' + col + 'toc';
    var mod_idx = $('#' + col + 'mod').val();
-   var paper = colpaper_map[col_id];
+   var paper = colpaper_map[col];
    var paper_num = paper.replace(/0*(..*)/,'$1'); /* strip the leading zeros */
    $(this).load('text/' + mod_idx + '/p' + paper + '.html');
    $(toc_id).load('text/' + mod_idx + '/toc.html', function() {
       var toc = $(this).find('.toc');
       toc.bonsai();
       $('#' + col + 'title').html(toc.find('.U' + paper_num + '_0_1').html());
-      if (active_column_id == col_id) $(toc_id).removeClass('hidden');
+      if (active_column == col) $(toc_id).removeClass('hidden');
       /* XXX: the following code is executed three times, but if we use deferred functions we could run it only once */
       if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
    });
@@ -118,20 +117,19 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   var href = $(this).attr('href');
   var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var paper = ("000" + paper_num).slice(-3);
-  var col = active_column_id;
-  var coltxt = '#' + col + 'txt';
-  if (colpaper_map[active_column_id] != paper) { /* need to load a different paper */
-     var mod_idx = $('#' + col + 'mod').val();
+  var coltxt = '#' + active_col + 'txt';
+  if (colpaper_map[active_column] != paper) { /* need to load a different paper */
+     var mod_idx = $('#' + active_col + 'mod').val();
      $(coltxt).load('text/' + mod_idx + '/p' + paper + '.html', function() {
-        var title = $('#' + col + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
-        $('#' + col + 'title').html(title);
-        colpaper_map[col] = paper;
+        var title = $('#' + active_col + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
+        $('#' + active_col + 'title').html(title);
+        colpaper_map[active_col] = paper;
         $(coltxt).scrollTo(href, delay);
      });
   } else {
      $(coltxt).scrollTo(href, delay);
   }
-  var colclass = $('.' + col);
+  var colclass = $('.' + active_col);
   if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
       colclass.removeClass('hidden');
       $('#max_width').click();
@@ -190,7 +188,7 @@ $('#themes').selectmenu({
 });
 
 $('#toc_expand_collapse').click(function(event) {
-    var toc_id = $('#' + active_column_id + 'toc').find('.toc');
+    var toc_id = $('#' + active_column + 'toc').find('.toc');
     $(toc_id).find('li.expanded').length != 0 ? $(toc_id).bonsai('collapseAll') : $(toc_id).bonsai('expandAll');
     $('#search_text').focus();
 });
@@ -223,8 +221,7 @@ $('#search').click(function(event) {
     var html = $('#search_text').val().trim(); /* may contain html tags */
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
     if (text) {
-       var col = active_column_id;
-       var mod_idx = $('#' + col + 'mod').val();
+       var mod_idx = $('#' + active_col + 'mod').val();
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic;
        var txtmod = text_map[mod_idx];
        $('#search_status').removeClass('ui-icon-search').addClass('ui-icon-refresh');
@@ -314,7 +311,7 @@ function getCookie(name) {
 
 function toggle_active_column(column) {
    $('.' + column).toggleClass('hidden');
-   if (active_column_id == column) {
+   if (active_column == column) {
       var newcol = $('.txthdr').not('.hidden').first().attr('id');
       if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
    }
