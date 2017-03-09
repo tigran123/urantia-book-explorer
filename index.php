@@ -60,12 +60,12 @@ echo "<div id='tabs'>
 <div>
 <fieldset>
 <legend>$EXPLORER_PANEL</legend>
-<button class='buttons colsw' type='button' id='col0rad' title='$SHOW_HIDE_TOC'><span class='ui-icon ui-icon-lightbulb'></span></button>
+<button class='buttons colsw' type='button' id='col0rad' title='$SHOW_HIDE_TOC'><span class='ui-icon ui-icon-bookmark'></span></button>
 <button class='buttons coltxtsw' type='button' id='col1rad' title='$SELECT_TEXT1'><span class='uxtra'>1</span></button>
 <button class='buttons coltxtsw' type='button' id='col2rad' title='$SELECT_TEXT2'><span class='uxtra'>2</span></button>
 <button class='buttons coltxtsw' type='button' id='col3rad' title='$SELECT_TEXT3'><span class='uxtra'>3</span></button>
 <button class='buttons colsw' type='button' id='col4rad' title='$SHOW_HIDE_SEARCH_RESULTS'><span class='ui-icon ui-icon-search'></span></button>
-<button class='buttons colsw' type='button' id='col5rad' title='$SHOW_HIDE_NOTES'><span class='ui-icon ui-icon-note'></span></button>
+<button class='buttons colsw' type='button' id='col5rad' title='$SHOW_HIDE_NOTES'><span class='ui-icon ui-icon-flag'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_height' title='$MAX_HEIGHT'><span class='ui-icon ui-icon-arrowthick-2-n-s'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_width' title='$MAX_WIDTH'><span class='ui-icon ui-icon-arrowthick-2-e-w'></span></button>
 <button class='buttons' type='button' id='help_button' title='$HELP_TOOLTIP'><span class='ui-icon ui-icon-help'></span></button>
@@ -93,7 +93,7 @@ echo "<div id='tabs'>
 </select>
 <button class='buttons' type='button' id='clear' title='$CLEAR_SEARCH_STRING'><span class='ui-icon ui-icon-close'></span></button>
 <input placeholder='$INPUT_SEARCH_STRING' type='text' autofocus id='search_text'>
-<button class='buttons' type='button' id='search' title='$START_SEARCH'><span class='ui-icon ui-icon-search' id='search_status'></span></button>
+<button class='buttons' type='button' id='search' title='$START_SEARCH'><span class='ui-icon ui-icon-arrowrefresh-1-n' id='search_status'></span></button>
 <button class='buttons' type='button' id='ic' title='$IGNORE_CASE'><span id='ic_lab'>a = A</span></button>
 </fieldset>
 </div>
