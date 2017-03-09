@@ -135,6 +135,7 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
       colclass.removeClass('hidden');
       $('#max_width').click();
+      $('#search_results').scrollTo(href, delay);
   }
 });
 
