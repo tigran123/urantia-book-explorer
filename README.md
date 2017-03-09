@@ -1,5 +1,9 @@
 # The Urantia Book Explorer Web Application
 
+NOTE: the default language for the application is Russian, but you can easily switch to English
+by going to the fifth tab that has a gear icon and the word "НАСТРОЙКИ" and then use the first
+selector to choose "English" instead of the default "русский".
+
 The Urantia Book Explorer (UBE) is expected to have the following features when completed:
 
 * Side-by-side comparison of multiple (ultimately ALL) translations of the Urantia Book with the English text.
