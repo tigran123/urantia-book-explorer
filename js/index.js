@@ -117,19 +117,19 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   var href = $(this).attr('href');
   var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var paper = ("000" + paper_num).slice(-3);
-  var coltxt = '#' + active_col + 'txt';
+  var coltxt = '#' + active_column + 'txt';
   if (colpaper_map[active_column] != paper) { /* need to load a different paper */
-     var mod_idx = $('#' + active_col + 'mod').val();
+     var mod_idx = $('#' + active_column + 'mod').val();
      $(coltxt).load('text/' + mod_idx + '/p' + paper + '.html', function() {
-        var title = $('#' + active_col + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
-        $('#' + active_col + 'title').html(title);
-        colpaper_map[active_col] = paper;
+        var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
+        $('#' + active_column + 'title').html(title);
+        colpaper_map[active_column] = paper;
         $(coltxt).scrollTo(href, delay);
      });
   } else {
      $(coltxt).scrollTo(href, delay);
   }
-  var colclass = $('.' + active_col);
+  var colclass = $('.' + active_column);
   if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
       colclass.removeClass('hidden');
       $('#max_width').click();
@@ -221,7 +221,7 @@ $('#search').click(function(event) {
     var html = $('#search_text').val().trim(); /* may contain html tags */
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
     if (text) {
-       var mod_idx = $('#' + active_col + 'mod').val();
+       var mod_idx = $('#' + active_column + 'mod').val();
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic;
        var txtmod = text_map[mod_idx];
        $('#search_status').removeClass('ui-icon-search').addClass('ui-icon-refresh');
