@@ -108,7 +108,7 @@ $('#animations').change(function() {
 });
 
 $('#help').draggable();
-$('#help_button').click(function(event) { $('#help').toggleClass('hidden'); });
+$('#help_button').click(function(event) { $('#help').toggleClass('hidden'); $('#search_text').focus();});
 $('#clear').click(function(event) { $('#search_text').val('').focus(); });
 
 $('.toc_container,#search_results').on('click', 'a', function(e) {
