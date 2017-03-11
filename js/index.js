@@ -224,16 +224,14 @@ $('#search').click(function(event) {
        var mod_idx = $('#' + active_column + 'mod').val();
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic;
        var txtmod = text_map[mod_idx];
-       $('#search_status').removeClass('ui-icon-arrowrefresh-1-n').addClass('ui-icon-refresh');
-       $('#search_text').addClass('loading');
-       $('#search_text').prop('disabled', true);
+       $('#search_text').addClass('loading').prop('disabled', true);
+       $('#search').button('disable');
        $.ajax({url: search_req, success: function(data) {
           var regflags = ic ? 'gi' : 'g';
           var colored = data.replace(new RegExp('(' + text + ')', regflags), '<span style="background-color:yellow;">$1</span>');
           $('#search_results').html(colored);
-          $('#search_status').removeClass('ui-icon-refresh').addClass('ui-icon-arrowrefresh-1-n');
-          $('#search_text').removeClass('loading');
-          $('#search_text').prop('disabled', false).focus();
+          $('#search_text').removeClass('loading').prop('disabled', false).focus();
+          $('#search').button('enable');
        }, dataType: "html"});
     }
 });
