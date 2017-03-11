@@ -76,10 +76,10 @@ echo "<div id='tabs'>
 <legend>$SEARCH_PANEL</legend>
 <select id='search_part' title='$SELECT_PARTS'>
   <option value=0>$ALL_PARTS</option>
-  <option value=1>$PART_I_ONLY</option>
-  <option value=2>$PART_II_ONLY</option>
-  <option value=3>$PART_III_ONLY</option>
-  <option value=4>$PART_IV_ONLY</option>
+  <option value=1>$PART_I</option>
+  <option value=2>$PART_II</option>
+  <option value=3>$PART_III</option>
+  <option value=4>$PART_IV</option>
 </select>
 <select id='search_mode' title='$SEARCH_MODE'>
   <option value=0>$EXACT</option>
