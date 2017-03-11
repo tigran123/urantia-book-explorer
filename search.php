@@ -32,12 +32,17 @@ if ($text) {
          $ic_max = 196;
          break;
    }
+   $clean_pattern = ['/<\/?em>/'];
+   $clean_replace = [''];
    $pattern = "/" . $text . "/";
    if ($ic) $pattern .= "i";
    for ($i = $ic_min; $i <= $ic_max; $i++) {
       $filename = sprintf("text/" . $mod_idx . "/p%03d.html", $i);
       $lines = file($filename);
-      foreach($lines as $line) if (preg_match($pattern, $line)) echo $line;
+      foreach($lines as $line) {
+         $clean_line = preg_replace($clean_pattern, $clean_replace, $line);
+         if (preg_match($pattern, $clean_line)) echo $line;
+      }
    }
 }
 ?>
