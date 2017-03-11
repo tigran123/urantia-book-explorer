@@ -223,7 +223,6 @@ $('#search').click(function(event) {
     if (text) {
        var mod_idx = $('#' + active_column + 'mod').val();
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic;
-       var txtmod = text_map[mod_idx];
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, success: function(data) {
