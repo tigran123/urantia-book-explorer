@@ -221,9 +221,7 @@ $('#search').click(function(event) {
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, success: function(data) {
-          var regflags = ic ? 'gi' : 'g';
-          var colored = data.replace(new RegExp('(' + text + ')', regflags), '<span style="background-color:yellow;">$1</span>');
-          $('#search_results').html(colored);
+          $('#search_results').html(data);
           $('#search_text').removeClass('loading').prop('disabled', false).focus();
           $('#search').button('enable');
        }, dataType: "html"});
