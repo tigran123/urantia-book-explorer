@@ -215,9 +215,9 @@ $('#search').click(function(event) {
     var html = $('#search_text').val().trim(); /* may contain html tags */
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
     if (text) {
-       var mod_idx = $('#' + active_column + 'mod').val();
-       var search_part = $('#search_part').val();
-       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + "&search_part=" + search_part;
+       var mod_idx = '&mod_idx=' + $('#' + active_column + 'mod').val();
+       var search_part = '&search_part=' + $('#search_part').val();
+       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + mod_idx + "&ic=" + ic + search_part;
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, success: function(data) {
