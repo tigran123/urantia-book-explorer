@@ -28,7 +28,7 @@ if ($text) {
          $i_max = 196;
          break;
    }
-   $pattern = '/(' . preg_replace('/\b(\w+)\b/u', '(<em>)?$1(<\/em>)?', $text) . ')/';
+   $pattern = '/(' . preg_replace('/\b(\w+)\b/u', '(<em>)?$1(<\/em>)?', $text) . ')/u';
    if ($ic) $pattern .= 'i';
    $replace = '<span style="background-color:yellow;">$1</span>';
    for ($i = $i_min; $i <= $i_max; $i++) {
