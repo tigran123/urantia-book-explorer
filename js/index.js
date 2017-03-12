@@ -14,12 +14,6 @@ var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public
 var text_options = '';
 $.each(text_map, function(idx, item) { text_options += '<option value=' + idx + ' title="' + info_map[idx] + '">' + text_map[idx] + '</option>'; });
 
-$.extend($.expr[':'], { /* case-insensitive version of :contains() */
-  'containsic': function(elem, i, match, array) {
-    return (elem.textContent || elem.innerText || '').toLowerCase().indexOf((match[3] || "").toLowerCase()) >= 0;
-  }
-});
-
 $('.buttons').button();
 $('#tabs').tabs();
 $('#tabs').on('click', 'a', function(e) { if (e.target.id == '#forum') location.href = e.target.href; });
