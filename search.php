@@ -28,7 +28,8 @@ if ($text) {
          $i_max = 196;
          break;
    }
-   $pattern = '/(' . preg_replace('/\b(\w+)\b/u', '(<em>)?$1(<\/em>)?', $text) . ')/u';
+   $pattern = '/(' . preg_replace('/\b(\w+)\b/u', '(<em>)?[.,;"«!?(–-]?\s?$1[.,;"»!?)–-]?\s?(<\\\\/em>)?', $text) . ')/u'; //здесь – и - это разные тире: первое длинное, второе короткое
+   $pattern = preg_replace('/\[\.,;"«!\?\(–-\]\?\\\\s\?/u', '', $pattern, 1); //убираем первое вхождение, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
    if ($ic) $pattern .= 'i';
    $replace = '<span style="background-color:yellow;">$1</span>';
    for ($i = $i_min; $i <= $i_max; $i++) {
