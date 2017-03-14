@@ -214,9 +214,20 @@ $('#max_height').click(function(event) {
 });
 
 $('#max_width').click(function(event) {
-    var ncolumns = $('.headers').not('.hidden').length;
-    var column_width = $(window).width()/ncolumns;
-    $('.headers,.toc_container,#search_results').width(column_width);
+    var $visible = $('.headers').not('.hidden');
+    var ncolumns = $visible.length;
+    if (ncolumns > 0) {
+       var toc_max_width = 280; /* pixels. Increase this for a wider TOC column */
+       var total_width = $(window).width();
+       var column_width = total_width/ncolumns;
+       var toc_column_width = column_width;
+       if (!$('#col0hdr').hasClass('hidden') && column_width > toc_max_width) {
+          toc_column_width = toc_max_width;
+          if (ncolumns > 1) column_width = (total_width - toc_max_width)/(ncolumns - 1);
+       }
+       $visible.width(column_width);
+       $('.toc_container,#col0hdr').width(toc_column_width);
+    }
     $('#search_text').focus();
 });
 
