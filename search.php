@@ -42,8 +42,7 @@ if ($text) {
    $replace = '<span style="background-color:yellow;">$1</span>';
    for ($i = $i_min; $i <= $i_max; $i++) {
       $filename = sprintf("text/" . $mod_idx . "/p%03d.html", $i);
-      $lines = file($filename);
-      $matched_lines = preg_filter($pattern, $replace, $lines, -1, $count);
+      $matched_lines = preg_filter($pattern, $replace, file($filename));
       foreach($matched_lines as $line) echo $line;
    }
 }
