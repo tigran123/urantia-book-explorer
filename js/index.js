@@ -22,7 +22,7 @@ $('#tabs').on('click', 'a', function(e) {
          $('#search_text').focus();
          break;
       case 'forum':
-         location.href = e.target.href; 
+         location.href = e.target.href;
    }
 });
 
