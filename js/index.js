@@ -84,7 +84,7 @@ $('.coltxt').each(function() {
 });
 
 $('#search_part').selectmenu({width: 120});
-$('#search_mode').selectmenu({width: 130});
+$('#search_mode').selectmenu({width: 140});
 $('#search_range').selectmenu({width: 180});
 $(document).tooltip({ content: function () { return this.getAttribute("title"); }, }); /* this enables html in tooltips */
 $('#tooltips').change(function() {
