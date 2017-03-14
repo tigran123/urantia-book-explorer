@@ -43,11 +43,8 @@ if ($text) {
    for ($i = $i_min; $i <= $i_max; $i++) {
       $filename = sprintf("text/" . $mod_idx . "/p%03d.html", $i);
       $lines = file($filename);
-      foreach($lines as $line) {
-         $count = 0;
-         $matched_line = preg_replace($pattern, $replace, $line, -1, $count);
-         if ($count > 0) echo $matched_line;
-      }
+      $matched_lines = preg_filter($pattern, $replace, $lines, -1, $count);
+      foreach($matched_lines as $line) echo $line;
    }
 }
 ?>
