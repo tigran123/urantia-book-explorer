@@ -214,7 +214,7 @@ $('#max_height').click(function(event) {
 $('#max_width').click(function(event) {
     var ncolumns = $('.headers').not('.hidden').length;
     var column_width = $(window).width()/ncolumns;
-    $('.headers,.toc_container,#search_results').width(column_width);
+    $('.headers').width(column_width);
     $('#search_text').focus();
 });
 
