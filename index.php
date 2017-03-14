@@ -34,12 +34,12 @@ echo $htmlhead;
 
 echo "<div id='tabs'>
    <ul id='tabs_top'>
-      <li><a href='#tab_home'><span class='ui-icon ui-icon-home'></span> $HOME</a></li>
-      <li><a href='#tab_quiz'><span class='ui-icon ui-icon-script'></span> $QUIZ</a></li>
-      <li><a href='forum/' id='#forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li>
-      <li><a href='#tab_user'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li>
-      <li><a href='#tab_settings'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
-      <li><a href='#tab_contact'><span class='ui-icon ui-icon-comment'></span> $CONTACT</a></li>
+      <li><a href='#tab_home' title='$HOME_HELP'><span class='ui-icon ui-icon-home'></span> $HOME</a></li>
+      <li><a href='#tab_quiz' title='$QUIZ_HELP'><span class='ui-icon ui-icon-script'></span> $QUIZ</a></li>
+      <li><a href='forum/' title='$FORUM_HELP' id='#forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li>
+      <li><a href='#tab_user' title='$USER_HELP'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li>
+      <li><a href='#tab_settings' title='$SETTINGS_HELP'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
+      <li><a href='#tab_contact' title='$CONTACT_HELP'><span class='ui-icon ui-icon-comment'></span> $CONTACT</a></li>
    </ul>
 
 <div id='tab_home'>
