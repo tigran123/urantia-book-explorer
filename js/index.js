@@ -83,9 +83,10 @@ $('.coltxt').each(function() {
    });
 });
 
-$('#search_part').selectmenu({width: 120});
-$('#search_mode').selectmenu({width: 140});
-$('#search_range').selectmenu({width: 180});
+$('#search_part').selectmenu({change: function() { $('#search_text').focus(); }, width: 120});
+$('#search_mode').selectmenu({change: function() { $('#search_text').focus(); }, width: 140});
+$('#search_range').selectmenu({change: function() { $('#search_text').focus(); }, width: 180});
+
 $(document).tooltip({ content: function () { return this.getAttribute("title"); }, }); /* this enables html in tooltips */
 $('#tooltips').change(function() {
     if ($(this).is(':checked')) {
