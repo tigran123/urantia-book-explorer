@@ -16,7 +16,15 @@ $.each(text_map, function(idx, item) { text_options += '<option value=' + idx + 
 
 $('.buttons').button();
 $('#tabs').tabs();
-$('#tabs').on('click', 'a', function(e) { if (e.target.id == '#forum') location.href = e.target.href; });
+$('#tabs').on('click', 'a', function(e) {
+   switch(e.target.id) {
+      case 'home':
+         $('#search_text').focus();
+         break;
+      case 'forum':
+         location.href = e.target.href; 
+   }
+});
 
 $('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
 
