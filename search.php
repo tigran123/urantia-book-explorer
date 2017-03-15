@@ -35,21 +35,28 @@ if ($text) {
 
    //Заменяем все слова в строке поиска на обрамленные в тэг <em> и возможные знаки препинания
    //здесь – и - это разные тире: первое длинное, второе короткое
-   $pattern = ['/(' . preg_replace('/\b(\w+)\b/u', '(<em>)?[.,;“"«!?(–-]?\s?$1\s?[.,;’”"»!?)–-]?\s?(<\/em>)?', $text) . ')/u', '/^<h4>.*/'];
+   $text = preg_replace('/\b(\w+)\b/u', '(<em>)?[.,;“"«!?(–-]?\s?$1\s?[.,;’”"»!?)–-]?\s?(<\/em>)?', $text);
    //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
-   $pattern[0] = preg_replace('/\[\.,;“"«!\?\(–-\]\?\\\\s\?/u', '', $pattern[0], 1);
+   $text = preg_replace('/\[\.,;“"«!\?\(–-\]\?\\\\s\?/u', '', $text, 1);
+   $text_pattern = '/^(<p>.*)(' . $text . ')/u';
+   $toc_pattern = '/(' . $text . ')/u';
 
-   if ($ic) $pattern[0] .= 'i';
+   if ($ic) {
+      $toc_pattern .= 'i';
+      $text_pattern .= 'i';
+   }
+
    $textdir = "text/" . $mod_idx;
-   $replace = ['<span style="background-color:yellow;">$1</span>', ''];
+   $text_replace = '$1<span style="background-color:yellow;">$2</span>';
+   $toc_replace = '<span style="background-color:yellow;">$1</span>';
    if ($search_range > 0) {
-      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
+      $matched_lines = preg_filter($toc_pattern, $toc_replace, file($textdir . "/toc.html"));
       foreach($matched_lines as $line) echo $line;
    }
    if ($search_range != 2) {
       for ($i = $i_min; $i <= $i_max; $i++) {
          $filename = sprintf($textdir . "/p%03d.html", $i);
-         $matched_lines = preg_filter($pattern, $replace, file($filename));
+         $matched_lines = preg_filter($text_pattern, $text_replace, file($filename));
          foreach($matched_lines as $line) echo $line;
       }
    }
