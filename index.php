@@ -35,7 +35,7 @@ echo $htmlhead;
 echo "<div id='tabs'>
    <ul id='tabs_top'>
       <li><a href='#tab_home' title='$HOME_HELP' id='home'><span class='ui-icon ui-icon-home'></span> $HOME</a></li>
-      <li><a href='#tab_quiz' title='$QUIZ_HELP'><span class='ui-icon ui-icon-script'></span> $QUIZ</a></li>
+      <li><a href='http://cosmic-citizenship.appspot.com/quiz/tpplIrLnZOgwcG4Ufu21-DQ' title='$QUIZ_HELP' id='quiz'><span class='ui-icon ui-icon-script'></span> $QUIZ</a></li>
       <li><a href='forum/' title='$FORUM_HELP' id='forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li>
       <li><a href='#tab_user' title='$USER_HELP'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li>
       <li><a href='#tab_settings' title='$SETTINGS_HELP'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
@@ -87,8 +87,8 @@ echo "<div id='tabs'>
   <option value=2>$ANY_WORD</option>
 </select>
 <select id='search_range' title='$SEARCH_RANGE'>
-  <option value=0>$TEXT_PLUS_TITLES</option>
-  <option value=1>$TEXT_ONLY</option>
+  <option value=0>$TEXT_ONLY</option>
+  <option value=1>$TEXT_PLUS_TITLES</option>
   <option value=2>$TITLES_ONLY</option>
 </select>
 <button class='buttons' type='button' id='clear' title='$CLEAR_SEARCH_STRING'><span class='ui-icon ui-icon-close'></span></button>
@@ -177,11 +177,6 @@ echo "<div id='tabs'>
 </tr>
 </table>
 </div> <!-- tab_home -->
-
-<div id='tab_quiz'>
-<h1>Welcome to the Quiz!</h1>
-<p>The quiz code will go here</p>
-</div>
 
 <div id='tab_user'>
 <fieldset><legend>$USER_CONTROLS</legend>
