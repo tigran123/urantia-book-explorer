@@ -51,7 +51,7 @@ echo "<div id='tabs'>
 <tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_CONTROL_PANEL</td><td class='key'>Ctrl + Shift 1/2/3</td><td>$SELECT_TEXT123</td></tr>
 <tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 4</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
 <tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_NOTES</td></tr>
-<tr><td class='key'>Ctrl + V</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
+<tr><td class='key'>Ctrl + M</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
 </table>
 </div>
