@@ -22,6 +22,7 @@ $('#tabs').on('click', 'a', function(e) {
          $('#search_text').focus();
          break;
       case 'forum':
+      case 'quiz':
          location.href = e.target.href;
    }
 });
@@ -239,7 +240,8 @@ $('#search').click(function(event) {
     if (text) {
        var mod_idx = '&mod_idx=' + $('#' + active_column + 'mod').val();
        var search_part = '&search_part=' + $('#search_part').val();
-       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + mod_idx + "&ic=" + ic + search_part;
+       var search_range = '&search_range=' + $('#search_range').val();
+       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + mod_idx + "&ic=" + ic + search_part + search_range;
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, success: function(data) {
