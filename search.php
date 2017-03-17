@@ -38,27 +38,26 @@ if ($text) {
    $text = preg_replace('/\b(\w+)\b/u', '(<em>)?[.,;“"«!?(–-]?\s?$1\s?[.,;’”"»!?)–-]?\s?(<\/em>)?', $text);
    //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
    $text = preg_replace('/\[\.,;“"«!\?\(–-\]\?\\\\s\?/u', '', $text, 1);
-   $text_pattern = '/^(<p><a class="U[0-9]{1,3}_[0-9]{1,2}_[0-9]{1,3}" href="\.U[0-9]{1,3}_[0-9]{1,2}_[0-9]{1,3}"><sup>.*)(' . $text . ')/u';
-   $toc_pattern = '/(' . $text . ')/u';
-
-   if ($ic) {
-      $toc_pattern .= 'i';
-      $text_pattern .= 'i';
-   }
-
+   $pattern = '/(' . $text . ')/u';
+   if ($ic) $pattern .= 'i';
    $textdir = "text/" . $mod_idx;
-   $text_replace = '$1<span style="background-color:yellow;">$2</span>';
-   $toc_replace = '<span style="background-color:yellow;">$1</span>';
+   $replace = '<span style="background-color:yellow;">$1</span>';
    if ($search_range > 0) {
-      $matched_lines = preg_filter($toc_pattern, $toc_replace, file($textdir . "/toc.html"));
+      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
       foreach($matched_lines as $line) echo $line;
    }
+   $time_start = microtime(true);
    if ($search_range != 2) {
       for ($i = $i_min; $i <= $i_max; $i++) {
          $filename = sprintf($textdir . "/p%03d.html", $i);
-         $matched_lines = preg_filter($text_pattern, $text_replace, file($filename));
-         foreach($matched_lines as $line) echo $line;
+         $matched_lines = preg_filter($pattern, $replace, file($filename));
+         foreach($matched_lines as $line) {
+            $count = 0;
+            str_replace("<h4>", "", $line, $count);
+            if ($count ==0) echo $line;
+         }
       }
    }
+   echo "<p>" . sprintf("%.4fs",microtime(true) - $time_start);
 }
 ?>
