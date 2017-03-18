@@ -21,10 +21,12 @@ li .thumb {
 
 li.has-children > .thumb:after {
   content: '▸';
+  font-size: 1.5em;
 }
 
 li.has-children.expanded > .thumb:after {
   content: '▾';
+  font-size: 1.5em;
 }
 
 li.collapsed > ol.bonsai {
