@@ -43,9 +43,14 @@ if ($text) {
    $textdir = "text/" . $mod_idx;
    $replace = '<span style="background-color:yellow;">$1</span>';
    $time_start = microtime(true);
+   $matches = [];
+   $total = 0;
    if ($search_range > 0) {
       $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
-      foreach($matched_lines as $line) echo $line;
+      foreach($matched_lines as $line) {
+         $matches[] = $line;
+         $total++;
+      }
    }
    if ($search_range != 2) {
       for ($i = $i_min; $i <= $i_max; $i++) {
@@ -54,10 +59,16 @@ if ($text) {
          foreach($matched_lines as $line) {
             $count = 0;
             str_replace("<h4>", "", $line, $count);
-            if ($count ==0) echo $line;
+            if ($count ==0) {
+               $matches[] = $line;
+               $total++;
+            }
          }
       }
    }
-   echo "<p>" . sprintf("%.4fs",microtime(true) - $time_start);
+   $matches[] = sprintf("%.4f seconds", microtime(true) - $time_start);
+   $json = ['total' => $total, 'matches' => $matches];
+   echo json_encode($json);
+   flush();
 }
 ?>

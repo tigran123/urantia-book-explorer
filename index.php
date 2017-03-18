@@ -152,7 +152,7 @@ echo "<div id='tabs'>
     <div class='coltitle' id='col3title'></div>
   </th>
   <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>
-    $SEARCH_RESULTS
+    $SEARCH_RESULTS<span id='search_total'></span>
     <a href='javascript:void(0)' class='colclose' id='col4close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>

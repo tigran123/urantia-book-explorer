@@ -244,8 +244,10 @@ $('#search').click(function(event) {
        var search_req = "search.php" + "?text=" + encodeURIComponent(text) + mod_idx + "&ic=" + ic + search_part + search_range;
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
-       $.ajax({url: search_req, success: function(data) {
-          $('#search_results').html(data);
+       $.ajax({url: search_req, dataType: 'json', success: function(data) {
+          var json = JSON.parse(data);
+          $('#search_results').html(json.matches);
+          $('#search_total').html('&nbsp;(' + json.total + ')');
           $('#search_text').removeClass('loading').prop('disabled', false).focus();
           $('#search').button('enable');
        }, dataType: "html"});
