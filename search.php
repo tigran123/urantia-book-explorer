@@ -1,4 +1,5 @@
 <?php
+ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
 $text = isset($_GET['text']) ?  $_GET['text'] : '';
@@ -74,7 +75,7 @@ if ($text) {
    $total = 0;
    if ($search_range > 0) {
       $replace = '<span style="background-color:yellow;">$1</span>';
-      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html")); //это надо всё равно переделать.... поэтому пока не заменил.
+      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
       foreach($matched_lines as $line) {
          $matches[] = $line;
          $total++;
@@ -101,8 +102,9 @@ if ($text) {
    echo json_encode($json);
    flush();
 }
-function text_replace($matches)
+
 //формируем разную строку замены в зависимости от того, попал ли в результат тэг </em>
+function text_replace($matches)
 {
   if (stristr($matches[1],'</em>')<>false && stristr($matches[1],'<em>')==false) {
 	$replace='</em><span style="background-color:yellow;"><em>'.$matches[1].'</span>'.$matches[2];
