@@ -74,7 +74,7 @@ if ($text) {
    $total = 0;
    if ($search_range > 0) {
       $replace = '<span style="background-color:yellow;">$1</span>';
-      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html")); //это надо всЄ равно переделать.... поэтому пока не заменил.
+      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html")); //это надо всё равно переделать.... поэтому пока не заменил.
       foreach($matched_lines as $line) {
          $matches[] = $line;
          $total++;
