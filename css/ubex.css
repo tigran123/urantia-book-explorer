@@ -1,5 +1,5 @@
 body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-serif; margin:0;}
-.ui-widget { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, sans-serif; font-size: 14px; }
+.ui-widget { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, sans-serif; font-size: 13px; }
 .hidden {display: none;}
 .ui-tabs .ui-tabs-panel { padding: 0.7em 0em 0.5em 0em; }
 .loading { background: white url('../img/ui-anim_basic_16x16.gif') right center no-repeat; }
@@ -38,7 +38,13 @@ legend { font-weight: bold; }
 .uxtra { font-size: 15px; }
 #radioset { padding-right: 10px; }
 
-.headers { border: solid darkgrey 2px; white-space: nowrap; padding-top: 12px; position: relative; }
+.headers {
+   border: solid darkgrey 2px;
+   white-space: nowrap;
+   padding-top: 12px;
+   position: relative;
+}
+
 .col0,#col0rad { color: black; background: #f4f4ed; }
 .col1,#col1rad { color: black; background: #fffae6; }
 .col2,#col2rad { color: black; background: #e6fdeb; }
@@ -53,11 +59,22 @@ legend { font-weight: bold; }
 }
 
 .coltxt h4,#search_results h4 { text-align: center; text-transform: uppercase; font-family: 'Arial Narrow', Arial; }
-.coltxt sup,#search_results sup { font-family: 'Arial Narrow', Arial; font-size: 0.7em; font-weight: bold; color: blue; vertical-align: text-top;}
-.coltitle { padding-top: 10px; font-size: 11px; }
-.container div { float: left; }
+.coltxt sup,#search_results sup {
+   font-family: 'Arial Narrow', Arial;
+   font-size: 0.7em;
+   font-weight: bold;
+   color: blue;
+   vertical-align: text-top;
+}
 
-.coltitle { padding: 5px; text-transform: uppercase;}
+.coltitle {
+   font-family: 'Arial Narrow', Arial;
+   padding: 5px;
+   font-size: 14px;
+   text-transform: uppercase;
+}
+
+.container div { float: left; }
 
 .coltxt {
    overflow-y: scroll;

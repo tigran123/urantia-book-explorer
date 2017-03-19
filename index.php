@@ -104,7 +104,7 @@ echo "<div id='tabs'>
     <button class='buttons' type='button' id='toc_expand_collapse' title='$EXPAND_COLLAPSE'>
       <span class='ui-icon ui-icon-arrow-4-diag'></span>
     </button>
-    <span id='col0title'>$CONTENTS</span>
+    <span class='coltitle' id='col0title'>$CONTENTS</span>
     <a href='javascript:void(0)' class='colclose' id='col0close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
@@ -152,13 +152,13 @@ echo "<div id='tabs'>
     <div class='coltitle' id='col3title'></div>
   </th>
   <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>
-    $SEARCH_RESULTS<span id='search_total'></span>
+    <span class='coltitle' id='col4title'>$SEARCH_RESULTS</span><span id='search_total'></span>
     <a href='javascript:void(0)' class='colclose' id='col4close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
   </th>
   <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
-    $NOTES
+    <span class='coltitle' id='col5title'>$NOTES</span>
     <a href='javascript:void(0)' class='colclose' id='col5close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
