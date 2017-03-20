@@ -104,8 +104,8 @@ if ($text) {
 
 //формируем разную строку замены в зависимости от того, попал ли в результат тэг </em>
 function text_replace($matches){
-  if (stristr($matches[1],'</em>')<>false && stristr($matches[1],'<em>')==false) 
-    return $replace='</em><span style="background-color:yellow;"><em>'.$matches[1].'</span>'.$matches[2];
+  if (stristr($matches[1],'</em>')<>false && stristr($matches[1],'<em>')==false)
+     return $replace='</em><span style="background-color:yellow;"><em>'.$matches[1].'</span>'.$matches[2];
   else
      return $replace='<span style="background-color:yellow;">'.$matches[1].'</span>'.$matches[2];
 }
