@@ -6,7 +6,7 @@ $text = isset($_GET['text']) ?  $_GET['text'] : '';
 $text = preg_replace('/[\/<>()\[\]]/u','', $text); //экранируем текст запроса
 $matches = [];
 $total = 0;
-if ($text!=null) {
+if ($text) {
    $mod_idx = isset($_GET['mod_idx']) ?  $_GET['mod_idx'] : 0;
    $ic = isset($_GET['ic']) ?  $_GET['ic'] : 1;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
