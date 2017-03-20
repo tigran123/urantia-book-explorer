@@ -1,7 +1,9 @@
 <?php
+ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
 $text = isset($_GET['text']) ?  $_GET['text'] : '';
+$text = preg_replace('/[\/<>()\[\]]/u','', $text); //экранируем текст запроса
 if ($text) {
    $mod_idx = isset($_GET['mod_idx']) ?  $_GET['mod_idx'] : 0;
    $ic = isset($_GET['ic']) ?  $_GET['ic'] : 1;
@@ -28,24 +30,51 @@ if ($text) {
          $i_max = 196;
          break;
    }
+   $sign_before   ='[.,;“"«„!?(—–-]?\s?'; //здесь —, – и - это разные тире: первое очень длинное, второе длинное и последнее - короткое
+   $sign_after    ='\s?[.,;’”"»“!?)—–-]*?\s?';
+   $_em           = '(?:<\/em>)?';
+
+   //в поиске реализованы спецсимволы-маски:
+   //* - любое количество букв (от нуля и больше)
+   //+ - любое количество букв (от единицы и больше)
+   //цифры ищутся только по тексту (номер параграфа исключается)
+
+   $search = ["/([.?])/u",                       //Экранируем точку и вопрос, и возможно обрамленные тегом
+              "/([,;!—–-]|[^?]:)/u",             //Заменяем знаки препинания на возможно обрамленные тегом. Отдельно выделил : с предпроверкой НЕ впередистоящего ?
+              "/([^\w])-/u",                     //Заменяем минус на символ длинного тире
+              "/\'/u",                           //Заменяем одиночную кавычку на символ апострофа
+              "/\*/u",                           //Заменяем символ * на спецстроку
+              "/\+/u",                           //Заменяем символ + на спецстроку
+              "/([*+]?\b(?!\w+>)\w+\b[*+]?)/u",  //Заменяем все слова в строке поиска, в том числе с маской *, на обрамленные в тэг <em> и возможные знаки препинания
+              "/zzzz/u",                         //заменяем спецстроку на любое количество словесных символов
+              "/pppp/u"];                        //заменяем спецстроку на любое количество словесных символов, как минимум один
+
+   $replace = ["\\\\$1".$_em,
+               "$1".$_em,
+               "$1(?:[—–])",
+               "’?".$_em,
+               "zzzz",
+               "pppp",
+               "(?:<em>)?".$sign_before."\b$1\b".$sign_after.$_em,
+               "\\\\w*",
+               "\\\\w+"];
+   $pattern = '(' . preg_replace ($search, $replace, $text) . ')';
+
    $search_range = isset($_GET['search_range']) ?  $_GET['search_range'] : 0;
-
-   //Заменяем все знаки препинания на возможно обрамленные тегом, а одиночную кавычку на символ апострофа
-   $text = preg_replace(['/([.?])/u', '/([,;:!–-])/u', '/(\')/u'], ['\\\\$1(<\/em>)?', '$1(<\/em>)?', '’(<\/em>)?'], $text);
-
-   //Заменяем все слова в строке поиска на обрамленные в тэг <em> и возможные знаки препинания
-   //здесь – и - это разные тире: первое длинное, второе короткое
-   $text = preg_replace('/\b(\w+)\b/u', '(<em>)?[.,;“"«!?(–-]?\s?$1\s?[.,;’”"»!?)–-]?\s?(<\/em>)?', $text);
    //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
-   $text = preg_replace('/\[\.,;“"«!\?\(–-\]\?\\\\s\?/u', '', $text, 1);
-   $pattern = '/(' . $text . ')/u';
+   $pattern = preg_replace('/\[\.,;“"«„!\?\(—–-\]\?\\\\s\?/u', '', $pattern, 1);
+   //убираем последнее вхождение знаков, чтобы не выделялись завершающие пробелы, запятые и пр. символы...
+
+   $pattern = str_replace($sign_after.$_em.')',')('.$sign_after.$_em.')', $pattern);//переставляем скобку левее
+   $pattern = '/' . $pattern . '/u';
+
    if ($ic) $pattern .= 'i';
    $textdir = "text/" . $mod_idx;
-   $replace = '<span style="background-color:yellow;">$1</span>';
    $time_start = microtime(true);
    $matches = [];
    $total = 0;
    if ($search_range > 0) {
+      $replace = '<span style="background-color:yellow;">$1</span>';
       $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
       foreach($matched_lines as $line) {
          $matches[] = $line;
@@ -55,12 +84,13 @@ if ($text) {
    if ($search_range != 2) {
       for ($i = $i_min; $i <= $i_max; $i++) {
          $filename = sprintf($textdir . "/p%03d.html", $i);
-         $matched_lines = preg_filter($pattern, $replace, file($filename));
-         foreach($matched_lines as $line) {
-            $count = 0;
-            str_replace("<h4>", "", $line, $count);
-            if ($count ==0) {
-               $matches[] = $line;
+         $lines = file($filename);
+         foreach($lines as $line) {
+            preg_match('/^.*?a>/u', $line, $number_of_item);
+            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line); //убираем заголовки и номера абзацев, чтобы в них не искало
+            $matched_line = preg_replace_callback ($pattern, 'text_replace', $line, -1, $count);
+            if ($count > 0) {
+               $matches[] = $number_of_item[0].$matched_line;
                $total++;
             }
          }
@@ -70,5 +100,13 @@ if ($text) {
    $json = ['total' => $total, 'matches' => $matches];
    echo json_encode($json);
    flush();
+}
+
+//формируем разную строку замены в зависимости от того, попал ли в результат тэг </em>
+function text_replace($matches){
+  if (stristr($matches[1],'</em>')<>false && stristr($matches[1],'<em>')==false)
+     return $replace='</em><span style="background-color:yellow;"><em>'.$matches[1].'</span>'.$matches[2];
+  else
+     return $replace='<span style="background-color:yellow;">'.$matches[1].'</span>'.$matches[2];
 }
 ?>
