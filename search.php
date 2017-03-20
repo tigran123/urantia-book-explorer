@@ -57,7 +57,7 @@ if ($text) {
                "’?".$_em,
                "zzddzz",
                "ppddpp",
-               "(?:<em>)?".$sign_before."\b$1\b".$sign_after.$_em,
+               "(?:<em>)?".$sign_before."(?<!<)\b$1\b(?!>)".$sign_after.$_em,
                "\\\\w*",
                "\\\\w+"];
    $pattern = '(' . preg_replace ($search, $replace, $text) . ')';
