@@ -11,7 +11,7 @@ body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-seri
 }
 
 .key { font-weight: bold; color: red; }
-.hit { font-family: 'Arial Narrow', Arial; color: darkred; }
+.hit { font-family: 'Arial Narrow', Arial; color: red; }
 
 #help {
   position: absolute;
