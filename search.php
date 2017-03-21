@@ -78,8 +78,8 @@ if (isset($text)) {
       $replace = '<span style="background-color:yellow;">$1</span>';
       $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
       foreach($matched_lines as $line) {
-         $matches[] = $line;
          $total++;
+         $matches[] = "<span class='hit'>[".$total."]&nbsp;</span>".$line;
       }
    }
    if ($search_range != 2) {
@@ -94,7 +94,7 @@ if (isset($text)) {
             if ($count > 0) {
                $total++;
                $matched_line = str_replace('<***>',$ref_a, $matched_line);//Возвращаем ссылку обратно
-               $matches[] = "<p>"."<span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
+               $matches[] = "<p><span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
             }
          }
       }
