@@ -3,10 +3,11 @@ ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
 $text = isset($_GET['text']) ?  $_GET['text'] : '';
-$text = preg_replace('/[\/<>()\[\]]/u','', $text); //экранируем текст запроса
 $matches = [];
 $total = 0;
-if ($text!=null) {
+$text = $_GET['text'];
+if (isset($text)) {
+   $text = preg_replace('/[\/<>()\[\]]/u','', $text); //экранируем текст запроса
    $mod_idx = isset($_GET['mod_idx']) ?  $_GET['mod_idx'] : 0;
    $ic = isset($_GET['ic']) ?  $_GET['ic'] : 1;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
@@ -48,8 +49,8 @@ if ($text!=null) {
               "/\*/u",                           //Заменяем символ * на спецстроку
               "/\+/u",                           //Заменяем символ + на спецстроку
               "/([*+]?\b(?!\w+>)\w+\b[*+]?)/u",  //Заменяем все слова в строке поиска, в том числе с маской *, на обрамленные в тэг <em> и возможные знаки препинания
-              "/zzddzz/u",                       //заменяем спецстроку на любое количество словесных символов
-              "/ppddpp/u"];                      //заменяем спецстроку на любое количество словесных символов, как минимум один
+              "/zzddzz/u",                       //Заменяем спецстроку на любое количество словесных символов
+              "/ppddpp/u"];                      //Заменяем спецстроку на любое количество словесных символов, как минимум один
 
    $replace = ["\\\\$1".$_em,
                "$1".$_em,
@@ -86,12 +87,12 @@ if ($text!=null) {
          $filename = sprintf($textdir . "/p%03d.html", $i);
          $lines = file($filename);
          foreach($lines as $line) {
-            preg_match('/^.*?a>/u', $line, $number_of_item);
-            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line); //убираем заголовки и номера абзацев, чтобы в них не искало
+            preg_match('/^<p>(.*?a>)/u', $line, $ref);
+            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line); //убираем заголовки и номера абзацев
             $matched_line = preg_replace_callback ($pattern, 'text_replace', $line, -1, $count);
             if ($count > 0) {
-               $matches[] = $number_of_item[0].$matched_line;
                $total++;
+               $matches[] = "<p>"."<span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
             }
          }
       }
@@ -103,8 +104,8 @@ echo json_encode($json);
 flush();
 
 //формируем разную строку замены в зависимости от того, попал ли в результат тэг </em>
-function text_replace($matches){
-  if (stristr($matches[1],'</em>')<>false && stristr($matches[1],'<em>')==false)
+function text_replace($matches) {
+  if (stristr($matches[1],'</em>') != false && stristr($matches[1],'<em>') == false)
      return $replace='</em><span style="background-color:yellow;"><em>'.$matches[1].'</span>'.$matches[2];
   else
      return $replace='<span style="background-color:yellow;">'.$matches[1].'</span>'.$matches[2];

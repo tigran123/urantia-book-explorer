@@ -10,7 +10,8 @@ body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-seri
    width: 250px;
 }
 
-.key { font-weight: bold; color: red; }
+.key { font-weight: bold; color: darkred; }
+.hit { font-family: 'Arial Narrow', Arial; color: red; }
 
 #help {
   position: absolute;
