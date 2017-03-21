@@ -4,7 +4,9 @@ header("Content-Type: text/html; charset=utf-8");
 
 $text = isset($_GET['text']) ?  $_GET['text'] : '';
 $text = preg_replace('/[\/<>()\[\]]/u','', $text); //экранируем текст запроса
-if ($text) {
+$matches = [];
+$total = 0;
+if ($text!=null) {
    $mod_idx = isset($_GET['mod_idx']) ?  $_GET['mod_idx'] : 0;
    $ic = isset($_GET['ic']) ?  $_GET['ic'] : 1;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
@@ -46,16 +48,16 @@ if ($text) {
               "/\*/u",                           //Заменяем символ * на спецстроку
               "/\+/u",                           //Заменяем символ + на спецстроку
               "/([*+]?\b(?!\w+>)\w+\b[*+]?)/u",  //Заменяем все слова в строке поиска, в том числе с маской *, на обрамленные в тэг <em> и возможные знаки препинания
-              "/zzzz/u",                         //заменяем спецстроку на любое количество словесных символов
-              "/pppp/u"];                        //заменяем спецстроку на любое количество словесных символов, как минимум один
+              "/zzddzz/u",                       //заменяем спецстроку на любое количество словесных символов
+              "/ppddpp/u"];                      //заменяем спецстроку на любое количество словесных символов, как минимум один
 
    $replace = ["\\\\$1".$_em,
                "$1".$_em,
                "$1(?:[—–])",
                "’?".$_em,
-               "zzzz",
-               "pppp",
-               "(?:<em>)?".$sign_before."\b$1\b".$sign_after.$_em,
+               "zzddzz",
+               "ppddpp",
+               "(?:<em>)?".$sign_before."(?<!<)\b$1\b(?!>)".$sign_after.$_em,
                "\\\\w*",
                "\\\\w+"];
    $pattern = '(' . preg_replace ($search, $replace, $text) . ')';
@@ -71,8 +73,6 @@ if ($text) {
    if ($ic) $pattern .= 'i';
    $textdir = "text/" . $mod_idx;
    $time_start = microtime(true);
-   $matches = [];
-   $total = 0;
    if ($search_range > 0) {
       $replace = '<span style="background-color:yellow;">$1</span>';
       $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
@@ -97,10 +97,10 @@ if ($text) {
       }
    }
    $matches[] = sprintf("%.4f seconds", microtime(true) - $time_start);
-   $json = ['total' => $total, 'matches' => $matches];
-   echo json_encode($json);
-   flush();
 }
+$json = ['total' => $total, 'matches' => $matches];
+echo json_encode($json);
+flush();
 
 //формируем разную строку замены в зависимости от того, попал ли в результат тэг </em>
 function text_replace($matches){
