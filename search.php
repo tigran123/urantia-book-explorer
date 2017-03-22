@@ -4,6 +4,7 @@ header("Content-Type: text/html; charset=utf-8");
 
 $matches = [];
 $total = 0;
+$total_count = 0;
 $text = $_GET['text'];
 if (isset($text)) {
    $mod_idx = isset($_GET['mod_idx']) ?  $_GET['mod_idx'] : 0;
@@ -44,6 +45,7 @@ if (isset($text)) {
          $matches[] = $line;
          $total++;
       }
+      $json = ['total' => $total, 'matches' => $matches];
    } else {
       $time_start = microtime(true);
       $text = preg_replace('/[\/<>()\[\]]/u','', $text); //экранируем текст запроса
@@ -97,6 +99,7 @@ if (isset($text)) {
                $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
                if ($count > 0) {
                   $total++;
+                  $total_count=$total_count+$count;
                   if($ref_a_match) $matched_line = str_replace('<***>',$ref_a[0], $matched_line); //Возвращаем ссылку обратно
                   $matches[] = "<p><span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
                }
@@ -104,10 +107,10 @@ if (isset($text)) {
          }
       }
       $matches[] = sprintf("%.4f seconds", microtime(true) - $time_start);
+      $json = ['total' => $total_count.' ['.$total.']', 'matches' => $matches];
    }
 }
 
-$json = ['total' => $total, 'matches' => $matches];
 echo json_encode($json);
 flush();
 
