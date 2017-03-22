@@ -75,8 +75,6 @@ if (isset($text)) {
 
       //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
       $pattern = preg_replace('/\[\.,;“"«„!\?\(—–-\]\?\\\\s\?/u', '', $pattern, 1);
-      //убираем последнее вхождение знаков, чтобы не выделялись завершающие пробелы, запятые и пр. символы...
-
       $pattern = str_replace($sign_after.$_em.')',')('.$sign_after.$_em.')', $pattern);//переставляем скобку левее
       $pattern = '/' . $pattern . '/u';
       if ($ic) $pattern .= 'i';
@@ -94,12 +92,12 @@ if (isset($text)) {
             $lines = file($filename);
             foreach($lines as $line) {
                preg_match('/^<p>(.*?a>)/u', $line, $ref);
-               preg_match('/<a.*?a>/u', $line, $ref_a);        //Запоминаем ссылку
-               $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a.*?a>/u'], ['','','<***>'], $line); //Убираем заголовки, номера абзацев и ссылки
+               $ref_a_match = preg_match('/<a\shref.*?a>/u', $line, $ref_a);        //Запоминаем ссылку
+               $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a\shref.*?a>/u'], ['','','<***>'], $line); //Убираем заголовки, номера абзацев и ссылки
                $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
                if ($count > 0) {
                   $total++;
-                  $matched_line = str_replace('<***>',$ref_a, $matched_line); //Возвращаем ссылку обратно
+                  if($ref_a_match) $matched_line = str_replace('<***>',$ref_a[0], $matched_line); //Возвращаем ссылку обратно
                   $matches[] = "<p><span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
                }
             }
