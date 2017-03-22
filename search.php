@@ -94,12 +94,12 @@ if (isset($text)) {
             $lines = file($filename);
             foreach($lines as $line) {
                preg_match('/^<p>(.*?a>)/u', $line, $ref);
-               preg_match('/<a.*?a>/u', $line, $ref_a);        //Запоминаем ссылку
-               $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a.*?a>/u'], ['','','<***>'], $line); //Убираем заголовки, номера абзацев и ссылки
+               preg_match('/[^>](<a.*?a>)/u', $line, $ref_a);        //Запоминаем ссылку
+               $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/([^>])<a.*?a>/u'], ['','','$1<***>'], $line); //Убираем заголовки, номера абзацев и ссылки
                $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
                if ($count > 0) {
                   $total++;
-                  $matched_line = str_replace('<***>',$ref_a, $matched_line); //Возвращаем ссылку обратно
+                  $matched_line = str_replace('<***>',$ref_a[1], $matched_line); //Возвращаем ссылку обратно
                   $matches[] = "<p><span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
                }
             }
