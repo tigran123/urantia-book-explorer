@@ -2,7 +2,6 @@
 ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
-$text = isset($_GET['text']) ?  $_GET['text'] : '';
 $matches = [];
 $total = 0;
 $text = $_GET['text'];
