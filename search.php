@@ -3,7 +3,8 @@ ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
 $matches = [];
-$total = 0;
+$par_count = 0;
+$match_count = 0;
 $text = $_GET['text'];
 if (isset($text)) {
    $mod_idx = isset($_GET['mod_idx']) ?  $_GET['mod_idx'] : 0;
@@ -42,7 +43,8 @@ if (isset($text)) {
       $matched_lines = preg_grep('/<sup>'.$ref[1].':'.$ref[2].'.'.$ref[3].'<\/sup>/u', file($filename));
       foreach($matched_lines as $line) {
          $matches[] = $line;
-         $total++;
+         $match_count++;
+         $par_count++;
       }
    } else {
       $time_start = microtime(true);
@@ -82,8 +84,9 @@ if (isset($text)) {
          $replace = '<span style="background-color:yellow;">$1</span>';
          $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
          foreach($matched_lines as $line) {
-            $total++;
-            $matches[] = "<span class='hit'>[".$total."]&nbsp;</span>".$line;
+            $par_count++;
+            $match_count++;
+            $matches[] = "<span class='hit'>[".$par_count."]&nbsp;</span>".$line;
          }
       }
       if ($search_range != 2) {
@@ -96,9 +99,10 @@ if (isset($text)) {
                $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a\shref.*?a>/u'], ['','','<***>'], $line); //Убираем заголовки, номера абзацев и ссылки
                $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
                if ($count > 0) {
-                  $total++;
+                  $par_count++;
                   if($ref_a_match) $matched_line = str_replace('<***>',$ref_a[0], $matched_line); //Возвращаем ссылку обратно
-                  $matches[] = "<p><span class='hit'>[".$total."]&nbsp;</span>".$ref[1].$matched_line;
+                  $matches[] = "<p><span class='hit'>[".$par_count."]&nbsp;</span>".$ref[1].$matched_line;
+                  $match_count += $count;
                }
             }
          }
@@ -107,7 +111,7 @@ if (isset($text)) {
    }
 }
 
-$json = ['total' => $total, 'matches' => $matches];
+$json = ['par_count' => $par_count, 'match_count' => $match_count, 'matches' => $matches];
 echo json_encode($json);
 flush();
 

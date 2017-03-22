@@ -247,7 +247,7 @@ $('#search').click(function(event) {
        $.ajax({url: search_req, dataType: 'json', success: function(data) {
           var json = JSON.parse(data);
           $('#search_results').html(json.matches);
-          $('#search_total').html('&nbsp;(' + json.total + ')');
+          $('#search_total').html('&nbsp;(' + json.match_count + '/' + json.par_count + ')');
           $('#search_text').removeClass('loading').prop('disabled', false).focus();
           $('#search').button('enable');
        }, dataType: "html"});
