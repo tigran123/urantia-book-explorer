@@ -251,7 +251,8 @@ $('#search').click(function(event) {
           $('#search_text').removeClass('loading').prop('disabled', false).focus();
           $('#search').button('enable');
        }, dataType: "html"});
-    }
+    } else
+      $('#clear').click();
 });
 
 $(document).keydown(function(event) {
