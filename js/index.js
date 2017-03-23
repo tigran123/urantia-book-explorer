@@ -4,12 +4,14 @@ var colpaper_map = { 'col1': '000', 'col2': '000', 'col3': '000' };
 var text_map = ['English: (SRT 0.20)',
                 'Русский: (UF 1997-1.9)',
                 'Български: (UF 2013-1.0)',
-                'Deutsch: (UF 2015-1)'];
+                'Deutsch: (UF 2015-1)',
+                'Русский: (UBSGNY 2015-1)'];
 
 var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain',
                 'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
                 'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation'];
+                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
+                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Book&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'];
 
 var text_options = '';
 $.each(text_map, function(idx, item) { text_options += '<option value=' + idx + ' title="' + info_map[idx] + '">' + text_map[idx] + '</option>'; });
@@ -68,7 +70,7 @@ $('.colmod').html(text_options).selectmenu({
       switch(+cnum) {
          case 1: mod_idx = 1; break;
          case 2: mod_idx = 0; break;
-         case 3: mod_idx = 3; break;
+         case 3: mod_idx = 4; break;
          default: mod_idx = 1; break;
       }
    }
