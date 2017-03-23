@@ -5,7 +5,7 @@ var text_map = ['English: (SRT 0.20)',
                 'Русский: (UF 1997-1.9)',
                 'Български: (UF 2013-1.0)',
                 'Deutsch: (UF 2015-1)',
-                'Русский: (UBSGNY 2015-1)'];
+                'Русский: (UBSGNY 2017-1)'];
 
 var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain',
                 'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
