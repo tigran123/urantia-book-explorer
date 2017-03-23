@@ -38,7 +38,7 @@ if (isset($text)) {
    $sign_after    ='\s?[.,;’”"»“!?)—–-]*?\s?';
    $_em           = '(?:<\/em>)?';
 
-   if (preg_match('/(\d{1,3}):(\d{1,2})\.(\d{1,3})/', $text, $ref)) { /* recognise SRT ref 'Paper:Section.Paragraph' */
+   if (preg_match('/(\d{1,3}):(\d{1,2})\.(\d{1,3})/', $text, $ref)) { //Recognise SRT ref 'Paper:Section.Paragraph'
       $filename = sprintf($textdir . "/p%03d.html", $ref[1]);
       $matched_lines = preg_grep('/<sup>'.$ref[1].':'.$ref[2].'.'.$ref[3].'<\/sup>/u', file($filename));
       foreach($matched_lines as $line) {
@@ -95,19 +95,20 @@ if (isset($text)) {
             $lines = file($filename);
             foreach($lines as $line) {
                preg_match('/^<p>(.*?a>)/u', $line, $ref);
-               $ref_a_match = preg_match('/<a\shref.*?a>/u', $line, $ref_a);        //Запоминаем ссылку
-               $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a\shref.*?a>/u'], ['','','<***>'], $line); //Убираем заголовки, номера абзацев и ссылки
+               $ref_a_match = preg_match('/<a\shref.*?a>/u', $line, $ref_a); //Запоминаем ссылку
+               //Убираем заголовки, номера абзацев и ссылки
+               $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a\shref.*?a>/u'], ['','','<***>'], $line);
                $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
                if ($count > 0) {
                   $par_count++;
                   if($ref_a_match) $matched_line = str_replace('<***>',$ref_a[0], $matched_line); //Возвращаем ссылку обратно
-                  $matches[] = "<p><span class='hit'>[".$par_count."]&nbsp;</span>".$ref[1].$matched_line;
+                  $matches[] = "<p><span class='hit'>[".$count."/".$par_count."]&nbsp;</span>".$ref[1].$matched_line;
                   $match_count += $count;
                }
             }
          }
       }
-      $matches[] = sprintf("%.4f seconds", microtime(true) - $time_start);
+      $matches[] = sprintf("%.4f s", microtime(true) - $time_start);
    }
 }
 
