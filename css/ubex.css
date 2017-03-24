@@ -80,7 +80,7 @@ legend { font-weight: bold; }
 .coltxt {
    overflow-y: scroll;
    text-align: justify;
-   padding-right: 5px;
+   padding: 0px 1%;
    font-family: 'Georgia', 'Arno Pro', 'Garamond Premier Pro', 'Minion Pro', 'GoudyOlSt BT';
    font-size: 16px;
 }
