@@ -77,6 +77,8 @@ $('.colmod').html(text_options).selectmenu({
    $(this).val(mod_idx).selectmenu('refresh');
 });
 
+$('.coltitle').click(function(e) { $('#' + e.currentTarget.id.replace('title','rad')).click(); });
+
 $('.coltxt').each(function() {
    var col = $(this).attr('id').replace('txt', '');
    var toc_id = '#' + col + 'toc';
@@ -254,7 +256,7 @@ $('#search').click(function(event) {
           $('#search').button('enable');
        }, dataType: "html"});
     } else
-      $('#clear').click();
+       $('#clear').click();
 });
 
 $(document).keydown(function(event) {
