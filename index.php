@@ -22,6 +22,10 @@ foreach($themes as $key => $value) {
 }
 $themes_selector .= "</select>";
 
+$drafts_checkbox = "<label title='$DRAFTS_HELP' for='drafts'>$DRAFTS</label>";
+if ($drafts == 1) $drafts_checkbox .= "<input id='drafts' type='checkbox' value='1' checked>";
+else $drafts_checkbox .= "<input id='drafts' type='checkbox' value='1'>";
+
 $tooltips_checkbox = "<label title='$TOOLTIP_ON_TOOLTIPS' for='tooltips'>$TOOLTIPS</label>";
 if ($tooltips == 1) $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1' checked>";
 else $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1'>";
@@ -189,7 +193,7 @@ echo "<div id='tabs'>
 <div id='tab_settings'>
 <fieldset>
 <legend>$SITE_SETTINGS</legend>
-<div>$site_lang_selector $tooltips_checkbox $animations_checkbox $themes_selector</div>
+<div>$site_lang_selector $drafts_checkbox $tooltips_checkbox $animations_checkbox $themes_selector</div>
 </fieldset>
 </div>
 

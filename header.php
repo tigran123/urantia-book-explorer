@@ -12,6 +12,10 @@ $animations = 1;
 if (isset($_COOKIE['animations']))
    $animations = $_COOKIE['animations'];
 
+$drafts = 0;
+if (isset($_COOKIE['drafts']))
+   $drafts = $_COOKIE['drafts'];
+
 $theme = 'cupertino';
 if (isset($_COOKIE['theme']))
    $theme = $_COOKIE['theme'];
