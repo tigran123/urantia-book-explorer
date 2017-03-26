@@ -135,7 +135,7 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var paper = ("000" + paper_num).slice(-3);
   var $coltxt = $('#' + active_column + 'txt');
-  var $parent = $(this).parent();
+  var $marks = $(this).parent().find('mark');
   var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
   if (colpaper_map[active_column] != paper) { /* need to load a different paper */
      var mod_idx = $('#' + active_column + 'mod').val();
@@ -144,11 +144,11 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
         $('#' + active_column + 'title').html(title);
         colpaper_map[active_column] = paper;
         $coltxt.scrollTo(href, delay);
-        $parent.find('mark').each(function() { $coltxt.mark($(this).text()); });
+        $marks.each(function() { $coltxt.mark($(this).text(), mark_opts); });
      });
   } else {
      $coltxt.scrollTo(href, delay);
-     $parent.find('mark').each(function(idx, el) { $coltxt.mark($(this).text()); });
+     $marks.each(function(idx, el) { $coltxt.mark($(this).text(), mark_opts); });
   }
   var colclass = $('.' + active_column);
   if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
