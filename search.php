@@ -81,7 +81,7 @@ if (isset($text)) {
       $pattern = '/' . $pattern . '/u';
       if ($ic) $pattern .= 'i';
       if ($search_range > 0) {
-         $replace = '<span style="highlight">$1</span>';
+         $replace = '<span class="highlight">$1</span>';
          $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
          foreach($matched_lines as $line) {
             $par_count++;
