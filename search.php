@@ -81,7 +81,7 @@ if (isset($text)) {
       $pattern = '/' . $pattern . '/u';
       if ($ic) $pattern .= 'i';
       if ($search_range > 0) {
-         $replace = '<span style="background-color:yellow;">$1</span>';
+         $replace = '<span style="highlight">$1</span>';
          $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
          foreach($matched_lines as $line) {
             $par_count++;
@@ -119,8 +119,8 @@ flush();
 //формируем разную строку замены в зависимости от того, попал ли в результат тэг </em>
 function text_replace($matches) {
   if (stristr($matches[1],'</em>') != false && stristr($matches[1],'<em>') == false)
-     return '</em><span style="background-color:yellow;"><em>'.$matches[1].'</span>'.$matches[2];
+     return '</em><span class="highlight"><em>'.$matches[1].'</span>'.$matches[2];
   else
-     return '<span style="background-color:yellow;">'.$matches[1].'</span>'.$matches[2];
+     return '<span class="highlight">'.$matches[1].'</span>'.$matches[2];
 }
 ?>

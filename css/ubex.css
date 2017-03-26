@@ -3,6 +3,7 @@ body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-seri
 .hidden {display: none;}
 .ui-tabs .ui-tabs-panel { padding: 0.7em 0em 0.5em 0em; }
 .loading { background: white url('../img/ui-anim_basic_16x16.gif') right center no-repeat; }
+.highlight { background-color: yellow }
 
 #search_text {
    margin: 0px 0px 0px 10px;
