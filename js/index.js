@@ -135,7 +135,7 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var paper = ("000" + paper_num).slice(-3);
   var $coltxt = $('#' + active_column + 'txt');
-  var mark_text = $(this).parent().find('mark').text();
+  var mark_text = $(this).parent().find('mark').first().text();
   var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
   if (colpaper_map[active_column] != paper) { /* need to load a different paper */
      var mod_idx = $('#' + active_column + 'mod').val();
@@ -265,6 +265,7 @@ $('#search').click(function(event) {
           $('#search_total').html('&nbsp;(' + json.match_count + '/' + json.par_count + ')');
           $('#search_text').removeClass('loading').prop('disabled', false).focus();
           $('#search').button('enable');
+          $('#' + active_column + 'txt').unmark();
        }, dataType: "html"});
     } else
        $('#clear').click();
