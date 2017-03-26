@@ -40,6 +40,7 @@ $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery-ui-1.12.1/jquery-ui.min.js'></script>
 <script src='jquery/jquery.scrollTo-2.1.2/jquery.scrollTo.min.js'></script>
 <script src='jquery/jquery.bonsai.js'></script>
+<script src='jquery/jquery.mark.min.js' charset='UTF-8'></script>
 <script src='js/index.js'></script>
 </body></html>";
 ?>
