@@ -134,17 +134,19 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   var href = $(this).attr('href');
   var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var paper = ("000" + paper_num).slice(-3);
-  var coltxt = '#' + active_column + 'txt';
+  var $coltxt = $('#' + active_column + 'txt');
+  var mark_text = $(this).parent().find('.highlight').text();
+  var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
   if (colpaper_map[active_column] != paper) { /* need to load a different paper */
      var mod_idx = $('#' + active_column + 'mod').val();
-     $(coltxt).load('text/' + mod_idx + '/p' + paper + '.html', function() {
+     $coltxt.load('text/' + mod_idx + '/p' + paper + '.html', function() {
         var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
         $('#' + active_column + 'title').html(title);
         colpaper_map[active_column] = paper;
-        $(coltxt).scrollTo(href, delay);
+        $coltxt.scrollTo(href, delay).mark(mark_text, mark_opts);
      });
   } else {
-     $(coltxt).scrollTo(href, delay);
+     $coltxt.scrollTo(href, delay).mark(mark_text, mark_opts);
   }
   var colclass = $('.' + active_column);
   if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
@@ -165,16 +167,16 @@ $('.coltxt').on('click', 'a', function(e) {
   $('.coltxt').not(this_column).each(function() {
       var col = $(this).attr('id').replace('txt','');
       var mod_idx = $('#' + col + 'mod').val();
-      var coltxt = '#' + col + 'txt';
+      var $coltxt = $('#' + col + 'txt');
       if (colpaper_map[col] != paper) { /* need to load a different paper */
-         $(coltxt).load('text/' + mod_idx + '/p' + paper + '.html', function() {
+         $coltxt.load('text/' + mod_idx + '/p' + paper + '.html', function() {
              var title = $('#' + col + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
              $('#' + col + 'title').html(title);
              colpaper_map[col] = paper;
-             $(coltxt).scrollTo(href, delay);
+             $coltxt.scrollTo(href, delay);
          });
       } else {
-         $(coltxt).scrollTo(href, delay);
+         $coltxt.scrollTo(href, delay);
       }
   });
   $(this_column).scrollTo(href, delay);
