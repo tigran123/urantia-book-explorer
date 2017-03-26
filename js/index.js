@@ -135,7 +135,7 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
   var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var paper = ("000" + paper_num).slice(-3);
   var $coltxt = $('#' + active_column + 'txt');
-  var mark_text = $(this).parent().find('mark').first().text();
+  var $parent = $(this).parent();
   var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
   if (colpaper_map[active_column] != paper) { /* need to load a different paper */
      var mod_idx = $('#' + active_column + 'mod').val();
@@ -143,10 +143,12 @@ $('.toc_container,#search_results').on('click', 'a', function(e) {
         var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
         $('#' + active_column + 'title').html(title);
         colpaper_map[active_column] = paper;
-        $coltxt.scrollTo(href, delay).mark(mark_text, mark_opts);
+        $coltxt.scrollTo(href, delay);
+        $parent.find('mark').each(function() { $coltxt.mark($(this).text()); });
      });
   } else {
-     $coltxt.scrollTo(href, delay).mark(mark_text, mark_opts);
+     $coltxt.scrollTo(href, delay);
+     $parent.find('mark').each(function(idx, el) { $coltxt.mark($(this).text()); });
   }
   var colclass = $('.' + active_column);
   if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
