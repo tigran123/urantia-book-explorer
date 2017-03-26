@@ -5,3 +5,4 @@ TODO
 tools/
 .git/
 README.md
+text*.zip
