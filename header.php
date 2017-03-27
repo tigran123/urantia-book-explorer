@@ -1,6 +1,28 @@
 <?php
 
-$lang = 'ru';
+function getClientIP(){
+   if (!empty($_SERVER['HTTP_CLIENT_IP']))
+      return $_SERVER['HTTP_CLIENT_IP'];
+   elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
+      return $_SERVER['HTTP_X_FORWARDED_FOR'];
+   else
+      return $_SERVER['REMOTE_ADDR'];
+}
+
+function ip_details($ip) {
+   $json = file_get_contents("http://ipinfo.io/{$ip}/geo");
+   $details = json_decode($json, true);
+   return $details;
+}
+
+$ipaddress = getClientIP();
+$details = ip_details($ipaddress);
+$country = $details['country'];
+if (isset($country) && ($country == 'UA' || $country == 'RU'))
+   $lang = 'ru';
+else
+   $lang = 'en';
+
 if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
 
