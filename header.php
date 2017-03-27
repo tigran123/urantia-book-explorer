@@ -1,6 +1,6 @@
 <?php
 
-function getClientIP(){
+function get_client_ip() {
    if (!empty($_SERVER['HTTP_CLIENT_IP']))
       return $_SERVER['HTTP_CLIENT_IP'];
    elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
@@ -9,19 +9,21 @@ function getClientIP(){
       return $_SERVER['REMOTE_ADDR'];
 }
 
-function ip_details($ip) {
-   $json = file_get_contents("http://ipinfo.io/{$ip}/geo");
-   $details = json_decode($json, true);
-   return $details;
-}
+$ip = get_client_ip();
+$country = trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
 
-$ipaddress = getClientIP();
-$details = ip_details($ipaddress);
-$country = $details['country'];
-if (isset($country) && ($country == 'UA' || $country == 'RU'))
-   $lang = 'ru';
-else
-   $lang = 'en';
+switch($country) {
+   case 'RU':
+   case 'UA':
+   case 'BY':
+   case 'AM':
+   case 'KZ':
+      $lang = 'ru';
+      break;
+   default:
+      $lang = 'en';
+      break;
+}
 
 if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
