@@ -1,32 +1,25 @@
 <?php
 
-function get_client_ip() {
-   if (!empty($_SERVER['HTTP_CLIENT_IP']))
-      return $_SERVER['HTTP_CLIENT_IP'];
-   elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
-      return $_SERVER['HTTP_X_FORWARDED_FOR'];
-   else
-      return $_SERVER['REMOTE_ADDR'];
-}
-
-$ip = get_client_ip();
-$country = trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
-
-switch($country) {
-   case 'RU':
-   case 'UA':
-   case 'BY':
-   case 'AM':
-   case 'KZ':
-      $lang = 'ru';
-      break;
-   default:
-      $lang = 'en';
-      break;
-}
-
 if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
+else {
+   $ip = get_client_ip();
+   $country = trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
+
+   switch($country) {
+      case 'RU':
+      case 'UA':
+      case 'BY':
+      case 'AM':
+      case 'KZ':
+         $lang = 'ru';
+         break;
+      default:
+         $lang = 'en';
+         break;
+   }
+   setcookie('lang', $lang, time() + 3600*24*365*100); // expire in 100 years
+}
 
 $tooltips = 1;
 if (isset($_COOKIE['tooltips']))
@@ -67,4 +60,13 @@ $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery.mark.min.js' charset='UTF-8'></script>
 <script src='js/index.js'></script>
 </body></html>";
+
+function get_client_ip() {
+   if (!empty($_SERVER['HTTP_CLIENT_IP']))
+      return $_SERVER['HTTP_CLIENT_IP'];
+   elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
+      return $_SERVER['HTTP_X_FORWARDED_FOR'];
+   else
+      return $_SERVER['REMOTE_ADDR'];
+}
 ?>
