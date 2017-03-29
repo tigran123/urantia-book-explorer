@@ -1,10 +1,10 @@
 #!/bin/bash
 
-SRC="1"
+SRC="2"
 TOC=$SRC/toc.html
 TITLES="orig/FM_Titles.html"
 
-echo "<ul class='toc' id='toc1'>" > $TOC
+echo "<ul class='toc' id='toc2'>" > $TOC
 echo -E "<li title='<i>Подготовлено Увeрсским Корпусом личностей сверхвселенной, уполномоченных От Века Древними Орвонтона.</i>'><a href=\".U0_0_1\"><b>I: ЦЕНТРАЛЬНАЯ ВСЕЛЕННАЯ И СВЕРХВСЕЛЕННЫЕ</b></a>" >> $TOC
 echo -E " <ul>" >> $TOC
 

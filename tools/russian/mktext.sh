@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ZIP="uf-rus-001world-1997-1.9.xhtml_.zip"
-OUT=1
+OUT=2
 
 rm -rf orig; mkdir orig 
 cd orig

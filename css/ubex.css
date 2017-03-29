@@ -3,6 +3,7 @@ body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-seri
 .hidden {display: none;}
 .ui-tabs .ui-tabs-panel { padding: 0.7em 0em 0.5em 0em; }
 .loading { background: white url('../img/ui-anim_basic_16x16.gif') right center no-repeat; }
+.sc {text-transform: uppercase;}
 
 #search_text {
    margin: 0px 0px 0px 10px;
@@ -60,7 +61,7 @@ legend { font-weight: bold; }
 }
 
 .coltxt h4,#search_results h4 { text-align: center; text-transform: uppercase; font-family: 'Arial Narrow', Arial; }
-.coltxt sup,#search_results sup {
+.coltxt sup,#search_results sup,#notes sup {
    font-family: 'Arial Narrow', Arial;
    font-size: 0.7em;
    font-weight: bold;
@@ -77,20 +78,13 @@ legend { font-weight: bold; }
 
 .container div { float: left; }
 
-.coltxt {
+.coltxt,#search_results,#notes {
    overflow-y: scroll;
+   overflow-x: scroll;
    text-align: justify;
    padding: 0px 1%;
    font-family: 'Georgia', 'Arno Pro', 'Garamond Premier Pro', 'Minion Pro', 'GoudyOlSt BT';
    font-size: 16px;
-}
-
-#search_results {
-   font-family: 'Georgia', 'Arno Pro', 'Garamond Premier Pro', 'Minion Pro', 'GoudyOlSt BT';
-   text-align: justify;
-   font-size: 16px;
-   overflow-x: scroll;
-   overflow-y: scroll;
 }
 
 a: { color: blue; }

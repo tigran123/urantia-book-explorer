@@ -6,18 +6,20 @@ $('#drafts').change(function() {
    location.reload();
 });
 
-var text_map = ['English: (SRT 0.20)',
-                'Русский: (UF 1997-1.9)',
-                'Български: (UF 2013-1.0)',
-                'Deutsch: (UF 2015-1)'];
+var text_map = ['English: SRT 0.20',
+                'English: British Study Edition',
+                'Русский: UF 1997-1.9',
+                'Български: UF 2013-1.0',
+                'Deutsch: UF 2015-1'];
 
 var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain',
+                'Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk',
                 'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
                 'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
                 'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation'];
 
 if ($('#drafts').is(':checked')) {
-   text_map.push('Русский: (UBSGNY 2017-1)');
+   text_map.push('Русский: UBSGNY 2017-1');
    info_map.push('Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Book&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York');
 }
 
@@ -42,6 +44,10 @@ $('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
 $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).toggleClass('hidden');
+   if ($('#' + col + 'hdr').hasClass('hidden'))
+      document.cookie = col + '=0; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+   else
+      document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    $('#max_width').click();
 });
 
@@ -49,7 +55,10 @@ $('.coltxtsw').on('click', function() {
    $('#' + active_column + 'toc').addClass('hidden');
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).removeClass('hidden');
+   document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    active_column = col;
+   var mod_idx = $('#' + col + 'mod').val();
+   $('#notes').load('text/' + mod_idx + '/notes.html');
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
@@ -70,16 +79,16 @@ $('.colmod').html(text_options).selectmenu({
         document.cookie = col + 'mod=' + mod_idx + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
      });
   },
-  width: 220
+  width: 228
 }).each(function() {
    var cnum = $(this).attr('id').replace(/col([0-9][0-9]*)mod/,'$1');
    var mod_idx = getCookie('col' + cnum + 'mod');
-   if (mod_idx == 4 && !$('#drafts').is(':checked')) mod_idx = 0;
+   if (mod_idx == 5 && !$('#drafts').is(':checked')) mod_idx = 0;
    if (mod_idx === undefined) {
       switch(+cnum) {
          case 1: mod_idx = 1; break;
-         case 2: mod_idx = 0; break;
-         case 3: mod_idx = 3; break;
+         case 2: mod_idx = 2; break;
+         case 3: mod_idx = 0; break;
          default: mod_idx = 1; break;
       }
    }
@@ -95,6 +104,7 @@ $('.coltxt').each(function() {
    var paper = colpaper_map[col];
    var paper_num = paper.replace(/0*(..*)/,'$1'); /* strip the leading zeros */
    $(this).load('text/' + mod_idx + '/p' + paper + '.html');
+   if (col == active_column) $('#notes').load('text/' + mod_idx + '/notes.html');
    $(toc_id).load('text/' + mod_idx + '/toc.html', function() {
       var toc = $(this).find('.toc');
       toc.bonsai();
@@ -103,6 +113,12 @@ $('.coltxt').each(function() {
       /* XXX: the following code is executed three times, but if we use deferred functions we could run it only once */
       if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
    });
+});
+
+$('.headers').each(function() {
+   var col = $(this).attr('id').replace('hdr','');
+   var visible = getCookie(col);
+   if (+visible === 0) toggle_active_column(col);
 });
 
 $('#search_part').selectmenu({change: function() { $('#search_text').focus(); }, width: 120});
@@ -128,7 +144,7 @@ $('#help').draggable();
 $('#help_button').click(function(event) { $('#help').toggleClass('hidden'); $('#search_text').focus();});
 $('#clear').click(function(event) { $('#search_text').val('').focus(); });
 
-$('.toc_container,#search_results').on('click', 'a', function(e) {
+$('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
   e.preventDefault();
   var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
@@ -344,11 +360,15 @@ function getCookie(name) {
    if (parts.length == 2) return parts.pop().split(";").shift();
 }
 
-function toggle_active_column(column) {
-   $('.' + column).toggleClass('hidden');
-   if (active_column == column) {
-      var newcol = $('.txthdr').not('.hidden').first().attr('id');
-      if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
-   }
+function toggle_active_column(col) {
+   $('.' + col).toggleClass('hidden');
+   if ($('#' + col + 'hdr').hasClass('hidden')) {
+      document.cookie = col + '=0; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+      if (active_column == col) {
+         var newcol = $('.txthdr').not('.hidden').first().attr('id');
+         if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
+      }
+   } else
+      document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    $('#max_width').click();
 }
