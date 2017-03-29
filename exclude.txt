@@ -3,3 +3,6 @@ exclude.txt
 logs/
 TODO
 tools/
+.git/
+README.md
+text*.zip

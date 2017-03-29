@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SRC="0"
-TOC="0/toc.html"
+TOC=$SRC/toc.html
 TITLES="orig/FM_Titles.html"
 
 echo "<ul class='toc' id='toc0'>" > $TOC

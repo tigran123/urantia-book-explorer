@@ -1,6 +1,10 @@
 # The Urantia Book Explorer Web Application
 
-The Urantia Book Explorer is expected to have the following features when completed
+NOTE: the default language for the application is Russian, but you can easily switch to English
+by going to the fifth tab that has a gear icon and the word "НАСТРОЙКИ" and then use the first
+selector to choose "English" instead of the default "русский".
+
+The Urantia Book Explorer (UBE) is expected to have the following features when completed:
 
 * Side-by-side comparison of multiple (ultimately ALL) translations of the Urantia Book with the English text.
 
@@ -27,3 +31,11 @@ The application is released under GPL license, however we make use of the follow
 * Various translations of the Urantia Book, Copyright (C) Urantia Foundation and used by permission
 
 * Various translations of the Urantia Book, Copyright (C) Urantia Book Society of Greater New York and used by permission
+
+When deploying the application you should not copy the files mentioned in `exclude.txt` to the server:
+
+```
+$ rsync --exclude-from=exclude.txt --delete -ahv . tigran123@quantuminfodynamics.com:public_html/ubex/
+```
+
+The application relies on PHP version >= 5.6.27 on the server.
