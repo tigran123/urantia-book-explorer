@@ -80,9 +80,10 @@ $('.coltxt').each(function() {
       var toc = $(this).find('.toc');
       toc.bonsai();
       $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
-      if (active_column == col) $(toc_id).removeClass('hidden');
-      /* XXX: the following code is executed three times, but if we use deferred functions we could run it only once */
-      if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
+      if (active_column == col) {
+         if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
+         $(toc_id).removeClass('hidden');
+      }
    });
 });
 
