@@ -26,13 +26,13 @@ $('.colsw').on('click', function() {
 });
 
 $('.coltxtsw').on('click', function() {
-   $('#' + active_column + 'toc').addClass('hidden');
    var col = $(this).attr('id').replace('rad','');
+   if (col == active_column) return;
+   $('#' + active_column + 'toc').addClass('hidden');
    $('.' + col).removeClass('hidden');
    document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    active_column = col;
-   var mod_idx = $('#' + col + 'mod').val();
-   $('#notes').load('text/' + mod_idx + '/notes.html');
+   $('#notes').load('text/' + $('#' + col + 'mod').val() + '/notes.html');
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
