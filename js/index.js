@@ -1,31 +1,6 @@
 var active_column = 'col1';
 var colpaper_map = { 'col1': '000', 'col2': '000', 'col3': '000' };
 
-$('#drafts').change(function() {
-   document.cookie = 'drafts=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
-   location.reload();
-});
-
-var text_map = ['English: SRT 0.20',
-                'English: British Study Edition',
-                'Русский: UF 1997-1.9',
-                'Български: UF 2013-1.0',
-                'Deutsch: UF 2015-1'];
-
-var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain',
-                'Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation'];
-
-if ($('#drafts').is(':checked')) {
-   text_map.push('Русский: UBSGNY 2017-1');
-   info_map.push('Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Book&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York');
-}
-
-var text_options = '';
-$.each(text_map, function(idx, item) { text_options += '<option value=' + idx + ' title="' + info_map[idx] + '">' + text_map[idx] + '</option>'; });
-
 $('.buttons').button();
 $('#tabs').tabs();
 $('#tabs').on('click', 'a', function(e) {
@@ -65,7 +40,7 @@ $('.coltxtsw').on('click', function() {
    $('#max_width').click();
 });
 
-$('.colmod').html(text_options).selectmenu({
+$('.colmod').selectmenu({
   change: function(event, ui) {
      var col = $(this).attr('id').replace('mod', '');
      var mod_idx = ui.item.value;
@@ -83,7 +58,6 @@ $('.colmod').html(text_options).selectmenu({
 }).each(function() {
    var cnum = $(this).attr('id').replace(/col([0-9][0-9]*)mod/,'$1');
    var mod_idx = getCookie('col' + cnum + 'mod');
-   if (mod_idx == 5 && !$('#drafts').is(':checked')) mod_idx = 0;
    if (mod_idx === undefined) {
       switch(+cnum) {
          case 1: mod_idx = 1; break;
