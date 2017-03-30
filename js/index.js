@@ -50,6 +50,7 @@ $('.colmod').selectmenu({
         toc.bonsai();
         $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
         document.cookie = col + 'mod=' + mod_idx + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+        if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
      });
   },
   width: 228
@@ -80,10 +81,8 @@ $('.coltxt').each(function() {
       var toc = $(this).find('.toc');
       toc.bonsai();
       $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
-      if (active_column == col) {
-         if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
-         $(toc_id).removeClass('hidden');
-      }
+      if (active_column == col) $(toc_id).removeClass('hidden');
+      if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
    });
 });
 
