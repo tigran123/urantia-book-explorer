@@ -1,34 +1,8 @@
 var active_column = 'col1';
-var colpaper_map = { 'col1': '000', 'col2': '000', 'col3': '000' };
-
-$('#drafts').change(function() {
-   document.cookie = 'drafts=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
-   location.reload();
-});
-
-var text_map = ['English: SRT 0.20',
-                'English: British Study Edition',
-                'Русский: UF 1997-1.9',
-                'Български: UF 2013-1.0',
-                'Deutsch: UF 2015-1'];
-
-var info_map = ['The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain',
-                'Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation',
-                'Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Foundation'];
-
-if ($('#drafts').is(':checked')) {
-   text_map.push('Русский: UBSGNY 2017-1');
-   info_map.push('Copyright&nbsp;&#169;&nbsp;Urantia&nbsp;Book&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York');
-}
-
-var text_options = '';
-$.each(text_map, function(idx, item) { text_options += '<option value=' + idx + ' title="' + info_map[idx] + '">' + text_map[idx] + '</option>'; });
+var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0};
 
 $('.buttons').button();
-$('#tabs').tabs();
-$('#tabs').on('click', 'a', function(e) {
+$('#tabs').tabs().on('click', 'a', function(e) {
    switch(e.target.id) {
       case 'home':
          $('#search_text').focus();
@@ -65,17 +39,16 @@ $('.coltxtsw').on('click', function() {
    $('#max_width').click();
 });
 
-$('.colmod').html(text_options).selectmenu({
+$('.colmod').selectmenu({
   change: function(event, ui) {
      var col = $(this).attr('id').replace('mod', '');
      var mod_idx = ui.item.value;
      var paper = colpaper_map[col];
-     var paper_num = paper.replace(/0*(..*)/,'$1'); /* strip the leading zeros */
-     $('#' + col + 'txt').load('text/' + mod_idx + '/p' + paper + '.html');
+     $('#' + col + 'txt').load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
      $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
         var toc = $(this).find('.toc');
         toc.bonsai();
-        $('#' + col + 'title').html(toc.find('.U' + paper_num + '_0_1').html());
+        $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
         document.cookie = col + 'mod=' + mod_idx + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
      });
   },
@@ -83,7 +56,6 @@ $('.colmod').html(text_options).selectmenu({
 }).each(function() {
    var cnum = $(this).attr('id').replace(/col([0-9][0-9]*)mod/,'$1');
    var mod_idx = getCookie('col' + cnum + 'mod');
-   if (mod_idx == 5 && !$('#drafts').is(':checked')) mod_idx = 0;
    if (mod_idx === undefined) {
       switch(+cnum) {
          case 1: mod_idx = 1; break;
@@ -102,13 +74,12 @@ $('.coltxt').each(function() {
    var toc_id = '#' + col + 'toc';
    var mod_idx = $('#' + col + 'mod').val();
    var paper = colpaper_map[col];
-   var paper_num = paper.replace(/0*(..*)/,'$1'); /* strip the leading zeros */
-   $(this).load('text/' + mod_idx + '/p' + paper + '.html');
+   $(this).load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
    if (col == active_column) $('#notes').load('text/' + mod_idx + '/notes.html');
    $(toc_id).load('text/' + mod_idx + '/toc.html', function() {
       var toc = $(this).find('.toc');
       toc.bonsai();
-      $('#' + col + 'title').html(toc.find('.U' + paper_num + '_0_1').html());
+      $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
       if (active_column == col) $(toc_id).removeClass('hidden');
       /* XXX: the following code is executed three times, but if we use deferred functions we could run it only once */
       if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
@@ -148,15 +119,14 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
   e.preventDefault();
   var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
-  var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
-  var paper = ("000" + paper_num).slice(-3);
+  var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   var $coltxt = $('#' + active_column + 'txt');
   var $marks = $(this).parent().find('mark');
   var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
   if (colpaper_map[active_column] != paper) { /* need to load a different paper */
      var mod_idx = $('#' + active_column + 'mod').val();
-     $coltxt.load('text/' + mod_idx + '/p' + paper + '.html', function() {
-        var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
+     $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+        var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
         $('#' + active_column + 'title').html(title);
         colpaper_map[active_column] = paper;
         $coltxt.scrollTo(href, delay);
@@ -180,15 +150,14 @@ $('.coltxt').on('click', 'a', function(e) {
   var this_column = e.delegateTarget;
   var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
-  var paper_num = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
-  var paper = ("000" + paper_num).slice(-3);
+  var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
   $('.coltxt').not(this_column).each(function() {
       var col = $(this).attr('id').replace('txt','');
       var mod_idx = $('#' + col + 'mod').val();
       var $coltxt = $('#' + col + 'txt');
       if (colpaper_map[col] != paper) { /* need to load a different paper */
-         $coltxt.load('text/' + mod_idx + '/p' + paper + '.html', function() {
-             var title = $('#' + col + 'toc').find('.toc').find('.U' + paper_num + '_0_1').html();
+         $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+             var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
              $('#' + col + 'title').html(title);
              colpaper_map[col] = paper;
              $coltxt.scrollTo(href, delay);

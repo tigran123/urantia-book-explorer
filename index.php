@@ -22,10 +22,6 @@ foreach($themes as $key => $value) {
 }
 $themes_selector .= "</select>";
 
-$drafts_checkbox = "<label title='$DRAFTS_HELP' for='drafts'>$DRAFTS</label>";
-if ($drafts == 1) $drafts_checkbox .= "<input id='drafts' type='checkbox' value='1' checked>";
-else $drafts_checkbox .= "<input id='drafts' type='checkbox' value='1'>";
-
 $tooltips_checkbox = "<label title='$TOOLTIP_ON_TOOLTIPS' for='tooltips'>$TOOLTIPS</label>";
 if ($tooltips == 1) $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1' checked>";
 else $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1'>";
@@ -33,6 +29,19 @@ else $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1'>";
 $animations_checkbox = "<label title='$ENABLE_WIDGET_ANIMATIONS' for='animations'>$ANIMATIONS</label>";
 if ($animations == 1) $animations_checkbox .= "<input id='animations' type='checkbox' value='1' checked>";
 else $animations_checkbox .= "<input id='animations' type='checkbox' value='1'>";
+
+$text_options = "<optgroup label='$ORIGINALS'>".
+"<option value=0 title='The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain'>English: SRT 0.20</option>".
+"<option value=1 title='Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk'>English: British Study Edition</option>".
+               "</optgroup>".
+                "<optgroup label='$TRANSLATIONS'>".
+"<option value=2 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Русский: UF 1997-1.9</option>".
+"<option value=3 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Български: UF 2013-1.0</option>".
+"<option value=4 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Deutsch: UF 2015-1</option>".
+               "</optgroup>".
+                "<optgroup label='$DRAFTS'>".
+"<option value=5 title='&#169;&nbsp;Urantia&nbsp;Book&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Русский: UBSGNY 2017-1</option>".
+               "</optgroup>";
 
 echo $htmlhead;
 
@@ -118,7 +127,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='down' title='$SCROLL_DOWN'>
        <span class='ui-icon ui-icon-circle-arrow-s'></span>
     </a>
-    <select class='colmod' id='col1mod' title='$SELECT_TEXT'></select>
+    <select class='colmod' id='col1mod' title='$SELECT_TEXT'>$text_options</select>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     </a>
@@ -132,7 +141,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='down' title='$SCROLL_DOWN'>
        <span class='ui-icon ui-icon-circle-arrow-s'></span>
     </a>
-    <select class='colmod' id='col2mod' title='$SELECT_TEXT'></select>
+    <select class='colmod' id='col2mod' title='$SELECT_TEXT'>$text_options</select>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     </a>
@@ -146,7 +155,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colupdown' name='down' title='$SCROLL_DOWN'>
        <span class='ui-icon ui-icon-circle-arrow-s'></span>
     </a>
-    <select class='colmod' id='col3mod' title='$SELECT_TEXT'></select>
+    <select class='colmod' id='col3mod' title='$SELECT_TEXT'>$text_options</select>
     <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
        <span class='ui-icon ui-icon-circle-arrow-n'></span>
     <a>
@@ -193,7 +202,7 @@ echo "<div id='tabs'>
 <div id='tab_settings'>
 <fieldset>
 <legend>$SITE_SETTINGS</legend>
-<div>$site_lang_selector $drafts_checkbox $tooltips_checkbox $animations_checkbox $themes_selector</div>
+<div>$site_lang_selector $tooltips_checkbox $animations_checkbox $themes_selector</div>
 </fieldset>
 </div>
 
