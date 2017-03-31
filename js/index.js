@@ -240,6 +240,7 @@ $('.colsize_controls').click();
 $('#search').click(function(event) {
     var html = $('#search_text').val().trim(); /* may contain html tags */
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
+    if (!text) return;
     var mod_idx = $('#' + active_column + 'mod').val();
     var srt = /(\d{1,3}):(\d{1,2}).(\d{1,3})/; /* SRT ref 'Paper:Section.Paragraph' */
     var ref = srt.exec(text);
