@@ -6,6 +6,11 @@ body { font-family: 'Trebuchet MS', Tahoma, Verdana, Arial, Helvetica, sans-seri
 .loading { background: white url('../img/ui-anim_basic_16x16.gif') right center no-repeat; }
 .sc {text-transform: uppercase;}
 
+.textimg {
+   max-width: 100%;
+   max-height: 100%;
+}
+
 #search_text {
    margin: 0px 0px 0px 10px;
    height: 20px;
