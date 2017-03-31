@@ -45,6 +45,7 @@ $('.colmod').selectmenu({
      var mod_idx = ui.item.value;
      var paper = colpaper_map[col];
      $('#' + col + 'txt').load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
+     $('#notes').load('text/' + mod_idx + '/notes.html');
      $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
         var toc = $(this).find('.toc');
         toc.bonsai();
