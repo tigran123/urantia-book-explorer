@@ -240,11 +240,26 @@ $('.colsize_controls').click();
 $('#search').click(function(event) {
     var html = $('#search_text').val().trim(); /* may contain html tags */
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
-    if (text) {
-       var mod_idx = '&mod_idx=' + $('#' + active_column + 'mod').val();
+    var mod_idx = $('#' + active_column + 'mod').val();
+    var srt = /(\d{1,3}):(\d{1,2}).(\d{1,3})/; /* SRT ref 'Paper:Section.Paragraph' */
+    var ref = srt.exec(text);
+    if (ref) {
+       var paper = ref[1];
+       var href = '.U' + paper + '_' + ref[2] + '_' + ref[3];
+       var delay = $('#animations').is(':checked') ? 606 : 0;
+       var $coltxt = $('#' + active_column + 'txt');
+       if (colpaper_map[active_column] != paper) {
+         $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+            var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
+            $('#' + active_column + 'title').html(title);
+            colpaper_map[active_column] = paper;
+            $coltxt.scrollTo(href, delay);
+         });
+       } else $coltxt.scrollTo(href, delay);
+    } else {
        var search_part = '&search_part=' + $('#search_part').val();
        var search_range = '&search_range=' + $('#search_range').val();
-       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + mod_idx + "&ic=" + ic + search_part + search_range;
+       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, dataType: 'json', success: function(data) {
@@ -255,8 +270,7 @@ $('#search').click(function(event) {
           $('#search').button('enable');
           $('#' + active_column + 'txt').unmark();
        }, dataType: "html"});
-    } else
-       $('#clear').click();
+    }
 });
 
 $(document).keydown(function(event) {
