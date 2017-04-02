@@ -90,7 +90,7 @@ if (isset($text)) {
             $mask = [];
             $ref_a_total = preg_match_all('/<a\shref.*?a>/u', $line, $all_ref); //Запоминаем все ссылки из текста
             for ($r = 0; $r < $ref_a_total; $r++)
-               $mask[] = '<***'.$r.'>'; //Уникальная маск для каждой ссылки
+               $mask[] = '<***'.$r.'>'; //Уникальная маска для каждой ссылки
             $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line); //Убираем заголовки, номера абзацев
             if ($ref_a_total) $line = str_replace($all_ref[0], $mask, $line); //Убираем ссылки
             $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
