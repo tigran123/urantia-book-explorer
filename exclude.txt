@@ -1,4 +1,5 @@
 exclude.txt
+.gitignore
 .htaccess
 logs/
 TODO
