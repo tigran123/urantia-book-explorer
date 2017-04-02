@@ -336,6 +336,10 @@ $(document).keydown(function(event) {
    } else if (ctrl && key == 80) { /* Ctrl + P */
       event.preventDefault();
       $('#tooltips').click();
+   } else if (ctrl && shift && key == 75) {
+      $('figure.private').show();
+   } else if (ctrl && shift && key == 76) {
+      $('figure.private').hide();
    } else return;
 });
 
