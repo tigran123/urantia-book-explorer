@@ -87,13 +87,16 @@ if (isset($text)) {
          $lines = file($filename);
          foreach($lines as $line) {
             preg_match('/^<p>(.*?a>)/u', $line, $ref);
-            $ref_a_match = preg_match('/<a\shref.*?a>/u', $line, $ref_a); //Запоминаем ссылку
-            //Убираем заголовки, номера абзацев и ссылки
-            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<a\shref.*?a>/u'], ['','','<***>'], $line);
+            $mask = [];
+            $ref_a_total = preg_match_all('/<a\shref.*?a>/u', $line, $all_ref); //Запоминаем все ссылки из текста
+            for ($r = 0; $r < $ref_a_total; $r++)
+               $mask[] = '<***'.$r.'>'; //Уникальная маск для каждой ссылки
+            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line); //Убираем заголовки, номера абзацев
+            if ($ref_a_total) $line = str_replace($all_ref[0], $mask, $line); //Убираем ссылки
             $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
             if ($count > 0) {
                $par_count++;
-               if($ref_a_match) $matched_line = str_replace('<***>',$ref_a[0], $matched_line); //Возвращаем ссылку обратно
+               if ($ref_a_total) $matched_line = str_replace($mask, $all_ref[0], $matched_line); //Возвращаем ссылки обратно
                $matches[] = "<p><span class='hit'>[".$count."/".$par_count."]&nbsp;</span>".$ref[1].$matched_line;
                $match_count += $count;
             }
