@@ -165,13 +165,13 @@ echo "<div id='tabs'>
     <div class='coltitle' id='col3title'></div>
   </th>
   <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>
-    <span class='coltitle' id='col4title'>$SEARCH_RESULTS</span><span id='search_total'></span>
+    <span class='coltitle' id='col4title'>$SEARCH_RESULTS <span id='search_total'></span></span>
     <a href='javascript:void(0)' class='colclose' id='col4close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
   </th>
   <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
-    <span class='coltitle' id='col5title'>$NOTES</span><span id='notes_total'></span>
+    <span class='coltitle' id='col5title'>$NOTES <span id='notes_total'></span></span>
     <a href='javascript:void(0)' class='colclose' id='col5close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
