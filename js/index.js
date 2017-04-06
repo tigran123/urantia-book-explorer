@@ -32,7 +32,8 @@ $('.coltxtsw').on('click', function() {
    $('.' + col).removeClass('hidden');
    document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    active_column = col;
-   $('#notes').load('text/' + $('#' + col + 'mod').val() + '/notes.html');
+   var mod_idx = $('#' + col + 'mod').val();
+   load_notes(mod_idx);
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
@@ -45,7 +46,7 @@ $('.colmod').selectmenu({
      var mod_idx = ui.item.value;
      var paper = colpaper_map[col];
      $('#' + col + 'txt').load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
-     $('#notes').load('text/' + mod_idx + '/notes.html');
+     load_notes(mod_idx);
      $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
         var toc = $(this).find('.toc');
         toc.bonsai();
@@ -77,7 +78,7 @@ $('.coltxt').each(function() {
    var mod_idx = $('#' + col + 'mod').val();
    var paper = colpaper_map[col];
    $(this).load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
-   if (col == active_column) $('#notes').load('text/' + mod_idx + '/notes.html');
+   if (col == active_column) load_notes(mod_idx);
    $(toc_id).load('text/' + mod_idx + '/toc.html', function() {
       var toc = $(this).find('.toc');
       toc.bonsai();
@@ -270,7 +271,7 @@ $('#search').click(function(event) {
        $.ajax({url: search_req, dataType: 'json', success: function(data) {
           var json = JSON.parse(data);
           $('#search_results').html(json.matches);
-          $('#search_total').html('&nbsp;(' + json.match_count + '/' + json.par_count + ')');
+          $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')');
           $('#search_text').removeClass('loading').prop('disabled', false).focus();
           $('#search').button('enable');
           $('#' + active_column + 'txt').unmark();
@@ -364,4 +365,14 @@ function toggle_active_column(col) {
    } else
       document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    $('#max_width').click();
+}
+
+function load_notes(mod_idx) {
+   $('#notes').load('text/' + mod_idx + '/notes.html', function(text, status) {
+      if (status === 'success') {
+         var i, n=0;
+         for (i=0; i < text.length; i++) if (text[i] == '\n') n++;
+         $('#notes_total').html('(' + n + ')');
+      }
+   });
 }
