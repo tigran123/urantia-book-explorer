@@ -148,26 +148,30 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
 
 $('.coltxt').on('click', 'a', function(e) {
   e.preventDefault();
-  var this_column = e.delegateTarget;
   var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
-  var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
-  $('.coltxt').not(this_column).each(function() {
-      var col = $(this).attr('id').replace('txt','');
-      var mod_idx = $('#' + col + 'mod').val();
-      var $coltxt = $('#' + col + 'txt');
-      if (colpaper_map[col] != paper) { /* need to load a different paper */
-         $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
-             var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
-             $('#' + col + 'title').html(title);
-             colpaper_map[col] = paper;
-             $coltxt.scrollTo(href, delay);
-         });
-      } else {
-         $coltxt.scrollTo(href, delay);
-      }
-  });
-  $(this_column).scrollTo(href, delay);
+  var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
+  if (fnpat.exec(href)) $('#notes').scrollTo(href, delay);
+  else {
+     var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
+     var this_column = e.delegateTarget;
+     $('.coltxt').not(this_column).each(function() {
+         var col = $(this).attr('id').replace('txt','');
+         var mod_idx = $('#' + col + 'mod').val();
+         var $coltxt = $('#' + col + 'txt');
+         if (colpaper_map[col] != paper) { /* need to load a different paper */
+            $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+                var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
+                $('#' + col + 'title').html(title);
+                colpaper_map[col] = paper;
+                $coltxt.scrollTo(href, delay);
+            });
+         } else {
+            $coltxt.scrollTo(href, delay);
+         }
+     });
+     $(this_column).scrollTo(href, delay);
+  }
   $('#search_text').focus();
 });
 
