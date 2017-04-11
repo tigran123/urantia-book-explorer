@@ -121,28 +121,32 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
   e.preventDefault();
   var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
-  var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
-  var $coltxt = $('#' + active_column + 'txt');
-  var $marks = $(this).parent().find('mark');
-  var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
-  if (colpaper_map[active_column] != paper) { /* need to load a different paper */
-     var mod_idx = $('#' + active_column + 'mod').val();
-     $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
-        var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
-        $('#' + active_column + 'title').html(title);
-        colpaper_map[active_column] = paper;
+  var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
+  if (fnpat.exec(href)) $('#notes').scrollTo(href, delay);
+  else {
+     var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
+     var $coltxt = $('#' + active_column + 'txt');
+     var $marks = $(this).parent().find('mark');
+     var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
+     if (colpaper_map[active_column] != paper) { /* need to load a different paper */
+        var mod_idx = $('#' + active_column + 'mod').val();
+        $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+           var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
+           $('#' + active_column + 'title').html(title);
+           colpaper_map[active_column] = paper;
+           $coltxt.scrollTo(href, delay);
+           $marks.each(function() { $coltxt.mark($(this).text(), mark_opts); });
+        });
+     } else {
         $coltxt.scrollTo(href, delay);
-        $marks.each(function() { $coltxt.mark($(this).text(), mark_opts); });
-     });
-  } else {
-     $coltxt.scrollTo(href, delay);
-     $marks.each(function(idx, el) { $coltxt.mark($(this).text(), mark_opts); });
-  }
-  var colclass = $('.' + active_column);
-  if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
-      colclass.removeClass('hidden');
-      $('#max_width').click();
-      $('#search_results').scrollTo(href, delay);
+        $marks.each(function(idx, el) { $coltxt.mark($(this).text(), mark_opts); });
+     }
+     var colclass = $('.' + active_column);
+     if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
+         colclass.removeClass('hidden');
+         $('#max_width').click();
+         $('#search_results').scrollTo(href, delay);
+     }
   }
   $('#search_text').focus();
 });
