@@ -2,6 +2,7 @@
 ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
+$pattern_ar='';
 $matches = [];
 $par_count = 0;
 $match_count = 0;
@@ -12,6 +13,7 @@ if (isset($text)) {
    $ic = isset($_GET['ic']) ?  $_GET['ic'] : 1;
    $search_range = isset($_GET['search_range']) ?  $_GET['search_range'] : 0;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
+   $search_mode = isset($_GET['search_mode']) ?  $_GET['search_mode'] : 0;
    $time_start = microtime(true);
    switch ($search_part) {
       case 0:
@@ -47,40 +49,63 @@ if (isset($text)) {
    //+ - любое количество букв (от единицы и больше)
    //цифры ищутся только по тексту (номер параграфа исключается)
 
-   $search = ["/([.?])/u",                       //Экранируем точку и вопрос, и возможно обрамленные тегом
-              "/([,;!—–-]|[^?]:)/u",             //Заменяем знаки препинания на возможно обрамленные тегом. Отдельно выделил : с предпроверкой НЕ впередистоящего ?
-              "/([^\w])-/u",                     //Заменяем минус на символ длинного тире
-              "/\'/u",                           //Заменяем одиночную кавычку на символ апострофа
-              "/\*/u",                           //Заменяем символ * на спецстроку
-              "/\+/u",                           //Заменяем символ + на спецстроку
-              "/([*+]?\b(?!\w+>)\w+\b[*+]?)/u",  //Заменяем все слова в строке поиска, в том числе с маской *, на обрамленные в тэг <em> и возможные знаки препинания
-              "/(?<![<\\\\])\//u"];              //Заменяем слеш на экранированный с условием, что это не закрывающий тэг
+   switch ($search_mode) {
+      case 0:   //точный поиск
+         $search = ["/([.?])/u",                     //Экранируем точку и вопрос, и возможно обрамленные тегом
+                  "/([,;!—–-]|[^?]:)/u",             //Заменяем знаки препинания на возможно обрамленные тегом. Отдельно выделил : с предпроверкой НЕ впередистоящего ?
+                  "/([^\w])-/u",                     //Заменяем минус на символ длинного тире
+                  "/\'/u",                           //Заменяем одиночную кавычку на символ апострофа
+                  "/\*/u",                           //Заменяем символ * на спецстроку
+                  "/\+/u",                           //Заменяем символ + на спецстроку
+                  "/([*+]?\b(?!\w+>)\w+\b[*+]?)/u",  //Заменяем все слова в строке поиска, в том числе с маской *, на обрамленные в тэг <em> и возможные знаки препинания
+                  "/(?<![<\\\\])\//u"];              //Заменяем слеш на экранированный с условием, что это не закрывающий тэг
 
-   $replace = ["\\\\$1".$_em,
-               "$1".$_em,
-               "$1(?:[—–])",
-               "’?".$_em,
-               "zzddzz",
-               "ppddpp",
-               "(?:<em>)?".$sign_before."(?<!<)\b$1\b(?!>)".$sign_after.$_em,
-               "(?<![<\\\\\\\\])\\\\/"];
-   $pattern = '(' . preg_replace ($search, $replace, $text) . ')';
+         $replace = ["\\\\$1".$_em,
+                     "$1".$_em,
+                     "$1(?:[—–])",
+                     "’?".$_em,
+                     "zzddzz",
+                     "ppddpp",
+                     "(?:<em>)?".$sign_before."(?<!<)\b$1\b(?!>)".$sign_after.$_em,
+                     "(?<![<\\\\\\\\])\\\\/"];
+         $pattern = '(' . preg_replace ($search, $replace, $text) . ')';
 
-   //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
-   $pattern = preg_replace('/\[\.,;“"«„!\?\(—–-\]\?\\\\s\?/u', '', $pattern, 1);
-   $search = ['zzddzz',                       //Заменяем спецстроку на любое количество словесных символов
-              'ppddpp',                       //Заменяем спецстроку на любое количество словесных символов, как минимум один
-               $sign_after.$_em.')',          //Переставляем скобку левее
-               $link_mask];                   //Заменяем маску ссылки на регулярное выражение 
-   $replace = ['\\w*',
-               "\\w+",
-               ')('.$sign_after.$_em.')',
-               $link_mask_re];
-   $pattern = '/' . str_replace($search,$replace, $pattern) . '/u';
-   if ($ic) $pattern .= 'i';
+         //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
+         $pattern = preg_replace('/\[\.,;“"«„!\?\(—–-\]\?\\\\s\?/u', '', $pattern, 1);
+         $search = ['zzddzz',                                  //Заменяем спецстроку на любое количество словесных символов
+                    'ppddpp',                                  //Заменяем спецстроку на любое количество словесных символов, как минимум один
+                    $sign_after.$_em.')',                      //Переставляем скобку левее
+                    $link_mask];                               //Заменяем маску ссылки на регулярное выражение 
+         $replace = ['\\w*',
+                     "\\w+",
+                     ')('.$sign_after.$_em.')',
+                     $link_mask_re];
+         $pattern = '/' . str_replace($search,$replace, $pattern) . '/u';
+         break;
+      case 1:   //все слова
+         $res_t = preg_replace ('/(?<=\W|^)[*+](?=\W|$)/u', '', $text); //Убираем отдельно стоящие символы * и +. Их использовать можно только в составе слова
+         $text = trim($res_t);
+         $search = ["/\*/u",                                   //Заменяем символ * (любые символы) на спецстроку
+                    "/\+/u",                                   //Заменяем символ + (любые символы, как минимум один) на спецстроку
+                    "/(?<![<\\\\])\//u"];                      //Заменяем слеш на экранированный с условием, что это не закрывающий тэг
+         $replace = ['\\w*',
+                     '\\w+',
+                     "(?<![<\\\\\\\\])\\\\/"];
+         $text = preg_replace ($search, $replace, $text);
+         $pattern_ar = preg_split('/\s+/',$text);              //Создаем из строки поиска массив из слов
+         break;
+      case 2:   //любое слово
+         $pattern = str_replace(' ','\\b|\\b', trim($text));   //Заменяем пробел на ИЛИ
+         $pattern = str_replace('*','\\w*', $pattern);         //Заменяем символ * (любые символы) на спецстроку
+         $pattern = str_replace('+','\\w+', $pattern);         //Заменяем символ + (любые символы, как минимум один) на спецстроку
+         $pattern = '/(\\b' . $pattern . '\\b)/u';             
+         break;
+   }
+   if (is_array($pattern_ar) == false) $pattern_ar[]=$pattern;
+   $i_mode = ($ic) ? 'i' : '';
    if ($search_range > 0) {
       $replace = '<mark>$1</mark>';
-      $matched_lines = preg_filter($pattern, $replace, file($textdir . "/toc.html"));
+      $matched_lines = preg_filter($pattern.$i_mode, $replace, file($textdir . "/toc.html"));
       foreach($matched_lines as $line) {
          $par_count++;
          $match_count++;
@@ -94,17 +119,30 @@ if (isset($text)) {
          foreach($lines as $line) {
             preg_match('/^<p>(.*?a>)/u', $line, $ref);
             $mask = [];
-            $ref_a_total = preg_match_all('/<a\shref.*?a>/u', $line, $all_ref); //Запоминаем все ссылки из текста
+            $ref_a_total = preg_match_all('/<a\shref.*?a>/u', $line, $all_ref);  //Запоминаем все ссылки из текста
             for ($r = 0; $r < $ref_a_total; $r++)
-               $mask[] = '<***'.$r.'>'; //Уникальная маска для каждой ссылки
-            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line); //Убираем заголовки, номера абзацев
-            if ($ref_a_total) $line = str_replace($all_ref[0], $mask, $line); //Убираем ссылки
-            $matched_line = preg_replace_callback($pattern, 'text_replace', $line, -1, $count);
-            if ($count > 0) {
+               $mask[] = '<***'.$r.'>';                                          //Уникальная маска для каждой ссылки
+            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line);    //Убираем заголовки, номера абзацев
+            if ($ref_a_total) $line = str_replace($all_ref[0], $mask, $line);    //Убираем ссылки
+            if ($search_mode == 1) {                                             //Для режима "Все слова" проверяем, 
+               foreach ($pattern_ar as $pattern) {                               //а попадают ли слова в абзац? 
+                  $res = preg_match('/\\b' .$pattern. '\\b/u'.$i_mode,$line);
+                  if ($res == 0) break;                                          //Если хоть одно слово не найдено,
+               }
+               if ($res == 0) continue;                                          //то ищем следующий абзац
+            }
+            $matched_line = $line;
+            $p_count = 0;
+            foreach ($pattern_ar as $pattern) {
+               $pattern = ($search_mode !=1 ) ?  $pattern.$i_mode : '/(\\b' .$pattern. '\\b)()/u'.$i_mode;
+               $matched_line = preg_replace_callback($pattern, 'text_replace', $matched_line, -1, $count);
+               $match_count += $count;
+               $p_count += $count;                                               //Подсчитываем вхождение всех слов в абзаце
+            }
+            if ($p_count > 0) {
                $par_count++;
                if ($ref_a_total) $matched_line = str_replace($mask, $all_ref[0], $matched_line); //Возвращаем ссылки обратно
-               $matches[] = "<p><span class='hit'>[".$count."/".$par_count."]&nbsp;</span>".$ref[1].$matched_line;
-               $match_count += $count;
+               $matches[] = "<p><span class='hit'>[".$p_count."/".$par_count."]&nbsp;</span>".$ref[1].$matched_line;
             }
          }
       }
