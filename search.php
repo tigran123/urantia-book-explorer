@@ -12,6 +12,7 @@ if (isset($text)) {
    $ic = isset($_GET['ic']) ?  $_GET['ic'] : 1;
    $search_range = isset($_GET['search_range']) ?  $_GET['search_range'] : 0;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
+   $search_mode = isset($_GET['search_mode']) ?  $_GET['search_mode'] : 0;
    $time_start = microtime(true);
    switch ($search_part) {
       case 0:
@@ -33,6 +34,17 @@ if (isset($text)) {
       case 4:
          $i_min = 120;
          $i_max = 196;
+         break;
+   }
+   switch ($search_mode) {
+      case 0:                             //точный поиск
+         $w_dist = '';
+         break;
+      case 1:                             //все слова
+         $w_dist = '(?:\w*?\s)*';         //любое количество слов
+         break;
+      case 2:                             //любое слово
+         $w_dist = '';
          break;
    }
    $sign_before   = '[.,;“"«„!?(—–-]?\s?'; //здесь —, – и - это разные тире (emdash, endash, hyphen)
@@ -62,12 +74,14 @@ if (isset($text)) {
                "’?".$_em,
                "zzddzz",
                "ppddpp",
-               "(?:<em>)?".$sign_before."(?<!<)\b$1\b(?!>)".$sign_after.$_em,
+               "(?:<em>)?".$sign_before.$w_dist."(?<!<)\b$1\b(?!>)".$sign_after.$_em,
                "(?<![<\\\\\\\\])\\\\/"];
    $pattern = '(' . preg_replace ($search, $replace, $text) . ')';
 
    //убираем первое вхождение знаков, чтобы не выделялись предшествующие пробелы, запятые и пр. символы...
    $pattern = preg_replace('/\[\.,;“"«„!\?\(—–-\]\?\\\\s\?/u', '', $pattern, 1);
+   //убираем первое вхождение w_dist
+   $pattern = preg_replace('/\(\?:\\\\w\*\?\\\\s\)\*/u', '', $pattern, 1);//(?:\w*?\s)*
    $search = ['zzddzz',                       //Заменяем спецстроку на любое количество словесных символов
               'ppddpp',                       //Заменяем спецстроку на любое количество словесных символов, как минимум один
                $sign_after.$_em.')',          //Переставляем скобку левее

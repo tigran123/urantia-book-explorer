@@ -269,7 +269,8 @@ $('#search').click(function(event) {
     } else {
        var search_part = '&search_part=' + $('#search_part').val();
        var search_range = '&search_range=' + $('#search_range').val();
-       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
+       var search_mode = '&search_mode=' + $('#search_mode').val();
+       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range + search_mode;
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, dataType: 'json', success: function(data) {
