@@ -269,7 +269,9 @@ $('#search').click(function(event) {
     } else {
        var search_part = '&search_part=' + $('#search_part').val();
        var search_range = '&search_range=' + $('#search_range').val();
-       var search_req = "search.php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
+       var search_mode = $('#search_mode').val();
+       if (search_mode != 'exact') return 0; //temporarily, until search_all.php and search_any.php are implemented
+       var search_req = "search_" + search_mode + ".php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
        $('#search_text').addClass('loading').prop('disabled', true);
        $('#search').button('disable');
        $.ajax({url: search_req, dataType: 'json', success: function(data) {
