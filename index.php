@@ -31,8 +31,8 @@ if ($animations == 1) $animations_checkbox .= "<input id='animations' type='chec
 else $animations_checkbox .= "<input id='animations' type='checkbox' value='1'>";
 
 $text_options = "<optgroup label='$ORIGINALS'>".
-"<option value=0 title='The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain'>English: SRT 0.20</option>".
 "<option value=1 title='Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk'>English: British Study Edition</option>".
+"<option value=0 title='The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain'>English: SRT (American)</option>".
                "</optgroup>".
                 "<optgroup label='$TRANSLATIONS'>".
 "<option value=2 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Русский: UF 1997-1.9</option>".
@@ -40,7 +40,7 @@ $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=4 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Deutsch: UF 2015-1</option>".
                "</optgroup>".
                 "<optgroup label='$DRAFTS'>".
-"<option value=5 title='&#169;&nbsp;Urantia&nbsp;Book&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Русский: UBSGNY 2017-1</option>".
+"<option value=5 title='&#169;&nbsp;Urantia&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Русский: USGNY 2017-1</option>".
                "</optgroup>";
 
 echo $htmlhead;
