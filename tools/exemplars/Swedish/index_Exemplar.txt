@@ -1,0 +1,24 @@
+﻿[0] Urantiaboken: hemsida
+[1] Urantiaboken
+[2] {img_1}
+[3] ® Registrerade varumärken av URANTIA Foundation
+[4] URANTIA FOUNDATION
+[5] CHICAGO ILLINOIS
+[6] 2008 Swedish Translation
+[7] Svensk översättning
+[8] Delar av boken
+[9] Kapitelrubriker
+[10] Innehållsförteckning
+[11] TIN: UF-SWE-001-2010-1
+[12] 2010 Urantia Foundation
+[13] Utgivaren förbehåller sig all upphovsrätt, inklusive rätten till översättning i USA, Sverige, Finland och andra stater som har undertecknat det internationella avtalet om upphovsrätt. Även all partiell kopiering av texten och återgivning på elektroniskt eller annat sätt är förbjuden utan skriftligt tillstånd från upphovsrättens innehavare.
+[14] Framställningar härom riktas till utgivaren:
+[15] Urantia Foundation
+[16] 533 Diversey Parkway
+[17] Chicago, IL 60614, USA
+[18] Tel. +1 (773) 525-3319
+[19] Fax +1 (773) 525-7739
+[20] Website: http://www.urantia.org
+[21] Email: urantia@urantia.org
+[22] URANTIA och märket {img_3} är varuoch servicemärken som har registrerats av Urantia Foundation.
+[23] Urantiaboken är en översättning av {i{i{The Urantia Book,}i}i} ett verk som Urantia Foundation publicerade på engelska år 1955. Detta är den första utgåvan av Urantiaboken, som är en i allt väsentligt mycket noggrann översättning av innehållet i den engelska texten. Då Urantiaboken är en produkt av mänskligt bemödande och därför ofullkomlig, bör den engelska texten konsulteras vid eventuell osäkerhet. Urantia Foundation kan besluta att nyansera och förbättra denna översättning i en senare utgåva.

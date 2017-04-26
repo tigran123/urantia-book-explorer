@@ -1,0 +1,216 @@
+[0] Cartea Urantia: Titlurile Capitolelor
+[1] Cartea Urantia
+[2] Pagina
+[3] Părţi din Cartea
+[4] Titlurile Capitolelor
+[5] Conţinutul Cărţii
+[6] Titlurile Capitolelor
+[7] Partea I
+[8] Universul Central şi Supraunversurile
+[9] Cartea . Titlu . Autor
+[10] 000. Introducere . Consilier Divin
+[11] 001. Tatăl Universal . Consilier Divin
+[12] 002. Natura lui Dumnezeu . Consilier Divin
+[13] 003. Atributele lui Dumnezeu . Consilier Divin
+[14] 004. Relaţiile lui Dumnezeu cu universul . Consilier Divin
+[15] 005. Relaţia lui Dumnezeu cu individul . Consilier Divin
+[16] 006. Fiul Etern . Consilier Divin
+[17] 007. Poziţia Fiului Etern faţă de univers . Consilier Divin
+[18] 008. Spiritul Infinit . Consilier Divin
+[19] 009. Relaţia Spiritului Infinit cu universul . Consilier Divin
+[20] 010. Trinitatea paradisului . Cenzor Universal
+[21] 011. Insula eternă a paradisului . Desăvârşitor al Întelepciunii
+[22] 012. Universul universurilor . Desăvârşitor al Întelepciunii
+[23] 013. Sferele sacre ale paradisului . Desăvârşitor al Întelepciunii
+[24] 014. Universul central şi divin . Desăvârşitor al Întelepciunii
+[25] 015. Cele Şapte suprauniversuri . Cenzor Universal
+[26] 016. Cele Şapte Spirite Maestru . Cenzor Universal
+[27] 017. Cele şapte grupuri de spirite supreme . Consilier Divin
+[28] 018. Personalităţile Supreme ale Trinităţii . Consilier Divin
+[29] 019. Fiinţe coordonate de origine trinitară . Consilier Divin
+[30] 020. Fiii paradisiaci ai lui Dumnezeu . Desăvârşitor al Întelepciunii
+[31] 021. Fiii Creatori Paradisiaci . Desăvârşitor al Întelepciunii
+[32] 022. Fiii lui Dumnezeu trinitizaţi . Puternic mesager
+[33] 023. Mesagerii solitari . Consilier Divin
+[34] 024. Personalităţi superioare ale spiritului infinit . Consilier Divin
+[35] 025. Oştirile mesagerilor spaţiului . Un Înălţat în Autoritate
+[36] 026. Spiritele ocrotitoare ale universului central . Desăvârşitor al Întelepciunii
+[37] 027. Serviciul supernafimilor primari . Desăvârşitor al Întelepciunii
+[38] 028. Spiritele ocrotitoare ale suprauniversurilor . Puternic Mesager
+[39] 029. Directorii de putere ai universului . Cenzor Universal
+[40] 030. Personalităţi ale marelui univers . Puternic Mesager
+[41] 031. Corpul Finalităţii . Consilier Divin şi de Unul Fără de Nume şi de Număr
+[42] Partea a II a
+[43] Universul Local
+[44] Cartea . Titlu . Autor
+[45] 032. Evoluţia universurilor locale . Puternic Mesager
+[46] 033. Administrarea universului local . Căpetenia Arhanghelilor
+[47] 034. Spiritul-mamă al universului local . Puternic Mesager
+[48] 035. Fiii lui Dumnezeu ai universului local . Căpetenia Arhanghelilor
+[49] 036. Purtătorii vieţii . Fiu Vorondadek
+[50] 037. Personalităţi ale universului local . Strălucitoare Stea de Seară
+[51] 038. Spirite ocrotitoare ale universului local . Melchizedek
+[52] 039. Oştirile serafice . Melchizedek
+[53] 040. Fiii ascendenţi ai lui Dumnezeu . Puternic Mesager
+[54] 041. Aspecte fizice ale universului local . Arhanghel
+[55] 042. Energia — mintea şi materia . Puternic Mesager
+[56] 043. Constelaţiile . Malavatia Melchizedek
+[57] 044. Artizanii celeşti . Arhanghel
+[58] 045. Administrarea sistemului local . Melchizedek
+[59] 046. Sediul sistemului local . Arhanghel
+[60] 047. Cele şapte lumi palat . Strălucitoare Stea de Seară
+[61] 048. Viaţa morontială . Arhanghel
+[62] 049. Lumile locuite . Melchizedek
+[63] 050. Prinţii Planetari . Lanonandek Secundar
+[64] 051. Adamii planetari . Lanonandek Secundar
+[65] 052. Epocile planetare ale muritorilor . Puternic Mesager
+[66] 053. Rebeliunea lui Lucifer . Manovandet Melchizedek
+[67] 054. Problemele rebeliunii lui Lucifer . Puternic Mesager
+[68] 055. Sferele luminii şi ale vieţii . Puternic Mesager
+[69] 056. Unitate universală . Puternic Mesager şi Machiventa Melchizedek
+[70] Partea a III a
+[71] Istoria Urantia
+[72] Cartea . Titlu . Autor
+[73] 057. Originea Urantiei . Purtator al Vieţii
+[74] 058. Stabilirea vieţii pe Urantia . Purtator al Vieţii
+[75] 059. Era vieţii marine pe Urantia . Purtator al Vieţii
+[76] 060. Urantia pe parcursul erei vieţii terestre primitive . Purtator al Vieţii
+[77] 061. Era mamiferelor pe Urantia . Purtator al Vieţii
+[78] 062. Rasele la aurora omului primitiv . Purtator al Vieţii
+[79] 063. Prima familie umană . Purtator al Vieţii
+[80] 064. Rasele evolutive de culoare . Purtator al Vieţii
+[81] 065. Supracontrolul evoluţiei . Purtator al Vieţii
+[82] 066. Prinţul planetar al urantiei . Melchizedek
+[83] 067. Rebeliunea planetară . Melchizedek
+[84] 068. Începutul civilizaţiei . Melchizedek
+[85] 069. Instituţiile umane primitive . Melchizedek
+[86] 070. Evoluţia guvernului uman . Melchizedek
+[87] 071. Dezvoltarea statului . Melchizedek
+[88] 072. Guvernul pe o planetă vecină . Melchizedek
+[89] 073. Grădina Edenului . Solonia
+[90] 074. Adam şi Eva . Solonia
+[91] 075. Greşeala lui Adam şi a Evei . Solonia
+[92] 076. A doua grădină . Solonia
+[93] 077. Creaturile mediane . Arhanghel
+[94] 078. Rasa violetă după zilele lui Adam . Arhanghel
+[95] 079. Expansiunea andită în orient . Arhanghel
+[96] 080. Expansiunea Andită în Occident . Arhanghel
+[97] 081. Dezvoltarea civilizaţiei moderne . Arhanghel
+[98] 082. Evoluţia căsătoriei . Şeful serafimilor
+[99] 083. Instituţia căsătoriei . Şeful Serafimilor
+[100] 084. Căsătoria şi viaţa familială . Şeful Serafimi
+[101] 085. Originile adoraţiei . Strălucitoare Stea de Seară
+[102] 086. Evoluţia primitivă a religiei . Strălucitoare Stea de Seară
+[103] 087. Cultele fantomelor . Strălucitoare Stea de Seară
+[104] 088. Fetişurile, farmecele şi magia . Strălucitoare Stea de Seară
+[105] 089. Păcatul, sacrificiul şi ispăşirea . Strălucitoare Stea de Seară
+[106] 090. Şamanismul — vraciul şi preoţii . Melchizedek
+[107] 091. Evoluţia rugăciunii . Şeful Medianilor
+[108] 092. Evoluţia ulterioară a religiei . Melchizedek
+[109] 093. Machiventa Melchizedek . Melchizedek
+[110] 094. Învăţăturile lui Melchizedek în Orient . Melchizedek
+[111] 095. Învăţăturile lui Melchizedek în Levant . Melchizedek
+[112] 096. Yahweh — Dumnezeul evreilor . Melchizedek
+[113] 097. Evoluţia conceptului de Dumnezeu la Evrei . Melchizedek
+[114] 098. Învăţăturile lui Melchizedek în Occident . Melchizedek
+[115] 099. Problemele sociale ale religiei . Melchizedek
+[116] 100. Religia în experienţa umană . Melchizedek
+[117] 101. Natura reală a religiei . Melchizedek
+[118] 102. Fundamentele credinţei religioase . Melchizedek
+[119] 103. Realitatea experienţei religioase . Melchizedek
+[120] 104. Creşterea conceptului trinităţii . Melchizedek
+[121] 105. Deitate şi realitate . Melchizedek
+[122] 106. Nivelurile realităţii universului . Melchizedek
+[123] 107. Originea şi natura ajustorilor gândirii . Mesager Solitar
+[124] 108. Misiunea şi ajutorul ajustorilor gândirii . Mesager Solitar
+[125] 109. Poziţia ajustorilor în raport cu creaturile universului . Mesager Solitar
+[126] 110. Poziţia Ajustorilor în raport cu muritorii individuali . Mesager Solitar
+[127] 111. Ajustorul şi sufletul . Mesager Solitar
+[128] 112. Supravietuirea personalitătii . Mesager Solitar
+[129] 113. Păzitorii Serafici ai Destinului . Conducător al Serafimilor
+[130] 114. Guvernarea planetară a serafimilor . Conducător al Serafimilor
+[131] 115. Fiinţa Supremă . Puternic Mesager
+[132] 116. Atotputernicul suprem . Puternic Mesager
+[133] 117. Dumnezeu Supremul . Puternic Mesager
+[134] 118. Cel suprem şi cel ultim - timpul şi spaţiul . Puternic Mesager
+[135] 119. Efuziunile lui Christ Mihail . Puternic Mesager
+[136] Partea a IV a
+[137] Viaţa şi învăţăturile lui Iisus
+[138] Cartea . Titlu . Autor
+[139] 120. Manifestarea lui Mihail pe Urantia . Mantutia Melchizedek
+[140] 121. Epoca manifestării lui Mihail . Comisia Medianilor
+[141] 122. Naşterea şi pruncia lui Iisus . Comisia Medianilor
+[142] 123. Prima copilărie a lui Iisus . Comisia Medianilor
+[143] 124. Ultima parte a copilăriei lui Iisus . Comisia Medianilor
+[144] 125. Iisus la Ierusalim . Comisia Medianilor
+[145] 126. Cei doi ani cruciali . Comisia Medianilor
+[146] 127. Anii adolescenţei . Comisia Medianilor
+[147] 128. Viaţa de tânăr a lui Iisus . Comisia Medianilor
+[148] 129. Urmarea vieţii de adult a lui Iisus . Comisia Medianilor
+[149] 130. În drum către Roma . Comisia Medianilor
+[150] 131. Religiile lumii . Comisia Medianilor
+[151] 132. Şederea la Roma . Comisia Medianilor
+[152] 133. Reîntoarcerea de la Roma . Comisia Medianilor
+[153] 134. Anii de tranziţie . Comisia Medianilor
+[154] 135. Ioan Botezătorul . Comisia Medianilor
+[155] 136. Botezul şi cele patruzeci de zile . Comisia Medianilor
+[156] 137. Şederea în aşteptare din Galileea . Comisia Medianilor
+[157] 138. Formarea mesagerilor împărăţiei . Comisia Medianilor
+[158] 139. Cei doisprezece apostoli . Comisia Medianilor
+[159] 140. Hirotonisirea celor doisprezece . Comisia Medianilor
+[160] 141. Începutul lucrării publice . Comisia Medianilor
+[161] 142. Paştele la Ierusalim . Comisia Medianilor
+[162] 143. Traversarea Samariei . Comisia Medianilor
+[163] 144. La Gilboa şi în Decapolis . Comisia Medianilor
+[164] 145. Patru zile memorabile în Capernaum . Comisia Medianilor
+[165] 146. Primul turneu de predicare în Galileea . Comisia Medianilor
+[166] 147. Interludiul vizitei la Ierusalim . Comisia Medianilor
+[167] 148. Formarea evangheliştilor în Betsaida . Comisia Medianilor
+[168] 149. Cel de-al doilea turneu de predicare . Comisia Medianilor
+[169] 150. Cel de-al treilea turneu de predicare . Comisia Medianilor
+[170] 151. Şederea şi învăţătura la ţărmul mării . Comisia Medianilor
+[171] 152. Evenimentele premergătoare crizei din Capernaum . Comisia Medianilor
+[172] 153. Criza din Capernaum . Comisia Medianilor
+[173] 154. Ultimele zile la Capernaum . Comisia Medianilor
+[174] 155. Fugind prin Galileea nordică . Comisia Medianilor
+[175] 156. Şederea la tyr Tyr şi la Sidon . Comisia Medianilor
+[176] 157. În Cezareea lui Filip . Comisia Medianilor
+[177] 158. Muntele transfigurării . Comisia Medianilor
+[178] 159. Turneul din decapolis . Comisia Medianilor
+[179] 160. Rodan din Alexandria . Comisia Medianilor
+[180] 161. Urmarea discuţiilor lui Rodan . Comisia Medianilor
+[181] 162. Sărbătoarea Tabernacolelor . Comisia Medianilor
+[182] 163. Hirotonisirea celor şapte zeci la Magadan . Comisia Medianilor
+[183] 164. Sărbătoarea dedicării . Comisia Medianilor
+[184] 165. Misiunea din pereea Pereea începe . Comisia Medianilor
+[185] 166. Ultimul turneu în Pereea de nord . Comisia Medianilor
+[186] 167. Vizita la filadelfia . Comisia Medianilor
+[187] 168. Reînvierea lui Lazăr . Comisia Medianilor
+[188] 169. Ultimele învăţături din Pella . Comisia Medianilor
+[189] 170. Împărăţia Cerurilor . Comisia Medianilor
+[190] 171. Pe drumul Ierusalimului . Comisia Medianilor
+[191] 172. Intrarea în Ierusalim . Comisia Medianilor
+[192] 173. Luni în Ierusalim . Comisia Medianilor
+[193] 174. Marţi dimineaţa la templu . Comisia Medianilor
+[194] 175. Ultimul discurs de la templu . Comisia Medianilor
+[195] 176. Marţi dimineaţa pe Muntele Măslinilor . Comisia Medianilor
+[196] 177. Miercuri, ziua de odihnă . Comisia Medianilor
+[197] 178. Ultima zi în tabără . Comisia Medianilor
+[198] 179. Cina cea Din Urmă . Comisia Medianilor
+[199] 180. Discursul de adio . Comisia Medianilor
+[200] 181. Ultimele încurajări şi avertismente . Comisia Medianilor
+[201] 182. La Ghetsimani . Comisia Medianilor
+[202] 183. Iisus trădat şi arestat . Comisia Medianilor
+[203] 184. În faţa tribunalului Sinedriului . Comisia Medianilor
+[204] 185. Judecata în faţa lui Pilat . Comisia Medianilor
+[205] 186. Cu puţin Înainte de răstignire . Comisia Medianilor
+[206] 187. Răstignirea . Comisia Medianilor
+[207] 188. Ceasul Înmormântării . Comisia Medianilor
+[208] 189. Învierea . Comisia Medianilor
+[209] 190. Apariţiile morontiale ale lui Iisus . Comisia Medianilor
+[210] 191. Apariţia apostolilor şi a altor ucenici influenţi . Comisia Medianilor
+[211] 192. Apariţiile în Galileea . Comisia Medianilor
+[212] 193. Apariţiile finale şi urcarea la cer . Comisia Medianilor
+[213] 194. Revărsarea Spiritului Adevărului . Comisia Medianilor
+[214] 195. După rusalii . Comisia Medianilor
+[215] 196. Credinţa lui Iisus . Comisia Medianilor

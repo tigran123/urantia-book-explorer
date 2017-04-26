@@ -1,0 +1,216 @@
+[0] Urantijos knyga: Dokumentų pavadinimai
+[1] Urantijos knyga
+[2] Pagrindinis puslapis
+[3] Knygos dalys
+[4] Dokumentų pavadinimai
+[5] Knygos turinys
+[6] Dokumentų pavadinimai
+[7] I DALIS.
+[8] Centrinė visata ir supervisatos
+[9] Dokumentas . Autorius
+[10] 000. Įvadas . Dieviškasis Patarėjas
+[11] 001. Visuotinis Tėvas . Dieviškasis Patarėjas
+[12] 002. Dievo prigimtis . Dieviškasis Patarėjas
+[13] 003. Dievo požymiai . Dieviškasis Patarėjas
+[14] 004. Dievo ryšys su visata . Dieviškasis Patarėjas
+[15] 005. Dievo ryšys su individu . Dieviškasis Patarėjas
+[16] 006. Amžinasis Sūnus . Dieviškasis Patarėjas
+[17] 007. Amžinojo Sūnaus ryšys su visata . Dieviškasis Patarėjas
+[18] 008. Begalinė Dvasia . Dieviškasis Patarėjas
+[19] 009. Begalinės Dvasios ryšys su visata . Dieviškasis Patarėjas
+[20] 010. Rojaus Trejybė . Visuotinis Cenzorius
+[21] 011. Amžinoji Rojaus Sala . Išminties Tobulintojas 
+[22] 012. Visatų visata . Išminties Tobulintojas
+[23] 013. Rojaus šventosios sferos . Išminties Tobulintojas
+[24] 014. Centrinė ir dieviškoji visata . Išminties Tobulintojas
+[25] 015. Septynios supervisatos . Visuotinis Cenzorius
+[26] 016. Septynios Pagrindinės Dvasios . Visuotinis Cenzorius
+[27] 017. Septynios Aukščiausiųjų Dvasių grupės . Dieviškasis Patarėjas 
+[28] 018. Aukščiausiosios Trejybės Asmenybės . Dieviškasis Patarėjas
+[29] 019. Iš Trejybės Kilusios Lygiavertės Būtybės . Dieviškasis Patarėjas
+[30] 020. Dievo Rojaus Sūnūs . Išminties Tobulintojas
+[31] 021. Rojaus Sūnūs Kūrėjai . Išminties Tobulintojas
+[32] 022. Sutrejybinti Dievo Sūnūs . Galingasis Žinianešys
+[33] 023. Atsiskyrusieji Žinianešiai . Dieviškasis Patarėjas
+[34] 024. Begalinės Dvasios Aukščiausiosios Asmenybės . Dieviškasis Patarėjas
+[35] 025. Erdvės Žinianešių gausybės . Vienas Aukštai Valdžioje
+[36] 026. Centrinės visatos tarnaujančiosios dvasios . Išminties Tobulintojas
+[37] 027. Pirminių supernafimų tarnavimas . Išminties Tobulintojas
+[38] 028. Supervisatų tarnaujančiosios dvasios . Galingasis Žinianešys
+[39] 029. Visatos Energijos Reguliuotojai . Visuotinis Cenzorius
+[40] 030. Didžiosios visatos asmenybės . Galingasis Žinianešys
+[41] 031. Užbaigtumo Korpusai . Dieviškasis Patarėjas ir Vienas Be Vardo ir Skaičiaus
+[42] II DALIS.
+[43] Vietinė visata
+[44] Dokumentas . Autorius
+[45] 032. Vietinių visatų evoliucija . Galingasis Žinianešys
+[46] 033. Vietinės visatos administracija . Archangelų Vadovas
+[47] 034. Vietinės visatos Motina Dvasia . Galingasis Žinianešys
+[48] 035. Vietinės visatos Dievo Sūnūs . Archangelų Vadovas
+[49] 036. Gyvybės Nešėjai . Sūnus Vorondadekas
+[50] 037. Vietinės visatos asmenybės . Spindinčioji Vakaro Žvaigždė 
+[51] 038. Vietinės visatos tarnaujančiosios dvasios . Melkizedekas
+[52] 039. Serafinės gausybės . Melkizedekas
+[53] 040. Kylantieji Dievo Sūnūs . Galingasis Žinianešys
+[54] 041. Vietinės visatos fiziniai aspektai . Archangelas
+[55] 042. Energija – protas ir materija . Galingasis Žinianešys
+[56] 043. Žvaigždynai . Malavatija Melkizedekas
+[57] 044. Dangiškieji Meistrai . Archangelas
+[58] 045. Vietinės sistemos administracija . Melkizedekas
+[59] 046. Vietinės sistemos būstinės . Archangelas
+[60] 047. Septyni gyvenamieji pasauliai . Spindinčioji Vakaro Žvaigždė
+[61] 048. Morontinis gyvenimas . Archangelas
+[62] 049. Apgyvendinti pasauliai . Melkizedekas
+[63] 050. Planetų Princai . Antrinis Lanonandekas
+[64] 051. Planetų Adomai . Antrinis Lanonandekas
+[65] 052. Planetinės mirtingųjų epochos . Galingasis Žinianešys
+[66] 053. Liuciferio maištas . Manovandetas Melkizedekas
+[67] 054. Liuciferio maišto problemos . Galingasis Žinianešys
+[68] 055. Šviesos ir gyvenimo sferos . Galingasis Žinianešys
+[69] 056. Visuotinė Vienybė . Galingasis Žinianešys ir Makiventa Melkizedekas
+[70] III DALIS.
+[71] Urantijos istorija
+[72] Dokumentas . Autorius
+[73] 057. Urantijos kilmė . Gyvybės Nešėjas
+[74] 058. Gyvybės įkūrimas Urantijoje . Gyvybės Nešėjas
+[75] 059. Jūrinės gyvybės era Urantijoje . Gyvybės Nešėjas
+[76] 060. Urantija ankstyvosios sausumos gyvybės eroje . Gyvybės Nešėjas
+[77] 061. Žinduolių era Urantijoje . Gyvybės Nešėjas
+[78] 062. Pirmykščio žmogaus aušros rasės . Gyvybės Nešėjas
+[79] 063. Pirmoji žmogiškoji šeima . Gyvybės Nešėjas
+[80] 064. Evoliucinės spalvotosios rasės . Gyvybės Nešėjas
+[81] 065. Evoliucijos kontrolė iš viršaus . Gyvybės Nešėjas
+[82] 066. Urantijos Planetos Princas . Melkizedekas
+[83] 067. Planetos maištas . Melkizedekas
+[84] 068. Civilizacijos aušra . Melkizedekas
+[85] 069. Primityviosios žmogiškosios, institucijos . Melkizedekas
+[86] 070. Žmogiškojo valdymo evoliucija . Melkizedekas
+[87] 071. Valstybės išsivystymas . Melkizedekas
+[88] 072. Kaimyninės planetos valdymas . Melkizedekas
+[89] 073. Edeno Sodas . Solonija
+[90] 074. Adomas ir Ieva . Solonija
+[91] 075. Adomo ir Ievos pražanga . Solonija
+[92] 076. Antrasis Sodas . Solonija
+[93] 077. Tarpiniai Tvariniai . Archangelas
+[94] 078. Violetinė rasė laikmečiu po Adomo . Archangelas
+[95] 079. Anditų ekspansija Rytuose . Archangelas
+[96] 080. Anditų ekspansija Vakaruose . Archangelas
+[97] 081. Šiuolaikinės civilizacijos vystymasis . Archangelas
+[98] 082. Santuokos evoliucija . Serafimų Vadovas
+[99] 083. Santuokos institutas . Serafimų Vadovas
+[100] 084. Santuoka ir šeimyninis gyvenimas . Serafimų Vadovas
+[101] 085. Garbinimo kilmė . Spindinčioji Vakaro Žvaigždė
+[102] 086. Religijos ankstyvoji evoliucija . Spindinčioji Vakaro Žvaigždė
+[103] 087. Vėlių kultai . Spindinčioji Vakaro Žvaigždė
+[104] 088. Fetišai, talismanai, ir magija . Spindinčioji Vakaro Žvaigždė
+[105] 089. Nuodėmė, auka, ir atpirkimas . Spindinčioji Vakaro Žvaigždė
+[106] 090. Šamanizmas — kerėtojai ir žyniai . Melkizedekas
+[107] 091. Maldos evoliucija . Tarpinių Būtybių Vadovas
+[108] 092. Vėlesnė religijos evoliucija . Melkizedekas
+[109] 093. Makiventa Melkizedekas . Melkizedekas
+[110] 094. Melkizedeko mokymai Rytuose . Melkizedekas
+[111] 095. Melkizedeko mokymai Levante . Melkizedekas
+[112] 096. Jahvė — hebrajų Dievas . Melkizedekas
+[113] 097. Sampratos apie Dievą evoliucija tarp hebrajų . Melkizedekas
+[114] 098. Melkizedeko mokymai Vakaruose . Melkizedekas
+[115] 099. Religijos visuomeninės problemos . Melkizedekas
+[116] 100. Religija žmogiškajame patyrime . Melkizedekas
+[117] 101. Tikroji religijos prigimtis . Melkizedekas
+[118] 102. Religinio įtikėjimo pamatai . Melkizedekas
+[119] 103. Religinio patyrimo tikrovė . Melkizedekas
+[120] 104. Sampratos apie Trejybę augimas . Melkizedekas
+[121] 105. Dievybė ir tikrovė . Melkizedekas
+[122] 106. Tikrovės visatos lygiai . Melkizedekas
+[123] 107. Minties Derintojų kilmė ir prigimtis . Atsiskyrusysis Žinianešys
+[124] 108. Minties Derintojų misija ir tarnavimas . Atsiskyrusysis Žinianešys
+[125] 109. Derintojų ryšys su visatos tvariniais . Atsiskyrusysis Žinianešys
+[126] 110. Derintojų ryšys su individualiais mirtingaisiais . Atsiskyrusysis Žinianešys
+[127] 111. Derintojas ir siela . Atsiskyrusysis Žinianešys
+[128] 112. Asmenybės išlikimas . Atsiskyrusysis Žinianešys
+[129] 113. Serafiniai likimo sargai . Serafimų Vadovas
+[130] 114. Serafinis planetinis valdymas . Serafimų Vadovas
+[131] 115. Aukščiausioji Būtybė . Galingasis Žinianešys
+[132] 116. Visagalis Aukščiausiasis . Galingasis Žinianešys
+[133] 117. Dievas Aukščiausiasis . Galingasis Žinianešys
+[134] 118. Aukščiausiasis ir Galutinysis — Laikas ir Erdvė . Galingasis Žinianešys
+[135] 119. Kristaus Mykolo savęs padovanojimai . Vakaro Žvaigždžių Vadovas
+[136] IV DALIS.
+[137] Jėzaus gyvenimas ir mokymai
+[138] Dokumentas . Autorius
+[139] 120. Mykolo savęs padovanojimas Urantijoje . Mantutija Melkizedekas
+[140] 121. Mykolo savęs padovanojimo laikai . Tarpinių Būtybių Komisija
+[141] 122. Jėzaus gimimas ir kūdikystė . Tarpinių Būtybių Komisija
+[142] 123. Jėzaus ankstyvoji vaikystė . Tarpinių Būtybių Komisija
+[143] 124. Vėlesnioji Jėzaus vaikystė . Tarpinių Būtybių Komisija
+[144] 125. Jėzus Jeruzalėje . Tarpinių Būtybių Komisija
+[145] 126. Šie dveji lemiami metai . Tarpinių Būtybių Komisija
+[146] 127. Paauglystės metai . Tarpinių Būtybių Komisija
+[147] 128. Jėzaus ankstyvoji vyrystė . Tarpinių Būtybių Komisija
+[148] 129. Jėzaus vėlesnis suaugusiojo gyvenimas . Tarpinių Būtybių Komisija
+[149] 130. Pakeliui į Romą . Tarpinių Būtybių Komisija
+[150] 131. Pasaulio religijos . Tarpinių Būtybių Komisija
+[151] 132. Viešnagė Romoje . Tarpinių Būtybių Komisija
+[152] 133. Sugrįžimas iš Romos . Tarpinių Būtybių Komisija
+[153] 134. Pereinamieji metai . Tarpinių Būtybių Komisija
+[154] 135. Jonas Krikštytojas . Tarpinių Būtybių Komisija
+[155] 136. Pakrikštijimas ir tos keturiasdešimt dienų . Tarpinių Būtybių Komisija
+[156] 137. Belaukiant Galilėjoje . Tarpinių Būtybių Komisija
+[157] 138. Karalystės pasiuntinių rengimas . Tarpinių Būtybių Komisija
+[158] 139. Dvylika apaštalų . Tarpinių Būtybių Komisija
+[159] 140. Šių dvylikos įšventinimas . Tarpinių Būtybių Komisija
+[160] 141. Viešojo darbo pradžia . Tarpinių Būtybių Komisija
+[161] 142. Perėjimo šventė Jeruzalėje . Tarpinių Būtybių Komisija
+[162] 143. Einant per Samariją . Tarpinių Būtybių Komisija
+[163] 144. Gilbojoje ir Dekapolyje . Tarpinių Būtybių Komisija
+[164] 145. Keturios kupinos įvykių dienos Kapernaume . Tarpinių Būtybių Komisija
+[165] 146. Pirmoji pamokslavimo kelionė Galilėjoje . Tarpinių Būtybių Komisija
+[166] 147. Tarpinis apsilankymas Jeruzalėje . Tarpinių Būtybių Komisija
+[167] 148. Evangelininkų mokymas Betsaidoje . Tarpinių Būtybių Komisija
+[168] 149. Antroji pamokslavimo kelionė . Tarpinių Būtybių Komisija
+[169] 150. Trečioji pamokslavimo kelionė . Tarpinių Būtybių Komisija
+[170] 151. Laukdami ir mokydami pajūryje . Tarpinių Būtybių Komisija
+[171] 152. Įvykiai, vedantys į Kapernaumo krizę . Tarpinių Būtybių Komisija
+[172] 153. Krizė Kapernaume . Tarpinių Būtybių Komisija
+[173] 154. Paskutiniosios dienos Kapernaume . Tarpinių Būtybių Komisija
+[174] 155. Bėgimas per Galilėjos šiaurę . Tarpinių Būtybių Komisija
+[175] 156. Viešnagė Tyre ir Sidone . Tarpinių Būtybių Komisija
+[176] 157. Pilypo-Cezarėjoje . Tarpinių Būtybių Komisija
+[177] 158. Transfigūracijos Kalnas . Tarpinių Būtybių Komisija
+[178] 159. Kelionė po Dekapolį . Tarpinių Būtybių Komisija
+[179] 160. Rodanas iš Aleksandrijos . Tarpinių Būtybių Komisija
+[180] 161. Tolesnės diskusijos su Rodanu . Tarpinių Būtybių Komisija
+[181] 162. Tabernakulių šventėje . Tarpinių Būtybių Komisija
+[182] 163. Šių septyniasdešimties įšventinimas Magadane . Tarpinių Būtybių Komisija
+[183] 164. Atsidavimo šventėje . Tarpinių Būtybių Komisija
+[184] 165. Perėjos misija prasideda . Tarpinių Būtybių Komisija
+[185] 166. Paskutinis apsilankymas šiaurinėje Perėjoje . Tarpinių Būtybių Komisija
+[186] 167. Apsilankymas Filadelfijoje . Tarpinių Būtybių Komisija
+[187] 168. Lozoriaus prisikėlimas . Tarpinių Būtybių Komisija
+[188] 169. Paskutinysis mokymas Peloje . Tarpinių Būtybių Komisija
+[189] 170. Dangaus karalystė . Tarpinių Būtybių Komisija
+[190] 171. Pakeliui į Jeruzalę . Tarpinių Būtybių Komisija
+[191] 172. Ėjimas į Jeruzalę . Tarpinių Būtybių Komisija
+[192] 173. Pirmadienis Jeruzalėje . Tarpinių Būtybių Komisija
+[193] 174. Antradienio rytas šventykloje . Tarpinių Būtybių Komisija
+[194] 175. Paskutinioji kalba šventykloje . Tarpinių Būtybių Komisija
+[195] 176. Antradienio vakarą ant Alyvų Kalno . Tarpinių Būtybių Komisija
+[196] 177. Trečiadienis, poilsio diena . Tarpinių Būtybių Komisija
+[197] 178. Paskutinioji diena stovykloje . Tarpinių Būtybių Komisija
+[198] 179. Paskutinioji Vakarienė . Tarpinių Būtybių Komisija
+[199] 180. Atsisveikinimo kalba . Tarpinių Būtybių Komisija
+[200] 181. Paskutinieji pamokymai ir perspėjimai . Tarpinių Būtybių Komisija
+[201] 182. Getsemanėje . Tarpinių Būtybių Komisija
+[202] 183. Jėzaus išdavimas ir suėmimas . Tarpinių Būtybių Komisija
+[203] 184. Sanhedrino teisme . Tarpinių Būtybių Komisija
+[204] 185. Teismas pas Pilotą . Tarpinių Būtybių Komisija
+[205] 186. Prieš pat nukryžiavimą . Tarpinių Būtybių Komisija
+[206] 187. Nukryžiavimas . Tarpinių Būtybių Komisija
+[207] 188. Laikas kapavietėje . Tarpinių Būtybių Komisija
+[208] 189. Prisikėlimas . Tarpinių Būtybių Komisija
+[209] 190. Morontiniai Jėzaus apsireiškimai . Tarpinių Būtybių Komisija
+[210] 191. Apsireiškimai apaštalams ir kitiems lyderiams . Tarpinių Būtybių Komisija
+[211] 192. Apsireiškimai Galilėjoje . Tarpinių Būtybių Komisija
+[212] 193. Paskutinieji apsireiškimai ir pakilimas . Tarpinių Būtybių Komisija
+[213] 194. Tiesos Dvasios padovanojimas . Tarpinių Būtybių Komisija
+[214] 195. Po Pentakosto . Tarpinių Būtybių Komisija
+[215] 196. Jėzaus įtikėjimas . Tarpinių Būtybių Komisija

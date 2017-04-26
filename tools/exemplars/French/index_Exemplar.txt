@@ -1,0 +1,44 @@
+﻿[0] Le livre d’Urantia : page d'accueil
+[1] Le livre d’Urantia
+[2] {img_1}
+[3] 
+[4] URANTIA FOUNDATION
+[5] 
+[6] 2014 French Translation
+[7] Traduction Française
+[8] Les parties du livre
+[9] Table des matières résumée
+[10] Table des matières détaillée
+[11] TIN: UF-FRE-001-2014-2
+[12] © 2014 URANTIA Foundation pour la version corrigée.
+[13] Publiée par
+[14] Urantia Foundation
+[15] 533 W. Diversey Parkway
+[16] Chicago, IL 60614 U.S.A.
+[17] Office: +1 773 525-3319
+[18] Website: http://www.urantia.org
+[19] Email: urantia@urantia.org
+[20] 
+[21] Copyright © 2014 Urantia Foundation pour la présente édition française revue et corrigée. Tous droits réservés y compris les droits de traduction, de reproduction et d’adaptation pour tous pays.
+[22] Toute reproduction intégrale ou partielle, faite sans le consentement de URANTIA Foundation, ou de ses ayants-droits, ou ayants-cause, est illicite (article L. 122-4 du Code de la Proriété Intellectuelle). Cette reproduction par quelques procédés que ce soit, constituerait une contrefaçon sanctionnée par l’Article L. 335-2 du Code de la Propriété Intellectuelle.
+[23] Le Code de la Propriété Intellectuelle n’autorise, aux termes de l’Article L. 122-5 que les copies ou reproductions strictement réservées à l’usage privé du copiste et non destinées à une utilisation collective d’une part et, d’autre part, que les analyses et les courtes citations dans un but d’exemple et d’illustration.
+[24] ISBN : 978-0-911560-92-3
+[25] Première édition : 1961 & 1962 — en 3 volumes.
+[26] Deuxième édition: 1970 à 1972 — en 3 volumes
+[27] Troisième édition : 1982 en 1 volume ISBN 0-942430-00-X
+[28] Quatrième édition : 1994 (première révision) ISBN 0-911560-05-X
+[29] Cinquième édition : 1996 ISBN 0-9-911560-53-X
+[30] Sixième édition 2014
+[31] Deuxième révision
+[32] Dépot légal mai 2014
+[33] Pour contacter des associations francophones de lecteurs du Livre d’Urantia :
+[34] En France : http://www.urantia.fr/
+[35] Adresse électronique : lectorat@urantia.fr
+[36] En Belgique : http://www.urantia.be/
+[37] Au Québec : http://urantia-quebec.ca/
+[38] Adresse électronique : Association.urantia.quebec@gmail.com
+[39] Pour approfondir l’étude du {i{i{Livre d’Urantia}i}i} : http://ubis.urantia.org/moodle/
+[40] Avertissements aux lecteurs francophones.
+[41] La présente édition du {i{i{Livre d’Urantia}i}i} est la seconde révision de {i{i{La cosmogonie d’Urantia,}i}i} ouvrage publié en 1961 & 1962 en trois tomes. La mise en page et la pagination de cette édition ont été composées à l’identique de l’édition originale {i{i{The Urantia Book.}i}i}
+[42] L’Académie française, comme les instances francophones compétentes (notamment en Belgique, au Québec et en Suisse) a approuvé à l’unanimité un certain nombre de rectifications proposées par le Conseil supérieur de la langue française. Celles-ci, publiées en France au {i{i{Journal officiel,}i}i} sont prises en compte dans cette édition.
+[43] URANTIA et {img_3} sont des marques déposées par URANTIA Foundation

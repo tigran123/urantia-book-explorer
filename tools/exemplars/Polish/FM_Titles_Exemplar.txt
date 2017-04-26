@@ -1,0 +1,216 @@
+[0] Księga Urantii: Tytuły przekazów
+[1] Księga Urantii
+[2] Strona główna
+[3] Części książki
+[4] Tytuły przekazów
+[5] Spis treści książki
+[6] Tytuły przekazów
+[7] CZĘŚĆ I.
+[8] Wszechświat centralny i superwszechświaty
+[9] Przekaz . Tytuł . Autor
+[10] 000. Przedmowa . Niebiański Radca
+[11] 001. Ojciec Uniwersalny . Niebiański Radca
+[12] 002. Natura Boga . Niebiański Radca
+[13] 003. Atrybuty Boga . Niebiański Radca
+[14] 004. Stosunek Boga do wszechświata . Niebiański Radca
+[15] 005. Stosunek Boga do jednostki . Niebiański Radca
+[16] 006. Wieczny Syn . Niebiański Radca
+[17] 007. Stosunek Wiecznego Syna do wszechświata . Niebiański Radca
+[18] 008. Nieskończony Duch . Niebiański Radca
+[19] 009. Stosunek Nieskończonego Ducha do wszechświata . Niebiański Radca
+[20] 010. Rajska Trójca . Uniwersalny Cenzor
+[21] 011. Wieczna Wyspa Raj . Perfektor Mądrości
+[22] 012. Wszechświat wszechświatów . Perfektor Mądrości
+[23] 013. Święte sfery Raju . Perfektor Mądrości
+[24] 014. Wszechświat centralny i Boski . Perfektor Mądrości
+[25] 015. Siedem superwszechświatów . Uniwersalny Cenzor
+[26] 016. Siedem Duchów Nadrzędnych . Uniwersalny Cenzor
+[27] 017. Siedem grup Duchów Najwyższych . Niebiański Radca
+[28] 018. Najwyższe Osobowości Trójcy . Niebiański Radca
+[29] 019. Partnerzy pochodzących od Trójcy . Niebiański Radca
+[30] 020. Rajscy Synowie Boga . Perfektor Mądrości
+[31] 021. Rajscy Synowie Stwórcy . Perfektor Mądrości
+[32] 022. Utrójcowieni Synowie Boga . Możny Posłaniec
+[33] 023. Samotni Posłańcy . Niebiański Radca
+[34] 024. Wyższe Osobowości Nieskończonego Ducha . Niebiański Radca
+[35] 025. Zastępy Posłańców Przestrzeni . Posiadający Wysokie Uprawnienia
+[36] 026. Duchy usługujące wszechświata centralnego . Perfektor Mądrości
+[37] 027. Służba supernafinów klasy pierwszej . Perfektor Mądrości
+[38] 028. Duchy usługujące superwszechświatów . Możny Posłaniec
+[39] 029. Dyspozytorzy Mocy Wszechświata . Uniwersalny Cenzor
+[40] 030. Osobowości wielkiego wszechświata . Możny Posłaniec
+[41] 031. Korpus Finalizmu . Niebiański Radca i Nieposiadający Imienia i Numeru
+[42] CZĘŚĆ II.
+[43] Wszechświat lokalny
+[44] Przekaz . Tytuł . Autor
+[45] 032. Ewolucja wszechświatów lokalnych . Możny Posłaniec
+[46] 033. Administracja wszechświata lokalnego . Szef Archaniołów
+[47] 034. Matka Duch wszechświata lokalnego . Możny Posłaniec
+[48] 035. Synowie Boży wszechświata lokalnego . Szef Archaniołów
+[49] 036. Nosiciele Życia . Syn Vorondadek
+[50] 037. Osobowości wszechświata lokalnego . Gwiazda Błyszcząca Wieczorna
+[51] 038. Duchy usługujące wszechświata lokalnego . Melchizedek
+[52] 039. Zastępy seraficzne . Melchizedek
+[53] 040. Wznoszący się Synowie Boga . Możny Posłaniec
+[54] 041. Fizyczne aspekty wszechświata lokalnego . Archanioł
+[55] 042. Energia — umysł i materia . Możny Posłaniec
+[56] 043. Konstelacje . Malavatia Melchizedek
+[57] 044. Niebiańscy twórcy . Archanioł
+[58] 045. Administracja systemu lokalnego . Melchizedek
+[59] 046. Zarząd systemu lokalnego . Archanioł
+[60] 047. Siedem światów-mieszkań . Gwiazda Błyszcząca Wieczorna
+[61] 048. Życie morontialne . Archanioł
+[62] 049. Światy zamieszkałe . Melchizedek
+[63] 050. Książęta Planetarni . Lanonandek klasy drugiej
+[64] 051. Adamowie Planetarni . Lanonandek klasy drugiej
+[65] 052. Planetarne epoki śmiertelników . Możny Posłaniec
+[66] 053. Bunt Lucyfera . Manovandet Melchizedek
+[67] 054. Problemy wynikające z buntu Lucyfera . Możny Posłaniec
+[68] 055. Sfery światłości i życia . Możny Posłaniec
+[69] 056. Jedność wszechświatowa . Możny Posłaniec i Machiventa Melchizedek
+[70] CZĘŚĆ III.
+[71] Historia Urantii
+[72] Przekaz . Tytuł . Autor
+[73] 057. Pochodzenie Urantii . Nosiciel Życia
+[74] 058. Ustanowienie życia na Urantii . Nosiciel Życia
+[75] 059. Era życia morskiego na Urantii . Nosiciel Życia
+[76] 060. Urantia we wczesnej erze życia lądowego . Nosiciel Życia
+[77] 061. Era ssaków na Urantii . Nosiciel Życia
+[78] 062. Zaranie gatunku człowieka pierwotnego . Nosiciel Życia
+[79] 063. Pierwsza rodzina ludzka . Nosiciel Życia
+[80] 064. Ewolucyjne rasy kolorowe . Nosiciel Życia
+[81] 065. Kontrola ewolucji . Nosiciel Życia
+[82] 066. Planetarny Książę Urantii . Melchizedek
+[83] 067. Bunt planetarny . Melchizedek
+[84] 068. Zaranie cywilizacji . Melchizedek
+[85] 069. Prymitywne instytucje ludzkie . Melchizedek
+[86] 070. Ewolucja rządu u ludzi . Melchizedek
+[87] 071. Kształtowanie się państwa . Melchizedek
+[88] 072. Rząd na pobliskiej planecie . Melchizedek
+[89] 073. Ogród Eden . Solonia
+[90] 074. Adam i Ewa . Solonia
+[91] 075. Odstępstwo Adama i Ewy . Solonia
+[92] 076. Drugi ogród . Solonia
+[93] 077. Istoty pośrednie . Archanioł
+[94] 078. Rasa fioletowa po dniach Adama . Archanioł
+[95] 079. Rozprzestrzenianie się Anditów na Wschodzie . Archanioł
+[96] 080. Rozprzestrzenianie się Anditów na Zachodzie . Archanioł
+[97] 081. Kształtowanie się cywilizacji współczesnej . Archanioł
+[98] 082. Ewolucja małżeństwa . Szef serafinów
+[99] 083. Instytucja małżeństwa . Szef serafinów
+[100] 084. Małżeństwo a życie rodzinne . Szef serafinów
+[101] 085. Początki czczenia . Gwiazda Błyszcząca Wieczorna
+[102] 086. Wczesne stadium ewolucji religii . Gwiazda Błyszcząca Wieczorna
+[103] 087. Kult duchów . Gwiazda Błyszcząca Wieczorna
+[104] 088. Fetysze, amulety i magia . Gwiazda Błyszcząca Wieczorna
+[105] 089. Grzech, ofiara i pokuta . Gwiazda Błyszcząca Wieczorna
+[106] 090. Szamanizm — uzdrawiacze i kapłani . Melchizedek
+[107] 091. Ewolucja modlitwy . Szef pośrednich
+[108] 092. Późniejsza ewolucja religii . Melchizedek
+[109] 093. Machiventa Melchizedek . Melchizedek
+[110] 094. Nauki Melchizedeka na Dalekim Wschodzie . Melchizedek
+[111] 095. Nauki Melchizedeka na Bliskim Wschodzie . Melchizedek
+[112] 096. Jahwe — Bóg Hebrajczyków . Melchizedek
+[113] 097. Ewolucja koncepcji Boga u Hebrajczyków . Melchizedek
+[114] 098. Nauki Melchizedeka na Zachodzie . Melchizedek
+[115] 099. Społeczne problemy religii . Melchizedek
+[116] 100. Religia w doświadczeniu ludzkim . Melchizedek
+[117] 101. Prawdziwa natura religii . Melchizedek
+[118] 102. Podstawy wiary religijnej . Melchizedek
+[119] 103. Rzeczywistość doświadczenia religijnego . Melchizedek
+[120] 104. Rozwój koncepcji Trójcy . Melchizedek
+[121] 105. Bóstwo a rzeczywistość . Melchizedek
+[122] 106. Wszechświatowe poziomy rzeczywistości . Melchizedek
+[123] 107. Pochodzenie i natura Dostrajaczy Myśli . Samotny Posłaniec
+[124] 108. Misja i służba Dostrajaczy Myśli . Samotny Posłaniec
+[125] 109. Związki między Dostrajaczami a istotami wszechświatowymi . Samotny Posłaniec
+[126] 110. Związki miedzy Dostrajaczami a indywidualnymi śmiertelnikami . Samotny Posłaniec
+[127] 111. Dostrajacz a dusza . Samotny Posłaniec
+[128] 112. Wieczne trwanie osobowości . Samotny Posłaniec
+[129] 113. Seraficzni opiekunowie przeznaczenia . Szef serafinów
+[130] 114. Seraficzny rząd planetarny . Szef serafinów
+[131] 115. Istota Najwyższa . Możny Posłaniec
+[132] 116. Wszechmocny Najwyższy . Możny Posłaniec
+[133] 117. Bóg Najwyższy . Możny Posłaniec
+[134] 118. Najwyższy i Ostateczny — czas i przestrzeń . Możny Posłaniec
+[135] 119. Obdarzenia dokonane przez Chrystusa Michała . Szef Gwiazd Wieczornych
+[136] CZĘŚĆ IV.
+[137] Życie i nauki Jezusa
+[138] Przekaz . Tytuł . Autor
+[139] 120. Obdarzenie Urantii przez Michała . Mantutia Melchizedek
+[140] 121. Czas, kiedy Michał obdarzał Urantię . Komisja pośrednich
+[141] 122. Narodziny i lata niemowlęce Jezusa . Komisja pośrednich
+[142] 123. Wczesne dzieciństwo Jezusa . Komisja pośrednich
+[143] 124. Późne dzieciństwo Jezusa . Komisja pośrednich
+[144] 125. Jezus w Jerozolimie . Komisja pośrednich
+[145] 126. Dwa przełomowe lata . Komisja pośrednich
+[146] 127. Lata młodzieńcze . Komisja pośrednich
+[147] 128. Wczesny wiek męski Jezusa . Komisja pośrednich
+[148] 129. Jezus jako człowiek dorosły . Komisja pośrednich
+[149] 130. W drodze do Rzymu . Komisja pośrednich
+[150] 131. Religie świata . Komisja pośrednich
+[151] 132. W Rzymie . Komisja pośrednich
+[152] 133. Powrót z Rzymu . Komisja pośrednich
+[153] 134. Lata przejściowe . Komisja pośrednich
+[154] 135. Jan Chrzciciel . Komisja pośrednich
+[155] 136. Chrzest i czterdzieści dni . Komisja pośrednich
+[156] 137. Czas oczekiwania w Galilei . Komisja pośrednich
+[157] 138. Nauczanie posłańców królestwa . Komisja pośrednich
+[158] 139. Dwunastu apostołów . Komisja pośrednich
+[159] 140. Wyświęcenie Dwunastu . Komisja pośrednich
+[160] 141. Początek działalności publicznej . Komisja pośrednich
+[161] 142. Pascha w Jerozolimie . Komisja pośrednich
+[162] 143. Po Samarii . Komisja pośrednich
+[163] 144. Na Gilboa i w Dekapolu . Komisja pośrednich
+[164] 145. Cztery pamiętne dni w Kafarnaum . Komisja pośrednich
+[165] 146. Pierwsza tura głoszenia kazań w Galilei . Komisja pośrednich
+[166] 147. Krótka wizyta w Jerozolimie . Komisja pośrednich
+[167] 148. Nauczanie ewangelistów w Betsaidzie . Komisja pośrednich
+[168] 149. Druga tura głoszenia kazań . Komisja pośrednich
+[169] 150. Trzecia tura głoszenia kazań . Komisja pośrednich
+[170] 151. Czas oczekiwania i nauczanie nad morzem . Komisja pośrednich
+[171] 152. Wydarzenia prowadzące do kryzysu w Kafarnaum . Komisja pośrednich
+[172] 153. Kryzys w Kafarnaum . Komisja pośrednich
+[173] 154. Ostatnie dni w Kafarnaum . Komisja pośrednich
+[174] 155. Ucieczka przez północną Galileę . Komisja pośrednich
+[175] 156. Pobyt w Tyrze i Sydonie . Komisja pośrednich
+[176] 157. W Cezarei Filipowej . Komisja pośrednich
+[177] 158. Góra Przemienienia . Komisja pośrednich
+[178] 159. Tura po Dekapolu . Komisja pośrednich
+[179] 160. Rodan z Aleksandrii . Komisja pośrednich
+[180] 161. Dalsze rozmowy z Rodanem . Komisja pośrednich
+[181] 162. Święto Namiotów . Komisja pośrednich
+[182] 163. Wyświęcenie Siedemdziesięciu w Magedanie . Komisja pośrednich
+[183] 164. Święto Poświęcenia . Komisja pośrednich
+[184] 165. Początek misji pereańskiej . Komisja pośrednich
+[185] 166. Ostatnia wizyta w północnej Perei . Komisja pośrednich
+[186] 167. Wizyta w Filadelfii . Komisja pośrednich
+[187] 168. Wskrzeszenie Łazarza . Komisja pośrednich
+[188] 169. Ostatnie nauki w Pelli . Komisja pośrednich
+[189] 170. Królestwo nieba . Komisja pośrednich
+[190] 171. W drodze do Jerozolimy . Komisja pośrednich
+[191] 172. Wjazd do Jerozolimy . Komisja pośrednich
+[192] 173. Poniedziałek w Jerozolimie . Komisja pośrednich
+[193] 174. Wtorkowy ranek w Świątyni . Komisja pośrednich
+[194] 175. Ostatnia mowa w Świątyni . Komisja pośrednich
+[195] 176. Wtorkowy wieczór na Górze Oliwnej . Komisja pośrednich
+[196] 177. Środa, dzień odpoczynku . Komisja pośrednich
+[197] 178. Ostatni dzień w obozie . Komisja pośrednich
+[198] 179. Ostatnia Wieczerza . Komisja pośrednich
+[199] 180. Mowa pożegnalna . Komisja pośrednich
+[200] 181. Ostatnie upomnienia i przestrogi . Komisja pośrednich
+[201] 182. W Getsemane . Komisja pośrednich
+[202] 183. Zdrada i aresztowanie . Komisja pośrednich
+[203] 184. Przed sądem Sanhedrynu . Komisja pośrednich
+[204] 185. Rozprawa przed Piłatem . Komisja pośrednich
+[205] 186. Tuż przed ukrzyżowaniem . Komisja pośrednich
+[206] 187. Ukrzyżowanie . Komisja pośrednich
+[207] 188. Czas grobu . Komisja pośrednich
+[208] 189. Zmartwychwstanie . Komisja pośrednich
+[209] 190. Morontialne ukazania się Jezusa . Komisja pośrednich
+[210] 191. Ukazanie się apostołom i innym przywódcom . Komisja pośrednich
+[211] 192. Ukazania się Jezusa w Galilei . Komisja pośrednich
+[212] 193. Końcowe ukazania się i wniebowstąpienie . Komisja pośrednich
+[213] 194. Obdarzenie Duchem Prawdy . Komisja pośrednich
+[214] 195. Po Zesłaniu Ducha . Komisja pośrednich
+[215] 196. Wiara Jezusa . Komisja pośrednich

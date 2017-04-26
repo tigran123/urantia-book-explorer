@@ -1,0 +1,20 @@
+[0] Urantia Raamat: Raamatu osad
+[1] Urantia Raamat
+[2] Avaleht
+[3] Raamatu osad
+[4] Kirjade pealkirjad
+[5] Raamatu sisukord
+[6] Raamatu osad
+[7] I OSA
+[8] Keskne universum ja superuniversumid
+[9] Esitanud Superuniversumi Isiksuste Uversa Korpus Orvontoni Päevilt Vanade volitusel.
+[10] II OSA
+[11] Kohalik universum
+[12] Esitanud Kohaliku Universumi Isiksuste Nebadoni Korpus Salvingtoni Gabrieli volitusel.
+[13] III OSA
+[14] Urantia ajalugu
+[15] Käesolevad kirjad on esitanud Kohaliku Universumi Isiksuste Korpus Salvingtoni Gabrieli volitusel.
+[16] IV OSA
+[17] Jeesuse elu ja õpetused
+[18] Selle osa kirjad on esitanud kaheteistkümnest Urantia keskteelisest koosnev ilmutuskomisjon, kelle tegevust juhendas Melkisedekist juht.
+[19] Jutustuse aluseks olevad andmed on saadud teiseselt keskteeliselt, kes oli omal ajal seatud apostel Andrease üleinimlikuks kaitsjaks.

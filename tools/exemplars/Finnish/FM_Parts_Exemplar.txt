@@ -1,0 +1,20 @@
+[0] Urantia-kirja: Kirjan osat
+[1] Urantia-kirja
+[2] Etusivu Hakemisto
+[3] Kirjan osat
+[4] Lukujen otsikot
+[5] Sis‰llysluettelo
+[6] Kirjan osat
+[7] I OSA
+[8] Keskusuniversumi ja superuniversumit
+[9] Toimituksesta huolehti uversalainen superuniversumipersoonallisuuksien ryhm‰, joka toimi Orvontonin P‰ivien Muinaisten antamin valtuuksin
+[10] II OSA
+[11] Paikallisuniversumi
+[12] Laatinut Nebadonin paikallisuniversumin persoonallisuuksista koostunut ryhm‰, joka toimi Salvingtonin Gabrielin valtuuttamana
+[13] III OSA
+[14] Urantian historia
+[15] N‰m‰ luvut laaditutti paikallisuniversumin persoonallisuuksista koostunut ryhm‰, joka toimi Salvingtonin Gabrielin valtuuttamana
+[16] IV OSA
+[17] Jeesuksen el‰m‰ ja opetukset
+[18] N‰iden lukujen toimittamisesta huolehti kahdestatoista urantialaisesta keskiv‰liolennosta koostunut komissio, joka toimi totuuden julkituomista ohjanneen Melkisedekin valvonnassa.
+[19] T‰m‰n kertomuksen pohja-aineisto on saatu er‰‰lt‰ toisasteiselta keskiv‰liolennolta, joka aikanaan toimi apostoli Andreaksesta huolehtivana ihmisen yl‰puolista tasoa edustavana suojelijana.

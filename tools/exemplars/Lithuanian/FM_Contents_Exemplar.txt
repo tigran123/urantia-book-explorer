@@ -1,0 +1,2431 @@
+[0] Urantijos knyga: Knygos turinys
+[1] Urantijos knyga
+[2] Pagrindinis puslapis
+[3] Knygos dalys
+[4] Dokumentu pavadinimai
+[5] Knygos turinys
+[6] Knygos turinys
+[7] I DALIS.
+[8] Centrinė visata ir supervisatos
+[9] 0. Įvadas 
+[10] I. Dievybė ir Dieviškumas
+[11] II. Dievas
+[12] III. Pirmasis Šaltinis ir Centras
+[13] Septyni Absoliutai
+[14] Tikrovė
+[15] Samprata apie ši AŠ ESU
+[16] IV. Visatos tikrovė
+[17] Rojus
+[18] V. Asmenybės realybės
+[19] VI. Energija ir modelis
+[20] VII. Aukščiausioji Būtybė
+[21] VIII. Dievas Septinkartis
+[22] IX. Dievas Galutinysis
+[23] X. Dievas Absoliutas
+[24] XI. Trys Absoliutai
+[25] XII. Trejybės
+[26] Pareiškimas
+[27] 1. Visuotinis Tėvas
+[28] 1. Tėvo vardas
+[29] 2. Dievo tikrovė
+[30] 3. Dievas yra Visuotinė Dvasia
+[31] 4. Dievo paslaptis
+[32] 5. Visuotinio Tėvo asmenybė
+[33] 6. Asmenybė visatoje
+[34] 7. Asmenybės sampratos dvasinė vertė
+[35] 2. Dievo prigimtis
+[36] 1. Dievo begalybė
+[37] 2. Tėvo amžinasis tobulumas
+[38] 3. Teisingumas ir teisumas
+[39] 4. Dieviškasis gailestingumas
+[40] 5. Dievo meilė
+[41] 6. Dievo gerumas
+[42] 7. Dieviškoji tiesa ir grožis
+[43] 3. Dievo požymiai
+[44] 1. Dievo esamumas visur
+[45] 2. Dievo begalinė galia
+[46] 3. Dievo visuotinės žinios
+[47] 4. Dievo beribiškumas
+[48] 5. Tėvo aukščiausiasis valdymas
+[49] Neišvengiamybes
+[50] 6. Tėvo primatas
+[51] Palaiminimas
+[52] 4. Dievo ryšys su visata
+[53] 1. Visatos požiūris į Tėva
+[54] Apvaizda
+[55] 2. Dievas ir gamta
+[56] 3. Dievo nesikeičiantis charakteris
+[57] 4. Dievo suvokimas
+[58] 5. Klaidingos idejos apie Dievą
+[59] 5. Dievo ryšys su individu
+[60] 1. Prisiartinimas prie Dievo
+[61] 2. Dievo buvimas
+[62] 3. Tikrasis garbinimas
+[63] 4. Dievas religijoje
+[64] 5. Dievo sąmonė
+[65] 6. Asmenybės Dievas
+[66] 6. Amžinasis Sūnus
+[67] 1. Amžinojo Sūnaus tapatybė
+[68] 2. Amžinojo Sūnaus prigimtis
+[69] 3. Tėvo meilės tarnystė
+[70] 4. Amžinojo Sūnaus savybės
+[71] Visagališkumas, visur buvimas, visažinumas
+[72] 5. Amžinojo Sūnaus apribojimai
+[73] 6. Dvasios protas
+[74] 7. Amžinojo Sūnaus asmenybė
+[75] 8. Amžinojo Sūnaus suvokimas
+[76] 7. Amžinojo Sūnaus ryšys su visata
+[77] 1. Dvasinės gravitacijos grandine
+[78] 2. Amžinojo Sūnaus administracija
+[79] 3. Amžinojo Sūnaus ryšys su individu
+[80] 4. Dieviškojo tobulumo planai
+[81] 5. Savęs padovanojimo Dvasia
+[82] Amžinojo Sūnaus Savęs padovanojimai
+[83] Pirminio Mykolo Savęs padovanojimai
+[84] 6. Rojaus Dievo Sūnūs 
+[85] 7. Aukščiausiasis Tėvo apreiškimas
+[86] 8. Begalinė Dvasia
+[87] 1. Veiksmo Dievas
+[88] 2. Begalinės Dvasios prigimtis
+[89] 3. Dvasios ryšys su Tevu ir Sūnumi
+[90] 4. Dieviškojo tarnavimo Dvasia
+[91] Kuriančiosios Dukros
+[92] 5. Dievo buvimas
+[93] 6. Begalinės Dvasios asmenybė
+[94] 9. Begalinės Dvasios ryšys su visata
+[95] 1. Treciojo Šaltinio ir Centro savybės
+[96] 2. Visur esanti Dvasia
+[97] 3. Visuotinis Manipuliatorius
+[98] 4. Absoliutus Protas
+[99] 5. Proto tarnavimas
+[100] 6. Proto gravitacijos grandinė
+[101] 7. Visatos atspindėjimas
+[102] 8. Begalinės Dvasios asmenybės
+[103] Trečiojo Šaltinio ir Centro funkcinė šeima
+[104] 10. Rojaus Trejybė
+[105] 1. Pirmojo Šaltinio ir Centro savęs paskleidimas
+[106] 2. Dievybės įasmeninimas
+[107] 3. Dievybės trys asmenys
+[108] 4. Dievybės Trejybės sajunga
+[109] 5. Trejybės funkcijos
+[110] Ribinis, absonitus, ir absoliutus požiūris
+[111] 6. Trejybės Stacionarūs Sūnūs
+[112] Teisingumas, įrodymai, ir nuosprendis
+[113] 7. Aukštybės virškontrolė
+[114] 8. Trejybė, pranokstanti ribinio suvokimą
+[115] Mirtingojo likimo ribos
+[116] 11. Amžinoji Rojaus Sala
+[117] 1. Dieviškoji buveinė
+[118] 2. Amžinosios Salos prigimtis
+[119] 3. Viršutinis Rojus
+[120] 4. Periferinis Rojus
+[121] 5. Apatinis Rojus
+[122] 6. Erdvės kvėpavimas
+[123] Nepersmelktoji erdvė
+[124] 7. Rojaus erdvinės funkcijos
+[125] Vidurinės erdvės zonos
+[126] 8. Rojaus gravitacija
+[127] Jėga, energija, galia
+[128] 9. Rojaus unikalumas
+[129] 12. Visatų visata
+[130] 1. Pagrindinės visatos Erdvės lygiai
+[131] 2. Beribio Absoliuto sferos
+[132] 3. Visuotinė gravitacija
+[133] 4. Erdvė ir judėjimas
+[134] 5. Erdvė ir laikas
+[135] 6. Visuotinė virškontrolė
+[136] 7. Dalis ir visuma
+[137] 8. Materija, protas, ir dvasia
+[138] 9. Asmenės realybės
+[139] 13. Rojaus šventosios sferos
+[140] 1. Tėvo Septyni Šventieji Pasauliai
+[141] (1) Dieviningtonas
+[142] (2) Sunaringtonas
+[143] (3) Dvasingtonas
+[144] (4) Vicegeringtonas
+[145] (5) Atsiskyringtonas
+[146] (6) Serafingtonas
+[147] (7) Kilimingtonas
+[148] 2. Tėvo-Pasauliė ryšiai
+[149] 3. Amžinojo Sūnaus Šventieji Pasauliai
+[150] 4. Begalinės Dvasios Pasauliai
+[151] Pagrindinių Dvasių vykdomosios buveinės
+[152] 14. Centrinė ir dieviškoji visata
+[153] 1. Rojaus-Havonos sistema
+[154] Rojaus-Havonos diena
+[155] Tamsieji gravitacijos kūnai
+[156] 2. Havonos sandara
+[157] 3. Havonos pasauliai
+[158] 4. Centrinės visatos tvariniai
+[159] Havonos vietiniai gyventojai
+[160] 5. Gyvenimas Havonoje
+[161] Monotonija ir jaudinantis patyrimas
+[162] 6. Centrinės visatos tikslas
+[163] 15. Septynios supervisatos
+[164] 1. Supervisatos erdvės lygis
+[165] 2. Supervisaų organizacija
+[166] 3. Orvontono supervisata
+[167] 4. Ukai — visaų protėviai
+[168] 5. Erdvės kūnų kilmė
+[169] 6. Erdvės sferos
+[170] 7. Architektūrinės sferos
+[171] Supervisatos laikas
+[172] 8. Energijos kontrolė ir reguliavimas
+[173] 9. Supervisaų grandinės
+[174] Vietinių visaų grandinės
+[175] 10. Supervisaų valdovai
+[176] 11. Svarstymų asamblėja
+[177] 12. Aukščiausieji tribunolai
+[178] 13. Sektorių vyriausybės
+[179] 14. Septynių supervisaų tikslai
+[180] 16. Septynios Pagrindinės Dvasios
+[181] 1. Ryšys su Triviene Dievybe
+[182] 2. Ryšys su Begaline Dvasia
+[183] 3. Pagrindinių Dvasių tapatybe ir skirtingumas
+[184] 4. Pagrindinių Dvasių savybės ir funkcijos
+[185] 5. Ryšys su tvariniais
+[186] 6. Kosminis Protas
+[187] Priežastingumas, pareiga, ir garbinimas
+[188] 7. Morale, dora, ir asmenybė
+[189] 8. Urantijos asmenybė
+[190] 9. Žmogiškosios sąmonės tikrovė
+[191] 17. Septynios Aukščiausiųjų Dvasių grupės
+[192] 1. Septyni Aukščiausieji Vykdytojai
+[193] Tvarinių sutrejybinti Sūnūs
+[194] 2. Madžestonas — atspindėjimo vadovas
+[195] 3. Atspindinčiosios Dvasios
+[196] 4. Atspindimojo Įvaizdžio Padėjėjai
+[197] 5. Septynios Grandinių Dvasios
+[198] 6. Vietinės visatos Kuriančiosios Dvasios
+[199] 7. Pagalbinės Proto Dvasios
+[200] 8. Aukšč1iausiųjų Dvasių funkcijos
+[201] 18. Aukščiausiosios Trejybės Asmenybės
+[202] 1. Sutrejybintos Aukštybės Paslaptys
+[203] 2. Dienų Amžinieji
+[204] 3. Dienų Senieji
+[205] 4. Dienų Tobulieji
+[206] 5. Dienų Nesenieji
+[207] 6. Dienų Sajungos
+[208] 7. Dienų Ištikimieji
+[209] 19. Iš Trejybės Kilusios Lygiavertės Būtybės
+[210] 1. Trejybės Sūnūs Mokytojai
+[211] 2. Išminties Tobulintojai
+[212] 3. Dieviškieji Patarejai
+[213] 4. Visuotiniai Cenzoriai
+[214] Trejybės Stacionarūs Sūnūs
+[215] 5. Trejybės Ikvėptosios Dvasios
+[216] 6. Havonos Vietiniai Gyventojai
+[217] 7. Rojaus Piliečiai
+[218] 20. Dievo Rojaus Sūnūs
+[219] 1. Besileidžiantieji Dievo Sūnūs
+[220] 2. Sūnūs Arbitrai
+[221] 3. Juridiniai veiksmai
+[222] 4. Arbitrinės misijos
+[223] 5. Dievo Rojaus Sūnų savęs padovanojimas
+[224] 6. Savęs padovanojimo karjera mirtingojo pavidalu
+[225] 7. Trejybės Sūnūs Mokytojai
+[226] 8. Deinalų tarnavimas vietinėje visatoje
+[227] 9. Deinalų planetinė tarnystė
+[228] 10. Rojaus Sūnų suvienyta tarnystė
+[229] 21. Rojaus Sūnūs Kūrėjai
+[230] Pirminis Mykolas
+[231] 1. Sūnų Kūrejų kilmė ir prigimtis
+[232] 2. Vietinių visaų Kūrejai
+[233] 3. Vietinės visatos suverenumas
+[234] 4. Mykolų savęs padovanojimai
+[235] 5. Sūnų Šeimininkų ryšys su visata
+[236] 6. Mykolų Šeimininkų likimas
+[237] 22. Sutrejybinti Dievo Sūnūs
+[238] 1. Trejybės Apkabinti Sūnūs
+[239] Sutrejybinti Pasiekimo Sūnūs
+[240] Sutrejybinti Pasirinkimo Sūnūs
+[241] Sutrejybinti Tobulumo Sūnūs
+[242] 2. Galingieji Žinianešiai
+[243] 3. Tie Aukštai Valdžioje
+[244] 4. Tie be Vardo ir Skaičiaus
+[245] 5. Sutrejybinti Saugotojai
+[246] 6. Sutrejybinti Ambasadoriai
+[247] 7. Sutrejybinimo metodai
+[248] Pakilusiųjų sutrejybinti Sūnūs
+[249] Rojaus-Havonos sutrejybinti Sūnūs
+[250] Sutrejybinti likimo Sūnūs
+[251] 8. Tvarinių Sutrejybinti Sūnūs
+[252] 9. Dangiškieji Sargybiniai
+[253] 10. Aukštujų Sūnų Padėjėjai
+[254] 23. Atsiskyrusieji Žinianešiai
+[255] 1. Atsiskyrusiujų Žinianešių prigimtis ir kilmė
+[256] 2. Atsiskyrusiujų Žinianešių paskyrimai
+[257] 3. Atsiskyrusiujų Žinianešių laiko ir Erdvės tarnystė
+[258] Serafiniai ir kiti skriejimo greiciai erdvėje
+[259] 4. Atsiskyrusiujų Žinianešių speciali tarnystė
+[260] Sutrejybinti likimo Sūnūs
+[261] 24. Begalinės Dvasios Aukščiausiosios Asmenybės
+[262] 1. Visatos Grandinių Prižiūretojai
+[263] 2. Surašymo Reguliuotojai
+[264] 3. Begalinės Dvasios Asmeniniai Padėjėjai
+[265] 4. Asocijuotieji Inspektoriai
+[266] 5. Paskirtieji Sargybiniai
+[267] 6. Absolventų Vadovai
+[268] Grandfanda, pirmasis pakilusysis
+[269] 7. Absolventų Vadovų kilmė
+[270] 25. Erdvės Žinianešių gausybės
+[271] 1. Havonos Tarnai
+[272] 2. Visuotiniai Sutaikytojai
+[273] 3. Toli siekianti Sutaikytojų tarnystė
+[274] 4. Juridiniai Patarėjai
+[275] 5. Dokumentų Saugotojai Rojuje
+[276] 6. Dangiškieji Registruotojai
+[277] 7. Morontiniai Kompanionai
+[278] 8. Rojaus Kompanionai
+[279] 26. Centrinės visatos tarnaujančiosios dvasios
+[280] 1. Tarnaujančiosios Dvasios
+[281] Centrinės visatos Tarnaujančiosios Dvasios
+[282] Supervisaų Tarnaujančiosios Dvasios
+[283] Vietinių visaų Tarnaujančiosios Dvasios
+[284] 2. Galingieji Supernafimai
+[285] 3. Tretiniai Supernafimai
+[286] (1) Harmonijos Prižiūrėtojai
+[287] (2) Pagrindiniai Registruotojai
+[288] (3) Programų Transliuotojai
+[289] (4) Žinianešiai
+[290] (5) Žinių Rinkimo Koordinatoriai
+[291] (6) Transportinės Asmenybės
+[292] (7) Rezervinis Korpusas
+[293] 4. Antriniai Supernafimai
+[294] Kylančiųjų atvykimas į Havoną
+[295] 5. Piligrimų Pagalbininkai
+[296] 6. Aukštybės Vadovai
+[297] 7. Trejybės Vadovai
+[298] 8. Sūnaus Suradėjai
+[299] Nesugebėjimas surasti Dievybės
+[300] 9. Tėvo Vadovai
+[301] 10. Patarėjai ir Konsultantai
+[302] Perleidimas nugalejo kandidatu
+[303] 11. Poilsio Papildytojai
+[304] Tvarinių sutrejybinti Sūnūs
+[305] 27. Pirminių supernafimų tarnavimas
+[306] 1. Poilsio Skatintojai
+[307] Poilsio prigimtis
+[308] 2. Užduočių Vadovai
+[309] 3. Etikos Aiškintojai
+[310] 4. Elgesio Reguliuotojai
+[311] 5. Žinių Saugotojai
+[312] 6. Filosofijos Meistrai
+[313] 7. Garbinimo Rengėjai
+[314] 28. Supervisatų tarnaujančiosios dvasios
+[315] 1. Tertiafimai
+[316] 2. Omniafimai
+[317] 3. Sekonafimai
+[318] 4. Pirminiai Sekonafimai
+[319] (1) Bendrai Veikiančiojo Balsas
+[320] (2) Septynių Pagrindinių Dvasių Balsas
+[321] (3) Sūnų Kūrėjų Balsas
+[322] (4) Angeliškujų Gausybių Balsas
+[323] (5) Programų Priėmėjai
+[324] (6) Transportinės Asmenybės
+[325] (7) Rezervinis Korpusas
+[326] 5. Antriniai Sekonafimai
+[327] (1) Išminties Balsas
+[328] (2) Filosofijos Siela
+[329] (3) Sielų Sajunga
+[330] (4) Patarimo Širdis
+[331] (5) Egzistencijos Džiaugsmas
+[332] (6) Tarnystės Pasitenkinimas
+[333] (7) Dvasių Pastebėtojas
+[334] 6. Tretiniai Sekonafimai
+[335] (1) Kilmių Reikšmingumas
+[336] (2) Gailestingumo Atmintis
+[337] (3) Laiko Svarbumas
+[338] (4) Pasitikejimo Rimtumas
+[339] (5) tarnystės Šventumas
+[340] (6) ir (7) Didingumo Paslaptis ir Gerio Siela
+[341] 7. Sekonafimų Tarnystė
+[342] 29. Visatos Energijos Reguliuotojai
+[343] 1. Septyni Aukščiausieji Energijos Reguliuotojai
+[344] 2. Aukščiausieji Energijos Centrai
+[345] (1) Aukščiausieji Centrų Prižiūrėtojai
+[346] (2) Havonos Centrai
+[347] (3) Supervisaų Centrai
+[348] (4) Vietinivų visaų Centrai
+[349] (5) Žvaigždynų Centrai
+[350] (6) Sistemų Centrai
+[351] (7) Neklasifikuoti Centrai
+[352] 3. Energijos Centrų sfera
+[353] 4. Pagrindiniai Fiziniai Kontrolieriai
+[354] (1) Asocijuotieji Energijos Reguliuotojai
+[355] (2) Mechaniniai Kontrolieriai
+[356] (3) Energijos Transformuotojai
+[357] (4) Energijos Siustuvai
+[358] (5) Pirminiai Asocijuotojai
+[359] (6) Antriniai Skaidytojai
+[360] (7) Frandalankai
+[361] Chronoldekai
+[362] 5. Pagrindiniai Jėgos Organizatoriai
+[363] Pirminiai Atsiradusieji Pagrindiniai Jėgos Organizatoriai
+[364] Asocijuoti Transcendentiniai Pagrindiniai Jėgos Organizatoriai
+[365] 30. Didžiosios visatos asmenybės
+[366] 1. Gyvū Butybiū Rojaus klasifikacija
+[367] I. Trivienės kilmės būtybės
+[368] II. Dualios kilmės būtybės
+[369] III. Viengubos kilmės būtybės
+[370] IV. Atsiradusios Transcendentinės Būtybės
+[371] V. Fragmentuotos Dievybės esybės
+[372] VI. Viršasmenės būtybės
+[373] VII. Neklasifikuotos ir neapreikštos kategorijos
+[374] 2. Uversos asmenybių registras
+[375] I. Rojaus Dievybės
+[376] II. Aukščiausiosios Dvasios
+[377] III. Iš Trejybės kilusios Dvasios
+[378] IV. Dievo Sūnūs
+[379] V. Begalinės Dvasios Asmenybės
+[380] VI. Visatos Energijos Reguliuotojai
+[381] VII. Nuolatinės Pilietybės Korpusai
+[382] Sudėtinės Asmenybių Grupės
+[383] 3. Paslaugumo Kolonijos
+[384] (1) Žvaigždžių Tyrinėtojai
+[385] (2) Dangiškieji Meistrai
+[386] (3) Praeities Vaizdo Reguliuotojai
+[387] (4) Prailgintų mokyklų Instruktoriai
+[388] (5) Įvairių Rezervų Korpusai
+[389] (6) Studentai Lankytojai
+[390] (7) Kylantieji Piligrimai
+[391] 4. Kylantieji Mirtingieji
+[392] (1) Planetų Mirtingieji
+[393] (2) Miegantys Išlikusieji
+[394] (3) Gyvenamųjų Pasaulių Studentai
+[395] (4) Morontiniai Progresuotojai
+[396] (5) Supervisatos Globotiniai
+[397] (6) Havonos Piligrimai
+[398] (7) Atvykusieji į Rojų
+[399] 31. Užbaigtumo Korpusai
+[400] 1. Havonos Vietiniai Gyventojai
+[401] 2. Gravitacijos Žinianešiai
+[402] 3. Pašlovintieji Mirtingieji
+[403] 4. Įsūnytieji Serafimai
+[404] 5. Pašlovintieji Materialieji Sūnūs
+[405] 6. Pašlovintieji Tarpiniai tvariniai
+[406] 7. Šviesos Evangelai
+[407] 8. Transcendentalai
+[408] 9. Pagrindinės Visatos Architektai
+[409] 10. Galutinis jaudinantis pažinimas
+[410] II DALIS.
+[411] Vietinė visata
+[412] 32. Vietinių visatų evoliucija
+[413] 1. Fizinis visaų atsiradimas
+[414] 2. Visatos organizavimas
+[415] 3. Evoliucinė idėja
+[416] 4. Dievo ryšys su vietine visata
+[417] 5. Amžinasis ir dieviškasis tikslas
+[418] 33. Vietinės visatos administracija
+[419] 1. Nebadono Mykolas
+[420] 2. Nebadono Akščiausiasis Valdovas
+[421] 3. Visatos Sūnūs ir Dvasia
+[422] 4. Gabrielis — Vyriausiasis Vykdytojas
+[423] 5. Trejybės Ambasadoriai
+[424] 6. Bendroji Administracija
+[425] Vietinės visatos laikas
+[426] 7. Nebadono Teismai
+[427] 8. Istatymus leidžiančioji ir vykdančioji funkcijos
+[428] 34. Vietinės visatos Motina Dvasia
+[429] 1. Kuriančiosios Dvasios Įasmeninimas
+[430] 2. Dieviškojo Tarno prigimtis
+[431] 3. Sūnūs ir Dvasia laike ir Erdvėje
+[432] 4. Vietinės visatos grandinės
+[433] 5. Dvasios tarnavimas
+[434] 6. Dvasia žmoguje
+[435] Žmogaus duali prigimtis
+[436] 7. Dvasia ir materialus kūnas
+[437] “Štai šitas kelias.”
+[438] 35. Vietinės visatos Dievo Sūnūs
+[439] 1. Tėvas Melkizedekas
+[440] 2. Sūnūs Melkizedekai
+[441] 3. Melkizedekų pasauliai
+[442] 4. Melkizedekų specialus darbas
+[443] Melkizedekų įsikūnijimai
+[444] 5. Sūnūs Vorondadekai
+[445] 6. Žvaigždynų Tėvai
+[446] 7. Vorondadekų pasauliai
+[447] 8. Sūnūs Lanonandekai
+[448] Pirminiai Lanonandekai
+[449] Antriniai Lanonandekai
+[450] Tretiniai Lanonandekai
+[451] 9. Lanonandekų Valdytojai
+[452] 10. Lanonandekų pasauliai
+[453] 36. Gyvybės Nešėjai
+[454] 1. Gyvybės Nešėjų kilmė ir prigimtis
+[455] 2. Gyvybės Nešėjų pasauliai
+[456] 3. Gyvybės transplantavimas
+[457] 4. Gyvybės Nešėjai Melkizedekai
+[458] Midsonitai
+[459] Salvingtono Užbaigtųjų pasauliai
+[460] 5. Septynios Pagalbinės Proto Dvasios
+[461] (1) Intuicijos dvasia
+[462] (2) Supratimo dvasia
+[463] (3) Drąsos dvasia
+[464] (4) Žinių dvasia
+[465] (5) Patarimo dvasia
+[466] (6) Garbinimo dvasia
+[467] (7) Išminties dvasia
+[468] 6. Gyvosios jėgos
+[469] 37. Vietinės visatos asmenybės
+[470] 1. Visatos Padėjėjai
+[471] 2. Spindinciosios Vakaro Žvaigždės
+[472] Sukurtos Vakaro Žvaigždės
+[473] Pakilusiosios Vakaro Žvaigždės
+[474] Vakaro Žvaigždžių pasauliai
+[475] 3. Archangelai
+[476] Archangelų pasauliai
+[477] 4. Patys Aukštieji Padėjėjai
+[478] 5. Aukštieji Įgaliotiniai
+[479] Rasių įgaliotiniai
+[480] Nebadono Tobulumo Korpusas
+[481] Su Dvasia susiliejusių Mirtingųjų pasauliai
+[482] 6. Dangiškieji Stebėtojai
+[483] Nebadono švietimo sistema
+[484] 7. Gyvenamųjų Pasaulių Mokytojai
+[485] 8. Aukščiausiosios dvasinės paskyrimo kategorijos
+[486] Atsiskyrusieji Žinianešiai
+[487] Visatos Grandinių Prižiūrėtojas — Andovontija
+[488] Gyventojų Surašymo Reguliuotojas — Salsatija
+[489] Asocijuotas Inspektorius
+[490] Priskirtieji Sargybiniai
+[491] Visuotiniai Sutaikytojai
+[492] Juridiniai Patarejai
+[493] Dangiškieji Registruotojai
+[494] Morontiniai Kompanionai
+[495] 9. Vietinės visatos nuolatiniai pilieciai
+[496] (1) Susatijos
+[497] (2) Univitatijos
+[498] (3) Materialieji Sūnūs
+[499] (4) Tarpiniai Tvariniai
+[500] Abandonteriai
+[501] 10. Kitos Vietinės visatos grupės
+[502] Spirongos
+[503] Spornagijos
+[504] Paslaugumo kolonijos
+[505] 38. Vietinės visatos tarnaujančiosios dvasios
+[506] 1. Serafimų kilmė
+[507] 2. Angeliškosios savybės
+[508] 3. Neapreikštieji angelai
+[509] 4. Serafiniai pasauliai
+[510] 5. Serafinis mokymas
+[511] 6. Serafinė organizacija
+[512] 7. Cherubimai ir Sanobimai
+[513] 8. Cherubimų ir Sanobimų evoliucija
+[514] (1) Kandidatai į kilimą
+[515] (2) Tarpinės fazės Cherubimai
+[516] (3) Morontijos Cherubimai
+[517] 9. Tarpiniai Tvariniai
+[518] (1) Pirminės Tarpinės Būtybės
+[519] (2) Antrinės Tarpinės Būtybės
+[520] 39. Serafinės gausybės
+[521] 1. Aukščiausieji Serafimai
+[522] (1) Sūnaus-Dvasios Tarnai
+[523] Lydintieji Savęs padovanojimus
+[524] (2) Teismų Patarėjai
+[525] (3) Visatos Orientuotojai
+[526] (4) Mokantieji Patarejai
+[527] (5) Užduočių Reguliuotojai
+[528] (6) Registruotojai
+[529] (7) Nepriskirtieji Tarnai
+[530] 2. Aukštesnieji Serafimai
+[531] (1) Informacijos rinkimo Korpusas
+[532] (2) Gailestingumo Balsas
+[533] (3) Dvasiniai Koordinatoriai
+[534] (4) Mokytojų Padejėjai
+[535] (5) Transportuotojai
+[536] Serafinio transportavimo metodai
+[537] (6) Registruotojai
+[538] Programų Transliuotojai
+[539] (7) Rezervai
+[540] 3. Prižiūretojai Serafimai
+[541] (1) Prižiūrintieji Padėjėjai
+[542] (2) Istatymų Prognozuotojai
+[543] (3) Visuomeniniai Architektai
+[544] (4) Etikos Ugdytojai
+[545] (5) Transportuotojai
+[546] (6) Registruotojai
+[547] (7) Rezervai
+[548] 4. Administratoriai Serafimai
+[549] (1) Administraciniai Padėjėjai
+[550] (2) Teisingumo Vadovai
+[551] (3) Kosminės Pilietybės Aiškintojai
+[552] (4) Moralės Skatintojai
+[553] (5) Transportuotojai
+[554] (6) Registruotojai
+[555] (7) Rezervai
+[556] 5. Planetiniai Pagalbininkai
+[557] (1) Sodo Balsai
+[558] (2) Brolystės Dvasios
+[559] (3) Ramybės Sielos
+[560] (4) Pasitikėjimo Dvasios
+[561] (5) Transportuotojai
+[562] Serafinio transporto išvykimas
+[563] (6) Registruotojai
+[564] (7) Rezervai
+[565] 6. Pervedimo Tarnai
+[566] 7. Ateities Serafimai
+[567] 8. Serafinis Likimas
+[568] 9. Serafinio Užbaigtumo Korpusas
+[569] 40. Kylantieji Dievo Sūnūs
+[570] 1. Evoliuciniai Serafimai
+[571] 2. Kylantieji Materialieji Sūnūs
+[572] 3. Pervestos Tarpinės Būtybės
+[573] 4. Personalizuoti Derintojai
+[574] 5. Laiko ir Erdvės Mirtingieji
+[575] Mirtingieji, kuriuose gyvena laikinas arba patirtinis Derintojas
+[576] Mirtingųjų tipai, susiliejantys ne su Derintoju
+[577] Mirtingieji, turintys potencialą susilieti su Derintoju
+[578] Nesunumeruotos serijos
+[579] 6. Įtikėjimo Dievo Sūnūs
+[580] 7. Su Tėvu Susilieję Mirtingieji
+[581] 8. Su Sunumi Susilieję Mirtingieji
+[582] 9. Su Dvasia Susilieję Mirtingieji
+[583] Atminties atstatymo metodai
+[584] 10. Kylančiųjų likimai
+[585] 41. Vietinės visatos fiziniai aspektai
+[586] 1. Nebadono Energetiniai Centrai
+[587] 2. Satanijos Fiziniai Kontrolieriai
+[588] 3. Mūsų žvaigždėti partneriai
+[589] 4. Saulės tankis
+[590] 5. Saulės radiacija
+[591] 6. Kalcis — keliauninkas erdvėje
+[592] 7. Saulės energijos šaltiniai
+[593] 8. Saulės energijos reakcijos
+[594] 9. Saulės stabilumas
+[595] 10. Apgyvendintų pasaulių kilmė
+[596] 42. Energija – protas ir materija
+[597] 1. Rojaus jėgos ir energijos
+[598] 2. Visuotinės nedvasinės energetinės sistemos (fizinės energijos)
+[599] (1) Erdvės potencialas
+[600] (2) Pirminė jėga
+[601] (3) Atsirandančios energijos
+[602] a. Galingoji energija
+[603] b. Gravitacinė energija
+[604] (4) Visatos energija
+[605] (5) Havonos energija
+[606] (6) Transcendentinė energija
+[607] (7) Monota
+[608] 3. Materijos klasifikacija
+[609] 4. Energijos ir materijos transmutacijos
+[610] 5. Banginės energijos pasireiškimai
+[611] 6. Ultimatonai, elektronai, ir atomai
+[612] 7. Atominė materija
+[613] 8. Atomų sukibimas
+[614] 9. Naturfilosofija
+[615] 10. Visuotinės nedvasinės energetinės sistemos (Materialaus proto sistemos)
+[616] (1) Proto tipai, esantys iki pagalbinių proto Dvasių
+[617] (2) Proto tipai, atitinkantys pagalbinės proto dvasias
+[618] (3) Besivystantis morontinis protas
+[619] Kosminis protas
+[620] 11. Visatos mechanizmai
+[621] 12. Modelis ir forma — proto viešpatavimas
+[622] 43. Žvaigždynai
+[623] 1. Žvaigždynų bustinės
+[624] 2. Žvaigždyno valdymas
+[625] 3. Norlatiadeko Patys Aukštieji
+[626] 4. Asamblejos Kalnas — Dienų Ištikimasis
+[627] 5. Edentijos Tevai po Liuciferio maišto
+[628] 6. Dievo Sodai
+[629] 7. Univitatijos
+[630] 8. Edentijos mokymo pasauliai
+[631] 9. Edentijos pilietybe
+[632] 44. Dangiškieji Meistrai
+[633] 1. Dangiškieji Muzikantai
+[634] 2. Dangiškieji Atgamintojai
+[635] 3. Dieviškieji Statybininkai
+[636] 4. Minties Registruotojai
+[637] 5. Energijos Manipuliuotojai
+[638] 6. Dizaineriai ir Puošejai
+[639] 7. Harmonijos Darbininkai
+[640] 8. Mirtingojo siekiai ir morontiniai laimejimai
+[641] 45. Vietinės sistemos administracija
+[642] 1. Pereinamosios kulturos pasauliai
+[643] (1) Užbaigtųjų pasaulis
+[644] (2) Morontijos pasaulis
+[645] (3) Angelų pasaulis
+[646] (4) Superangelų pasaulis
+[647] (5) Sūnų pasaulis
+[648] (6) Dvasios pasaulis
+[649] (7) Tėvo pasaulis
+[650] 2. Sistemos Aukščiausiasis Valdovas
+[651] 3. Sistemos vyriausybe
+[652] 4. Keturi ir dvidešimt patareju
+[653] 5. Materialieji Sūnūs
+[654] 6. Adominis kylančiųjų mokymas
+[655] Tevų patyrimas
+[656] Bandomieji Satanijos vaikų darželiai
+[657] 7. Melkizedekų mokyklos
+[658] 46. Vietinės sistemos būstinės
+[659] 1. Jerusemo fiziniai aspektai
+[660] 2. Jerusemo fiziniai bruožai
+[661] 3. Jerusemo transliuojamos programos
+[662] 4. Gyvenamosios ir administracinės teritorijos
+[663] 5. Jerusemo apskritimai
+[664] (1) Dievo Sūnų apskritimai
+[665] (2) Angelų apskritimai
+[666] (3) Visatos Padejejų apskritimai
+[667] (4) Pagrindinių Fizinių Kontrolierių apskritimai
+[668] (5) Kylančiųjų mirtingųjų apskritimai
+[669] (6) Paslaugumo kolonijų apskritimai
+[670] (7) Užbaigtųjų apskritimai
+[671] 6. Vykdomieji-Administraciniai kvadratai
+[672] 7. Stačiakampiai — Spornagijos
+[673] 8. Jerusemo trikampiai
+[674] 47. Septyni gyvenamieji pasauliai
+[675] 1. Užbaigtųjų pasaulis
+[676] Reikalaujama tėvų patirtis
+[677] 2. Bandomieji vaikų darželiai
+[678] 3. Pirmasis gyvenamasis pasaulis
+[679] Morontijos Kompanionai
+[680] 4. Antrasis gyvenamasis pasaulis
+[681] 5. Trečiasis gyvenamasis pasaulis
+[682] 6. Ketvirtasis gyvenamasis pasaulis
+[683] 7. Penktasis gyvenamasis pasaulis
+[684] 8. Šeštasis gyvenamasis pasaulis
+[685] Susiliejimas su Derintoju
+[686] 9. Septintasis gyvenamasis pasaulis
+[687] 10. Jerusemo pilietybė
+[688] 48. Morontinis gyvenimas
+[689] 1. Morontinės medžiagos
+[690] 2. Morontinės energijos prižiūrėtojai
+[691] (1) Grandinių Reguliuotojai
+[692] (2) Sistemų Koordinatoriai
+[693] (3) Planetiniai Saugotojai
+[694] (4) Kombinuoti Kontrolieriai
+[695] (5) Ryšio Stabilizatoriai
+[696] (6) Rinktiniai Paskirstytojai
+[697] (7) Asocijuoti Registruotojai
+[698] 3. Morontiniai Kompanionai
+[699] (1) Piligrimų Sargai
+[700] (2) Piligrimų Priėmėjai ir Laisvi Bendrautojai
+[701] (3) Dangiškųjų Lankytojų Šeimininkai
+[702] (4) Koordinatoriai ir Ryšio Reguliuotojai
+[703] (5) Vertėjai žodžiu ir raštu
+[704] (6) Ekskursijų ir Praeities Vaizdo Prižiūrėtojai
+[705] (7) Teritorijos ir Pastatų Saugotojai
+[706] 4. Praeities Vaizdo Reguliuotojai
+[707] Dangiškasis humoras
+[708] Mirtingųjų humoras
+[709] 5. Gyvenamųjų Pasaulių Mokytojai
+[710] 6. Morontinių Pasaulių Serafimai — Pereinamieji Tarnai
+[711] (1) Serafiniai Evangelai
+[712] Dvidešimt trečiosios Psalmės originalas
+[713] (2) Rasiniai Aiškintojai
+[714] (3) Proto Planuotojai
+[715] (4) Morontiniai Patarėjai
+[716] (5) Technikai
+[717] Stereoskopinis motos poveikis
+[718] (6) Rėgistruotojai-Mokytojai
+[719] Tiesa ir faktas
+[720] (7) Tarnaujantys Rezervai
+[721] Sėkmė, nepasisekimas, ir ego
+[722] 7. Morontinė Mota
+[723] 8. Morontiniai Progresuotojai
+[724] 49. Apgyvendinti pasauliai
+[725] 1. Planetinė gyvybė
+[726] 2. Planetų fiziniai tipai
+[727] (1) Atmosferiniai tipai
+[728] (2) Pagal gyvenamają aplinką tipai
+[729] (3) Gravitaciniai tipai
+[730] (4) Temparatūriniai tipai
+[731] (5) Elektriniai tipai
+[732] (6) Energizuojantys tipai
+[733] (7) Neįvardinti tipai
+[734] 3. Nekvėpuojančiųjų pasauliai
+[735] 4. Evoliuciniai valiniai tvariniai
+[736] 5. Mirtingųjų planetinės serijos
+[737] (1) Prisitaikymas prie planetinių salygų
+[738] Eksperimentinės serijos, kurias tikrina Tabamantija
+[739] (2) Smegenų tipų serijos
+[740] (3) Dvasios priėmimo serijos
+[741] (4) Planetinių mirtingųjų epochos
+[742] (5) Tvarinio giminystės serijos
+[743] (6) Susiliejančios su Derintoju serijos
+[744] (7) Kokiais būdais palieka žemę
+[745] 6. Išsilaisvinimas iš Žemės
+[746] (1) Diėviškosios tvarkos arba grupinės kategorijos išliekantieji mirtingieji
+[747] (2) Individualių kilimo kategorijų mirtingieji
+[748] (3) Nuo išbandymo priklausančių kilimo kategorijų mirtingieji
+[749] (4) Antrinių modifikuotų kilimo kategorijų mirtingieji
+[750] (5) Pirminių modifikuotų kilimo kategorijų mirtingieji
+[751] 50. Planetų Princai
+[752] 1. Princų misija
+[753] 2. Planetų administravimas
+[754] 3. Princo Materialusis Personalas
+[755] 4. Planetinės būstinės ir mokyklos
+[756] 5. Progresuojanti civilizacija
+[757] 6. Planetinė kultūra
+[758] 7. Atlygis už izoliaciją
+[759] Agondonteriai
+[760] Agondonteris Tabamantija
+[761] 51. Planetų Adomai
+[762] 1. Dievo Materialiųjų Sūnų kilmė ir prigimtis
+[763] 2. Planetų Adomų gabenimas
+[764] 3. Adominės misijos
+[765] 4. Šešios evoliucinės rasės
+[766] 5. Rasinis susiliejimas — Adominio kraujo padovanojimas
+[767] 6. Edeninis režimas
+[768] 7. Suvienytas administravimas
+[769] 52. Planetinės mirtingųjų epochos
+[770] 1. Primityvusis žmogus
+[771] 2. Žmogus, atvykus Planetos Princui
+[772] 3. Žmogus, atvykus Adomui
+[773] 4. Žmogus, atvykus Sūnui Arbitrui
+[774] 5. Žmogus, atvykus save padovanojanciam Sūnui
+[775] 6. Urantijos amžius po save padovanojancio Sūnaus
+[776] 7. Žmogus po Sūnaus Mokytojo pasirodymo
+[777] 53. Liuciferio maištas
+[778] 1. Maišto vadovai
+[779] 2. Maišto priežastys
+[780] 3. Liuciferio manifestas
+[781] 4. Maišto pradžia
+[782] 5. Konfl ikto pobūdis
+[783] 6. Ištikimas serafinis vadas
+[784] 7. Maišto istorija
+[785] 8. Žmogaus Sūnus Urantijoje
+[786] 9. Dabartinis maišto statusas
+[787] 54. Liuciferio maišto problemos
+[788] 1. Tikroji ir netikroji laisve
+[789] 2. Laisvės vagystė
+[790] 3. Teisingumo atsilikimas laike
+[791] 4. Gailestingumo uždelsimas laike
+[792] 5. Delsimo išmintis
+[793] Dvylika priežasčių
+[794] 6. Mėilės triumfas
+[795] 55. Šviesos ir gyvenimo sferos
+[796] 1. Morontinė šventovė
+[797] 2. Mirtis ir pervedimas
+[798] 3. Aukso amžiai
+[799] 4. Administraciniai perreguliavimai
+[800] Septyni etapai planetoje
+[801] Tarpinių tvarinių išlaisvinimas
+[802] Adomo išvykimas
+[803] 5. Materialaus vystymosi viršūnė
+[804] 6. Individualus mirtingasis
+[805] 7. Pirmasis arba planetinis etapas
+[806] 8. Antrasis arba sistemos etapas
+[807] 9. Treciasis arba žvaigždymo etapas
+[808] 10. Ketvirtasis arba vietinės visatos etapas
+[809] 11. Mažojo ir didžiojo sektoriaus etapai
+[810] 12. Septintasis arba supervisatos etapas
+[811] Aukščiausiojo Beribiai Prižiūretojai
+[812] 56. Visuotinė vienybė
+[813] 1. Fizinis koordinavimas
+[814] 2. Intelektuali vienybė
+[815] 3. Dvasinis suvienijimas
+[816] 4. Asmenybės suvienijimas
+[817] 5. Dievybės vienybė
+[818] 6. Evoliucinės Dievybės suvienijimas
+[819] 7. Visuotinės evoliucinės pasekmės
+[820] 8. Aukščiausiasis Suvienytojas
+[821] 9. Visuotinė Absoliuti vienybė
+[822] 10. Tiesa, Grožis, ir Gėris
+[823] III DALIS.
+[824] Urantijos istorija
+[825] 57. Urantijos kilmė
+[826] 1. Andronoverio ūkas
+[827] 2. Pirminis ūko etapas
+[828] 3. Antrinis ūko etapas
+[829] 4. Trečiasis ir ketvirtasis etapai
+[830] Saulės kilmė
+[831] 5. Monmatijos — Urantijos saulės sistemos — kilmė
+[832] Judejimas atbulinės
+[833] 6. Saulės sistemos etapas — planetų formavimosi era
+[834] Planetų formavimosi era
+[835] Potvyninė trintis
+[836] Potvyninės gravitacijos sprogimai
+[837] 7. Meteoritų era
+[838] Ugnikalnių amžius
+[839] Primityvioji planetos atmosfera
+[840] 8. Plutos stabilizavimas
+[841] Žemės drebejimų amžius
+[842] Pasaulinis vandenynas ir pirmasis kontinentas
+[843] 58. Gyvybės įkūrimas Urantijoje
+[844] 1. Būtinos salygos fizinei gyvybei
+[845] 2. Urantijos atmosfera
+[846] 3. Erdvinė aplinka
+[847] 4. Gyvybės aušros era
+[848] 5. Kontinentų dreifas
+[849] 6. Pereinamasis periodas 
+[850] 7. Geologijos istorijos knyga
+[851] 59. Jūrinės gyvybės era Urantijoje
+[852] 1. Ankstyvoji jūrinė gyvybe sekliose jūrose
+[853] Trilobitų amžius
+[854] 2. Kontinentinių potvynių pirmasis etapas
+[855] Bestuburių gyvūnų amžius
+[856] 3. Antrasis didžiojo potvynio etapas
+[857] Koralų periodas
+[858] Pečiakojų amžius
+[859] 4. Didysis sausumos iškilimo etapas
+[860] Vegetatyvinis sausumos gyvybės periodas
+[861] Žuvų amžius
+[862] 5. Plutos slinkimo etapas
+[863] Papartinių miškų karbono periodas
+[864] Varlių amžius
+[865] 6. Klimato pereinamasis etapas
+[866] Seklinių augalų periodas
+[867] Biologinių sukretimų amžius
+[868] 60. Urantija ankstyvosios sausumos gyvybės eroje
+[869] 1. Ankstyvasis roplių amžius
+[870] 2. Vėlesnis roplių amžius
+[871] 3. Kreidos periodas
+[872] Žydinčių augalų periodas
+[873] Paukščių amžius
+[874] 4. Kreidos periodo pabaiga
+[875] 61. Žinduolių era Urantijoje
+[876] 1. Naujasis kontinentinės sausumos etapas
+[877] Ankstyvųjų žinduolių amžius
+[878] 2. Nesenų potvynių etapas
+[879] Išsivysciusių žinduolių amžius
+[880] 3. Šiuolaikinių kalnų etapas
+[881] Dramblio ir arklio amžius
+[882] 4. Nesenas kontinentų iškilimo etapas
+[883] Paskutinė didžioji žinduolių migracija
+[884] 5. Ankstyvasis ledynmetis
+[885] 6. Primityvusis žmogus ledo amžiuje
+[886] 7. Tebesitęsiantis ledo amžius
+[887] 62. Pirmykščio žmogaus aušros rasės
+[888] 1. Ankstyvieji lemūrų tipai
+[889] 2. Aušros žinduoliai
+[890] 3. Vidurinieji žinduoliai
+[891] Beždžionių genčių kilmė
+[892] 4. Primatai
+[893] 5. Pirmosios žmogiškosios būtybės
+[894] 6. Žmogiškojo proto evoliucija
+[895] 7. Kaip apgyvendinto pasaulio pripažinimas
+[896] 63. Pirmoji žmogiškoji šeima
+[897] 1. Andonas ir Fonta
+[898] 2. Dvynių pabegimas
+[899] 3. Andono šeima
+[900] 4. Andoniniai klanai
+[901] 5. Andonitų pasklidimas
+[902] 6. Onagaras — pirmasis Tiesos Mokytojas
+[903] 7. Andono ir Fontos išlikimas
+[904] 64. Evoliucinės spalvotosios rasės
+[905] 1. Andoniniai aborigenai
+[906] 2. Foksholo gentys
+[907] 3. Badonano gentys
+[908] 4. Neandertaliečių rasės
+[909] 5. Spalvotųjų rasių kilmė
+[910] 6. Šešios Urantijos Sangikų rasės
+[911] (1) Raudonasis žmogus
+[912] (2) Oranžinis žmogus
+[913] (3) Geltonasis žmogus
+[914] (4) Žaliasis žmogus
+[915] (5) Mėlynasis žmogus
+[916] (6) Indigo rase
+[917] Šių šešių rasių tikslas
+[918] 7. Spalvotųjų rasių pasklidimas
+[919] 65. Evoliucijos kontrolė iš viršaus
+[920] 1. Gyvybės Nešėjų funkcijos
+[921] (1) Elektrochemijos fizinis lygis
+[922] (2) Įprasta kvazimotorinės egzistencijos vidurinė faze
+[923] (3) Išsivystęs pusiau dvasinis lygis
+[924] 2. Evoliucijos panorama
+[925] 3. Evoliucijos skatinimas
+[926] 4. Urantijos jaudinantis patyrimas
+[927] 5. Gyvybės evoliucijos vingiai
+[928] 6. Evoliuciniai gyvybės metodai
+[929] 7. Evoliuciniai proto lygiai
+[930] Mechaninis nemokomas protas
+[931] Nemechaninis patiriantis protas
+[932] 8. Evoliucija laike ir erdvėje
+[933] 66. Urantijos Planetos Princas
+[934] 1. Princas Kaligastija
+[935] 2. Princo personalas
+[936] 3. Dalamatija — Princo miestas
+[937] 4. Šios šimtinės pirmosios dienos
+[938] 5. Šios šimtinės organizacija
+[939] (1) Maisto ir materialios gerovės taryba
+[940] (2) Gyvūnų prijaukinimo ir panaudojimo valdyba
+[941] (3) Patarėjai plėšriųjų gyvūnų įveikimo klausimais
+[942] (4) Žinių skleidimo ir išsaugojimo fakultetas
+[943] (5) Pramonės ir prekybos komisija
+[944] (6) Apreikštos religijos koledžas
+[945] (7) Sveikatos ir gyvybės saugotojai
+[946] (8) Planetinio meno ir mokslo taryba
+[947] (9) Išvystytų gentinių ryšių valdytojai
+[948] (10) Gentinio koordinavimo ir rasinio bendradarbiavimo aukščiausiasis teismas
+[949] 6. Princo valdymas
+[950] 7. Gyvenimas Dalamatijoje
+[951] 8. Kaligastijos nelaimes
+[952] 67. Planetos maištas
+[953] 1. Kaligastijos išdavystė
+[954] 2. Maišto pradžia
+[955] 3. Septyneri lemiami metai
+[956] 4. Kaligastijos šimtinė po maišto
+[957] 5. Tiesioginės maišto pasekmės
+[958] 6. Tvirtasis Vanas
+[959] 7. Nuodemės toli siekiancios pasekmės
+[960] 8. Maišto žmogiškasis didvyris
+[961] 68. Civilizacijos aušra
+[962] 1. Apsauginis visuomeninimas
+[963] 2. Visuomeniniai progresavimo faktoriai
+[964] 3. Velių baimės visuomeninantis poveikis
+[965] 4. Papročių evoliucija
+[966] 5. Žemės panaudojimo metodai — pragyvenimo priemonės
+[967] (1) Subūrimo etapas
+[968] (2) Medžioklės etapas
+[969] (3) Ganyklinis etapas
+[970] (4) Žemdirbystės etapas
+[971] 6. Kultūros evoliucija
+[972] Žemės-žmogaus santykis
+[973] 69. Primityviosios žmogiškosios, institucijos
+[974] 1. Pagrindinės žmogiškosios institucijos
+[975] (1) Savojo aš aprūpinimo institucijos
+[976] (2) Savojo aš pratęsimo institucijos
+[977] (3) Savojo aš patenkinimo institucijos
+[978] 2. Gamybos aušra
+[979] 3. Darbo pasidalijimas
+[980] 4. Prekybos pradžia
+[981] 5. Kapitalo pradžia
+[982] 6. Ugnis civilizacijos atžvilgiu
+[983] 7. Gyvunų panaudojimas
+[984] 8. Vergove kaip civilizacijos faktorius
+[985] 9. Privati nuosavybė
+[986] 70. Žmogiškojo valdymo evoliucija
+[987] 1. Karo genezė
+[988] 2. Visuomeninė karo vertė
+[989] Šiuolaikinis industrializmas prieš militarizmą
+[990] 3. Ankstyvieji žmogiškieji susivienijimai
+[991] 4. Klanai ir gentys
+[992] 5. Valdymo ištakos
+[993] 6. Monarchinis valdymas
+[994] 7. Primityvieji klubai ir draugijos
+[995] 8. Visuomeninės klases
+[996] 9. Žmogiškosios teises
+[997] 10. Teisingumo evoliucija
+[998] 11. Istatymai ir teismai
+[999] 12. Pilietinės valdžios paskyrimas
+[1000] 71. Valstybės išsivystymas
+[1001] 1. Embrionine valstybė
+[1002] 2. Atstovaujamojo valdymo evoliucija
+[1003] 3. Valstybingumo idealai
+[1004] 4. Besivystanti civilizacija
+[1005] 5. Konkurencijos evoliucija
+[1006] 6. Pelno akstinas
+[1007] 7. Švietimas
+[1008] 8. Valstybingumo pobūdis
+[1009] 72. Kaimyninės planetos valdymas
+[1010] 1. Kontinentinė nacija
+[1011] 2. Politinė organizacija
+[1012] 3. Šeimos gyvenimas
+[1013] 4. Švietimo sistema
+[1014] 5. Gamybinė organizacija
+[1015] 6. Senatvės draudimas
+[1016] 7. Mokesčiai
+[1017] 8. Specialūs koledžai
+[1018] 9. Visuotinio balsavimo planas
+[1019] 10. Kova prieš nusikalstamumą
+[1020] 11. Karinis pasirengimas
+[1021] 12. Kitos nacijos
+[1022] 73. Edeno Sodas
+[1023] Tabamantijos inspektavimas
+[1024] 1. Noditai ir amadonitai
+[1025] 2. Sodo planavimas
+[1026] 3. Sodo vieta
+[1027] 4. Sodo įrengimas
+[1028] 5. Sodo namai
+[1029] 6. Gyvybės medis
+[1030] 7. Edeno dalia
+[1031] 74. Adomas ir Ieva
+[1032] 1. Adomas ir Ieva Jeruseme
+[1033] 2. Adomo ir Ievos atvykimas
+[1034] 3. Adomas ir Ieva susipažista su planeta
+[1035] 4. Pirmoji suirutė
+[1036] 5. Adomo administracija
+[1037] 6. Adomo ir Ievos šeimos gyvenimas
+[1038] 7. Gyvenimas Sode
+[1039] 8. Legenda apie sukūrimą
+[1040] 75. Adomo ir Ievos pražanga
+[1041] 1. Urantijos problema
+[1042] 2. Kaligastijos samokslas
+[1043] 3. Ievos viliojimas
+[1044] 4. Pražangos suvokimas
+[1045] 5. Pražangos pasekmės
+[1046] 6. Adomas ir Ieva palieka Sodą
+[1047] 7. Adomo ir Ievos degradavimas
+[1048] 8. Vadinamasis žmogaus nuopuolis
+[1049] 76. Antrasis Sodas
+[1050] 1. Edenitai įžengia į Mesopotamiją
+[1051] 2. Kainas ir Abelis
+[1052] 3. Gyvenimas Mesopotamijoje
+[1053] Setitų dvasininkija
+[1054] 4. Violetinė rasė
+[1055] 5. Adomo ir Ievos mirtis
+[1056] Mykolo pranešimas
+[1057] 6. Adomo ir Ievos išlikimas
+[1058] 77. Tarpiniai Tvariniai
+[1059] 1. Pirminės Tarpinės Būtybės
+[1060] 2. Noditų rasė
+[1061] 3. Babelio bokštas
+[1062] 4. Noditų civilizacijos centrai
+[1063] 5. Adomsonas ir Rata
+[1064] 6. Antrinės Tarpinės Būtybės
+[1065] 7. Tarpiniai tvariniai maištininkai
+[1066] 8. Suvienyti tarpiniai tvariniai
+[1067] 9. Urantijos nuolatiniai piliečiai
+[1068] 78. Violetinė rasė laikmečiu po Adomo
+[1069] 1. Rasinis ir kulturinis pasiskirstymas
+[1070] 2. Adomitai antrajame Sode
+[1071] 3. Adomitų ankstyvosios ekspansijos
+[1072] 4. Anditai
+[1073] 5. Anditų migravimai
+[1074] 6. Paskutinieji anditų pasklidimai
+[1075] 7. Potvyniai Mesopotamijoje
+[1076] Nojaus istorija
+[1077] 8. Šumerai — paskutinieji iš anditų
+[1078] 79. Anditų ekspansija Rytuose
+[1079] 1. Turkestano anditai
+[1080] 2. Anditai užkariauja Indiją
+[1081] 3. Dravidų Indiją
+[1082] 4. Arijų įsiveržimas į Indiją
+[1083] 5. Raudonasis žmogus ir geltonasis žmogus
+[1084] 6. Kiniečių civilizacijos aušra
+[1085] 7. Anditai įžengia į Kiniją
+[1086] 8. Velesne kiniečių civilizacija
+[1087] 80. Anditų ekspansija Vakaruose
+[1088] 1. Adomitai įžengia į Europą
+[1089] 2. Klimatiniai ir geologiniai pasikeitimai
+[1090] Potvynis Viduržemio jūros pakranteje
+[1091] 3. Kromanjonietis mėlynasis žmogus
+[1092] 4. Anditų įsiveržimai į Europą
+[1093] 5. Anditai užkariauja Šiaurės Europą
+[1094] 6. Anditai palei Nilą
+[1095] 7. Viduržemio jūros salų anditai
+[1096] 8. Dunojaus andonitai
+[1097] 9. Trys baltųjų rasės
+[1098] 81. Šiuolaikinės civilizacijos vystymasis
+[1099] 1. Civilizacijos lopšys
+[1100] 2. Civilizacijos priemonės
+[1101] (1) Ugnies sutramdymas
+[1102] (2) Gyvūnų prisijaukinimas
+[1103] (3) Belaisvių pavertimas vergais
+[1104] (4) Privati nuosavybė
+[1105] 3. Miestai, gamyba, ir prekyba
+[1106] 4. Mišrios rasės
+[1107] (1) Kaukazoidinės rasės
+[1108] (2) Mongoloidinės rasės
+[1109] (3) Negroidinės rasės
+[1110] 5. Kultūrinė visuomenė
+[1111] Galia ir teisė
+[1112] 6. Civilizacijos išsaugojimas
+[1113] (1) Gamtinės aplinkybės
+[1114] (2) Gamybos priemonės
+[1115] (3) Mokslinės žinios
+[1116] (4) Žmogiškieji resursai
+[1117] (5) Materialiųjų resursų efektyvumas
+[1118] (6) Kalbos efektyvumas
+[1119] (7) Mechaninių prietaisų veiksmingumas
+[1120] (8) Deglo nešėjų charakteris
+[1121] (9) Rasiniai idealai
+[1122] (10) Specialistų koordinavimas
+[1123] (11) Idarbinimo vietų suradimas
+[1124] (12) Noras bendradarbiauti
+[1125] (13) Efektyvus ir išmintingas vadovavimas
+[1126] (14) Visuomeninės permainos
+[1127] (15) Kelio užkirtimas žlugimui pereinamuoju laikotarpiu
+[1128] 82. Santuokos evoliucija
+[1129] 1. Poravimosi instinktas
+[1130] 2. Ribojantys tabu
+[1131] 3. Ankstyvieji vedybiniai papročiai
+[1132] 4. Vedybos, esant nuosavybės papročiams
+[1133] 5. Endogamija ir eksogamija
+[1134] 6. Rasiniai mišiniai
+[1135] 83. Santuokos institutas
+[1136] 1. Santuoka kaip visuomeninis institutas
+[1137] 2. Asistavimas ir sužadėtuvės
+[1138] 3. Pirkimas ir kraitis
+[1139] 4. Vedybų ritualas
+[1140] 5. Daugiskaitinės vedybos
+[1141] 6. Tikroji monogamija — porinės vedybos
+[1142] 7. Vedybinio ryšio nutraukimas
+[1143] 8. Santuokos idealizavimas
+[1144] 84. Santuoka ir šeimyninis gyvenimas
+[1145] 1. Primityvūs poriniai susivienijimai
+[1146] 2. Ankstyvoji matriarchalinė šeima
+[1147] 3. Šeima, viešpataujant tėvui
+[1148] 4. Moters padėtis ankstyvojoje visuomenėje
+[1149] 5. Moterys, besivystančių papročių laikotarpiu
+[1150] 6. Vyro ir moters partnerystė
+[1151] 7. Šeimyninio gyenimo idealai
+[1152] 8. Savęs patenkinimo pavojai
+[1153] 85. Garbinimo kilmė
+[1154] 1. Akmenų ir kalvų garbinimas
+[1155] 2. Augalų ir medžių garbinimas
+[1156] 3. Gyvunų garbinimas
+[1157] 4. Stichijų garbinimas 
+[1158] 5. Dangaus kūnų garbinimas
+[1159] 6. Žmogaus garbinimas
+[1160] 7. Garbinimo ir Išminties Pagalbinės Proto Dvasios
+[1161] 86. Religijos ankstyvoji evoliucija
+[1162] 1. Atsitiktinumas: sekmė ir nesėkmė
+[1163] 2. Atsitiktinumo įasmeninimas
+[1164] 3. Mirtis — nesuprantamoji
+[1165] 4. Išlikimo po mirties samprata
+[1166] 5. Samprata apie velę-sielą
+[1167] 6. Velių-Dvasių aplinka
+[1168] 7. Primityviosios religijos funkcija
+[1169] 87. Vėlių kultai
+[1170] 1. Velių baimė
+[1171] 2. Velių nuraminimas
+[1172] 3. Protėvių garbinimas
+[1173] 4. Geros ir blogos dvasinės vėlės
+[1174] 5. Besivystantis vėlių kultas
+[1175] 6. Prievarta ir dvasių išvarymas
+[1176] 7. Kulto prigimtis
+[1177] 88. Fetišai, talismanai, ir magija
+[1178] 1. Tikėjimas į fetišus
+[1179] 2. Fetišų evoliucija
+[1180] Atvaizdai ir stabai
+[1181] “Šventosios knygos”
+[1182] 3. Totemizmas
+[1183] 4. Magija
+[1184] 5. Magiški talismanai
+[1185] 6. Magijos praktika
+[1186] 89. Nuodėmė, auka, ir atpirkimas
+[1187] 1. Tabu
+[1188] 2. Nuodemės samprata
+[1189] 3. Atsižadėjimas ir nusižeminimas
+[1190] Susilaikymo kultas
+[1191] 4. Aukos kilmė
+[1192] 5. Paaukojimai ir kanibalizmas
+[1193] 6. Žmonių aukojimo evoliucija
+[1194] 7. Žmonių aukojimo modifikavimas
+[1195] Šventyklų paleistuvystė
+[1196] 8. Išpirkimas ir susitarimas
+[1197] 9. Aukojimai ir sakramentai
+[1198] 10. Nuodėmės atleidimas
+[1199] 90. Šamanizmas — kerėtojai ir žyniai
+[1200] 1. Pirmieji šamanai — keretojai
+[1201] 2. Šamanistiniai ritualai
+[1202] 3. Ligos ir mirties šamaninė teorija
+[1203] 4. Medicina, vadovaujant šamanams
+[1204] 5. Žyniai ir ritualai
+[1205] 91. Maldos evoliucija
+[1206] 1. Primityvioji malda
+[1207] 2. Besivystanti malda
+[1208] Malda ir magija
+[1209] 3. Malda ir antrasis aš
+[1210] 4. Etinė malda
+[1211] 5. Maldos visuomeninės pasekmės
+[1212] 6. Maldos kompetencija
+[1213] 7. Misticizmas, ekstazė, ir įkvėpimas
+[1214] 8. Meldimasis kaip asmeninis patyrimas
+[1215] 9. Veiksmingos maldos sąlygos
+[1216] 92. Vėlesnė religijos evoliucija
+[1217] 1. Evoliucinės religijos prigimtis
+[1218] 2. Religija ir papročiai
+[1219] 3. Evoliucinės religijos prigimtis
+[1220] 4. Apreiškimo dovana
+[1221] (1) Dalamatijos mokymai
+[1222] (2) Edeno mokymai
+[1223] (3) Melkizedekas iš Salemo
+[1224] (4) Jėzus iš Nazareto
+[1225] (5) Urantijos dokumentai
+[1226] 5. Didieji religiniai vadovai
+[1227] 6. Sudetinės religijos
+[1228] Vienuolika dabar egzistuojančių religijų
+[1229] 7. Tolesnė religijos evoliucija
+[1230] 93. Makiventa Melkizedekas
+[1231] 1. Makiventos įsikunijimas
+[1232] 2. Salemo išmincius
+[1233] 3. Melkizedeko mokymai
+[1234] 4. Salemo religija
+[1235] Salemo tikejimas
+[1236] Septyni įsakymai
+[1237] 5. Abraomo pasirinkimas
+[1238] 6. Melkizedeko susitarimas su Abraomu
+[1239] 7. Melkizedeko misionieriai
+[1240] 8. Melkizedeko išvykimas
+[1241] 9. Po Melkizedeko išvykimo
+[1242] 10. Makiventos Melkizedeko dabartinis statusas
+[1243] 94. Melkizedeko mokymai Rytuose
+[1244] 1. Salemo mokymai Vedų Indijoje
+[1245] Rig-Vedos
+[1246] 2. Brahmanizmas
+[1247] Reinkarnacijos doktrina
+[1248] 3. Brahmaninė filosofija
+[1249] 4. Induizmo religija
+[1250] 5. Kova už Tiesą Kinijoje
+[1251] 6. Lao-Tse ir Konfucijus
+[1252] 7. Gautama Sidharta
+[1253] 8. Budistų tikejimas
+[1254] Gautamos evangelija
+[1255] Moraliniai isakymai
+[1256] 9. Budizmo paplitimas
+[1257] 10. Religija Tibete
+[1258] 11. Budistų filosofija
+[1259] 12. Dievo samprata budizme
+[1260] 95. Melkizedeko mokymai Levante
+[1261] 1. Salemo religija Mesopotamijoje
+[1262] 2. Ankstyvoji Egipto religija
+[1263] 3. Moralinių sampratų evoliucija
+[1264] 4. Amenemopo mokymai
+[1265] 5. Nuostabusis Ichnatonas
+[1266] 6. Salemo doktrinos Irane
+[1267] 7. Salemo mokymai Arabijoje
+[1268] 96. Jahvė — hebrajų Dievas
+[1269] 1. Dievybės samprata tarp semitų
+[1270] 2. Semitų tautos
+[1271] 3. Neprilygstamasis Mozė
+[1272] 4. Jahvės skelbimas
+[1273] 5. Mozės mokymai
+[1274] Materialistinė Apvaizda
+[1275] 6. Dievo samprata po Mozės mirties
+[1276] 7. Psalmės ir Jobo knyga
+[1277] 97. Sampratos apie Dievą evoliucija tarp hebrajų
+[1278] 1. Samuelis — pirmasis iš hebrajų pranašų
+[1279] 2. Elijas ir Elišas
+[1280] 3. Jahvė ir Baalis
+[1281] 4. Amosas ir Osijas
+[1282] 5. Pirmasis Isajas
+[1283] Mikajus ir Obadajus
+[1284] 6. Bebaimis Jeremijas
+[1285] 7. Antrasis Isajas
+[1286] 8. Šventa ir pasaulietinė istorija
+[1287] 9. Hebrajų istorija
+[1288] Efraimas ir Judahas
+[1289] Saulius ir Dovydas
+[1290] Saliamonas ir mokesčiai
+[1291] Izraelis ir Judahas
+[1292] Izraelio karalystės sugriovimas
+[1293] Judaho karalystės pabaiga
+[1294] Babiloniečių nelaisveje
+[1295] 10. Hebrajų religija
+[1296] 98. Melkizedeko mokymai Vakaruose
+[1297] 1. Salemo religija tarp graikų
+[1298] 2. Graikų filosofinė mintis
+[1299] 3. Melkizedeko mokymai Romoje
+[1300] 4. Misteriniai kultai
+[1301] Sibelės ir jos sūnaus Aties frigų kultas
+[1302] Ozyrio ir jo motinos Izidės egiptiečių kultas
+[1303] Mitros iraniečių kultas
+[1304] 5. Mitros kultas
+[1305] 6. Mitraizmas ir krikščionybė
+[1306] 7. Krikščioniškoji religija
+[1307] 99. Religijos visuomeninės problemos
+[1308] 1. Religija ir visuomeninis pertvarkymas
+[1309] 2. Institucinės religijos silpnumas
+[1310] 3. Religija ir religininkas
+[1311] 4. Pereinamojo laikotarpio sunkumai
+[1312] 5. Religijos visuomeniniai aspektai
+[1313] 6. Institucinė religija
+[1314] 7. Religijos indėlis
+[1315] 100. Religija žmogiškajame patyrime
+[1316] 1. Religinis augimas
+[1317] 2. Dvasinis augimas
+[1318] 3. Samprata apie aukščiausiąją vertybę
+[1319] 4. Augimo problemos
+[1320] 5. Atsivertimas ir misticizmas
+[1321] 6. Religinio gyvenimo požymiai
+[1322] 7. Religinio gyvenimo viršūnė
+[1323] 101. Tikroji religijos prigimtis
+[1324] 1. Tikroji religija
+[1325] 2. Religijos faktas
+[1326] 3. Religijos savybės
+[1327] Dvasinio įtikėjimo dvylika pailiustravimų
+[1328] 4. Apreiškimo apribojimai
+[1329] 5. Religija išplėsta apreiškimo
+[1330] 6. Augantis religinis patyrimas
+[1331] Septyni išgelbėjimo aspektai
+[1332] 7. Asmeninė religijos filosofija
+[1333] 8. Įtikejimas ir tikėjimas
+[1334] 9. Religija ir moralė
+[1335] 10. Religija kaip žmogaus išlaisvintoja
+[1336] 102. Religinio įtikėjimo pamatai
+[1337] 1. Įtikejimo garantijos
+[1338] 2. Religija ir tikrovė
+[1339] 3. Žinios, išmintis, ir įžvalga
+[1340] 4. Patyrimo faktas
+[1341] 5. Tikslingo potencialo aukštybė
+[1342] 6. Religinio įtikėjimo tikrumas
+[1343] 7. To, kas yra dieviška, tikrumas
+[1344] 8. Religijos įrodymai
+[1345] 103. Religinio patyrimo tikrovė
+[1346] 1. Religijos filosofija
+[1347] 2. Religija ir individas
+[1348] 3. Religija ir žmogiškoji rasė
+[1349] 4. Dvasinė komunija
+[1350] 5. Idealų kilmė
+[1351] 6. Filosofinis derinimas
+[1352] 7. Mokslas ir religija
+[1353] 8. Filosofija ir religija
+[1354] 9. Religijos esmė
+[1355] 104. Sampratos apie Trejybę augimas
+[1356] 1. Trejybės samprata Urantijoje
+[1357] 2. Trejybės vienybe ir Dievybės daugiskaitiškumas
+[1358] 3. Trejybės ir Trivienybės
+[1359] 4. Septynios Trivienybės
+[1360] 5. Trisajungos
+[1361] 105. Dievybė ir tikrovė
+[1362] 1. Filosofinė šio AŠ ESU koncepcija
+[1363] 2. Šis AŠ ESU kaip Trivienybė ir kaip Septinkartis
+[1364] 3. Septyni Begalybės Absoliutai
+[1365] 4. Vienybe, Dualybė, ir Trivienybė
+[1366] 5. Ribinės tikrovės paskleidimas
+[1367] 6. Ribinės tikrovės atgarsiai
+[1368] 7. Transcendentalų atsiradimas
+[1369] 106. Tikrovės visatos lygiai
+[1370] 1. Ribinių Funkcionalų pirminis susivienijimas
+[1371] Dievas Septinkartis
+[1372] 2. Antrinė aukščiausioji ribinė integracija
+[1373] Aukščiausioji Būtybė
+[1374] 3. Transcendentinis tretinis tikrovės susivienijimas
+[1375] Galutinioji Trejybė
+[1376] 4. Galutinioji ketvirtoji integracija
+[1377] Galutinioji Dievybė
+[1378] 5. Bendraabsoliutus arba penktosios fazės susivienijimas
+[1379] Trejybės Absoliutas
+[1380] 6. Absoliuti arba šeštosios fazės integracija
+[1381] Begalinis kosmosas
+[1382] 7. Likimo užbaigtumas
+[1383] 8. Trejybių Trejybė 
+[1384] (1) Trijų Trejybių lygis
+[1385] (2) Patirtinės Dievybės lygis
+[1386] (3) Šio AŠ ESU lygis
+[1387] 9. Egzistencialus begalinis suvienijimas
+[1388] 107. Minties Derintojų kilmė ir prigimtis
+[1389] 1. Minties Derintojų kilmė
+[1390] 2. Derintojų klasifikacija
+[1391] 3. Derintojų namai Dieviningtone
+[1392] 4. Derintojų prigimtis ir buvimas
+[1393] 5. Derintojo protingumas
+[1394] 6. Derintojai kaip grynos dvasios
+[1395] 7. Derintojai ir asmenybė
+[1396] 108. Minties Derintojų misija ir tarnavimas
+[1397] 1. Parinkimas ir paskyrimas
+[1398] 2. Derintojo apsigyvenimui butinos salygos 
+[1399] Urantijoje
+[1400] Kituose pasauliuose
+[1401] 3. Organizacija ir administravimas
+[1402] Tabamantijos pagerbimas
+[1403] 4. Ryšys sų kitomis dvasinemis itakomis
+[1404] 5. Derintojo misija
+[1405] 6. Dievas žmoguje
+[1406] 109. Derintojų ryšys su visatos tvariniais
+[1407] 1. Derintojų vystymasis
+[1408] 2. Savaime veikiantys Derintojai
+[1409] 3. Derintojų ryšys su mirtingųjų tipais
+[1410] 4. Derintojai ir žmogiškoji asmenybe
+[1411] 5. Materialios kliūtys Derintojo apsigyvenimui
+[1412] 6. Tikrųjų vertybių išsaugojimas
+[1413] Derintojas, kuris gyveno Jėzuje
+[1414] 7. Personalizuotų Derintojų likimas
+[1415] Visurasmenės būtybės
+[1416] 110. Derintojų ryšys su individualiais mirtingaisiais
+[1417] 1. Apsigyvenimas mirtingojo prote
+[1418] 2. Derintojai ir žmogiškoji valia
+[1419] 3. Bendradarbiavimas su Derintoju
+[1420] 4. Derintojo darbas prote
+[1421] 5. Klaidingos sampratos apie Derintojo vadovavimą
+[1422] 6. Septyni psichiniai apskritimai
+[1423] 7. Nemirtingumo pasiekimas
+[1424] Derintojo apeliavimas į sielą
+[1425] 111. Derintojas ir siela
+[1426] 1. Proto pasirinkimo arena
+[1427] 2. Sielos prigimtis
+[1428] 3. Besivystanti siela
+[1429] 4. Vidinis gyvenimas
+[1430] 5. Pasirinkimo pašventimas
+[1431] 6. Žmogiškasis paradoksas
+[1432] 7. Derintojo problema
+[1433] Likimo sargo pareiškimas
+[1434] 112. Asmenybės išlikimas
+[1435] Keturiolika asmenybės aspektų
+[1436] 1. Asmenybe ir tikrovė
+[1437] 2. Savasis aš
+[1438] 3. Mirties reiškinys
+[1439] 4. Derintojai po mirties
+[1440] 5. Žmogiškojo aš išlikimas
+[1441] 6. Morontinis aš
+[1442] 7. Susiliejimas su Derintoju
+[1443] 113. Serafiniai likimo sargai
+[1444] 1. Angelai sargai
+[1445] 2. Likimo sargai
+[1446] 3. Ryšys su kitais dvasiniais poveikiais
+[1447] 4. Serafinės veikimo sferos
+[1448] 5. Serafinė tarnystė mirtingiesiems
+[1449] 6. Angelai sargai po mirties
+[1450] 7. Serafimai ir kylanciojo karjera
+[1451] 114. Serafinis planetinis valdymas
+[1452] 1. Urantijos aukščiausioji valdžia
+[1453] 2. Planetinių prižiūrėtojų valdyba
+[1454] 3. Reziduojantis vyriausiasis vadovas
+[1455] 4. Stebėtojas nuo Pačių Aukštųjų
+[1456] Aukščiausiojo regencies
+[1457] 5. Planetinis valdymas
+[1458] 6. Planetinės priežiūros pagrindiniai serafimai
+[1459] (1) Epochiniai angelai
+[1460] (2) Pažangos angelai
+[1461] (3) Religiniai sargai
+[1462] (4) Nacijos gyvenimo angelai
+[1463] (5) Rasių angelai
+[1464] (6) Ateitiės angelai
+[1465] (7) Švietimo angelai
+[1466] (8) Sveikatos angelai
+[1467] (9) Šeimos serafimai
+[1468] 1(0) Pramonės angelai
+[1469] (11) Pramogų angelai
+[1470] (12) Viršžmogiškojo tarnavimo angelai
+[1471] 7. Rezervinis likmo korpusas
+[1472] 115. Aukščiausioji Būtybė
+[1473] 1. Savokų ribų santykinumas
+[1474] 2. Absoliutus pagrindas Aukštybei
+[1475] 3. Pirminis, aktualus, ir potencialus
+[1476] 4. Aukščiausiosios tikrovės šaltiniai
+[1477] 5. Aukščiausiojo ryšys su Rojaus Trejybe
+[1478] 6. Aukščiausiojo ryšys su Trisajungomis
+[1479] 7. Aukščiausiojo prigimtis
+[1480] 116. Visagalis Aukščiausiasis
+[1481] 1. Aukščiausiasis Protas
+[1482] Kosminis protas
+[1483] 2. Visagalis ir Dievas Septinkartis
+[1484] 3. Visagalis ir Rojaus Dievybė
+[1485] 4. Visagalis ir Aukščiausieji Kūrejai
+[1486] 5. Visagalis ir Septinkarčiai Kontrolieriai
+[1487] Pusiausvyros problema
+[1488] 6. Dvasios viešpatavimas
+[1489] 7. Didžiosios visatos gyvas organizmas
+[1490] 117. Dievas Aukščiausiasis
+[1491] 1. Aukščiausiosios Būtybės prigimtis
+[1492] 2. Evoliucinio augimo šaltinis
+[1493] Tvarinių sutrejybinti sūnūs ir augimas
+[1494] 3. Aukščiausiojo reikšmė visatos tvariniams
+[1495] 4. Ribinis Dievas
+[1496] Kosminė morale — aukščiausioji pareiga
+[1497] 5. Kūrinijos viršsiela
+[1498] Užbaigtojo transcendentavimas
+[1499] Žmogiškojo augimo atgarsiai
+[1500] 6. Aukščiausiojo ieškojimas
+[1501] 7. Aukščiausiojo ateitis
+[1502] 118. Aukščiausiasis ir Galutinysis — Laikas ir Erdvė
+[1503] 1. Laikas ir amžinybė
+[1504] Patirtiniai (subjektyvūs) laiko vienetai
+[1505] 2. Visur esamumas ir visur buvimas
+[1506] 3. Laiko-Erdvės ryšiai
+[1507] Tiesa ir faktas
+[1508] Erdvė ir modelis
+[1509] 4. Pirminis ir antrinis priežastingumas
+[1510] 5. Visagališkumas ir suderinamumas
+[1511] 6. Visagališkumas ir visakūrybiškumas
+[1512] 7. Visažiniškumas ir lemtis
+[1513] 8. Valdymas ir viršvaldymas
+[1514] Pažangos laiko valdytojas
+[1515] 9. Visaų mechanizmai
+[1516] 10. Apvaizdos funkcijos
+[1517] 119. Kristaus Mykolo savęs padovanojimai
+[1518] 1. Pirmasis savęs padovanojimas
+[1519] 2. Antrasis savęs padovanojimas
+[1520] 3. Trečiasis savęs padovanojimas
+[1521] 4. Ketvirtasis savęs padovanojimas
+[1522] 5. Penktasis savęs padovanojimas
+[1523] 6. Šeštasis savęs padovanojimas
+[1524] 7. Septintasis ir paskutinysis savęs padovanojimas
+[1525] 8. Mykolo statusas po savęs padovanojimu
+[1526] IV DALIS.
+[1527] Jezuas gyvenimas ir mokymai
+[1528] 120. Mykolo savęs padovanojimas Urantijoje
+[1529] 1. Septintojo Savęs padovanojimo komisija
+[1530] 2. Savęs padovanojimo apribojimai
+[1531] 3. Kitos rekomendacijos ir patarimai
+[1532] 4. Isikūnijimas — du paverčiant vienu
+[1533] 121. Mykolo savęs padovanojimo laikai
+[1534] 1. Vakarai pirmajame amžiuje po Kristaus
+[1535] 2. Žydų tauta
+[1536] 3. Tarp pagonių
+[1537] 4. Pagoniškoji filosofija
+[1538] (1) Epikūriecių
+[1539] (2) Stoikų
+[1540] (3) Cinikų
+[1541] (4) Skeptikų
+[1542] 5. Pagonių religijos
+[1543] Misterinės religijos
+[1544] 6. Hebrajų religija
+[1545] 7. Žydai ir pagonys
+[1546] 8. Ankstesnieji parašyti dokumentai
+[1547] (1) Evangelija pagal Morkų
+[1548] (2) Mato Evangelija
+[1549] (3) Luko Evangelija
+[1550] (4) Jono Evangelija
+[1551] Pastaba
+[1552] 122. Jėzaus gimimas ir kūdikystė
+[1553] 1. Juozapas ir Marija
+[1554] 2. Gabrielis apsireiškia Elžbietai
+[1555] 3. Gabrielio paskelbimas Marijai
+[1556] 4. Juozapo sapnas
+[1557] “Dovydo namai”
+[1558] 5. Jėzaus žemiškieji tėvai
+[1559] 6. Namai Nazarete
+[1560] 7. Kelione į Betliejų
+[1561] 8. Jėzaus gimimas
+[1562] Legenda apie piemenis
+[1563] Trys šventikai iš Uro
+[1564] “Betliejaus žvaigždė”
+[1565] 9. Pateikimas šventykloje
+[1566] 10. Erodo veiksmai
+[1567] Pabegimas į Egipta
+[1568] 123. Jėzaus ankstyvoji vaikystė
+[1569] Gyvenimas Egipte
+[1570] 1. Sugrižus į Nazaretą
+[1571] Jėzaus ketvirtieji metai
+[1572] 2. Penktieji metai (2 m. pr. Kr.)
+[1573] Vaiko auginimas
+[1574] 3. Įvykiai šeštaisiais metais (1 m. pr. Kr.)
+[1575] 4. Septintieji metai (1 m. po Kr. gim.)
+[1576] Materialūs nelaimingi atsitikimai
+[1577] 5. Mokyklinis gyvenimas Nazarete
+[1578] 6. Jo aštuntieji metai (2 m. po Kr. gim)
+[1579] 124. Vėlesnioji Jėzaus vaikystė
+[1580] 1. Jėzaus devintieji metai (3 m. po Kr. gim.)
+[1581] Piešinys ant grindų
+[1582] Klimatas Galilėjoje
+[1583] 2. Dešimtieji metai ( 4 m. po Kr. gim.)
+[1584] Murininko sūnūs Jokūbas
+[1585] 3. Vienuoliktieji metai (5 m. po Kr. gim.)
+[1586] Skaitopolio epizodas
+[1587] 4. Dvyliktieji metai (6 m. po Kr. gim.)
+[1588] Asmeninė moralė ir grupinė ištikimybė
+[1589] 5. Jo tryliktieji metai (7 m. po Kr. gim.)
+[1590] 6. Kelionė į Jeruzalę
+[1591] Marija, Morta, ir Lozorius
+[1592] 125. Jėzus Jeruzalėje
+[1593] 1. Jėzus apžiūri šventykla
+[1594] 2. Jėzus ir Perejimo šventė
+[1595] 3. Juozapo ir Marijos išvykimas
+[1596] 4. Pirmoji ir antroji dienos šventykloje
+[1597] 5. Trecioji diena šventykloje
+[1598] 6. Ketvirtoji diena šventykloje
+[1599] 126. Šie dveji lemiami metai
+[1600] 1. Jo keturioliktieji metai (8 m. po Kr. gim.)
+[1601] 2. Juozapo mirtis
+[1602] 3. Penkioliktieji metai (9 m. po Kr. gim.)
+[1603] “Viešpaties Maldos” kilmė
+[1604] “Žmogaus Sūnūs”
+[1605] Kas yra Mesijas?
+[1606] 4. Pirmasis pamokslas sinagogoje
+[1607] 5. Finansinė kova
+[1608] 127. Paauglystės metai
+[1609] 1. Šešioliktieji metai (10 m. po Kr. gim.)
+[1610] 2. Septynioliktieji metai (11 m. po Kr. gim.)
+[1611] Epizodas su Uoliaisiais
+[1612] 3. Aštuonioliktieji metai (12 m. po Kr. gim.)
+[1613] Su Jokūbu Perejimo šventėje
+[1614] Elžbietos ir Jono apsilankymas
+[1615] Amoso mirtis
+[1616] 4. Devynioliktieji metai (13 m. po Kr. gim.)
+[1617] Auginant vaikus
+[1618] 5. Rebeka, Ezro dukra
+[1619] 6. Jo dvidešimtieji metai (14 m. po Kr. gim.)
+[1620] Apsilankymas Jeruzaleje per Perejimo šventę
+[1621] 128. Jėzaus ankstyvoji vyrystė
+[1622] 1. Dvidešimt pirmieji metai (15 m. po Kr. gim.)
+[1623] Augantis suvokimas apie dieviškumą
+[1624] Perejimo šventėje su Juozapu
+[1625] 2. Dvidešimt antrieji metai (16 m. po Kr. gim.)
+[1626] Kalvis Sepforyje
+[1627] 3. Dvidešimt tretieji metai (17 m. po Kr. gim.)
+[1628] Perejimo šventėje su Simonu
+[1629] Jėzus sutinka Steponą
+[1630] 4. Damasko epizodas
+[1631] 5. Dvidešimt ketvirtieji metai (18 m. po Kr. gim.)
+[1632] Aleksandrijiečių pasiūlymas
+[1633] 6. Dvidešimt penktieji metai (19 m. po Kr. gim.)
+[1634] Perejimo šventeje su Judu
+[1635] “Dede Jošua, papasakok mums kokią istoriją.”
+[1636] 7. Dvidešimt šeštieji metai (20 m. po Kr. gim.)
+[1637] Jokūbo vedybos
+[1638] Miriamos jungtuvės
+[1639] Jokubas vadovauja Juozapo šeimai
+[1640] 129. Jėzaus vėlesnis suaugusiojo gyvenimas
+[1641] 1. Dvidešimt septintieji metai (21 m. po Kr. gim.)
+[1642] Zabediejus iš Kapernaumo
+[1643] Jėzus gamina valtis
+[1644] 2. Dvidešimt aštuntieji metai (22 m. po Kr. gim.)
+[1645] Jėzus lankosi Jeruzalėje
+[1646] Susitikimas su Gonodu ir Ganidu
+[1647] 3. Dvidešimt devintieji metai (23 m. po Kr. gim.)
+[1648] Kelionės į Romą tikslas
+[1649] 4. Žmogiškasis Jėzus
+[1650] 130. Pakeliui į Romą
+[1651] 1. Jopoje — pakalbis apie Joną
+[1652] Diskusija apie gerį ir blogį
+[1653] 2. Cezarėjoje
+[1654] Pirklys iš Mongolijos
+[1655] Graikas darbininkas ir romėnas dešimtininkas
+[1656] Dievo valia ir žmogaus valia
+[1657] 3. Aleksandrijoje
+[1658] 4. Pasikalbėjimas apie tikrovę
+[1659] 5. Kretos saloje
+[1660] 6. Jaunas vyras, kuris bijojo
+[1661] 7. Kartagenoje — diskusija apie laiką ir erdvė
+[1662] 8. Pakeliui į Neapoli ir Romą
+[1663] Ezra, atsimetęs žydas
+[1664] 131. Pasaulio religijos
+[1665] 1. Cinizmas
+[1666] 2. Judaizmas
+[1667] 3. Budizmas
+[1668] 4. Induizmas
+[1669] 5. Zoroastrizmas
+[1670] 6. Suduanizmas (Džainizmas)
+[1671] 7. Sintoizmas
+[1672] 8. Daoizmas
+[1673] 9. Konfucijonizmas
+[1674] 10. “Mūsų religija”
+[1675] 132. Viešnagė Romoje
+[1676] Poveikis trisdešimt dviems religiniams lyderiams
+[1677] 1. Tikrosios vertybės
+[1678] 2. Gėris ir blogis
+[1679] 3. Tiesa ir įtikėjimas
+[1680] 4. Asmeninis tarnavimas
+[1681] Romėnų senatoriui
+[1682] Romėnų kareiviui
+[1683] Kalbėjusiajam forume
+[1684] Neturtingam vyrui, kuris buvo neteisingai apkaltintas
+[1685] 5. Patarimai turtingam vyrui
+[1686] 6. Visuomeninis tarnavimas
+[1687] 7. Išvykos apie Romą
+[1688] Nemąstantis pagonis
+[1689] “Tu ir aš sukurkime naują religiją.”
+[1690] 133. Sugrįžimas iš Romos
+[1691] Indijos kastų sistema
+[1692] 1. Gailestingumas ir teisingumas
+[1693] 2. Lipant į laivą Tarentume
+[1694] Vyras, skriaudžiantis savo žmoną
+[1695] 3. Korinte
+[1696] Krispus, pagrindinis sinagogos valdytojas
+[1697] Justas, pirklys
+[1698] Dvi laisvo elgesio moterys
+[1699] 4. Asmeninis darbas Korinte
+[1700] Malūnininkui
+[1701] Romenų centurionui
+[1702] Mitraistų lyderiui
+[1703] Epikuriečių mokytojui
+[1704] Graikui rangovui
+[1705] Romenų teisėjui
+[1706] Graikų užeigos šeimininkei
+[1707] Kiniečiui pirkliui
+[1708] Keliauninkui iš Britanijos
+[1709] Bėgliui vaikinui
+[1710] Pasmerktam nusikalteliui
+[1711] 5. Atėnuose — pokalbis apie mokslą
+[1712] 6. Efese — pokalbis apie sielą
+[1713] 7. Viešėjimas Kipre — pokalbis apie protą
+[1714] 8. Antioke
+[1715] 9. Mesopotamijoje
+[1716] 134. Pereinamieji metai
+[1717] 1. Trisdešimtieji metai (24 m. po Kr. gim.)
+[1718] Sugrįžimas į Nazaretą
+[1719] Simono vedybos; Judo vedybos
+[1720] 2. Vilkstinės kelionė prie Kaspijos jūros
+[1721] 3. Urmijos paskaitos
+[1722] 4. Suverenumas — dieviškasis ir žmogiškasis
+[1723] 5. Politinis suverenumas
+[1724] 6. Įstatymas, laisvė, ir suverenitetas
+[1725] 7. Trisdešimt pirmieji metai (25 m. po Kr. gim.)
+[1726] Vieno klajones
+[1727] 8. Gyvenimas ant Hermono kalno
+[1728] Liuciferio maišto pabaiga
+[1729] Nebadono suverenitetas
+[1730] 9. Laukimo laikas
+[1731] Jeruzalės aplankymas su Jonu
+[1732] Darbas Zabediejaus valčių dirbtuvėje
+[1733] 135. Jonas Krikštytojas
+[1734] 1. Jonas tampa nazariečiu
+[1735] 2. Zakarijo mirtis
+[1736] 3. Piemens gyvenimas
+[1737] 4. Elžbietos mirtis
+[1738] 5. Dievo karalystė
+[1739] 6. Jonas pradeda pamokslauti
+[1740] 7. Jonas keliauna į šiaurę
+[1741] 8. Jėzaus ir Jono susitikimas
+[1742] Jėzaus pakrikštijimas
+[1743] 9. Keturiasdešimt pamokslavimo dienų
+[1744] 10. Jonas keliauna į pietus
+[1745] 11. Jonas kalėjime
+[1746] 12. Jono Krikštytojo mirtis
+[1747] 136. Pakrikštijimas ir tos keturiasdešimt dienų
+[1748] 1. Sampratos apie laukiamą Mesiją
+[1749] 2. Jėzaus pakrikštijimas
+[1750] 3. Tos keturiasdešimt Dienų
+[1751] Pasitarimas su Gabrieliumi
+[1752] Visatos suvereniteto užbaigimas
+[1753] 4. Planai viešam darbui
+[1754] Tėvo kelias
+[1755] 5. Pirmasis didysis sprendimas
+[1756] Personalizuotas Derintojas vadovauja
+[1757] Derintojo nejautrumas laikui
+[1758] 6. Antrasis sprendimas
+[1759] Normalios žemiškosios egzistencijos kelias
+[1760] 7. Trečiasis sprendimas
+[1761] Paklusimas gamtos desniui
+[1762] 8. Ketvirtasis sprendimas
+[1763] Atsisakymas eiti į kompromisą su blogiu
+[1764] 9. Penktasis sprendimas
+[1765] Dovydo sosto atstūmimas
+[1766] 10. Šeštasis sprendimas
+[1767] A“š tikrai atsiduosiu savojo Tėvo valiai.”
+[1768] 137. Belaukiant Galilėjoje
+[1769] 1. Pirmųjų keturių apaštalų pasirinkimas
+[1770] Andriejus ir Petras
+[1771] Jokūbas ir Jonas
+[1772] 2. Pilypo ir Natanieliaus pasirinkimas
+[1773] 3. Apsilankymas Kapernaume
+[1774] 4. Vestuvės Kanoje
+[1775] 5. Sugrįžus į Kapernaumą
+[1776] 6. Sabato dienos įvykiai
+[1777] 7. Keturi mokymo mėnesiai
+[1778] 8. Pamokslas apie karalystę
+[1779] 138. Karalystės pasiuntinių rengimas
+[1780] 1. Paskutinieji nurodymai
+[1781] 2. Tų šešių parinkimas
+[1782] 3. Motiejaus ir Simono pakvietimas
+[1783] Ne teisiuosius, bet nusidėjėlius
+[1784] 4. Dvynių pakvietimas
+[1785] 5. Tomo ir Judo pakvietimas
+[1786] 6. Intensyvaus mokymo savaitė
+[1787] 7. Kitas nusivylimas
+[1788] 8. Šių dvylikos pirmasis darbas
+[1789] 9. Penki išbandymo menesiai
+[1790] 10. Dvyliktuko organizacija
+[1791] 139. Dvylika apaštalų
+[1792] 1. Andriejus, pirmasis pasirinktas
+[1793] 2. Simonas Petras
+[1794] 3. Jokūbas Zabediejus
+[1795] 4. Jonas Zabediejus
+[1796] 5. Pilypas Smalsusis
+[1797] 6. Sąžiningasis Natanielius
+[1798] 7. Motiejus Levis
+[1799] 8. Tomas Didymus
+[1800] 9. ir 10. Alfiejaus Jokūbas ir Judas
+[1801] 11. Simonas Uolusis
+[1802] 12. Judas Iskarijotas
+[1803] 140. Šių dvylikos įšventinimas
+[1804] 1. Parengiamieji nurodymai
+[1805] 2. Išventinimas
+[1806] 3. Įšventinimo pamokslas
+[1807] Tas “Pamokslas ant Kalno”
+[1808] 4. Jūs esate žemės druska
+[1809] 5. Teviška ir broliška meilė
+[1810] Tikrai laimingi yra vargšai dvasioje — nuolankieji...
+[1811] Tikrai laimingi yra tie, kurie yra išalkę ir ištroške teisumo...
+[1812] Tikrai laimingi yra nuolankūs...
+[1813] Tikrai laimingi yra turintys tyrą širdį...
+[1814] Tikrai laimingi yra tie, kurie gedi...
+[1815] Tikrai laimingi yra gailestingieji...
+[1816] Tikrai laimingi yra taikdariai...
+[1817] Tikrai laimingi yra tie, kurie yra persekiojami...
+[1818] 6. Įšventinimo vakaras
+[1819] “Aš žiūriu, kas yra už to veiksmo...”
+[1820] Apie skyrybas
+[1821] Teisingumas ir gailestingumas
+[1822] “Jie gerai daro — netrikdyk jų.”
+[1823] 7. Savaitė po įšventinimo
+[1824] 8. Ketvirtadienio popietę prie ežero
+[1825] (1) Tėvo valios vykdymas
+[1826] (2) Politinis požiuris
+[1827] (3) Visuomeninis požiūris
+[1828] (4) Ekonominis požiūris
+[1829] (5) Asmeninė religija
+[1830] 9. Pašventimo diena
+[1831] 10. Vakaras po pašventimo
+[1832] 141. Viešojo darbo pradžia
+[1833] 1. Išvykstant iš Galilėjos
+[1834] 2. Dievo istatymas ir Tėvo valia
+[1835] 3. Gyvenimas Amate
+[1836] Jėzaus asmenybė
+[1837] Jėzaus išvaizda
+[1838] 4. Mokymas apie Tevą
+[1839] Tarnavimas ligoniams
+[1840] 5. Dvasinė vienybė
+[1841] 6. Paskutinė savaitė prie Amato
+[1842] Teherma, persas
+[1843] 7. Prie Betanės už Jordano
+[1844] Mokymas apie karalystę
+[1845] Išgelbėjimas įtikėjimo dėka; laisvė per tiesą
+[1846] 8. Darbas Jeriche
+[1847] 9. Išvykstant į Jeruzalę
+[1848] 142. Perėjimo šventė Jeruzalėje
+[1849] Apsilankymas pas Anasą
+[1850] 1. Mokymas šventykloje
+[1851] 2. Dievo įniršis
+[1852] Jokūbas iš Kretos
+[1853] 3. Dievo samprata
+[1854] Žydų šešios sampratos apie Dievą
+[1855] Ankstesnieji dešimt įsakymų
+[1856] 4. Flavijus ir graikų kultūra
+[1857] 5. Pokalbis apie užtikrinimą
+[1858] 6. Bendravimas su Nokodemu
+[1859] 7. Pamoka apie šeimą
+[1860] 8. Pietų Judėjoje
+[1861] Stovykla Getsemanės Parke
+[1862] 143. Einant per Samariją
+[1863] 1. Pamokslavimas Arkelajuje
+[1864] “Jie menkina mūsų žinią.”
+[1865] “Argi jūs esate panašūs į silpnus?”
+[1866] 2. Pamoka apie savęs įvaldymą
+[1867] 3. Pramoga ir atsipalaidavimas
+[1868] Trys dienos ant Sartabo Kalno
+[1869] 4. Žydai ir samariečiai
+[1870] 5. Moteris iš Saikaro
+[1871] 6. Samariečių atgimimas
+[1872] Stovykloje ant Gerizimo kalno
+[1873] 7. Mokymai apie maldą ir garbinimą
+[1874] 144. Gilbojoje ir Dekapolyje
+[1875] 1. Gilbojos stovykla
+[1876] 2. Samprotavimas apie maldą
+[1877] 3. Tikinčiojo malda
+[1878] 4. Daugiau apie maldą
+[1879] 5. Maldos kitos formos
+[1880] Septynios maldos iš kitų pasaulių
+[1881] 6. Pasitarimas su Jono apaštalais
+[1882] 7. Dekapolio miestuose
+[1883] 8. Stovykloje netoli Pelos
+[1884] “...pasakykite Jonui, kad jis nėra užmirštas.”
+[1885] 9. Jono Krikštytojo mirtis
+[1886] 145. Keturios kupinos įvykių dienos Kapernaume
+[1887] Bendravimas su Rūta
+[1888] 1. Sužvejotos žuvys
+[1889] 2. Popietė sinagogoje
+[1890] Religija yra asmeninis patyrimas
+[1891] Jaunas epileptikas
+[1892] Petro žmonos motina
+[1893] 3. Gydymas per saulelydį
+[1894] 4. Kitą vakarą
+[1895] 5. Anksti sekmadienio rytą
+[1896] 146. Pirmoji pamokslavimo kelionė Galilėjoje
+[1897] 1. Pamokslavimas Rimone
+[1898] 2. Jotapatoje
+[1899] Malda, padekojimas, ir garbinimas
+[1900] Teisingumas ir gailestingumas
+[1901] Malda ir asmeninių pastangų
+[1902] Etinė malda
+[1903] 3. Sustojimas Ramahe
+[1904] Religija, mokslas, ir filosofija
+[1905] Tiesos užtikrinimas
+[1906] Apsilankymas Zebulune
+[1907] 4. Evangelija Irone
+[1908] Darbas šachtose
+[1909] Raupsuotojo išgydymas
+[1910] 5. Sugrįžus į Kaną
+[1911] Žinomas Titus
+[1912] 6. Nainas ir našlės sūnus
+[1913] 7. Endore
+[1914] 147. Tarpinis apsilankymas Jeruzalėje
+[1915] 1. Centuriono tarnas
+[1916] 2. Kelionė į Jeruzalę
+[1917] Išsiskyrimas su Jono apaštalais
+[1918] 3. Prie Betsaidos tvenkinio
+[1919] 4. Gyvenimo taisyklė
+[1920] Natanieliaus klausimas apie auksinę taisyklę
+[1921] 5. Apsilankymas pas fariziejų Simoną
+[1922] Parabole apie palūkininką
+[1923] Statusas ir žengimas į priekį
+[1924] 6. Grižtant į Kapernaumą
+[1925] Šeši žvalgai
+[1926] “Sabatas buvo sukurtas žmogui...”
+[1927] 7. Sugrižus į Kapernaumą
+[1928] 8. Dvasinio gėrio šventė
+[1929] 148. Evangelininkų mokymas Betsaidoje
+[1930] 1. Naujoji pranašų mokykla
+[1931] 2. Betsaidos ligoninė
+[1932] 3. Tėvo reikalas
+[1933] 4. Blogis, nuodėmė, ir piktybinis blogis
+[1934] 5. Kančios tikslas
+[1935] 6. Klaidinga kančios samprata — diskusija apie Jobą
+[1936] 7. Vyras su nudžiūvusia ranka
+[1937] 8. Paskutinioji savaitė Betsaidoje
+[1938] Kirmetas iš Bagdado
+[1939] 9. Paralitiko išgydymas
+[1940] Iš šitų šnipų trijų pakrikštijimas
+[1941] 149. Antroji pamokslavimo kelionė
+[1942] Dovydo informacijos rinkimo organizacija
+[1943] 1. Placiai išplitęs garsas apie Jėzų
+[1944] Išgydymo reiškiniai
+[1945] 2. Žmonių požiūris
+[1946] Ankstyvosios krikščionybės dvi klaidos
+[1947] Jėzaus kaip gydytojo šlovė
+[1948] Jo moterų lygybės pripažinimas
+[1949] Jo asmenybės žavesys
+[1950] 3. Religinių vadovų priešiškumas
+[1951] 4. Pamokslavimo kelionės vystymasis
+[1952] Komentarai apie pyktį
+[1953] Kas susiję su gerai subalansuotu charakteriu
+[1954] 5. Pamoka apie pasitenkinimą
+[1955] 6. “Viešpaties baimė”
+[1956] 7. Sugrįžimas į Betsaidą
+[1957] 150. Trečioji pamokslavimo kelionė
+[1958] 1. Moterų evangelininkių korpusas
+[1959] 2. Sustojimas Magdaloje
+[1960] 3. Sabatas Tiberijuje
+[1961] Pasikalbėjimas apie “Magiją ir prietarus”
+[1962] 4. Apaštalų išsiuntimas po du
+[1963] 5. Ką man reikia daryti, kad būčiau išgelbėtas?
+[1964] 6. Pamokos vakarais
+[1965] 7. Viešnagė Nazarete
+[1966] 8. Sabato pamaldos
+[1967] 9. Nazaretąs atstumia
+[1968] 151. Laukdami ir mokydami pajūryje
+[1969] 1. Parabolė apie sėjėją
+[1970] 2. Parabolės aiškinimas
+[1971] 3. Dar daugiau apie parabolės
+[1972] 4. Daugiau parabolių prie juros
+[1973] 5. Apsilankymas Cherese
+[1974] Audra ežere
+[1975] 6. Chereso pamišėlis
+[1976] 152. Įvykiai, vedantys į Kapernaumo krizę
+[1977] Veronika iš Pilypo-Cezarėjos
+[1978] 1. Jairo namuose
+[1979] 2. Penkių tūkstančių pamaitinimas
+[1980] 3. Karaliaus karūnavimo epizodas
+[1981] 4. Simono Petro nakties vizija
+[1982] 5. Sugrįžus į Betsaidą
+[1983] 6. Genesarete
+[1984] Daugiau apie sejejo parabolę
+[1985] 7. Jeruzalėje
+[1986] 153. Krizė Kapernaume
+[1987] 1. Aplinkos parengimas
+[1988] 2. Epochos pamokslas
+[1989] “Aš esu šitoji gyvenimo duona.”
+[1990] 3. Susirinkimas po visko
+[1991] 4. Paskutinieji žodžiai sinagogoje
+[1992] Vaikinas, apsestas blogos dvasios
+[1993] “Kaip gi gali Šetonas išvaryti Šėtoną?”
+[1994] 5. Šeštadienio vakaras
+[1995] Neryžtingi pasekejai apleidžia
+[1996] 154. Paskutiniosios dienos Kapernaume
+[1997] 1. Pasitarimų savaitė
+[1998] 2. Poilsio savaitė
+[1999] Sinagogos uždaro duris
+[2000] 3. Antrasis pasitarimas Tiberijuje
+[2001] 4. Šeštadienio naktis Kapernaume
+[2002] “Ką mes darysime su Jėzumi?”
+[2003] 5. Įsimintinas sekmadienio rytas
+[2004] 6. Jėzaus šeimos atvykimas
+[2005] 7. Skubus pabėgimas
+[2006] 155. Bėgimas per Galilėjos šiaurę
+[2007] 1. Kodėl niršta pagonys?
+[2008] 2. Evangelininkai Chorazine
+[2009] 3. Pilypo-Cezarejoje
+[2010] Tiesa ir tikėjimas
+[2011] Religinių tradicijų kilmė
+[2012] 4. Pakeliui į Finikiją
+[2013] 5. Pasikalbėjimas apie tikrąją religiją
+[2014] 6. Antrasis pasikalbėjimas apie religiją
+[2015] 156. Viešnagė Tyre ir Sidone
+[2016] 1. Sirietė moteris
+[2017] 2. Mokymas Sidone
+[2018] “Šitas pasaulis yra tiktai tiltas...”
+[2019] 3. Kelionė pakrante į šiaurę
+[2020] 4. Tyre
+[2021] 5. Jėzaus mokymai Tyre
+[2022] Parabolė apie neprotingą dailidę
+[2023] Pagunda ir žmogiškoji prigimtis
+[2024] Materialios sėkmės esminiai dalykai
+[2025] Dvasinis gyvenimas ir savigarba
+[2026] Idealai ir idėjos
+[2027] Taktas, žavesys, ir išmintis
+[2028] 6. Sugrįžimas iš Finikijos
+[2029] Žydų vadovų požiūris
+[2030] 157. Pilypo-Cezarėjoje
+[2031] Jėzus megina pasimatyti su savo šeima
+[2032] 1. Šventyklos mokesčių rinkėjas
+[2033] “Žuvis su šekeliu žiotyse.”
+[2034] 2. Julijaus-Betsaidoje
+[2035] 3. Petro išpažinimas
+[2036] “Ką šneka žmonės, kas aš esu?”
+[2037] 4. Pokalbis apie karalystę
+[2038] 5. Naujoji samprata
+[2039] 6. Kitą popietę
+[2040] Jėzaus gyvenimo keturi etapai
+[2041] Naujas autoritetingas paskelbimas
+[2042] 7. Andriejaus pasitarimas
+[2043] 158. Transfigūracijos Kalnas
+[2044] 1. Transfigūracija
+[2045] 2. Leidžiantis nuo kalno
+[2046] 3. Transfigūracijos prasme
+[2047] 4. Epileptikas berniukas
+[2048] Jokūbas iš Safedo
+[2049] 5. Jėzus berniuką išgydo
+[2050] “Viešpatie aš meldžiu...padėk mano netikėjimui.”
+[2051] 6. Celso sode
+[2052] 7. Petro protestas
+[2053] 8. Petro namuose
+[2054] 159. Kelionė po Dekapolį
+[2055] 1. Pamokslas apie atleidimą
+[2056] “Kiek kartų mano brolis gali man nusidėti?”
+[2057] Parabolė apie sąskaitų suvedimą su tarnais
+[2058] Asmeninio nuosprendžio pavojai
+[2059] 2. Nepažįstamas pamokslininkas
+[2060] 3. Nurodymai mokytojams ir tikintiesiems
+[2061] 4. Pokalbis su Natanieliumi
+[2062] “Kokia yra tiesa apie Raštus?”
+[2063] 5. Jėzaus religijos teigiamas pobūdis
+[2064] “...šį nešulį nunešti ir antrą mylią.”
+[2065] 6. Sugrįžimas į Magadaną
+[2066] 160. Rodanas iš Aleksandrijos
+[2067] 1. Rodano graikiškoji filosofija
+[2068] Trys gyvenimo varomosios jegos
+[2069] Problemų sprendimas ir garbinanti meditacija
+[2070] Prietarai ir tiesos pripažinimas
+[2071] 2. Gyvenimo menas
+[2072] Draugystės suvisuomeninanti vertybė
+[2073] Vedybų didinga vertybė
+[2074] 3. Brandos pagundos
+[2075] 4. Brandos pusiausvyra
+[2076] Žemiškojo gyvenimo pagrindiniai dalykai
+[2077] Materialios sėkmės faktoriai
+[2078] Nepasisekimo prasmė
+[2079] 5. Idealo religija
+[2080] Kas yra religija?
+[2081] Dievo ideja ir Dievo idealas
+[2082] Tėvas yra galutinioji vertybė
+[2083] “Bet ar mes norime mokėti šią kainą...?”
+[2084] 161. Tolesnės diskusijos su Rodanu
+[2085] 1. Dievo asmenybe
+[2086] Natanieliaus penki punktai
+[2087] 2. Jėzaus dieviškoji prigimtis
+[2088] Natanieliaus ir Tomo samprotavimai
+[2089] 3. Jėzaus žmogiškasis protas ir dieviškasis protas
+[2090] Tarpinių būtybių požiūriai
+[2091] 162. Tabernakulių šventėje
+[2092] “Mokytojau...leisk mums prašyti, kad iš dangaus nusileistų ugnis...”
+[2093] 1. Pavojai, susiję su apsilankymu Jeruzalėje
+[2094] 2. Pirmoji kalba šventykloje
+[2095] Eberis, Sanhedrino pareigūnas
+[2096] 3. Moteris, pagauta neištikima
+[2097] 4. Tabernakulių šventė
+[2098] 5. Pamokslas apie pasaulio šviesą
+[2099] 6. Pokalbis apie gyvenimo vandenį
+[2100] 7. Diskusija apie dvasinę laisvę
+[2101] 8. Bendravimas su Morta ir Marija
+[2102] 9. Betliejuje su Abneriu
+[2103] 163. Šių septyniasdešimties įšventinimas Magadane
+[2104] 1. Šių septyniasdešimties įšventinimas
+[2105] Derlius yra gausus, bet nedaug yra darbininkų
+[2106] 2. Turtingas jaunas vyras ir kiti
+[2107] Turtai ir meile lobiui
+[2108] 3. Samprotavimas apie turtą
+[2109] Parabolė apie darbininkus vynuogyne
+[2110] 4. Atsisveikinimas su šiais septyniasdešimčia
+[2111] Jėzaus nurodymai
+[2112] Petro pamokslas per išventinimą
+[2113] 5. Stovyklos perkėlimas į Pelą 
+[2114] 6. Šių septyniasdešimties sugrįžimas
+[2115] 7. Pasiruošimas paskutiniajai misijai
+[2116] 164. Atsidavimo šventėje
+[2117] 1. Pasakojimas apie gerajį samarietį
+[2118] 2. Jeruzalėje
+[2119] 3. Aklo elgetos išgydymas
+[2120] 4. Josijas prieš Sanhedriną
+[2121] 5. Mokymas Saliamono prieangyje
+[2122] 165. Perėjos misija prasideda
+[2123] 1. Pelos stovykloje
+[2124] 2. Pamokslas apie gerajį piemenį
+[2125] 3. Sabato pamokslas Peloje
+[2126] “Saugokitės fariziejų mielių...”
+[2127] “...yra suskaičiavę visus jūsų plaukus ant galvos”
+[2128] 4. Palikimo paskirstymas
+[2129] Parabolė apie kvaila turtuolį
+[2130] “Kur yra jusų lobis, ten taip pat iš tikrųjų bus ir jūsų širdis.”
+[2131] “Kokia nauda iš to, jeigu tu laimėsi visą pasaulį...?”
+[2132] 5. Pokalbiai apie turtą su apaštalais
+[2133] “Pamąstykite apie lelijas, kaip jos auga...”
+[2134] 6. Atsakymas į Petro klausimą
+[2135] 166. Paskutinis apsilankymas šiaurinėje Perėjoje
+[2136] 1. Fariziejai Ragabe
+[2137] Ritualinis rankų nusiplovimas
+[2138] 2. Dešimt raupsuotųjų
+[2139] 3. Pamokslas Gerase
+[2140] Tas tiesus ir siauras kelias
+[2141] Daugelis iš tų, kurie yra pirmieji, bus paskutinieji
+[2142] “Aš stoviu prie durų ir beldžiu...”
+[2143] 4. Mokymas apie nelaimingus atsitikimus
+[2144] 5. Tikintieji Filadelfijoje
+[2145] Abnerio velesnioji tarnystė ir mirtis
+[2146] 167. Apsilankymas Filadelfijoje
+[2147] 1. Pusryčiai su fariziejais
+[2148] Tikinčiojo išgydymas
+[2149] “...neatsiseskite į svarbiausia vieta...”
+[2150] 2. Didžiosios vakarienės parabolė
+[2151] 3. Moteris su negalios dvasia
+[2152] 4. Žinia iš Betanės
+[2153] 5. Pakeliui į Betanė
+[2154] Fariziejus ir publikanas
+[2155] Mokymas apie santuoką
+[2156] 6. Mažų vaikų laiminimas
+[2157] Grožis kaip poveikis tam, jog būtų garbinama
+[2158] 7. Pokalbis apie angelus
+[2159] 168. Lozoriaus prisikėlimas
+[2160] “Aš esu tas prisikelimas ir tas gyvenimas...”
+[2161] 1. Prie Lozoriaus kapo
+[2162] 2. Lozoriaus prisikėlimas
+[2163] 3. Sanhedrino susirinkimas
+[2164] “Geriau tegu miršta vienas žmogus...”
+[2165] 4. Atsakymas į maldą
+[2166] 5. Kaip klojosi Lozoriui toliau
+[2167] 169. Paskutinysis mokymas Peloje
+[2168] Sanhedrino kaltinimai Jėzui
+[2169] 1. Parabolė apie sūnų paklydeli
+[2170] 2. Parabolė apie gudru prievaizdą
+[2171] 3. Turtuolis ir elgeta
+[2172] 4. Tėvas ir jo karalystė
+[2173] Jėzus {i{i{gyveno}i}i} Dievo apreiškimą
+[2174] Elohimas ir Jahvė
+[2175] 170. Dangaus karalystė
+[2176] 1. Sampratos apie dangaus karalystę
+[2177] 2. Jėzaus samprata apie karalystę
+[2178] Nuodėmė ir atleidimas
+[2179] 3. Kas susiję su teisumu
+[2180] 4. Jėzaus mokymas apie karalystę
+[2181] 5. Vėlesnės idejos apie karalystę
+[2182] Visuomeninė brolystė ir dvasinė brolystė
+[2183] Kitas ir didingesnis Jonas Krikštytojas
+[2184] Krikščionybė ir Jėzaus evangelija
+[2185] 171. Pakeliui į Jeruzalę
+[2186] “...kad man prižadėtum, jog šitie mano sūnūs tikrai būtų pagerbti...”
+[2187] 1. Išvykimas iš Pelos
+[2188] Dovydo Zabediejaus velesnis gyvenimas
+[2189] Antiokas ir Filadelfija
+[2190] 2. Kainos apskaita
+[2191] 3. Kelione po Pereją
+[2192] Atsisveikinimas su Abneriu
+[2193] 4. Mokymas Livijuje
+[2194] Petras ir Simonas ir tas 100 kardų
+[2195] Draugiškų fariziejų perspėjimas
+[2196] 5. Neregys Jeriche
+[2197] 6. Apsilankymas pas Zakijų
+[2198] 7. “Jėzui einant pro šalį”
+[2199] 8. Parabolė apie svarus
+[2200] Natanielius aiškina šią parabolė
+[2201] 172. Ėjimas į Jeruzalę
+[2202] 1. Sabatas Betanėje
+[2203] Marija patepa Jėzaus kojas
+[2204] Jėzus papriekaištauja Judui
+[2205] 2. Sekmadienio rytą su apaštalais
+[2206] 3. Išėjimas į Jeruzalę
+[2207] 4. Apsilankymas prie šventyklos
+[2208] Našlės grašis
+[2209] 5. Apaštalų požiūris
+[2210] 173. Pirmadienis Jeruzalėje
+[2211] 1. Šventyklos išvalymas
+[2212] 2. Iššūkis Mokytojo įgaliojimams
+[2213] “Jono krikštijimas, iš kur tai atėjo?”
+[2214] 3. Parabolė apie du sūnūs
+[2215] 4. Parabolė apie išvykusį žemvaldį
+[2216] Tas akmuo, kurio atsisakė statybininkai
+[2217] 5. Parabolė apie vestuvių puotą
+[2218] “Sugriaukite šitą šventovę ir...aš tikrai ją atstatysiu.”
+[2219] 174. Antradienio rytas šventykloje
+[2220] Šiuos dvylika pasveikina kreipdamasis į kiekvieną asmeniškai
+[2221] 1. Dieviškasis atleidi mas
+[2222] 2. Žydų valdovų klausimai
+[2223] Ar tai yra teisėta, kad mes mokėtume duoklę Cazariui?
+[2224] 3. Sedukėjai ir prisikėlimas
+[2225] 4. Didysis įsakymas
+[2226] Išvaduotojas, kieno jis yra sūnus?
+[2227] 5. Besiteiraujantys graikai
+[2228] “...jeigu kviečio grūdas nenukrenta į žeme ir neįsminga...”
+[2229] “...jeigu būsiu išaukštintas...jūsų gyvenime...”
+[2230] 175. Paskutinioji kalba šventykloje
+[2231] 1. Kalba
+[2232] “Karta po kartos mes tikrai siuntėme savuosius pranašus...”
+[2233] “...tas, kuris nori tapti didžiausias tarp jūsu...”
+[2234] “Vargas jums, raštininkai ir fariziejai, veidmainiai!”
+[2235] “...jūs...šveičiate taurės išore...”
+[2236] “Ir dabar aš jus palieku.”
+[2237] 2. Individualių žydų statusas
+[2238] 3. Lemtingas Sanhedrino susirinkimas
+[2239] 4. Padėtis Jeruzalėje
+[2240] Judo galutinis apsisprendimas
+[2241] 176. Antradienio vakarą ant Alyvų Kalno
+[2242] 1. Jeruzalės sugriovimas
+[2243] 2. Mokytojo antrasis atėjimas
+[2244] Pasakojimas Motiejaus Evangelijoje
+[2245] 3. Velesnė diskusija stovykloje
+[2246] Parabolė apie talentus
+[2247] “Dirbkite tol, kol aš ateisiu.”
+[2248] Komentarai apie gyvosios tiesos augimą
+[2249] 4. Mykolo sugrįžimas
+[2250] 177. Trečiadienis, poilsio diena
+[2251] 1. Vieną dieną vienas su Dievu
+[2252] Jonas Morkus ir priešpiečių krepšys
+[2253] 2. Vaikystė šeimoje
+[2254] 3. Diena stovykloje
+[2255] 4. Judas ir vyriausieji šventikai
+[2256] 5. Paskutinioji visuomeninė valanda
+[2257] Saugokitės minios paramos
+[2258] 178. Paskutinioji diena stovykloje
+[2259] 1. Kalba apie sunyste ir pilietybę
+[2260] Išmokite būti ištikimi net ir kai klestite
+[2261] Negundykite jus prižiūrinčiųjų angelų
+[2262] 2. Po vidurdienio valgio
+[2263] Dovydas išlaisvina Judą nuo “kapšo”
+[2264] Pasirengimas Paskutiniajai Vakarienei
+[2265] 3. Einant valgyti Vakarienės
+[2266] 179. Paskutinioji Vakarienė
+[2267] 1. Troškimas pirmenybės
+[2268] 2. Pradedant Vakariene
+[2269] 3. Apaštalų kojų mazgojimas
+[2270] 4. Paskutinieji žodžiai išdavikui
+[2271] 5. Atminimo Vakarienės sukūrimas
+[2272] 180. Atsisveikinimo kalba
+[2273] 1. Naujasis įsakymas
+[2274] “...mylekite vienas kitą net ir taip, kaip jus mylėjau aš.”
+[2275] 2. Vynmedis ir šakos
+[2276] 3. Pasaulio priešiškumas
+[2277] “Tegul jusų širdys nebūna sunerimusios.”
+[2278] “Mokytojau, parodyk mums Tėva...”
+[2279] 4. Pažadėtasis pagalbininkas
+[2280] 5. Tiesos Dvasia
+[2281] Auksinės taisyklės komentavimas
+[2282] 6. Butinybė išvykti
+[2283] 181. Paskutinieji pamokymai ir perspėjimai
+[2284] 1. Paskutinieji paguodos žodžiai
+[2285] “Aš kiekvienam iš jūsų duodu viską, kiek tik jūs norite priimti.”
+[2286] “Tegul jūsų širdys nepergyvena.”
+[2287] 2. Atsisveikinimo asmeniniai patarimai
+[2288] 182. Getsemanėje
+[2289] 1. Paskutinioji grupinė malda
+[2290] Jėzus padidina Dievo vardo atskleidimą
+[2291] 2. Paskutinioji valanda prieš išdavystę
+[2292] Begiko išsiuntimas pas Abnerį
+[2293] Dovydo Zabediejaus atsisveikinimas
+[2294] 3. Vienas Getsemanėje
+[2295] Dvasia iš tikrųjų nori bet materialus kunas yra silpnas
+[2296] 183. Jėzaus išdavimas ir suėmimas
+[2297] 1. Tėvo valia
+[2298] 2. Judas mieste
+[2299] 3. Mokytojo suemimas
+[2300] 4. Diskusija prie alyvų preso
+[2301] 5. Pakeliui į aukštojo šventiko rūmus
+[2302] 184. Sanhedrino teisme
+[2303] 1. Anasas apklausia
+[2304] 2. Petras kieme
+[2305] 3. Sanhedristų teisme
+[2306] 4. Pažeminimo valanda
+[2307] Naujas žmogaus atskleidimas Dievui
+[2308] 5. Antrasis teismo posėdis
+[2309] 185. Teismas pas Pilotą
+[2310] 1. Pontijus Pilotas
+[2311] 2. Jėzus pasirodo prieš Pilotą
+[2312] Sanhedristų tribunolo kaltinimai raštu
+[2313] 3. Pilotas apklausia vienas
+[2314] 4. Jėzus pas Erodą
+[2315] 5. Jėzus sugrįžta pas Pilotą
+[2316] 6. Piloto paskutinis kreipimasis
+[2317] Jėzaus nuplakimas
+[2318] “Štai šis žmogus!”
+[2319] 7. Piloto paskutinis klausinėjimas
+[2320] 8. Piloto tragiškas pasidavimas
+[2321] 186. Prieš pat nukryžiavimą
+[2322] Jėzaus šeima Betanėje
+[2323] 1. Judo Iskarijoto galas
+[2324] Trisdešimt sidabrinių
+[2325] 2. Mokytojo požiūris
+[2326] “Jėzus teisia Pilotą.”
+[2327] “Štai Dievas ir žmogus!”
+[2328] 3. Patikimasis Dovydas Zabediejus
+[2329] 4. Pasiruošimas nukryžiavimui
+[2330] 5. Jėzaus mirtis Perejimo šventės atžvilgiu
+[2331] 187. Nukryžiavimas
+[2332] 1. Pakeliui į Golgotą
+[2333] “Jeruzalės dukros, neverkite dėl manęs...”
+[2334] Simonas iš Sirenės
+[2335] 2. Nukryžiavimas
+[2336] 3. Tie, kurie matė nukryžiavimą
+[2337] 4. Vagis ant kryžiaus
+[2338] Jėzaus užduotis Jonui
+[2339] 5. Paskutinioji valanda ant kryžiaus
+[2340] 6. Po nukryžiavimo
+[2341] 188. Laikas kapavietėje
+[2342] Juozapas ir Nikodemas pas Pilotą
+[2343] 1. Jėzaus palaidojimas
+[2344] 2. Saugant kapavietę
+[2345] 3. Sabato dieną
+[2346] Ką Jėzus patikejo į Tėvo rankas?
+[2347] Jėzaus asmenybės statusas
+[2348] 4. Mirties ant kryžiaus prasmė
+[2349] 5. Kryžiaus pamokos
+[2350] 189. Prisikėlimas
+[2351] 1. Morontinis perėjimas
+[2352] 2. Jėzaus materialus kūnas
+[2353] 3. Prisikėlimas dėl naujos dieviškosios tvarkos
+[2354] Personalizuoto Derintojo išvykimas
+[2355] 4. Tuščios kapavietės suradimas
+[2356] Tos penkios moterys
+[2357] Jėzus apsireiškia Marijai Magdalenai
+[2358] 5. Petras ir Jonas prie kapavietės
+[2359] Antrasis apsireiškimas — Marijai Magdalenai
+[2360] 190. Morontiniai Jėzaus apsireiškimai
+[2361] 1. Prisikėlimo šaukliai
+[2362] 2. Jėzaus apsireiškimas Betanėje
+[2363] Apsireiškimas savo broliui Jokūbui
+[2364] Apsireiškimas savo žemiškajai šeimai
+[2365] 3. Juozapo namuose
+[2366] 4. Apsireiškimas graikams
+[2367] 5. Einant su dviem broliais
+[2368] 191. Apsireiškimai apaštalams ir kitiems lyderiams
+[2369] Atskirų apaštalų reakcija
+[2370] 1. Apsireiškimas Petrui
+[2371] 2. Pirmasis apsireiškimas apaštalams
+[2372] 3. Su morontiniais tvariniais
+[2373] Morontinio vystymosi etapai
+[2374] 4. Dešimtasis apsireiškimas (Filadelfijoje)
+[2375] 5. Antrasis apsireiškimas apaštalams
+[2376] “Palaiminti yra tie, kurie per ateities amžius...”
+[2377] 6. Apsireiškimas Aleksandrijoje
+[2378] 192. Apsireiškimai Galilėjoje
+[2379] 1. Apsireiškimas prie ežero
+[2380] “Vaikinai, ar jūs ką nors pagavote?”
+[2381] 2. Bendravimas su apaštalais po du
+[2382] 3. Ant įšventinimo kalno
+[2383] 4. Susibūrimas ežero pakrantėje
+[2384] 193. Paskutinieji apsireiškimai ir pakilimas
+[2385] Šešioliktasis apsireiškimas (Nikodemo kieme)
+[2386] 1. Apsireiškimas Saikare
+[2387] 2. Apsireiškimas Finikijoje
+[2388] 3. Paskutinysis apsireiškimas Jeruzalėje
+[2389] 4. Judo nuopuolio priežastys
+[2390] 5. Mokytojo pakilimas
+[2391] 6. Petras kviecia susirinkimą
+[2392] 194. Tiesos Dvasios padovanojimas
+[2393] Naujoji evangelija {i{i{apie}i}i} Jėzų
+[2394] 1. Pentakosto pamokslas
+[2395] 2. Pentakosto reikšme
+[2396] Tiesos Dvasios misija
+[2397] Žmogaus trigubas dvasinis apdovanojimas
+[2398] Septyni aukščiausieji dvasiniai poveikiai
+[2399] 3. Kas atsitiko Pentakosto metu
+[2400] 4. Krikščioniškosios bažnyčios pradžia
+[2401] 195. Po Pentakosto
+[2402] Krikščionybės pergalės Rytuose priežastys
+[2403] Krikščionybės ankstyvieji kompromisai
+[2404] 1. Graikų įtaka
+[2405] 2. Romėnų įtaka
+[2406] 3. Romos imperijos priespaudoje
+[2407] 4. Europos viduramžiai
+[2408] 5. Šiuolaikinė problema
+[2409] 6. Materializmas
+[2410] 7. Materializmo pažeidžiamumas
+[2411] 8. Pasaulietinis totalitarizmas
+[2412] 9. Krikščionybės problema
+[2413] 10. Ateitis
+[2414] 196. Jėzaus įtikėjimas
+[2415] Jėzaus gyvas įtikejimas į Dievą
+[2416] “Pirmiausia ieškokite dangaus karalystės.”
+[2417] “Kodėl gi tu mane vadini gerasis?”
+[2418] Ką malda reiške Jėzui
+[2419] Jėzaus panašus į vaiko įtikejimas į Dievą
+[2420] 1. Jėzus — žmogus
+[2421] 2. Jėzaus religija
+[2422] Religija apie Jezų
+[2423] Religija kaip asmeninis patyrimas
+[2424] 3. Religijos viršenybė
+[2425] Faktas, idėja, ir ryšys
+[2426] Priežastis, išmintis, ir įtikėjimas
+[2427] Dalykas, prasmė, ir vertybė
+[2428] Jeigu toks dieviškasis mylėtojas negyventų žmogaus viduje...
+[2429] Moralė ir religija
+[2430] Tėvas yra gyvoji meilė...

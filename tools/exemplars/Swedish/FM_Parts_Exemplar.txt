@@ -1,0 +1,20 @@
+[0] Urantiaboken: Bokens delar
+[1] Urantiaboken
+[2] Hemsida
+[3] Delar av boken
+[4] Kapitelrubriker
+[5] Innehållsförteckning
+[6] Bokens delar
+[7] DEL I
+[8] Centraluniversumet och superuniverserna
+[9] Avfattad under beskydd av en Uversa-kår bestående av auperuniversumpersonligheter med bemyndiagande av Dagarnas Forna i Orvonton.
+[10] DEL II
+[11] Lokaluniversumet
+[12] Avfattad under beskydd av en Nebadon-kår av personligheter i lokaluniversumet med bemyndigqnde av Gabriel i Salvington.
+[13] DEL III
+[14] Urantias historia
+[15] Dessa kapitel avfattades under beskydd af en kår av personligheter i lokaluniversumet med bemyndigande av Gabriel i Salvington.
+[16] DEL IV
+[17] Jesu liv och förkunnelse
+[18] Dessa kapitel avfattades under beskydd av en kommission om tolv Urantia-mellanvarelser som fungerade under övervakning af den Melkisedk som ledde uppenbarelseprojektet.
+[19] Basmaterialet för denna berättelse tillhandahöll en andra gradens mellanvarelse som en gång var förordnad att på övermänsklig nivå övervaka apostlen Andreas.

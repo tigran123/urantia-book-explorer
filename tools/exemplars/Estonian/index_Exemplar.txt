@@ -1,0 +1,25 @@
+﻿[0] Urantai Raamat: Avaleht
+[1] Urantai Raamat
+[2] {img_1}
+[3] ® Urantia Foundation’i registreeritud teenuse- ja kaubamärk
+[4] URANTIA FOUNDATION
+[5] CHICAGO ILLINOIS
+[6] 2010 Estonian Translation
+[7] Esimene trükk 2010
+[8] Raamatu osad
+[9] Kirjade pealkirjad
+[10] Raamatu sisukord
+[11] TIN: UF-EST-001-2010-1
+[12] Autoriõigus Urantia Foundation, 2010.
+[13] Kõik õigused on kaitstud. Ühtki selle raamatu osa ei tohi paljundada, tõlkida ega omastada ühelgi moel ega ühegi vahendiga (ka elektrooniliselt, mehaaniliselt või muul viisil, näiteks fotokoopiana, lindistusena, mingi infopangana või otsingusüsteemina) ilma kirjastaja kirjaliku loata. Järelepärimised palume saata aadressil:
+[14] Urantia Foundation,
+[15] 533 Diversey Parkway,
+[16] Chicago, Illinois 60614 U.S.A.
+[17] Tel: +1 773 525 3319
+[18] Faks: +1 773 525 7739
+[19] Website: www.urantia.org
+[20] Email: urantia@urantia.org
+[21] Õpilased, üliõpilased ja õpetlased saavad tsitaatide kasutamise kohta informatsiooni kodulehelt www.urantia.org
+[22] ”Urantia raamat” on tõlgitud ingliskeelsest raamatust {i{i{The Urantia Book,}i}i} mille esimese trüki avaldas Urantia Sihtasutus 1955. aastal. See on „Urantia raamatu” esimene trükk, mis esitab korrektselt ingliskeelse teksti sisu, kuid kuna „Urantia raamat” on inimeste töö vili ja seetõttu ebatäiuslik, tuleks iga kahtluse korral vaadelda ka ingliskeelset teksti.
+[23] Urantia Sihtasutus võib otsustada seda tõlget parandada enne järgmisi trükke.
+[24] URANTIA ja {img_3} on Urantia Sihtasutuse registreeritud teenuse- ja kaubamärk.

@@ -1,0 +1,20 @@
+[0] Az Urantia könyv: A könyv részei
+[1] Az Urantia könyv
+[2] Főoldal
+[3] A könyv részei
+[4] Az írások címjegyzéke
+[5] A könyv tartalomjegyzéke
+[6] A könyv részei
+[7] I. RÉSZ
+[8] A központi világegyetem és a felsőbb-világegyetemek
+[9] Ezen írások összeállítását egy, az orvontoni Nappalok Elődeinek felhatalmazása alapján működő, Felsőbb-világegyetemi Személyiségekből álló Uverszai Testület hitelesítette.
+[10] II. RÉSZ
+[11] A helyi világegyetem
+[12] Ezen írások összeállítását egy, a szalvingtoni Gábriel felhatalmazása alapján működő, Helyi Világegyetemi Személyiségekből álló Nebadoni Testület hitelesítette.
+[13] III. RÉSZ
+[14] Az Urantia története
+[15] Ezen írások összeállítását egy, a szalvingtoni Gábriel felhatalmazása alapján működő, Helyi Világegyetemi Személyiségekből álló Testület hitelesítette.
+[16] IV. RÉSZ
+[17] Jézus élete és tanításai
+[18] Ezen írások összeállítását egy, az egyik Melkizedek kinyilatkoztatási igazgató felügyelete alatt működő, tizenkét fős urantiai közteslény-bizottság hitelesítette.
+[19] A beszámoló alapját egy olyan másodfajú közteslény szolgáltatta, aki András apostol felett a szellemvilági óvó-figyelő szolgálatot egykor ellátta.

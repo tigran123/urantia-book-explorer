@@ -1,0 +1,216 @@
+[0] Urantiaboken: Kapitelrubriker
+[1] Urantiaboken
+[2] Hemsida
+[3] Svensk översättningDelar av boken
+[4] Kapitelrubriker
+[5] Innehållsförteckning
+[6] Kapitelrubriker
+[7] DEL I
+[8] Centraluniversumet och superuniverserna
+[9] Kapitel . Titel . Författare
+[10] 000. Förord . En Gudomlig Rådgivare
+[11] 001. Den Universelle Fadern . En Gudomlig Rådgivare
+[12] 002. Guds väsen . En Gudomlig Rådgivare
+[13] 003. Guds egenskaper . En Gudomlig Rådgivare
+[14] 004. Guds förhållande till universum . En Gudomlig Rådgivare
+[15] 005. Guds förhållande till individen . En Gudomlig Rådgivare
+[16] 006. Den Evige Sonen . En Gudomlig Rådgivare
+[17] 007. Den Evige Sonens förhållande till universum . En Gudomlig Rådgivare
+[18] 008. Den Oändlige Anden . En Gudomlig Rådgivare
+[19] 009. Den Oändlige Andens förhållande till universum . En Gudomlig Rådgivare
+[20] 010. Paradistreenigheten . En Universell Censor
+[21] 011. Den Eviga Paradisön . En Visdomens Fulländare
+[22] 012. Universernas universum . En Visdomens Fulländare
+[23] 013. Paradisets heliga sfärer . En Visdomens Fulländare
+[24] 014. Det centrala och gudomliga universumet . En Visdomens Fulländare
+[25] 015. De sju superuniverserna . En Universell Censor
+[26] 016. De sju Härskarandarna . En Universell Censor
+[27] 017. De sju grupperna av suprema andar . En Gudomlig Rådgivare
+[28] 018. De suprema treenighetspersonligheterna . En Gudomlig Rådgivare
+[29] 019. De jämställda varelserna med treenighetsursprung . En Gudomlig Rådgivare
+[30] 020. Guds Paradissöner . En Visdomens Fulländare
+[31] 021. Paradisets Skaparsöner . En Visdomens Fulländare
+[32] 022. Guds Treenigade Söner . En Mäktig Budbärare
+[33] 023. De Ensamma Budbärarna . En Gudomlig Rådgivare
+[34] 024. Den Oändlige Andens högre personligheter . En Gudomlig Rådgivare
+[35] 025. Rymdens budbärarskaror . En med Stor Auktoritet
+[36] 026. Det centrala universumets omvårdande andar . En Visdomens Fulländare
+[37] 027. Första gradens Supernafer och deras verksamhet . En Visdomens Fulländare
+[38] 028. De omvårdande andarna i superuniverserna . En Mäktig Budbärare
+[39] 029. Styrkeledarna i universum . En Universell Censor
+[40] 030. Personligheterna i storuniversum . En Mäktig Budbärare
+[41] 031. Finalitkåren . En utan Namn och Nummer
+[42] DEL II
+[43] Lokaluniversumet
+[44] Kapitel . Titel . Författare
+[45] 032. Evolutionen av lokaluniverser . En Mäktig Budbärare
+[46] 033. Administrationen av lokaluniversumet . Ärkeänglarnas ledare
+[47] 034. Lokaluniversumets Moderande . En Mäktig Budbärare
+[48] 035. Guds Söner i lokaluniversumet . Ärkeänglarnas ledare
+[49] 036. Livsbärarna . En Vorondadekson
+[50] 037. Lokaluniversumets personligheter . En Lysande Aftonstjärna
+[51] 038. Lokaluniversumets omvårdande andar . En Melkisedek
+[52] 039. De serafiska skarorna . En Melkisedek
+[53] 040. Guds uppstigande söner . En Mäktig Budbärare
+[54] 041. Lokaluniversumets fysiska aspekter . En Ärkeängel
+[55] 042. Energi – sinne och materia . En Mäktig Budbärare
+[56] 043. Konstellationerna . Malavatia Melkisedek
+[57] 044. De himmelska artisanerna . En Ärkeängel
+[58] 045. Administrationen av lokalsystemet . En Melkisedek
+[59] 046. Lokalsystemets högkvarter . En Ärkeängel
+[60] 047. De sju mansoniavärldarna . En Lysande Aftonstjärna
+[61] 048. Morontialivet . En Ärkeängel
+[62] 049. De bebodda världarna . En Melkisedek
+[63] 050. Planetprinsarna En andra gradens . Lanonandek
+[64] 051. De planetariska Adamerna En andra gradens . Lanonandek
+[65] 052. De dödligas planetariska epoker . En Mäktig Budbärare
+[66] 053. Lucifers uppror . Manovandet Melkisedek
+[67] 054. Problem i anslutning till Lucifers uppror . En Mäktig Budbärare
+[68] 055. Ljusets och livets sfärer . En Mäktig Budbärare
+[69] 056. Universell enhet . En Mäktig Budbärare och Makiventa Melkisedek
+[70] DEL III
+[71] Urantias historia
+[72] Kapitel . Titel . Författare
+[73] 057. Urantias ursprung . En Livsbärare
+[74] 058. Livets etablering på Urantia . En Livsbärare
+[75] 059. Det marina livsskedet på Urantia . En Livsbärare
+[76] 060. Urantia under det tidiga landbaserade livets skede . En Livsbärare
+[77] 061. Däggdjurens skede på Urantia . En Livsbärare
+[78] 062. Urmänniskans första raser . En Livsbärare
+[79] 063. Den första människofamiljen . En Livsbärare
+[80] 064. De evolutionära färgade raserna . En Livsbärare
+[81] 065. Övervakningen av evolutionen . En Livsbärare
+[82] 066. Urantias Planetprins . En Melkisedek
+[83] 067. Det planetariska upproret . En Melkisedek
+[84] 068. Civilisationens gryning . En Melkisedek
+[85] 069. Människans första institutioner . En Melkisedek
+[86] 070. Utvecklingen av människans statsskick . En Melkisedek
+[87] 071. Statens utveckling . En Melkisedek
+[88] 072. Statsstyret på en grannplanet . En Melkisedek
+[89] 073. Edens lustgård . Solonia
+[90] 074. Adam och Eva . Solonia
+[91] 075. Adams och Evas försumlighet . Solonia
+[92] 076. Den andra lustgården . Solonia
+[93] 077. Mellanvarelserna . En Ärkeängel
+[94] 078. Den violetta rasen efter Adams dagar . En Ärkeängel
+[95] 079. Anditernas utbredning i Orienten . En Ärkeängel
+[96] 080. Anditernas utbredning i västerlandet . En Ärkeängel
+[97] 081. Den nutida civilisationens utveckling . En Ärkeängel
+[98] 082. Äktenskapets utveckling . Serafernas ledare
+[99] 083. Äktenskapsinstitutionen . Serafernas ledare
+[100] 084. Äktenskap och familjeliv . Serafernas ledare
+[101] 085. Gudsdyrkans ursprungskällor . En Lysande Aftonstjärna
+[102] 086. Religionens tidigaste utveckling . En Lysande Aftonstjärna
+[103] 087. Vålnadskulterna . En Lysande Aftonstjärna
+[104] 088. Fetischer, trollmedel och magi . En Lysande Aftonstjärna
+[105] 089. Synd, offer och försoning . En Lysande Aftonstjärna
+[106] 090. Schamanism – medicinmän och präster . En Melkisedek
+[107] 091. Bönens utveckling . Mellanvarelsernas ledare
+[108] 092. Religionens senare utveckling . En Melkisedek
+[109] 093. Makiventa Melkisedek . En Melkisedek
+[110] 094. Melkisedeks förkunnelse i Orienten . En Melkisedek
+[111] 095. Melkisedeks förkunnelse i Levanten . En Melkisedek
+[112] 096. Jahve – hebréernas Gud . En Melkisedek
+[113] 097. Gudsbegreppets evolution bland hebréerna . En Melkisedek
+[114] 098. Melkisedeks läror i västerlandet . En Melkisedek
+[115] 099. Samhälleliga problem i anslutning till religionen . En Melkisedek
+[116] 100. Religionen i människans erfarenhet . En Melkisedek
+[117] 101. Religionens verkliga natur . En Melkisedek
+[118] 102. Den religiösa trons grundvalar . En Melkisedek
+[119] 103. Den religiösa erfarenhetens verklighet . En Melkisedek
+[120] 104. Treenighetsbegreppets utveckling . En Melkisedek
+[121] 105. Gudomen och verkligheten . En Melkisedek
+[122] 106. Verklighetens universumnivåer . En Melkisedek
+[123] 107. Tankeriktarnas ursprung och natur . En Ensam Budbärare
+[124] 108. Tankeriktarnas mission och tjänstgöring . En Ensam Budbärare
+[125] 109. Riktarnas förhållande till de skapade varelserna i universum . En Ensam Budbärare
+[126] 110. Riktarnas förhållande till enskilda dödliga . En Ensam Budbärare
+[127] 111. Riktaren och själen . En Ensam Budbärare
+[128] 112. Personlighetens överlevnad . En Ensam Budbärare
+[129] 113. De serafiska ödesväktarna . Serafernas ledare
+[130] 114. Serafernas planetariska styre . Serafernas ledare
+[131] 115. Den Suprema Varelsen . En Mäktig Budbärare
+[132] 116. Den Allsmäktige Supreme . En Mäktig Budbärare
+[133] 117. Gud den Supreme . En Mäktig Budbärare
+[134] 118. Suprem och Ultimat – tid och rymd . En Mäktig Budbärare
+[135] 119. Kristus Mikaels utgivningar . Ledaren för Aftonstjärnorna
+[136] DEL IV
+[137] Jesu liv och förkunnelse
+[138] Kapitel . Titel . Författare
+[139] 120. Mikaels utgivning på Urantia . Mantutia Melkisedek
+[140] 121. Förhållandena vid tiden för Mikaels utgivning . Mellanvarelsekommissionen
+[141] 122. Jesu födelse och späda barndom . Mellanvarelsekommissionen
+[142] 123. Jesu tidiga barndom . Mellanvarelsekommissionen
+[143] 124. Jesu senare barndom . Mellanvarelsekommissionen
+[144] 125. Jesus i Jerusalem . Mellanvarelsekommissionen
+[145] 126. De två avgörande åren . Mellanvarelsekommissionen
+[146] 127. Ungdomsåren . Mellanvarelsekommissionen
+[147] 128. Jesu tidiga mandomstid . Mellanvarelsekommissionen
+[148] 129. Jesu senare vuxenliv . Mellanvarelsekommissionen
+[149] 130. På väg till Rom . Mellanvarelsekommissionen
+[150] 131. Världens religioner . Mellanvarelsekommissionen
+[151] 132. Vistelsen i Rom . Mellanvarelsekommissionen
+[152] 133. Återkomst från Rom . Mellanvarelsekommissionen
+[153] 134. Mellanåren . Mellanvarelsekommissionen
+[154] 135. Johannes Döparen . Mellanvarelsekommissionen
+[155] 136. Dopet och de fyrtio dagarna . Mellanvarelsekommissionen
+[156] 137. Väntetid i Galiléen . Mellanvarelsekommissionen
+[157] 138. Utbildningen av rikets budbärare . Mellanvarelsekommissionen
+[158] 139. De tolv apostlarna . Mellanvarelsekommissionen
+[159] 140. Ordinationen av de tolv . Mellanvarelsekommissionen
+[160] 141. Den offentliga verksamheten inleds . Mellanvarelsekommissionen
+[161] 142. Påsken i Jerusalem . Mellanvarelsekommissionen
+[162] 143. På väg genom Samarien . Mellanvarelsekommissionen
+[163] 144. I Gilboa och Dekapolis . Mellanvarelsekommissionen
+[164] 145. Fyra händelserika dagar i Kafarnaum . Mellanvarelsekommissionen
+[165] 146. Den första predikoturen i Galiléen . Mellanvarelsekommissionen
+[166] 147. Ett kort besök i Jerusalem . Mellanvarelsekommissionen
+[167] 148. Utbildandet av evangelister i Betsaida . Mellanvarelsekommissionen
+[168] 149. Den andra predikoturen . Mellanvarelsekommissionen
+[169] 150. Den tredje predikoturen . Mellanvarelsekommissionen
+[170] 151. Väntan och undervisning vid sjön . Mellanvarelsekommissionen
+[171] 152. Händelserna som ledde fram till krisen i Kafarnaum . Mellanvarelsekommissionen
+[172] 153. Krisen i Kafarnaum . Mellanvarelsekommissionen
+[173] 154. De sista dagarna i Kafarnaum . Mellanvarelsekommissionen
+[174] 155. På flykt genom norra Galiléen . Mellanvarelsekommissionen
+[175] 156. Vistelsen i Tyros och Sidon . Mellanvarelsekommissionen
+[176] 157. I Caesarea Filippi . Mellanvarelsekommissionen
+[177] 158. Härlighetens berg . Mellanvarelsekommissionen
+[178] 159. Dekapolisturen . Mellanvarelsekommissionen
+[179] 160. Rodan från Alexandria . Mellanvarelsekommissionen
+[180] 161. Fortsatta diskussioner med Rodan . Mellanvarelsekommissionen
+[181] 162. Vid lövhyddefesten . Mellanvarelsekommissionen
+[182] 163. Ordinationen av de sjuttio i Magadan . Mellanvarelsekommissionen
+[183] 164. Tempelinvigningsfesten . Mellanvarelsekommissionen
+[184] 165. Missionen i Pereen börjar . Mellanvarelsekommissionen
+[185] 166. Sista besöket i norra Pereen . Mellanvarelsekommissionen
+[186] 167. Besöket i Filadelfia . Mellanvarelsekommissionen
+[187] 168. Lasaros uppväcks från de döda . Mellanvarelsekommissionen
+[188] 169. Den sista undervisningen vid Pella . Mellanvarelsekommissionen
+[189] 170. Himmelriket . Mellanvarelsekommissionen
+[190] 171. På väg till Jerusalem . Mellanvarelsekommissionen
+[191] 172. Färden till Jerusalem . Mellanvarelsekommissionen
+[192] 173. Måndagen i Jerusalem . Mellanvarelsekommissionen
+[193] 174. Tisdagsmorgonen i templet . Mellanvarelsekommissionen
+[194] 175. Det sista talet i templet . Mellanvarelsekommissionen
+[195] 176. Tisdagskvällen på Olivberget . Mellanvarelsekommissionen
+[196] 177. Onsdagen – vilodagen . Mellanvarelsekommissionen
+[197] 178. Den sista dagen i lägret . Mellanvarelsekommissionen
+[198] 179. Den sista måltiden . Mellanvarelsekommissionen
+[199] 180. Avskedstalet . Mellanvarelsekommissionen
+[200] 181. De sista råden och varningarna . Mellanvarelsekommissionen
+[201] 182. I Getsemane . Mellanvarelsekommissionen
+[202] 183. Jesus förråds och arresteras . Mellanvarelsekommissionen
+[203] 184. Inför det judiska rådets domstol . Mellanvarelsekommissionen
+[204] 185. Rättegången inför Pilatus . Mellanvarelsekommissionen
+[205] 186. Kort före korsfästelsen . Mellanvarelsekommissionen
+[206] 187. Korsfästelsen . Mellanvarelsekommissionen
+[207] 188. Tiden i gravkammaren . Mellanvarelsekommissionen
+[208] 189. Uppståndelsen . Mellanvarelsekommissionen
+[209] 190. Jesus uppenbarar sig i morontiagestalt . Mellanvarelsekommissionen
+[210] 191. Jesus uppenbarar sig för apostlarna och andra ledare . Mellanvarelsekommissionen
+[211] 192. Framträdanden i Galiléen . Mellanvarelsekommissionen
+[212] 193. De sista framträdandena och himmelsfärden . Mellanvarelsekommissionen
+[213] 194. Sanningens Ande utges . Mellanvarelsekommissionen
+[214] 195. Efter pingsten . Mellanvarelsekommissionen
+[215] 196. Jesu tro . Mellanvarelsekommissionen

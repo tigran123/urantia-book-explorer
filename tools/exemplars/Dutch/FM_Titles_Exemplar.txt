@@ -1,0 +1,216 @@
+[0] Het Urantia Boek: Titels van de Kranten
+[1] Het Urantia Boek
+[2] Startpagina
+[3] Delen van het Boek
+[4] Titels van de Kranten
+[5] Inhoud van het Boek
+[6] Titels van de Kranten
+[7] DEEL I.
+[8] Het Centrale Universum en de Superuniversa
+[9] Papier . Verhandeling . Auteur
+[10] 000. Voorwoord . Goddelijke Raadsman
+[11] 001. De Universele Vader . Goddelijke Raadsman
+[12] 002. De natuur van God . Goddelijke Raadsman
+[13] 003. De eigenschappen van God . Goddelijke Raadsman
+[14] 004. Gods betrekking tot het Universum . Goddelijke Raadsman
+[15] 005. Gods betrekking tot de individuele mens . Goddelijke Raadsman
+[16] 006. De Eeuwige Zoon . Goddelijke Raadsman
+[17] 007. De betrekking van de Eeuwige Zoon tot het Universum . Goddelijke Raadsman
+[18] 008. De Oneindige Geest . Goddelijke Raadsman
+[19] 009. De betrekking van de Oneindige Geest tot het Universum . Goddelijke Raadsman
+[20] 010. De Paradijs-Triniteit . Universele Censor
+[21] 011. Het eeuwige Paradijs-Eiland . Volkmaker der Wijsheid
+[22] 012. Het Universum van Universa . Volkmaker der Wijsheid
+[23] 013. De heilige werelden van het Paradijs . Volkmaker der Wijsheid
+[24] 014. Het Centrale, Goddelijke Universum . Volkmaker der Wijsheid
+[25] 015. De zeven Superuniversa . Universele Censor
+[26] 016. De zeven Meester-Geesten . Universele Censor
+[27] 017. De zeven groepen Allerhoogste Geesten . Goddelijke Raadsman
+[28] 018. De Allerhoogste Triniteitspersoonlijkheden . Goddelijke Raadsman
+[29] 019. De Gecoördineerde Wezens van Triniteitsoorsprong . Goddelijke Raadsman
+[30] 020. De Paradijs-Zonen van God . Volkmaker der Wijsheid
+[31] 021. De Schepper-Zonen uit het Paradijs . Volkmaker der Wijsheid
+[32] 022. De Getrinitiseerde Zonen van God . Machtige Boodschapper
+[33] 023. De Solitaire Boodschappers . Goddelijke Raadsman
+[34] 024. De Hogere Persoonlijkheden van de Oneindige Geest . Goddelijke Raadsman
+[35] 025. De Boodschappersscharen in de Ruimte . Hoge Gezagsdrager
+[36] 026. Dienende Geesten van het Centrale Universum . Volkmaker der Wijsheid
+[37] 027. Het dienstbetoon van de Primaire Supernafijnen . Volkmaker der Wijsheid
+[38] 028. Dienende Geesten van de Superuniversa . Machtige Boodschapper
+[39] 029. De Universum-Krachtdirigenten . Universele Censor
+[40] 030. Persoonlijkheden van het Groot Universum . Machtige Boodschapper
+[41] 031. Het Korps der Volkomenheid . Goddelijke Raadsman een Wezen zonder naam en getal
+[42] DEEL II.
+[43] Het Plaatselijk Universum
+[44] Papier . Verhandeling . Auteur
+[45] 032. De evolutie van Plaatselijke Universa . Machtige Boodschapper
+[46] 033. Het bestuur van het Plaatselijk Universum . Hoofd der Aartsengelen
+[47] 034. De Moeder-Geest van het Plaatselijk Universum . Machtige Boodschapper
+[48] 035. De Zonen van God in het Plaatselijk Universum . Hoofd der Aartsengelen
+[49] 036. De Levendragers . Vorondadek-Zoon
+[50] 037. Persoonlijkheden van het Plaatselijk Universum . Schitterende Avondster
+[51] 038. Dienende Geesten van het Plaatselijk Universum . Melchizedek
+[52] 039. De Heerscharen der Serafijnen . Melchizedek
+[53] 040. De Opklimmende Zonen van God . Machtige Boodschapper
+[54] 041. Fysische aspecten van het Plaatselijk Universum . Aartsengel
+[55] 042. Energie — bewustzijn en materie . Machtige Boodschapper
+[56] 043. De Constellaties . Malavatia Melchizedek
+[57] 044. De Hemelse Kunstenaars . Aartsengel
+[58] 045. Het bestuur van het Plaatselijk Stelsel . Melchizedek
+[59] 046. Het hoofdkwartier van het Plaatselijk Stelsel . Aartsengel
+[60] 047. De zeven woningwerelden . Schitterende Avondster
+[61] 048. Het morontia-leven . Aartsengel
+[62] 049. De bewoonde werelden . Melchizedek
+[63] 050. De Planetaire Vorsten . Secundaire Lanonandek
+[64] 051. De planetaire Adams . Secundaire Lanonandek
+[65] 052. Planetaire tijdvakken van stervelingen . Machtige Boodschapper
+[66] 053. De opstand van Lucifer . Manovandet Melchizedek
+[67] 054. Problemen ten aanzien van de opstand van Lucifer . Machtige Boodschapper
+[68] 055. De werelden van licht en leven . Machtige Boodschapper
+[69] 056. Universele eenheid . Machtige Boodschapper en Machiventa Melchizedek
+[70] DEEL III.
+[71] De Geschiedenis van Urantia
+[72] Papier . Verhandeling . Auteur
+[73] 057. De oorsprong van Urantia . Levendrager
+[74] 058. Het tot stand brengen van leven op Urantia . Levendrager
+[75] 059. De era van het zeeleven op Urantia . Levendrager
+[76] 060. Urantia tijdens de era van het eerste landleven . Levendrager
+[77] 061. De zoogdieren-era op Urantia . Levendrager
+[78] 062. De dageraad-rassen van de vroege mens . Levendrager
+[79] 063. De eerste menselijke familie . Levendrager
+[80] 064. De evolutionaire gekleurde rassen . Levendrager
+[81] 065. Het opperbestier over de evolutie . Levendrager
+[82] 066. De Planetaire Vorst van Urantia . Melchizedek
+[83] 067. De planetaire opstand . Melchizedek
+[84] 068. De dageraad der beschaving . Melchizedek
+[85] 069. Primitieve menselijke instellingen . Melchizedek
+[86] 070. De evolutie van het menselijk bestuur . Melchizedek
+[87] 071. De ontwikkeling van de staat . Melchizedek
+[88] 072. Staatsbestuur op een naburige planeet . Melchizedek
+[89] 073. De Hof van Eden . Solonia
+[90] 074. Adam en Eva . Solonia
+[91] 075. De nalatigheid van Adam en Eva . Solonia
+[92] 076. De Tweede Hof . Solonia
+[93] 077. De Middenwezens . Aartsengel
+[94] 078. Het violette ras na de tijd van Adam . Aartsengel
+[95] 079. De expansie der Andieten in het Oosten . Aartsengel
+[96] 080. De expansie der Andieten in het Westen . Aartsengel
+[97] 081. De ontwikkeling van de moderne civilisatie . Aartsengel
+[98] 082. De evolutie van het huwelijk . Hoofd der Serafijnen
+[99] 083. Het huwelijk als instituut . Hoofd der Serafijnen
+[100] 084. Huwelijk en gezinsleven . Hoofd der Serafijnen
+[101] 085. De oorsprongen van religieuze verering . Schitterende Avondster
+[102] 086. De vroege evolutie van religie . Schitterende Avondster
+[103] 087. De geestenculten . Schitterende Avondster
+[104] 088. Fetisjen, tovermiddelen en magie . Schitterende Avondster
+[105] 089. Zonde, offer en verzoening . Schitterende Avondster
+[106] 090. Het Sjamanisme — medicijnmannen en priesters . Melchizedek
+[107] 091. De evolutie van het gebed . Hoofd der Middenwezens
+[108] 092. De verdere evolutie van religie . Melchizedek
+[109] 093. Machiventa Melchizedek . Melchizedek
+[110] 094. Het onderricht van Melchizedek in het Oosten . Melchizedek
+[111] 095. Het onderricht van Melchizedek in de Levant . Melchizedek
+[112] 096. Jahweh — de God der Hebreeërs . Melchizedek
+[113] 097. De evolutie van het Godsbegrip bij de Hebreeërs . Melchizedek
+[114] 098. Het onderricht van Melchizedek in het Westen . Melchizedek
+[115] 099. De sociale opgaven van de religie . Melchizedek
+[116] 100. Religie in de menselijke ervaring . Melchizedek
+[117] 101. De werkelijke natuur van religie . Melchizedek
+[118] 102. De grondslagen van het religieuze geloofsvertrouwen . Melchizedek
+[119] 103. De realiteit der religieuze ervaring . Melchizedek
+[120] 104. De groei van het Triniteits-begrip . Melchizedek
+[121] 105. Godheid en werkelijkheid . Melchizedek
+[122] 106. Werkelijkheidsniveaus in het Universum . Melchizedek
+[123] 107. De oorsprong en natuur der Gedachtenrichters . Solitaire Boodschapper
+[124] 108. Missie en dienstbetoon van Gedachtenrichters . Solitaire Boodschapper
+[125] 109. De betrekking van Richters tot universum-schepselen . Solitaire Boodschapper
+[126] 110. De betrekking van Richters tot individuele stervelingen . Solitaire Boodschapper
+[127] 111. De Richter en de ziel . Solitaire Boodschapper
+[128] 112. De overleving van persoonlijkheid . Solitaire Boodschapper
+[129] 113. De Serafijnse Bestemmingsbehoeders . Hoofd der Serafijnen
+[130] 114. Het Serafijnse Bestuur van de planeet . Hoofd der Serafijnen
+[131] 115. De Allerhoogste . Machtige Boodschapper
+[132] 116. De Almachtig Allerhoogste . Machtige Boodschapper
+[133] 117. God de Allerhoogste . Machtige Boodschapper
+[134] 118. Allerhoogst en Ultiem — tijd en ruimte . Machtige Boodschapper
+[135] 119. De zelfschenkingen van Christus Michael . Hoofd der Avondsterren
+[136] DEEL IV.
+[137] Het Leven en Onderricht van Jezus
+[138] Papier . Verhandeling . Auteur
+[139] 120. De zelfschenking van Michael op Urantia . Mantutia Melchizedek
+[140] 121. De tijd van de zelfschenking van Michael . Commissie van Middenwezens
+[141] 122. De geboorte en het eerste levensjaar van Jezus . Commissie van Middenwezens
+[142] 123. De vroege kinderjaren van Jezus . Commissie van Middenwezens
+[143] 124. De latere kinderjaren van Jezus . Commissie van Middenwezens
+[144] 125. Jezus in Jeruzalem . Commissie van Middenwezens
+[145] 126. De twee cruciale jaren . Commissie van Middenwezens
+[146] 127. De jongelingsjaren . Commissie van Middenwezens
+[147] 128. Jezus als jongeman . Commissie van Middenwezens
+[148] 129. Het latere volwassen leven van Jezus . Commissie van Middenwezens
+[149] 130. Op weg naar Rome . Commissie van Middenwezens
+[150] 131. De wereldreligies . Commissie van Middenwezens
+[151] 132. Het verblijf te Rome . Commissie van Middenwezens
+[152] 133. De terugreis uit Rome . Commissie van Middenwezens
+[153] 134. De overgangsjaren . Commissie van Middenwezens
+[154] 135. Johannes de Doper . Commissie van Middenwezens
+[155] 136. De doop en de veertig dagen . Commissie van Middenwezens
+[156] 137. De wachttijd in Galilea . Commissie van Middenwezens
+[157] 138. De opleiding der boodschappers van het Koninkrijk . Commissie van Middenwezens
+[158] 139. De twaalf Apostelen . Commissie van Middenwezens
+[159] 140. De bevestiging van de Twaalf . Commissie van Middenwezens
+[160] 141. Het werk in het openbaar wordt aangevangen . Commissie van Middenwezens
+[161] 142. Het Pascha te Jeruzalem . Commissie van Middenwezens
+[162] 143. De tocht door Samaria . Commissie van Middenwezens
+[163] 144. Op Gilboa en in de Dekapolis . Commissie van Middenwezens
+[164] 145. Vier bewogen dagen in Kafarnaüm . Commissie van Middenwezens
+[165] 146. De eerste prediktocht door Galilea . Commissie van Middenwezens
+[166] 147. Het tussentijdse bezoek aan Jeruzalem . Commissie van Middenwezens
+[167] 148. Het opleiden van evangelisten in Betsaïda . Commissie van Middenwezens
+[168] 149. De tweede prediktocht . Commissie van Middenwezens
+[169] 150. De derde prediktocht . Commissie van Middenwezens
+[170] 151. Het verblijf en onderricht aan de oever van het meer . Commissie van Middenwezens
+[171] 152. De gebeurtenissen die tot de crisis in Kafarnaüm leidden . Commissie van Middenwezens
+[172] 153. De crisis in Kafarnaüm . Commissie van Middenwezens
+[173] 154. De laatste dagen in Kafarnaüm . Commissie van Middenwezens
+[174] 155. Op de vlucht door Noord-Galilea . Commissie van Middenwezens
+[175] 156. Het verblijf in Tyrus en Sidon . Commissie van Middenwezens
+[176] 157. In Caesarea-Filippi . Commissie van Middenwezens
+[177] 158. De Berg der Verheerlijking . Commissie van Middenwezens
+[178] 159. De rondreis door de Dekapolis . Commissie van Middenwezens
+[179] 160. Rodan van Alexandrië . Commissie van Middenwezens
+[180] 161. Verdere discussies met Rodan . Commissie van Middenwezens
+[181] 162. Op het Loofhuttenfeest . Commissie van Middenwezens
+[182] 163. De bevestiging van de Zeventig in Magadan . Commissie van Middenwezens
+[183] 164. Op het Feest der Tempelvernieuwing . Commissie van Middenwezens
+[184] 165. De aanvang van de zendingstocht . Commissie van Middenwezens
+[185] 166. Het laatste bezoek aan het Noorden van Perea . Commissie van Middenwezens
+[186] 167. Het bezoek aan Filadelfia . Commissie van Middenwezens
+[187] 168. De opwekking van Lazarus . Commissie van Middenwezens
+[188] 169. Het laatste onderricht in Pella . Commissie van Middenwezens
+[189] 170. Het koninkrijk des hemels . Commissie van Middenwezens
+[190] 171. Op weg naar Jeruzalem . Commissie van Middenwezens
+[191] 172. Het binnengaan van Jeruzalem . Commissie van Middenwezens
+[192] 173. Maandags in Jeruzalem . Commissie van Middenwezens
+[193] 174. Dinsdagmorgen in de tempel . Commissie van Middenwezens
+[194] 175. De laatste redevoering in de tempel . Commissie van Middenwezens
+[195] 176. Dinsdagavond op de Olijfberg . Commissie van Middenwezens
+[196] 177. Woensdag, de rustdag . Commissie van Middenwezens
+[197] 178. De laatste dag in het kamp . Commissie van Middenwezens
+[198] 179. Het laatste avondmaal . Commissie van Middenwezens
+[199] 180. De afscheidsrede . Commissie van Middenwezens
+[200] 181. Laatste aansporingen en waarschuwingen . Commissie van Middenwezens
+[201] 182. In Getsemane . Commissie van Middenwezens
+[202] 183. Het verraad en de inhechtenis-neming van Jezus . Commissie van Middenwezens
+[203] 184. Voor het gerecht van het Sanhedrin . Commissie van Middenwezens
+[204] 185. Het gerechtelijk onderzoek door Pilatus . Commissie van Middenwezens
+[205] 186. Kort voor de kruisiging . Commissie van Middenwezens
+[206] 187. De kruisiging . Commissie van Middenwezens
+[207] 188. De periode van het graf . Commissie van Middenwezens
+[208] 189. De opstanding . Commissie van Middenwezens
+[209] 190. Morontia-verschijningen van Jezus . Commissie van Middenwezens
+[210] 191. Verschijningen aan de apostelen en andere leiders . Commissie van Middenwezens
+[211] 192. Verschijningen in Galilea . Commissie van Middenwezens
+[212] 193. De laatste verschijningen en de hemelvaart . Commissie van Middenwezens
+[213] 194. De uitstorting van de Geest van Waarheid . Commissie van Middenwezens
+[214] 195. Na Pinksteren . Commissie van Middenwezens
+[215] 196. Het geloof van Jezus . Commissie van Middenwezens

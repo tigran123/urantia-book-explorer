@@ -1,0 +1,2431 @@
+﻿[0] Księga Urantii: Spis treści książki
+[1] Księga Urantii
+[2] Strona główna
+[3] Części książki
+[4] Tytuły przekazów
+[5] Spis treści książki
+[6] Spis treści książki
+[7] CZĘŚĆ I.
+[8] Wszechświat Centralny i superwszechświaty
+[9] 0. Przedmowa
+[10] I. Bóstwo i boskość
+[11] II. Bóg
+[12] III. Pierwsze Źródło i Centrum
+[13] Siedem Absolutów
+[14] Rzeczywistość
+[15] Idea JESTEM
+[16] IV. Wszechświatowa rzeczywistość
+[17] Raj
+[18] V. Rzeczywistości osobowościowe
+[19] VI. Energia i forma
+[20] VII. Istota Najwyższa
+[21] VIII. Bóg Siedmioraki
+[22] IX. Bóg Ostateczny
+[23] X. Bóg Absolutny
+[24] XI. Trzy Absoluty
+[25] XII. Trójce
+[26] Objaśnienie
+[27] 1. Ojciec Uniwersalny
+[28] 1. Imię Ojca
+[29] 2. Rzeczywistość Boga
+[30] 3. Bóg jest wszechświatowym duchem
+[31] 4. Tajemnica Boga
+[32] 5. Osobowość Ojca Uniwersalnego
+[33] 6. Osobowość we wszechświecie
+[34] 7. Duchowa wartość koncepcji osobowości
+[35] 2. Natura Boga
+[36] 1. Nieskończoność Boga
+[37] 2. Wieczna doskonałość Ojca
+[38] 3. Sprawiedliwość i prawość
+[39] 4. Boskie miłosierdzie
+[40] 5. Boża miłość
+[41] 6. Boża dobroć
+[42] 7. Boża prawda i piękno
+[43] 3. Atrybuty Boga
+[44] 1. Boska wszechobecność
+[45] 2. Nieskończona moc Boża
+[46] 3. Wszechwiedza Boża
+[47] 4. Boża nieograniczoność
+[48] 5. Najwyższa władza Ojca
+[49] Nieuchronności
+[50] 6. Prymat Ojca
+[51] Błogosławieństwo
+[52] 4. Stosunek Boga do wszechświata
+[53] 1. Postawa Ojca wobec wszechświata
+[54] Opatrzność
+[55] 2. Bóg i natura
+[56] 3. Niezmienny charakter Boga
+[57] 4. Uświadomienie sobie Boga
+[58] 5. Błędne idee Boga
+[59] 5. Stosunek Boga do jednostki
+[60] 1. Dostęp do Boga
+[61] 2. Boska obecność
+[62] 3. Prawdziwe czczenie
+[63] 4. Bóg w religii
+[64] 5. Poznanie Boga
+[65] 6. Bóg osobowości
+[66] 6. Wieczny Syn
+[67] 1. Tożsamość Wiecznego Syna
+[68] 2. Natura Wiecznego Syna
+[69] 3. Służba Ojcowskiej miłości
+[70] 4. Atrybuty Wiecznego Syna
+[71] Wszechmoc, wszechobecność, wszechwiedza
+[72] 5. Ograniczenia Wiecznego Syna
+[73] 6. Umysł ducha
+[74] 7. Osobowość Wiecznego Syna
+[75] 8. Rozpoznanie Wiecznego Syna
+[76] 7. Stosunek Wiecznego Syna do wszechświata
+[77] 1. Obwód grawitacji duchowej
+[78] 2. Administracja Wiecznego Syna
+[79] 3. Stosunek Wiecznego Syna do jednostki
+[80] 4. Boskie plany doskonalenia
+[81] 5. Duch obdarzenia
+[82] Obdarzenia Wiecznego Syna
+[83] Obdarzenia pierwszego Michała
+[84] 6. Rajscy Synowie Boga
+[85] 7. Najwyższe objawienie Ojca
+[86] 8. Nieskończony Duch
+[87] 1. Bóg działania
+[88] 2. Natura Nieskończonego Ducha
+[89] 3. Stosunek Ducha do Ojca i Syna
+[90] 4. Duch Boskiej służby
+[91] Stwórcze Córki
+[92] 5. Obecność Boga
+[93] 6. Osobowość Nieskończonego Ducha
+[94] 9. Stosunek Nieskończonego Ducha do wszechświata
+[95] 1. Atrybuty Trzeciego Źródła i Centrum
+[96] 2. Wszechobecny duch
+[97] 3. Wszechświatowy operator
+[98] 4. Absolutny umysł
+[99] 5. Służba umysłu
+[100] 6. Obwód grawitacji umysłu
+[101] 7. Wszechświatowe odzwierciedlanie
+[102] 8. Osobowości Nieskończonego Ducha
+[103] Funkcjonalna rodzina Trzeciego Źródła i Centrum
+[104] 10. Rajska Trójca
+[105] 1. Samorozdzielczość Pierwszego Źródła i Centrum
+[106] 2. Uosobienie Bóstwa
+[107] 3. Trzy osoby Bóstwa
+[108] 4. Trójcowa jedność Bóstwa
+[109] 5. Funkcje Trójcy
+[110] Postawa skończona, absoniczna i absolutna
+[111] 6. Niezmienni Synowie Trójcy
+[112] Sprawiedliwość, świadectwo i osąd
+[113] 7. Kontrola nadrzędna najwyższości
+[114] 8. Trójca poza skończonym
+[115] Ograniczenia przeznaczenia śmiertelnika
+[116] 11. Wieczna Wyspa Raj
+[117] 1. Rezydencja Boga
+[118] 2. Natura Wiecznej Wyspy
+[119] 3. Raj górny
+[120] 4. Raj obwodowy
+[121] 5. Raj dolny
+[122] 6. Oddychanie przestrzeni
+[123] Przestrzeń nienasycona
+[124] 7. Funkcje przestrzenne Raju
+[125] Strefy przestrzeni pośredniej
+[126] 8. Grawitacja Raju
+[127] Siła, energia, moc
+[128] 9. Unikalność Raju
+[129] 12. Wszechświat wszechświatów
+[130] 1. Poziomy przestrzeni wszechświata nadrzędnego
+[131] 2. Domeny Absolutu Nieuwarunkowanego
+[132] 3. Powszechna grawitacja
+[133] 4. Przestrzeń i ruch
+[134] 5. Przestrzeń i czas
+[135] 6. Wszechświatowa kontrola nadrzędna
+[136] 7. Część i całość
+[137] 8. Materia, umysł i duch
+[138] 9. Rzeczywistości osobowe
+[139] 13. Święte sfery Raju
+[140] 1. Siedem świętych światów Ojca
+[141] (1) Divinington
+[142] (2) Sonarington
+[143] (3) Spiritington
+[144] (4) Vicegerington
+[145] (5) Solitarington
+[146] (6) Serafington
+[147] (7) Ascendington
+[148] 2. Związki wzajemne światów Ojca
+[149] 3. Święte światy Wiecznego Syna
+[150] 4. Światy Nieskończonego Ducha
+[151] Administracyjne siedziby Duchów Nadrzędnych
+[152] 14. Wszechświat centralny i Boski
+[153] 1. System Raj-Havona
+[154] Dzień Raju-Havony
+[155] Ciemne ciała grawitacyjne
+[156] 2. Struktura Havony
+[157] 3. Światy Havony
+[158] 4. Istoty wszechświata centralnego
+[159] Rodowici mieszkańcy Havony
+[160] 5. Życie w Havonie
+[161] Nuda a przygoda
+[162] 6. Cel istnienia wszechświata centralnego
+[163] 15. Siedem superwszechświatów
+[164] 1. Poziomy przestrzeni superwszechświatowej
+[165] 2. Struktura superwszechświatów
+[166] 3. Superwszechświat Orvonton
+[167] 4. Mgławice — protoplastki wszechświatów
+[168] 5. Pochodzenie ciał niebieskich
+[169] 6. Sfery przestrzeni
+[170] 7. Sfery zaprojektowane
+[171] Czas superwszechświata
+[172] 8. Kontrola i regulacja energii
+[173] 9. Obwody superwszechświatów
+[174] Obwody wszechświata lokalnego
+[175] 10. Władcy superwszechświatów
+[176] 11. Zgromadzenie opiniodawcze
+[177] 12. Najwyższe trybunały
+[178] 13. Rządy sektora
+[179] 14. Cele istnienia siedmiu superwszechświatów
+[180] 16. Siedem Duchów Nadrzędnych
+[181] 1. Związek z Bóstwem trójjednym
+[182] 2. Związek z Nieskończonym Duchem
+[183] 3. Tożsamość i zróżnicowanie Duchów Nadrzędnych
+[184] 4. Cechy i funkcje Duchów Nadrzędnych
+[185] 5. Stosunek do istot stworzonych
+[186] 6. Kosmiczny umysł
+[187] Przyczynowość, obowiązek i czczenie
+[188] 7. Moralność, cnota i osobowość
+[189] 8. Urantiańska osobowość
+[190] 9. Rzeczywistość świadomości ludzkiej
+[191] 17. Siedem grup Duchów Najwyższych
+[192] 1. Siedmiu Najwyższych Wykonawców
+[193] Synowie utrójcowieni przez stworzonych
+[194] 2. Majeston — szef odzwierciedlania
+[195] 3. Duchy Zwierciadlane
+[196] 4. Pomocnicy-Wyobrażenia Zwierciadlane
+[197] 5. Siedem Duchów Orbit
+[198] 6. Stwórcze Duchy wszechświatów lokalnych
+[199] 7. Przyboczne umysły-duchy
+[200] 8. Funkcje Duchów Najwyższych
+[201] 18. Najwyższe Osobowości Trójcy
+[202] 1. Utrójcowione Tajemnice Najwyższości
+[203] 2. Wieczni Czasu
+[204] 3. Pradawni Czasu
+[205] 4. Doskonalący Czasu
+[206] 5. Niedawni Czasu
+[207] 6. Jednoczący Czasu
+[208] 7. Wierni Czasu
+[209] 19. Partnerzy pochodzących od Trójcy
+[210] 1. Nauczyciele-Synowie Trójcy
+[211] 2. Perfektorzy Mądrości
+[212] 3. Niebiańscy Radcy
+[213] 4. Uniwersalni Cenzorzy
+[214] Niezmienni Synowie Trójcy
+[215] 5. Natchnione Duchy Trójcy
+[216] 6. Mieszkańcy Havony
+[217] 7. Obywatele Raju
+[218] 20. Rajscy Synowie Boga
+[219] 1. Zstępujący Synowie Boga
+[220] 2. Synowie-Arbitrzy
+[221] 3. Czynności sędziowskie
+[222] 4. Misje arbitrażowe
+[223] 5. Obdarzenia dokonywane przez Rajskich Synów Boga
+[224] 6. Misje obdarzające w charakterze śmiertelnika
+[225] 7. Nauczyciele-Synowie Trójcy
+[226] 8. Służba Daynali we wszechświecie lokalnym
+[227] 9. Planetarna służba Daynali
+[228] 10. Jednolita służba Rajskich Synów
+[229] 21. Rajscy Synowie Stwórcy
+[230] Pierwszy Michał
+[231] 1. Pochodzenie i natura Synów Stwórcy
+[232] 2. Stwórcy wszechświatów lokalnych
+[233] 3. Władza we wszechświecie lokalnym
+[234] 4. Obdarzenia dokonywane przez Michałów
+[235] 5. Stosunek Synów-Mistrzów do wszechświata
+[236] 6. Przeznaczenie Mistrzów Michałów
+[237] 22. Utrójcowieni Synowie Boga
+[238] 1. Synowie objęci Trójcą
+[239] Utrójcowieni Synowie Dostąpienia
+[240] Utrójcowieni Synowie Wyboru
+[241] Utrójcowieni Synowie Perfekcji
+[242] 2. Możni Posłańcy
+[243] 3. Posiadający Wysokie Uprawnienia
+[244] 4. Nieposiadający Imienia i Numeru
+[245] 5. Utrójcowieni Kuratorzy
+[246] 6. Utrójcowieni Ambasadorzy
+[247] 7. Procedura utrójcowienia
+[248] Synowie utrójcowieni przez wznoszących się
+[249] Synowie utrójcowieni przez istoty Raju-Havony
+[250] Utrójcowieni synowie przeznaczenia
+[251] 8. Synowie utrójcowieni przez stworzonych
+[252] 9. Niebiańscy Opiekunowie
+[253] 10. Asystenci Wysokiego Syna
+[254] 23. Samotni Posłańcy
+[255] 1. Natura i pochodzenie Samotnych Posłańców
+[256] 2. Zadania Samotnych Posłańców
+[257] 3. Służba Samotnych Posłańców w czasie i przestrzeni
+[258] Seraficzne oraz inne kosmiczne prędkości
+[259] 4. Służba specjalna Samotnych Posłańców
+[260] Utrójcowieni synowie przeznaczenia
+[261] 24. Wyższe Osobowości Nieskończonego Ducha
+[262] 1. Nadzorcy Obwodów Wszechświata
+[263] 2. Kierownicy Spisu
+[264] 3. Personalni Pomocnicy Nieskończonego Ducha
+[265] 4. Inspektorzy Pomocniczy
+[266] 5. Przydzieleni Strażnicy
+[267] 6. Przewodnicy Absolwentów
+[268] Grandfanda, pierwszy wznoszący się
+[269] 7. Pochodzenie Przewodników Absolwentów
+[270] 25. Zastępy Posłańców Przestrzeni
+[271] 1. Servitale Havony
+[272] 2. Wszechświatowi Rozjemcy
+[273] 3. Szeroki zakres służby rozjemców
+[274] 4. Doradcy Proceduralni
+[275] 5. Opiekunowie Zapisów w Raju
+[276] 6. Niebiańscy Kronikarze
+[277] 7. Morontiańscy Towarzysze
+[278] 8. Rajscy Towarzysze
+[279] 26. Duchy usługujące wszechświata centralnego
+[280] 1. Duchy usługujące
+[281] Duchy usługujące wszechświata centralnego
+[282] Duchy usługujące superwszechświatów
+[283] Duchy usługujące wszechświatów lokalnych
+[284] 2. Możni supernafini
+[285] 3. Supernafini klasy trzeciej
+[286] (1) Nadzorcy zestrojenia
+[287] (2) Główni rejestratorzy
+[288] (3) Transmitujący
+[289] (4) Posłańcy
+[290] (5) Koordynatorzy informacji
+[291] (6) Osobowości transportujące
+[292] (7) Korpus rezerwowy
+[293] 4. Supernafini klasy drugiej
+[294] Przybycie wznoszącego się do Havony
+[295] 5. Pomocnicy pielgrzymów
+[296] 6. Przewodnicy do najwyższości
+[297] 7. Przewodnicy do Trójcy
+[298] 8. Odkrywający Syna
+[299] Niepowodzenie w znajdowaniu Bóstwa
+[300] 9. Przewodnicy do Ojca
+[301] 10. Doradcy i konsultanci
+[302] Zadania dla tych, którym się nie udało
+[303] 11. Asystenci w odpoczynku
+[304] Synowie utrójcowieni przez stworzonych
+[305] 27. Służba supernafinów klasy pierwszej
+[306] 1. Inspiratorzy odpoczynku
+[307] Natura odpoczynku
+[308] 2. Szefowie od przydziału
+[309] 3. Interpretatorzy etyki
+[310] 4. Koordynatorzy postępowania
+[311] 5. Kuratorzy wiedzy
+[312] 6. Mistrzowie filozofii
+[313] 7. Przewodnicy czczenia
+[314] 28. Duchy usługujące superwszechświatów
+[315] 1. Tertiafini
+[316] 2. Omniafini
+[317] 3. Sekonafini
+[318] 4. Sekonafini klasy pierwszej
+[319] (1) Głos Wspólnego Aktywizatora
+[320] (2) Głos Siedmiu Duchów Nadrzędnych
+[321] (3) Głos Synów Stwórcy
+[322] (4) Głos zastępów anielskich
+[323] (5) Odbiorcy transmisji
+[324] (6) Osobowości transportujące
+[325] (7) Korpus rezerwowy
+[326] 5. Sekonafini klasy drugiej
+[327] (1) Głos Mądrości
+[328] (2) Dusza Filozofii
+[329] (3) Jedność Dusz
+[330] (4) Serce Porady
+[331] (5) Radość Istnienia
+[332] (6) Zadowolenie ze Służby
+[333] (7) Rozpoznający Duchy
+[334] 6. Sekonafini klasy trzeciej
+[335] (1) Doniosłość Pochodzenia
+[336] (2) Pamięć Miłosierdzia
+[337] (3) Znaczenie Czasu
+[338] (4) Powaga Zaufania
+[339] (5) Świętość Służby
+[340] (6) i (7) Tajemnica Wielkości i Dusza Dobroci
+[341] 7. Służba sekonafinów
+[342] 29. Dyspozytorzy Mocy Wszechświata
+[343] 1. Siedmiu Najwyższych Dyspozytorów Mocy
+[344] 2. Najwyższe Centra Mocy
+[345] (1) Nadzorcy Najwyższych Centrów
+[346] (2) Centra Havony
+[347] (3) Centra superwszechświatowe
+[348] (4) Centra wszechświata lokalnego
+[349] (5) Centra konstelacji
+[350] (6) Centra systemu
+[351] (7) Centra niesklasyfikowane
+[352] 3. Zakres działania Centrów Mocy
+[353] 4. Nadrzędni Kontrolerzy Fizyczni
+[354] (1) Pomocniczy dyspozytorzy mocy
+[355] (2) Kontrolerzy mechaniczni
+[356] (3) Przetwarzacze energii
+[357] (4) Przekaźnicy energii
+[358] (5) Pierwotni gromadzący
+[359] (6) Wtórni rozdzielający
+[360] (7) Frandalancy
+[361] Chronoldecy
+[362] 5. Nadrzędni Organizatorzy Siły
+[363] Pierwotni Wynikowi Nadrzędni Organizatorzy Siły
+[364] Pomocniczy Transcendentalni Nadrzędni Organizatorzy Siły
+[365] 30. Osobowości wielkiego wszechświata
+[366] 1. Rajska klasyfikacja istot żywych
+[367] I. Istoty o trójjednym pochodzeniu
+[368] II. Istoty o podwójnym pochodzeniu
+[369] III. Istoty o pojedynczym pochodzeniu
+[370] IV. Wynikające istoty transcendentalne
+[371] V. Rozdrobnione byty Bóstwa
+[372] VI. Istoty superosobowe
+[373] VII. Klasy nie zaszeregowane i nie objawione
+[374] 2. Rejestr osobowości Uversy
+[375] I. Rajskie Bóstwa
+[376] II. Duchy Najwyższe
+[377] III. Istoty pochodzące od Trójcy
+[378] IV. Synowie Boga
+[379] V. Osobowości Nieskończonego Ducha
+[380] VI. Dyspozytorzy Mocy Wszechświata
+[381] VII. Korpus Stałego Obywatelstwa
+[382] Mieszane grupy osobowości
+[383] 3. Kolonie kurtuazyjne
+[384] (1) Obserwatorzy gwiazd
+[385] (2) Twórcy niebiańscy
+[386] (3) Organizatorzy powrotu
+[387] (4) Wykładowcy szkół przygotowawczych
+[388] (5) Różne korpusy rezerwowe
+[389] (6) Odwiedzający badacze
+[390] (7) Wznoszący się pielgrzymi
+[391] 4. Wznoszący się śmiertelnicy
+[392] (1) Śmiertelnicy planetarni
+[393] (2) Śpiący przetrwali
+[394] (3) Studenci światów-mieszkań
+[395] (4) Zaawansowani w morontii
+[396] (5) Podopieczni superwszechświata
+[397] (6) Pielgrzymi Havony
+[398] (7) Przybywający do Raju
+[399] 31. Korpus Finalizmu
+[400] 1. Mieszkańcy Havony
+[401] 2. Posłańcy Grawitacji
+[402] 3. Gloryfikowani Śmiertelnicy
+[403] 4. Przybrani Serafini
+[404] 5. Gloryfikowani Synowie Materialni
+[405] 6. Gloryfikowane Istoty Pośrednie
+[406] 7. Ewangeliści Światłości
+[407] 8. Transcendentalni
+[408] 9. Architekci Wszechświata Nadrzędnego.
+[409] 10. Ostateczna epopeja
+[410] CZĘŚĆ II.
+[411] Wszechświat lokalny
+[412] 32. Ewolucja wszechświatów lokalnych
+[413] 1. Materialne wyłanianie się wszechświatów
+[414] 2. Organizowanie wszechświata
+[415] 3. Idea ewolucji
+[416] 4. Stosunek Boga do wszechświata lokalnego
+[417] 5. Wieczny i Boski cel
+[418] 33. Administracja wszechświata lokalnego
+[419] 1. Michał z Nebadonu
+[420] 2. Władca Nebadonu
+[421] 3. Syn i Duch wszechświata
+[422] 4. Gabriel — główny administrator
+[423] 5. Ambasadorzy Trójcy
+[424] 6. Administracja ogólna
+[425] Czas wszechświata lokalnego
+[426] 7. Sądy Nebadonu
+[427] 8. Funkcje prawodawcze i wykonawcze
+[428] 34. Matka Duch wszechświata lokalnego
+[429] 1. Uosobienie Stwórczego Ducha
+[430] 2. Natura Boskiej Opiekunki
+[431] 3. Syn i Duch w czasie i przestrzeni
+[432] 4. Obwody wszechświata lokalnego
+[433] 5. Służba Ducha
+[434] 6. Duch w człowieku
+[435] Podwójna natura człowieka
+[436] 7. Duch a ciało
+[437] „To jest droga”
+[438] 35. Synowie Boży wszechświata lokalnego
+[439] 1. Ojciec Melchizedek
+[440] 2. Synowie Melchizedecy
+[441] 3. Światy Melchizedeków
+[442] 4. Działalność specjalna Melchizedeków
+[443] Wcielenia Melchizedeków
+[444] 5. Synowie Vorondadecy
+[445] 6. Ojcowie Konstelacji
+[446] 7. Światy Vorondadeków
+[447] 8. Synowie Lanonandecy
+[448] Lanonandecy klasy pierwszej
+[449] Lanonandecy klasy drugiej
+[450] Lanonandecy klasy trzeciej
+[451] 9. Władcy Lanonandecy
+[452] 10. Światy Lanonandeków
+[453] 36. Nosiciele Życia
+[454] 1. Pochodzenie i natura Nosicieli Życia
+[455] 2. Światy Nosicieli Życia
+[456] 3. Transplantacja życia
+[457] 4. Melchizedecy-Nosiciele Życia
+[458] Midsonici
+[459] Salvingtońskie światy finalistów
+[460] 5. Siedem przybocznych umysłów-duchów
+[461] (1) Duch intuicji
+[462] (2) Duch zrozumienia
+[463] (3) Duch odwagi
+[464] (4) Duch wiedzy
+[465] (5) Duch rady
+[466] (6) Duch czczenia
+[467] (7) Duch mądrości
+[468] 6. Siły żywe
+[469] 37. Osobowości wszechświata lokalnego
+[470] 1. Wszechświatowi Pomocnicy
+[471] 2. Gwiazdy Błyszczące Wieczorne
+[472] Stworzone Gwiazdy Wieczorne
+[473] Wzniosłe Gwiazdy Wieczorne
+[474] Światy Gwiazd Wieczornych
+[475] 3. Archaniołowie
+[476] Światy Archaniołów
+[477] 4. Asystenci Najwyższych Ojców
+[478] 5. Wysocy Komisarze
+[479] Komisarze do spraw rasy
+[480] Nebadoński Korpus Doskonałości
+[481] Światy zespolonych z Duchem śmiertelników
+[482] 6. Niebiańscy Nadzorcy
+[483] System edukacyjny Nebadonu
+[484] 7. Nauczyciele Światów-Mieszkań
+[485] 8. Przydziały wyższych klas duchowych
+[486] Samotni Posłańcy
+[487] Nadzorca Obwodów Wszechświata — Andovontia
+[488] Kierownik Spisu — Salsatia
+[489] Inspektor Pomocniczy
+[490] Przydzieleni Strażnicy
+[491] Wszechświatowi Rozjemcy
+[492] Doradcy Proceduralni
+[493] Niebiańscy Kronikarze
+[494] Morontiańscy Towarzysze
+[495] 9. Stali obywatele wszechświata lokalnego
+[496] (1) Susaci
+[497] (2) Univitaci
+[498] (3) Synowie Materialni
+[499] (4) Istoty pośrednie
+[500] Abandonterzy
+[501] 10. Inne grupy istot wszechświata lokalnego
+[502] Spirongi
+[503] Spornagie
+[504] Kolonie kurtuazyjne
+[505] 38. Duchy usługujące wszechświata lokalnego
+[506] 1. Pochodzenie serafinów
+[507] 2. Natura aniołów
+[508] 3. Aniołowie nie objawieni
+[509] 4. Światy seraficzne
+[510] 5. Szkolenie serafinów
+[511] 6. Organizacja seraficzna
+[512] 7. Cherubini i sanobini
+[513] 8. Rozwój cherubinów i sanobinów
+[514] (1) Kandydaci do wznoszenia się
+[515] (2) Cherubini stadium pośredniego
+[516] (3) Cherubini morontialni
+[517] 9. Istoty pośrednie
+[518] (1) Pośredni pierwotni
+[519] (2) Pośredni wtórni
+[520] 39. Zastępy seraficzne
+[521] 1. Najwyżsi serafini
+[522] (1) Opiekunowie Synów Duchów
+[523] Asystenci obdarzenia
+[524] (2) Radcy sądowi
+[525] (3) Wszechświatowi konsultanci
+[526] (4) Doradcy nauczania
+[527] (5) Kierownicy przydziału
+[528] (6) Rejestratorzy
+[529] (7) Opiekunowie bez przydziału
+[530] 2. Zwierzchni serafini
+[531] (1) Korpus informacyjny
+[532] (2) Głos miłosierdzia
+[533] (3) Koordynatorzy duchowi
+[534] (4) Asystenci nauczycieli
+[535] (5) Transportowcy
+[536] Metody transportu seraficznego
+[537] (6) Rejestratorzy
+[538] Transmitujący
+[539] (7) Rezerwy
+[540] 3. Serafini nadzorcy
+[541] (1) Asystenci nadzorujący
+[542] (2) Progności prawa
+[543] (3) Organizatorzy społeczności
+[544] (4) Inicjatorzy etyki
+[545] (5) Transportowcy
+[546] (6) Rejestratorzy
+[547] (7) Rezerwy
+[548] 4. Serafini administratorzy
+[549] (1) Asystenci administracyjni
+[550] (2) Doradcy sprawiedliwości
+[551] (3) Interpretatorzy obywatelstwa kosmicznego
+[552] (4) Stymulatorzy moralności
+[553] (5) Transportowcy
+[554] (6) Rejestratorzy
+[555] (7) Rezerwy
+[556] 5. Pomocnicy planetarni
+[557] (1) Głosy Ogrodu
+[558] (2) Duchy braterstwa
+[559] (3) Dusze pokoju
+[560] (4) Duchy ufności
+[561] (5) Transportowcy
+[562] Odlot transportu seraficznego
+[563] (6) Rejestratorzy
+[564] (7) Rezerwy
+[565] 6. Opiekunowie przejścia
+[566] 7. Serafini przyszłości
+[567] 8. Przeznaczenie serafinów
+[568] 9. Korpus Seraficznej Kompletności
+[569] 40. Wznoszący się Synowie Boga
+[570] 1. Serafini ewolucyjni
+[571] 2. Wznoszący się Synowie Materialni
+[572] 3. Transponowani pośredni
+[573] 4. Uosobieni Dostrajacze
+[574] 5. Śmiertelnicy czasu i przestrzeni
+[575] Śmiertelnicy przejściowego albo empirycznego pobytu Dostrajacza
+[576] Śmiertelnicy nie zespalający się z Dostrajaczem
+[577] Śmiertelnicy z potencjałem zespolenia z Dostrajaczem
+[578] Grupy nie numerowane
+[579] 6. Wierni Synowie Boga
+[580] 7. Zespoleni z Ojcem śmiertelnicy
+[581] 8. Zespoleni z Synem śmiertelnicy
+[582] 9. Zespoleni z Duchem śmiertelnicy
+[583] Metody przywracania pamięci
+[584] 10. Przeznaczenia istot wznoszących się
+[585] 41. Fizyczne aspekty wszechświata lokalnego
+[586] 1. Centra mocy Nebadonu
+[587] 2. Kontrolerzy fizyczni Satanii
+[588] 3. Nasi gwiezdni towarzysze
+[589] 4. Gęstość Słońca
+[590] 5. Promieniowanie słoneczne
+[591] 6. Wapń — kosmiczny wędrowiec
+[592] 7. Źródła energii słonecznej
+[593] 8. Reakcje energii słonecznej
+[594] 9. Stabilność Słońca
+[595] 10. Pochodzenie światów zamieszkałych
+[596] 42. Energia — umysł i materia
+[597] 1. Rajskie siły i energie
+[598] 2. Wszechświatowe systemy energii nieduchowej (energie fizyczne)
+[599] (1) Potencja przestrzeni
+[600] (2) Siła podstawowa
+[601] (3) Energie powstające
+[602] a. Energia siłowa
+[603] b. Energia grawitacyjna
+[604] (4) Wszechświatowa moc
+[605] (5) Energia Havony
+[606] (6) Energia transcendentalna
+[607] (7) Monota
+[608] 3. Klasyfikacja materii
+[609] 4. Przeobrażenia energii i materii
+[610] 5. Przejawy energii falowej
+[611] 6. Ultimatony, elektrony i atomy
+[612] 7. Materia atomowa
+[613] 8. Kohezja atomowa
+[614] 9. Filozofia przyrody
+[615] 10. Wszechświatowe systemy energii nieduchowej (systemy umysłu materialnego)
+[616] (1) Umysły przed przybocznym duchem
+[617] (2) Umysły przybocznego ducha
+[618] (3) Rozwijające się umysły morontialne
+[619] Umysł kosmiczny
+[620] 11. Mechanizmy wszechświatowe
+[621] 12. Forma i kształt — dominacja umysłu
+[622] 43. Konstelacje
+[623] 1. Zarząd konstelacji
+[624] 2. Rządy konstelacji
+[625] 3. Najwyżsi Ojcowie z Norlatiadeku
+[626] 4. Góra obrad — Wierny Czasu
+[627] 5. Ojcowie z Edentii po buncie Lucyfera
+[628] 6. Boże ogrody
+[629] 7. Univitaci
+[630] 8. Światy szkoleniowe Edentii
+[631] 9. Obywatelstwo Edentii
+[632] 44. Niebiańscy twórcy
+[633] 1. Niebiańscy muzycy
+[634] 2. Niebiańscy odtwórcy
+[635] 3. Niebiańscy budowniczowie
+[636] 4. Rejestratorzy myśli
+[637] 5. Operatorzy energii
+[638] 6. Projektanci i dekoratorzy
+[639] 7. Harmonizatorzy
+[640] 8. Dążenia śmiertelników i sukcesy morontialne
+[641] 45. Administracja systemu lokalnego
+[642] 1. Światy kultury przejściowej
+[643] (1) Świat finalistów
+[644] (2) Świat morontialny
+[645] (3) Świat aniołów
+[646] (4) Świat superaniołów
+[647] (5) Świat Synów
+[648] (6) Świat Ducha
+[649] (7) Świat Ojca
+[650] 2. Władca systemu
+[651] 3. Rząd systemu
+[652] 4. Dwudziestu czterech radców
+[653] 5. Synowie Materialni
+[654] 6. Adamiczne szkolenie wznoszących się istot
+[655] Doświadczenie rodzicielskie
+[656] Ochronka próbna Satanii
+[657] 7. Szkoły Melchizedeków
+[658] 46. Zarząd systemu lokalnego
+[659] 1. Fizyczne aspekty Jerusem
+[660] 2. Cechy fizyczne Jerusem
+[661] 3. Transmisje Jerusem
+[662] 4. Obszary mieszkalne i administracyjne
+[663] 5. Okręgi Jerusem
+[664] (1) Okręgi Synów Boga
+[665] (2) Okręgi aniołów
+[666] (3) Okręgi Wszechświatowych Pomocników
+[667] (4) Okręgi Nadrzędnych Kontrolerów Fizycznych
+[668] (5) Okręgi wznoszących się śmiertelników
+[669] (6) Okręgi kolonii kurtuazyjnych
+[670] (7) Okręgi finalistów
+[671] 6. Kwadraty wykonawczo-administracyjne
+[672] 7. Prostokąty — spornagie
+[673] 8. Trójkąty Jerusem
+[674] 47. Siedem światów-mieszkań
+[675] 1. Świat finalistów
+[676] Wymagane doświadczenie rodzicielskie
+[677] 2. Ochronka próbna
+[678] 3. Pierwszy świat-mieszkanie
+[679] Morontiańscy Towarzysze
+[680] 4. Drugi świat-mieszkanie
+[681] 5. Trzeci świat-mieszkanie
+[682] 6. Czwarty świat-mieszkanie
+[683] 7. Piąty świat-mieszkanie
+[684] 8. Szósty świat-mieszkanie
+[685] Zespolenie z Dostrajaczem
+[686] 9. Siódmy świat-mieszkanie
+[687] 10. Obywatelstwo Jerusem
+[688] 48. Życie morontialne
+[689] 1. Materiały morontialne
+[690] 2. Nadzorcy Mocy Morontialnej
+[691] (1) Regulatorzy obwodów
+[692] (2) Koordynatorzy systemu
+[693] (3) Opiekunowie planetarni
+[694] (4) Łączni kontrolerzy
+[695] (5) Stabilizatorzy łączności
+[696] (6) Selektywni segregatorzy
+[697] (7) Archiwiści pomocniczy
+[698] 3. Morontiańscy Towarzysze
+[699] (1) Opiekunowie pielgrzymów
+[700] (2) Przyjmujący pielgrzymów i wolni towarzysze
+[701] (3) Gospodarze niebiańskich gości
+[702] (4) Koordynatorzy i kierownicy związków wzajemnych
+[703] (5) Interpretatorzy i tłumacze
+[704] (6) Organizatorzy wycieczek i powrotu
+[705] (7) Opiekunowie terenu i budynków
+[706] 4. Organizatorzy Powrotu
+[707] Niebiański humor
+[708] Ziemski humor
+[709] 5. Nauczyciele Światów-Mieszkań
+[710] 6. Serafini świata morontialnego — opiekunowie przejścia
+[711] (1) Seraficzni ewangeliści
+[712] Pochodzenie psalmu dwudziestego trzeciego
+[713] (2) Interpretatorzy rasowi
+[714] (3) Planiści umysłu
+[715] (4) Doradcy morontialni
+[716] Stereoskopowy efekt moty
+[717] (5) Technicy
+[718] (6) Rejestratorzy-nauczyciele
+[719] Prawda i fakt
+[720] (7) Posługujące rezerwy
+[721] Sukces, niepowodzenie i ego
+[722] 7. Mota morontialna
+[723] 8. Zaawansowani w morontii
+[724] 49. Światy zamieszkałe
+[725] 1. Życie planetarne
+[726] 2. Planetarne typy fizyczne
+[727] (1) Typy atmosferyczne
+[728] (2) Typy środowiskowe
+[729] (3) Typy grawitacyjne
+[730] (4) Typy temperaturowe
+[731] (5) Typy elektryczne
+[732] (6) Typy energetyczne
+[733] (7) Typy nienazwane
+[734] 3. Światy zamieszkałe przez istoty nie oddychające
+[735] 4. Ewolucyjne istoty obdarzone wolą
+[736] 5. Planetarne grupy śmiertelników
+[737] (1) Dostosowanie do środowiska planetarnego
+[738] Grupy eksperymentalne kontrolowane przez Tabamantię
+[739] (2) Rodzaje mózgu
+[740] (3) Wrażliwość duchowa
+[741] (4) Planetarne epoki śmiertelników
+[742] (5) Pokrewieństwo istot stworzonych
+[743] (6) Zespolenie z Dostrajaczem
+[744] (7) Metody opuszczania planety
+[745] 6. Opuszczanie Ziemi
+[746] (1) Śmiertelnicy przetrwania grupowego albo według systemu sprawiedliwości
+[747] (2) Śmiertelnicy indywidualnych porządków wznoszenia się
+[748] (3) Śmiertelnicy próbno-zależnej klasy wznoszenia się
+[749] (4) Śmiertelnicy drugorzędnych zmodyfikowanych klas wznoszenia się
+[750] (5) Śmiertelnicy pierwszorzędnych zmodyfikowanych klas wznoszenia się
+[751] 50. Książęta Planetarni
+[752] 1. Misja Książąt
+[753] 2. Administracja planetarna
+[754] 3. Cielesny personel Księcia
+[755] 4. Zarząd planetarny i szkoły
+[756] 5. Rozwijająca się cywilizacja
+[757] 6. Kultura planetarna
+[758] 7. Zalety odosobnienia
+[759] Agontonterzy
+[760] Agondonter Tabamantia
+[761] 51. Adamowie Planetarni
+[762] 1. Pochodzenie i natura Materialnych Synów Boga
+[763] 2. Przemieszczanie się Planetarnych Adamów
+[764] 3. Misje adamiczne
+[765] 4. Sześć ras ewolucyjnych
+[766] 5. Mieszanie ras — obdarzenie krwią adamiczną
+[767] 6. Rządy edeniczne
+[768] 7. Zjednoczona administracja
+[769] 52. Planetarne epoki śmiertelników
+[770] 1. Człowiek prymitywny.
+[771] 2. Człowiek po Księciu Planetarnym
+[772] 3. Człowiek poadamiczny
+[773] 4. Człowiek po Synu-Arbitrze
+[774] 5. Człowiek po Synu obdarzającym
+[775] 6. Epoka po obdarzeniu na Urantii
+[776] 7. Człowiek po Nauczycielu-Synu
+[777] 53. Bunt Lucyfera
+[778] 1. Przywódcy buntu
+[779] 2. Przyczyny buntu
+[780] 3. Manifest Lucyfera
+[781] 4. Wybuch buntu
+[782] 5. Natura konfliktu
+[783] 6. Lojalny przywódca seraficzny
+[784] 7. Historia buntu
+[785] 8. Syn Człowieczy na Urantii
+[786] 9. Obecny status buntu
+[787] 54. Problemy wynikające z buntu Lucyfera
+[788] 1. Prawdziwa i fałszywa wolność
+[789] 2. Kradzież wolności
+[790] 3. Opóźnienie sprawiedliwości
+[791] 4. Miłosierne opóźnienie
+[792] 5. Mądrość opóźnienia
+[793] Dwanaście przyczyn
+[794] 6. Tryumf miłości
+[795] 55. Sfery światłości i życia
+[796] 1. Świątynia morontialna
+[797] 2. Śmierć a transponowanie
+[798] 3. Złoty wiek
+[799] 4. Przemiany administracyjne
+[800] Siedem stadiów planety
+[801] Zwolnienie pośrednich
+[802] Ustąpienie Adamów
+[803] 5. Punkt kulminacyjny rozwoju materialnego
+[804] 6. Indywidualny śmiertelnik
+[805] 7. Stadium pierwsze albo planetarne
+[806] 8. Stadium drugie albo systemu
+[807] 9. Stadium trzecie albo konstelacji
+[808] 10. Stadium czwarte albo wszechświata lokalnego
+[809] 11. Stadium mniejszego i większego sektora
+[810] 12. Stadium siódme albo superwszechświata
+[811] Nieuwarunkowani Nadzorcy Najwyższego
+[812] 56. Jedność wszechświatowa
+[813] 1. Koordynacja fizyczna
+[814] 2. Jedność intelektualna
+[815] 3. Zjednoczenie duchowe
+[816] 4. Zjednoczenie osobowości
+[817] 5. Jedność Bóstwa
+[818] 6. Zjednoczenie Bóstwa ewolucyjnego
+[819] 7. Wszechświatowe następstwa ewolucji
+[820] 8. Najwyższy unifikator
+[821] 9. Wszechświatowa jedność absolutna
+[822] 10. Prawda, piękno i dobroć
+[823] CZĘŚĆ III.
+[824] Historia Urantii
+[825] 57. Pochodzenie Urantii
+[826] 1. Mgławica Andronover
+[827] 2. Pierwsze stadium mgławicowe
+[828] 3. Drugie stadium mgławicowe
+[829] 4. Trzecie i czwarte stadium
+[830] Pochodzenie Słońca
+[831] 5. Pochodzenie Monmatii — Układu Słonecznego Urantii
+[832] Ruch wsteczny
+[833] 6. Stadium Układu Słonecznego
+[834] Era formowania się planet
+[835] Opór pływowy
+[836] Eksplozje pływowo-grawitacyjne
+[837] 7. Era meteorytów
+[838] Epoka wulkaniczna
+[839] Prymitywna atmosfera planetarna
+[840] 8. Stabilizacja skorupy
+[841] Epoka trzęsień ziemi
+[842] Ocean światowy i pierwszy kontynent
+[843] 58. Ustanowienie życia na Urantii
+[844] 1. Warunki niezbędne dla zaistnienia życia materialnego
+[845] 2. Atmosfera Urantii
+[846] 3. Środowisko kosmiczne
+[847] 4. Era początków życia
+[848] 5. Dryf kontynentalny
+[849] 6. Okres przejściowy
+[850] 7. Księga historii geologicznej
+[851] 59. Era życia morskiego na Urantii
+[852] 1. Wczesne życie morskie w płytkich morzach
+[853] Epoka trylobitów
+[854] 2. Pierwszy okres zalewu kontynentów
+[855] Epoka zwierząt bezkręgowych
+[856] 3. Drugie stadium wielkiego potopu
+[857] Okres koralowy
+[858] Epoka ramienionogów
+[859] 4. Stadium wielkiego wynurzenia lądu
+[860] Okres życia roślinnego na lądzie
+[861] Epoka ryb
+[862] 5. Stadium przemieszczania się skorupy ziemskiej
+[863] Las paprotny okresu karbońskiego
+[864] Epoka żab
+[865] 6. Stadium zmian klimatycznych
+[866] Okres roślin nasiennych
+[867] Epoka perturbacji biologicznych
+[868] 60. Urantia we wczesnej erze życia lądowego
+[869] 1. Wczesna epoka gadów
+[870] 2. Późniejsza epoka gadów
+[871] 3. Stadium kredowe
+[872] Okres roślin kwiatowych
+[873] Epoka ptaków
+[874] 4. Koniec okresu kredowego
+[875] 61. Era ssaków na Urantii
+[876] 1. Nowe stadium lądu kontynentalnego
+[877] Epoka wczesnych ssaków
+[878] 2. Ostatnie stadium zatopienia
+[879] Epoka zaawansowanych ssaków
+[880] 3. Stadium współczesnych gór
+[881] Epoka słonia i konia
+[882] 4. Nowe stadium wyniesienia kontynentalnego
+[883] Ostatnia wielka migracja ssaków
+[884] 5. Pierwsza epoka lodowcowa
+[885] 6. Człowiek prymitywny w epoce lodowcowej
+[886] 7. Dalszy ciąg epoki lodowcowej
+[887] 62. Zaranie gatunku człowieka pierwotnego
+[888] 1. Wczesne gatunki lemurów
+[889] 2. Ssaki wczesne
+[890] 3. Ssaki pośrednie
+[891] Początki plemion małpich
+[892] 4. Naczelne
+[893] 5. Pierwsze istoty ludzkie
+[894] 6. Ewolucja umysłu ludzkiego
+[895] 7. Uznanie świata za zamieszkały
+[896] 63. Pierwsza rodzina ludzka
+[897] 1. Andon i Fonta
+[898] 2. Ucieczka bliźniaków
+[899] 3. Rodzina Andona
+[900] 4. Klany Andonowe
+[901] 5. Rozproszenie Andonitów
+[902] 6. Onagar — pierwszy nauczyciel prawdy
+[903] 7. Przetrwanie Andona i Fonty
+[904] 64. Ewolucyjne rasy kolorowe
+[905] 1. Andoniczni autochtoni
+[906] 2. Ludy foxhalskie
+[907] 3. Plemiona badonańskie
+[908] 4. Rasy neandertalskie
+[909] 5. Początek ras kolorowych
+[910] 6. Sześć sangikowych ras Urantii
+[911] (1) Człowiek czerwony
+[912] (2) Człowiek pomarańczowy
+[913] (3) Człowiek żółty
+[914] (4) Człowiek zielony
+[915] (5) Człowiek niebieski
+[916] (6) Rasa indygo
+[917] Przyczyny istnienia sześciu ras
+[918] 7. Rozproszenie ras kolorowych
+[919] 65. Kontrola ewolucji
+[920] 1. Funkcje Nosicieli Życia
+[921] (1) Fizyczny poziom elektrochemiczny
+[922] (2) Zwyczajne, pośrednie stadium niby-morontialnego bytu
+[923] (3) Zaawansowany poziom, częściowo duchowy
+[924] 2. Panorama ewolucyjna
+[925] 3. Wspomaganie ewolucji
+[926] 4. Urantiańska epopeja
+[927] 5. Zmienne koleje życia ewolucyjnego
+[928] 6. Ewolucyjne technologie życia
+[929] 7. Ewolucyjne poziomy umysłu
+[930] Umysł mechaniczny, nie uczący się
+[931] Umysł niemechaniczny-doświadczający
+[932] 8. Ewolucja w czasie i przestrzeni
+[933] 66. Planetarny Książę Urantii
+[934] 1. Książę Caligastia
+[935] 2. Personel Księcia
+[936] 3. Dalamatia — miasto Księcia
+[937] 4. Wczesne dni setki
+[938] 5. Organizacja setki
+[939] (1) Rada do spraw wyżywienia i dóbr materialnych
+[940] (2) Komisja do spraw oswajania i używania zwierząt
+[941] (3) Doradcy do spraw walki ze zwierzętami drapieżnymi
+[942] (4) Wydział szerzenia i zachowania wiedzy
+[943] (5) Komisja do spraw wytwórczości i handlu
+[944] (6) Kolegium religii objawionej
+[945] (7) Opiekunowie zdrowia i życia
+[946] (8) Planetarna rada do spraw sztuki i nauki
+[947] (9) Zarząd do spraw zaawansowanych stosunków plemiennych
+[948] (10) Sąd najwyższy koordynacji plemiennej i współpracy rasowej
+[949] 6. Rządy Księcia
+[950] 7. Życie w Dalamatii
+[951] 8. Nieszczęścia spowodowane przez Caligastię
+[952] 67. Bunt planetarny
+[953] 1. Zdrada Caligastii
+[954] 2. Wybuch buntu
+[955] 3. Siedem krytycznych lat
+[956] 4. Setka Caligastii po buncie
+[957] 5. Bezpośrednie skutki buntu
+[958] 6. Niezłomny Van
+[959] 7. Późniejsze następstwa grzechu
+[960] 8. Ludzki bohater buntu
+[961] 68. Zaranie cywilizacji
+[962] 1. Uspołecznienie obronne
+[963] 2. Czynniki postępu społecznego
+[964] 3. Uspołeczniający wpływ strachu przed duchami
+[965] 4. Ewolucja obyczajów
+[966] 5. Metody uprawy ziemi — sztuka zdobywania środków do życia
+[967] (1) Stadium zbieractwa
+[968] (2) Stadium myślistwa
+[969] (3) Stadium pasterskie
+[970] (4) Stadium rolnicze
+[971] 6. Ewolucja kultury
+[972] Proporcja obszaru ziemi do ilości ludzi
+[973] 69. Prymitywne instytucje ludzkie
+[974] 1. Podstawowe instytucje ludzkie
+[975] (1) Instytucje samozachowawczości
+[976] (2) Instytucje zachowania gatunku
+[977] (3) Instytucje samozadowolenia
+[978] 2. Początki wytwórczości
+[979] 3. Podział pracy
+[980] 4. Początki handlu
+[981] 5. Początki kapitału
+[982] 6. Znaczenie ognia dla cywilizacji
+[983] 7. Zastosowanie zwierząt
+[984] 8. Niewolnictwo jako czynnik cywilizacyjny
+[985] 9. Własność prywatna
+[986] 70. Ewolucja rządu u ludzi
+[987] 1. Geneza wojny
+[988] 2. Społeczne wartości wojny
+[989] Współczesny industrializm - przeciwieństwo militaryzmu
+[990] 3. Wczesne związki międzyludzkie
+[991] 4. Klany i plemiona
+[992] 5. Początki rządu
+[993] 6. Rząd monarszy
+[994] 7. Prymitywne kluby i tajne stowarzyszenia
+[995] 8. Klasy społeczne
+[996] 9. Prawa człowieka
+[997] 10. Ewolucja systemu sprawiedliwości
+[998] 11. Prawa i sądy
+[999] 12. Podział władzy państwowej
+[1000] 71. Kształtowanie się państwa
+[1001] 1. Zalążek państwa
+[1002] 2. Ewolucja rządu przedstawicielskiego
+[1003] 3. Ideały państwowości
+[1004] 4. Rozwijająca się cywilizacja
+[1005] 5. Ewolucja współzawodnictwa
+[1006] 6. Motyw zysku
+[1007] 7. Edukacja
+[1008] 8. Charakter państwowości
+[1009] 72. Rząd na pobliskiej planecie
+[1010] 1. Naród kontynentalny
+[1011] 2. Organizacja polityczna
+[1012] 3. Życie rodzinne
+[1013] 4. System edukacyjny
+[1014] 5. Organizacja industrialna
+[1015] 6. Zabezpieczenie na starość
+[1016] 7. Opodatkowanie
+[1017] 8. Wyższe szkoły specjalistyczne
+[1018] 9. Plan powszechnego głosowania
+[1019] 10. Walka z przestępczością
+[1020] 11. Gotowość bojowa
+[1021] 12. Pozostałe narody
+[1022] 73. Ogród Eden
+[1023] Inspekcja Tabamantii
+[1024] 1. Nodyci i Amadonici
+[1025] 2. Planowanie Ogrodu
+[1026] 3. Lokalizacja Ogrodu
+[1027] 4. Założenie Ogrodu
+[1028] 5. Zabudowania ogrodowe
+[1029] 6. Drzewo życia
+[1030] 7. Losy Edenu
+[1031] 74. Adam i Ewa
+[1032] 1. Adam i Ewa na Jerusem
+[1033] 2. Przybycie Adama i Ewy
+[1034] 3. Adam i Ewa zaznajamiają się z planetą
+[1035] 4. Pierwsze problemy
+[1036] 5. Rządy Adama
+[1037] 6. Życie rodzinne Adama i Ewy
+[1038] 7. Życie w Ogrodzie
+[1039] 8. Legenda o stworzeniu świata
+[1040] 75. Odstępstwo Adama i Ewy
+[1041] 1. Problem Urantii
+[1042] 2. Intryga Caligastii
+[1043] 3. Kuszenie Ewy
+[1044] 4. Zrozumienie odstępstwa
+[1045] 5. Konsekwencje odstępstwa
+[1046] 6. Adam i Ewa opuszczają Ogród
+[1047] 7. Degradacja Adama i Ewy
+[1048] 8. Tak zwany upadek człowieka
+[1049] 76. Drugi ogród
+[1050] 1. Edeńczycy wkraczają do Mezopotamii
+[1051] 2. Kain i Abel
+[1052] 3. Życie w Mezopotamii
+[1053] Kapłaństwo setyckie
+[1054] 4. Rasa fioletowa
+[1055] 5. Śmierć Adama i Ewy
+[1056] Wiadomość od Michała
+[1057] 6. Przetrwanie Adama i Ewy
+[1058] 77. Istoty pośrednie
+[1059] 1. Pośredni pierwotni
+[1060] 2. Rasa Nodytów
+[1061] 3. Wieża Babel
+[1062] 4. Nodyckie centra cywilizacji
+[1063] 5. Adamson i Ratta
+[1064] 6. Pośredni wtórni
+[1065] 7. Zbuntowani pośredni
+[1066] 8. Zjednoczeni pośredni
+[1067] 9. Stali obywatele Urantii
+[1068] 78. Rasa fioletowa po dniach Adama
+[1069] 1. Rozmieszczenie kulturowe i rasowe
+[1070] 2. Adamici w drugim ogrodzie
+[1071] 3. Wczesne rozprzestrzenianie się Adamitów
+[1072] 4. Andici
+[1073] 5. Migracje Anditów
+[1074] 6. Ostatnie rozproszenie Anditów
+[1075] 7. Powodzie w Mezopotamii
+[1076] Historia Noego
+[1077] 8. Sumerowie — ostatni z Anditów
+[1078] 79. Rozprzestrzenianie się Anditów na Wschodzie
+[1079] 1. Andici z Turkiestanu
+[1080] 2. Podbój Indii przez Anditów
+[1081] 3. Indie drawidyjskie
+[1082] 4. Aryjski najazd na Indie
+[1083] 5. Człowiek czerwony i żółty
+[1084] 6. Zaranie cywilizacji chińskiej
+[1085] 7. Andici wkraczają do Chin
+[1086] 8. Późniejsza cywilizacja chińska
+[1087] 80. Rozprzestrzenianie się Anditów na Zachodzie
+[1088] 1. Adamici wkraczają do Europy
+[1089] 2. Zmiany klimatyczne i geologiczne
+[1090] Zatopienie basenu śródziemnomorskiego
+[1091] 3. Kromanioński człowiek niebieski
+[1092] 4. Najazd Anditów na Europę
+[1093] 5. Podbój Europy północnej przez Anditów
+[1094] 6. Andici w dolinie Nilu
+[1095] 7. Andici z wysp Morza Śródziemnego
+[1096] 8. Andonici naddunajscy
+[1097] 9. Trzy rasy białe
+[1098] 81. Kształtowanie się cywilizacji współczesnej
+[1099] 1. Kolebka cywilizacji
+[1100] 2. Elementy rozwoju cywilizacji
+[1101] (1) Opanowanie ognia
+[1102] (2) Oswojenie zwierząt
+[1103] (3) Zniewolenie jeńców
+[1104] (4) Własność prywatna
+[1105] 3. Miasta, wytwórczość i handel
+[1106] 4. Rasy mieszane
+[1107] (1) Europeidzi
+[1108] (2) Mongoloidzi
+[1109] (3) Negroidzi
+[1110] 5. Społeczeństwo kulturowe
+[1111] Siła i prawo
+[1112] 6. Zachowanie cywilizacji
+[1113] (1) Warunki naturalne
+[1114] (2) Nagromadzone dobra
+[1115] (3) Wiedza naukowa
+[1116] (4) Zasoby ludzkie
+[1117] (5) Wydajność zasobów materialnych
+[1118] (6) Efektywność języka
+[1119] (7) Efektywność urządzeń mechanicznych
+[1120] (8) Charakter krzewicieli oświaty
+[1121] (9) Ideały ludzkie
+[1122] (10) Koordynacja specjalistów
+[1123] (11) Metody znajdowania posady
+[1124] (12) Gotowość do współpracy
+[1125] (13) Efektywne i mądre przywództwo
+[1126] (14) Przemiany społeczne
+[1127] (15) Zapobieganie załamaniu się w stadium przejściowym
+[1128] 82. Ewolucja małżeństwa
+[1129] 1. Instynkt kojarzenia się
+[1130] 2. Tabu ograniczające
+[1131] 3. Wczesne obyczaje małżeńskie
+[1132] 4. Małżeństwo wobec obyczajów własności
+[1133] 5. Endogamia i egzogamia
+[1134] 6. Rasy mieszane
+[1135] 83. Instytucja małżeństwa
+[1136] 1. Małżeństwo jako instytucja społeczna
+[1137] 2. Zaloty i zaręczyny
+[1138] 3. Kupno a wiano
+[1139] 4. Ceremonia ślubna
+[1140] 5. Małżeństwa wieloosobowe
+[1141] 6. Prawdziwa monogamia — para małżeńska
+[1142] 7. Rozwiązanie węzła małżeńskiego
+[1143] 8. Idealizacja małżeństwa
+[1144] 84. Małżeństwo a życie rodzinne
+[1145] 1. Prymitywny związek pary
+[1146] 2. Wczesny matriarchat
+[1147] 3. Rodzina w epoce patriarchatu
+[1148] 4. Status kobiety w społeczeństwie pierwotnym
+[1149] 5. Kobieta na tle kształtujących się obyczajów
+[1150] 6. Partnerstwo mężczyzny i kobiety
+[1151] 7. Ideały życia rodzinnego
+[1152] 8. Niebezpieczeństwa samozadowolenia
+[1153] 85. Początki czczenia
+[1154] 1. Czczenie kamieni i wzgórz
+[1155] 2. Czczenie roślin i drzew
+[1156] 3. Czczenie zwierząt
+[1157] 4. Czczenie żywiołów
+[1158] 5. Czczenie ciał niebieskich
+[1159] 6. Czczenie człowieka
+[1160] 7. Przyboczni czci i mądrości
+[1161] 86. Wczesne stadium ewolucji religii
+[1162] 1. Przypadek: szczęście i nieszczęście
+[1163] 2. Personifikacja przypadku
+[1164] 3. Niewytłumaczalna śmierć
+[1165] 4. Idea życia po śmierci
+[1166] 5. Idea ducha-duszy
+[1167] 6. Środowisko widm-duchów
+[1168] 7. Funkcja prymitywnej religii
+[1169] 87. Kult duchów
+[1170] 1. Strach przed duchami
+[1171] 2. Przebłaganie duchów
+[1172] 3. Czczenie przodków
+[1173] 4. Dobre i złe duchy-widma
+[1174] 5. Zaawansowany kult duchów
+[1175] 6. Przymuszanie i egzorcyzm
+[1176] 7. Natura kultów
+[1177] 88. Fetysze, amulety i magia
+[1178] 1. Wiara w fetysze
+[1179] 2. Ewolucja fetysza
+[1180] Wizerunki i idole
+[1181] „Święte księgi”
+[1182] 3. Totemizm
+[1183] 4. Magia
+[1184] 5. Magiczne amulety
+[1185] 6. Praktykowanie magii
+[1186] 89. Grzech, ofiara i pokuta
+[1187] 1. Tabu
+[1188] 2. Koncepcja grzechu
+[1189] 3. Asceza i upokorzenie
+[1190] Kult wstrzemięźliwości
+[1191] 4. Początki ofiarowania
+[1192] 5. Ofiary i kanibalizm
+[1193] 6. Ewolucja ofiar ludzkich
+[1194] 7. Modyfikacje ofiar ludzkich
+[1195] Nierząd świątynny
+[1196] 8. Odkupienie i przymierza
+[1197] 9. Ofiarowania i sakramenty
+[1198] 10. Przebaczenie grzechu
+[1199] 90. Szamanizm — uzdrawiacze i kapłani
+[1200] 1. Pierwsi szamani — uzdrawiacze
+[1201] 2. Praktyki szamańskie
+[1202] 3. Teoria choroby i śmierci w szamanizmie
+[1203] 4. Medycyna według szamanów
+[1204] 5. Kapłani i rytuały
+[1205] 91. Ewolucja modlitwy
+[1206] 1. Prymitywna modlitwa
+[1207] 2. Rozwijająca się modlitwa
+[1208] Modlitwa kontra magia
+[1209] 3. Modlitwa i alter ego
+[1210] 4. Modlitwa etyczna
+[1211] 5. Społeczne reperkusje modlitwy
+[1212] 6. Domena modlitwy
+[1213] 7. Mistycyzm, ekstaza i natchnienie
+[1214] 8. Modlitwa jako doświadczenie osobiste
+[1215] 9. Warunki skutecznej modlitwy
+[1216] 92. Późniejsza ewolucja religii
+[1217] 1. Ewolucyjna natura religii
+[1218] 2. Religia a obyczaje
+[1219] 3. Natura religii ewolucyjnej
+[1220] 4. Dar objawienia
+[1221] (1) Nauki Dalamatii
+[1222] (2) Nauki Edenu
+[1223] (3) Melchizedek z Salemu
+[1224] (4) Jezus z Nazaretu
+[1225] (5) Przekazy Urantii
+[1226] 5. Wielcy przywódcy religijni
+[1227] 6. Religie złożone
+[1228] Jedenaście żywych religii
+[1229] 7. Dalsza ewolucja religii
+[1230] 93. Machiventa Melchizedek
+[1231] 1. Wcielenie Machiventy
+[1232] 2. Mędrzec z Salemu
+[1233] 3. Nauki Melchizedeka
+[1234] 4. Religia salemska
+[1235] Doktryna
+[1236] Siedem przykazań
+[1237] 5. Wybór Abrahama
+[1238] 6. Przymierze Melchizedeka z Abrahamem
+[1239] 7. Misjonarze Melchizedeka
+[1240] 8. Odejście Melchizedeka
+[1241] 9. Po odejściu Melchizedeka
+[1242] 10. Obecny status Machiventy Melchizedeka
+[1243] 94. Nauki Melchizedeka na Dalekim Wschodzie
+[1244] 1. Nauki salemskie w Indiach wedyjskich
+[1245] Rygweda
+[1246] 2. Braminizm
+[1247] Doktryna reinkarnacji
+[1248] 3. Filozofia bramińska
+[1249] 4. Religia hinduska
+[1250] 5. Walka o prawdę w Chinach
+[1251] 6. Lao-tsy i Konfucjusz
+[1252] 7. Gautama Siddhartha
+[1253] 8. Wiara buddyjska
+[1254] Ewangelia Gautamy
+[1255] Przykazania moralne
+[1256] 9. Szerzenie się buddyzmu
+[1257] 10. Religia w Tybecie
+[1258] 11. Filozofia buddyjska
+[1259] 12. Buddyjska koncepcja Boga
+[1260] 95. Nauki Melchizedeka na Bliskim Wschodzie
+[1261] 1. Religia salemska w Mezopotamii
+[1262] 2. Wczesna religia egipska
+[1263] 3. Ewolucja koncepcji moralnych
+[1264] 4. Nauki Amenemopa
+[1265] 5. Znakomity Echnaton
+[1266] 6. Doktryny salemskie w Iranie
+[1267] 7. Nauki salemskie w Arabii
+[1268] 96. Jahwe — Bóg Hebrajczyków
+[1269] 1. Koncepcje Bóstwa u Semitów
+[1270] 2. Ludy semickie
+[1271] 3. Niezrównany Mojżesz
+[1272] 4. Obwieszczenie Jahwe
+[1273] 5. Nauki Mojżesza
+[1274] Opatrzność materialna
+[1275] 6. Koncepcja Boga po śmierci Mojżesza
+[1276] 7. Psalmy i Księga Hioba
+[1277] 97. Ewolucja koncepcji Boga u Hebrajczyków
+[1278] 1. Samuel — pierwszy z proroków hebrajskich
+[1279] 2. Eliasz i Elizeusz
+[1280] 3. Jahwe i Baal
+[1281] 4. Amos i Ozeasz
+[1282] 5. Pierwszy Izajasz
+[1283] Micheasz i Abdiasz
+[1284] 6. Nieustraszony Jeremiasz
+[1285] 7. Drugi Izajasz
+[1286] 8. Historia święta i świecka
+[1287] 9. Historia hebrajska
+[1288] Efraim i Juda
+[1289] Saul i Dawid
+[1290] Salomon i podatki
+[1291] Izrael i Juda
+[1292] Zniszczenie Królestwa Izraela
+[1293] Koniec Królestwa Judy
+[1294] Niewola babilońska
+[1295] 10. Religia hebrajska
+[1296] 98. Nauki Melchizedeka na Zachodzie
+[1297] 1. Religia salemska u Greków
+[1298] 2. Grecka myśl filozoficzna
+[1299] 3. Nauki Melchizedeka w Rzymie
+[1300] 4. Kulty misteryjne
+[1301] Frygijski kult Kybele i jej syna Attisa
+[1302] Egipski kult Ozyrysa i jego matki Izis
+[1303] Irański kult Mitry
+[1304] 5. Kult Mitry
+[1305] 6. Mitraizm a chrześcijaństwo
+[1306] 7. Religia chrześcijańska
+[1307] 99. Społeczne problemy religii
+[1308] 1. Religia a przebudowa społeczna
+[1309] 2. Słabość religii instytucjonalnej
+[1310] 3. Religia a człowiek religijny
+[1311] 4. Trudności okresu przejściowego
+[1312] 5. Społeczne aspekty religii
+[1313] 6. Religia instytucjonalna
+[1314] 7. Zasługi religii
+[1315] 100. Religia w doświadczeniu ludzkim
+[1316] 1. Rozwój religijny
+[1317] 2. Rozwój duchowy
+[1318] 3. Koncepcje najwyższych wartości
+[1319] 4. Problemy rozwoju
+[1320] 5. Nawrócenie i mistycyzm
+[1321] 6. Cechy charakterystyczne życia religijnego
+[1322] 7. Kulminacja życia religijnego
+[1323] 101. Prawdziwa natura religii
+[1324] 1. Prawdziwa religia
+[1325] 2. Rzeczywistość religii
+[1326] 3. Cechy charakterystyczne religii
+[1327] Dwanaście przykładów wiary duchowej
+[1328] 4. Ograniczenia objawienia
+[1329] 5. Religia poszerzona przez objawienie
+[1330] 6. Progresywne doświadczenie religijne
+[1331] Siedem aspektów zbawienia
+[1332] 7. Osobista filozofia religii
+[1333] 8. Wiara a wierzenie
+[1334] 9. Religia a moralność
+[1335] 10. Religia jako wyzwoliciel człowieka
+[1336] 102. Podstawy wiary religijnej
+[1337] 1. Pewność jaką daje wiara
+[1338] 2. Religia a rzeczywistość
+[1339] 3. Wiedza, mądrość i wnikliwość
+[1340] 4. Fakt doświadczenia
+[1341] 5. Najwyższość celowego potencjału
+[1342] 6. Pewność wiary religijnej
+[1343] 7. Pewność tego, co Boskie
+[1344] 8. Dowody religii
+[1345] 103. Rzeczywistość doświadczenia religijnego
+[1346] 1. Filozofia religii
+[1347] 2. Religia a jednostka
+[1348] 3. Religia a gatunek ludzki
+[1349] 4. Komunia duchowa
+[1350] 5. Pochodzenie ideałów
+[1351] 6. Koordynacja filozoficzna
+[1352] 7. Nauka a religia
+[1353] 8. Filozofia a religia
+[1354] 9. Istota religii
+[1355] 104. Rozwój koncepcji Trójcy
+[1356] 1. Urantiańskie koncepcje Trójcy
+[1357] 2. Jedność Trójcy a wielorakość Bóstwa
+[1358] 3. Trójce i trójjedności
+[1359] 4. Siedem trójjedności
+[1360] 5. Triodyty
+[1361] 105. Bóstwo a rzeczywistość
+[1362] 1. Filozoficzna koncepcja JESTEM
+[1363] 2. JESTEM jako trójjeden i jako siedmioraki
+[1364] 3. Siedem Absolutów Nieskończoności
+[1365] 4. Jedność, dualizm i trójjedność
+[1366] 5. Pojawienie się rzeczywistości skończonej
+[1367] 6. Reperkusje rzeczywistości skończonej
+[1368] 7. Wynikanie istot transcendentalnych
+[1369] 106. Wszechświatowe poziomy rzeczywistości
+[1370] 1. Pierwszy związek funkcjonalności skończonych
+[1371] Bóg Siedmioraki
+[1372] 2. Druga najwyższa integracja skończonego
+[1373] Istota Najwyższa
+[1374] 3. Transcendentalny trzeci związek rzeczywistości
+[1375] Trójca Ostateczna
+[1376] 4. Ostateczna czwarta integracja
+[1377] Bóstwo Ostateczne
+[1378] 5. Związek współabsolutny albo piątego stadium
+[1379] Trójca Absolutna
+[1380] 6. Absolutne albo szóste stadium integracji
+[1381] Kosmos nieskończony
+[1382] 7. Finalizm przeznaczenia
+[1383] 8. Trójca Trójc
+[1384] (1) Poziom trzech Trójc
+[1385] (2) Poziom Bóstwa empirycznego
+[1386] (3) Poziom JESTEM
+[1387] 9. Egzystencjalne, nieskończone zjednoczenie
+[1388] 107. Pochodzenie i natura Dostrajaczy Myśli
+[1389] 1. Pochodzenie Dostrajaczy Myśli
+[1390] 2. Klasyfikacja Dostrajaczy
+[1391] 3. Divinington — ojczyzna Dostrajaczy
+[1392] 4. Natura i indywidualność Dostrajaczy
+[1393] 5. Umysłowość Dostrajacza
+[1394] 6. Dostrajacze jako czyste duchy
+[1395] 7. Dostrajacze a osobowość
+[1396] 108. Misja i służba Dostrajaczy Myśli
+[1397] 1. Wybór i przydział
+[1398] 2. Warunki wstępne zamieszkania przez Dostrajacza
+[1399] Na Urantii
+[1400] Na innych światach
+[1401] 3. Organizacja i administracja
+[1402] Oświadczenie Tabamantii
+[1403] 4. Powiązania z innymi wpływami duchowymi
+[1404] 5. Misja Dostrajaczy
+[1405] 6. Bóg w człowieku
+[1406] 109. Związki między Dostrajaczami a istotami wszechświatowymi
+[1407] 1. Rozwój Dostrajaczy
+[1408] 2. Samodzielne Dostrajacze
+[1409] 3. Związek Dostrajaczy z różnymi rodzajami śmiertelników
+[1410] 4. Dostrajacze a osobowość ludzka
+[1411] 5. Materialne przeszkody uniemożliwiające zamieszkanie Dostrajacza
+[1412] 6. Trwałość prawdziwych wartości
+[1413] Dostrajacz, który zamieszkiwał Jezusa
+[1414] 7. Przeznaczenie Uosobionych Dostrajaczy
+[1415] Istoty wszechosobowe
+[1416] 110. Związki miedzy Dostrajaczami a indywidualnymi śmiertelnikami
+[1417] 1. Zamieszkanie w umyśle śmiertelnika
+[1418] 2. Dostrajacze a wola ludzka
+[1419] 3. Współpraca z Dostrajaczem
+[1420] 4. Działalność Dostrajacza w umyśle
+[1421] 5. Błędne koncepcje o przewodnictwie Dostrajaczy
+[1422] 6. Siedem okręgów psychicznych
+[1423] 7. Zdobywanie nieśmiertelności
+[1424] Orędzie Dostrajacza do duszy
+[1425] 111. Dostrajacz a dusza
+[1426] 1. Umysł jako arena wyboru
+[1427] 2. Natura duszy
+[1428] 3. Rozwijająca się dusza
+[1429] 4. Życie wewnętrzne
+[1430] 5. Uświęcenie wyboru
+[1431] 6. Paradoks ludzki
+[1432] 7. Problem Dostrajacza
+[1433] Oświadczenie opiekuna przeznaczenia
+[1434] 112. Wieczne trwanie osobowości
+[1435] Czternaście aspektów osobowości
+[1436] 1. Osobowość a rzeczywistość
+[1437] 2. Jaźń
+[1438] 3. Zjawisko śmierci
+[1439] 4. Dostrajacze po śmierci
+[1440] 5. Wieczne trwanie ludzkiej jaźni
+[1441] 6. Jaźń morontialna
+[1442] 7. Zespolenie z Dostrajaczem
+[1443] 113. Seraficzni opiekunowie przeznaczenia
+[1444] 1. Anioły stróże 
+[1445] 2. Opiekunowie przeznaczenia
+[1446] 3. Związki z innymi wpływami duchowymi
+[1447] 4. Domeny działalności seraficznej
+[1448] 5. Seraficzna służba dla śmiertelników
+[1449] 6. Anioły stróże po śmierci
+[1450] 7. Serafini a droga wznoszenia się
+[1451] 114. Seraficzny rząd planetarny
+[1452] 1. Najwyższe władze Urantii
+[1453] 2. Rada nadzorców planetarnych
+[1454] 3. Rezydujący gubernator generalny
+[1455] 4. Najwyższy Ojciec-obserwator
+[1456] Regencje Najwyższych Ojców
+[1457] 5. Rząd planetarny
+[1458] 6. Wyżsi serafini nadzoru planetarnego
+[1459] (1) Aniołowie epokowi
+[1460] (2) Aniołowie postępu
+[1461] (3) Opiekunowie religijni
+[1462] (4) Aniołowie życia narodowego
+[1463] (5) Aniołowie ras
+[1464] (6) Aniołowie przyszłości
+[1465] (7) Aniołowie oświecenia
+[1466] (8) Aniołowie zdrowia
+[1467] (9) Serafini rodziny
+[1468] (10) Aniołowie gospodarki
+[1469] (11) Aniołowie rozrywki
+[1470] (12) Aniołowie służb nadludzkich
+[1471] 7. Rezerwowy korpus przeznaczenia
+[1472] 115. Istota Najwyższa
+[1473] 1. Relatywność ram pojęciowych
+[1474] 2. Absolutna podstawa najwyższości
+[1475] 3. Pierwotne, aktualne i potencjalne
+[1476] 4. Źródła rzeczywistości najwyższej
+[1477] 5. Związek Najwyższego z Rajską Trójcą
+[1478] 6. Związek Najwyższego z triodytami
+[1479] 7. Natura Najwyższego
+[1480] 116. Wszechmocny Najwyższy
+[1481] 1. Najwyższy Umysł
+[1482] Kosmiczny umysł
+[1483] 2. Wszechmocny a Bóg Siedmioraki
+[1484] 3. Wszechmocny a Rajskie Bóstwo
+[1485] 4. Wszechmocny a Najwyżsi Stwórcy
+[1486] 5. Wszechmocny a siedmioracy kontrolerzy
+[1487] Problem równowagi
+[1488] 6. Dominacja ducha
+[1489] 7. Żywy organizm wielkiego wszechświata
+[1490] 117. Bóg Najwyższy
+[1491] 1. Natura Istoty Najwyższej
+[1492] 2. Źródło rozwoju ewolucyjnego
+[1493] Synowie utrójcowieni przez stworzonych a rozwój
+[1494] 3. Znaczenie Najwyższego dla wszechświatowych istot stworzonych
+[1495] 4. Skończony Bóg
+[1496] Kosmiczna moralność — najwyższy obowiązek
+[1497] 5. Naddusza stworzenia
+[1498] Transcendentacja finalisty
+[1499] Reperkusje rozwoju ludzkiego
+[1500] 6. Poszukiwanie Najwyższego
+[1501] 7. Przyszłość Najwyższego
+[1502] 118. Najwyższy i Ostateczny — czas i przestrzeń
+[1503] 1. Czas i wieczność
+[1504] Empiryczne (subiektywne) jednostki czasu
+[1505] 2. Wszechobecność a wszechbytność
+[1506] 3. Związki czasowo-przestrzenne
+[1507] Prawda i fakt
+[1508] Przestrzeń i forma
+[1509] 4. Przyczynowość pierwotna i wtórna
+[1510] 5. Wszechmoc a możliwości koegzystencji
+[1511] 6. Wszechmoc a wszechtworzenie
+[1512] 7. Wszechwiedza a predestynacja
+[1513] 8. Kontrola i kontrola nadrzędna
+[1514] Czasowy regulator rozwoju
+[1515] 9. Mechanizmy wszechświata
+[1516] 10. Funkcje opatrzności
+[1517] 119. Obdarzenia dokonane przez Chrystusa Michała
+[1518] 1. Pierwsze obdarzenie
+[1519] 2. Drugie obdarzenie
+[1520] 3. Trzecie obdarzenie
+[1521] 4. Czwarte obdarzenie
+[1522] 5. Piąte obdarzenie
+[1523] 6. Szóste obdarzenie
+[1524] 7. Siódme i ostatnie obdarzenie
+[1525] 8. Postobdarzeniowy status Michała
+[1526] CZĘŚĆ IV.
+[1527] Życie i nauki Jezusa
+[1528] 120. Obdarzenie Urantii przez Michała
+[1529] 1. Zalecenia dla siódmego obdarzenia
+[1530] 2. Ograniczenia obdarzenia
+[1531] 3. Dalsze rady i wskazówki
+[1532] 4. Wcielenie — uczynienie z dwu jedności
+[1533] 121. Czas, kiedy Michał obdarzał Urantię
+[1534] 1. Zachód w pierwszym wieku ery chrystusowej
+[1535] 2. Naród żydowski
+[1536] 3. Świat innowierców
+[1537] 4. Filozofia innowierców
+[1538] (1) Epikurejska
+[1539] (2) Stoicy
+[1540] (3) Cynicy
+[1541] (4) Sceptycy
+[1542] 5. Religie innowierców
+[1543] Religie misteryjne
+[1544] 6. Religia hebrajska
+[1545] 7. Żydzi i innowiercy
+[1546] 8. Poprzednie zapisy
+[1547] (1) Ewangelia według Marka
+[1548] (2) Ewangelia Mateusza
+[1549] (3) Ewangelia według Łukasza
+[1550] (4) Ewangelia Jana
+[1551] Objaśnienie
+[1552] 122. Narodziny i lata niemowlęce Jezusa
+[1553] 1. Józef i Maria
+[1554] 2. Gabriel ukazuje się Elżbiecie
+[1555] 3. Zwiastowanie Gabriela dla Marii
+[1556] 4. Sen Józefa
+[1557] „Dom Dawida”
+[1558] 5. Ziemscy rodzice Jezusa
+[1559] 6. Dom w Nazarecie
+[1560] 7. Podróż do Betlejem
+[1561] 8. Narodziny Jezusa
+[1562] Legenda o pasterzach
+[1563] Trzech kapłanów z Ur
+[1564] „Gwiazda Betlejemska”
+[1565] 9. Prezentacja w Świątyni
+[1566] 10. Czyny Heroda
+[1567] Ucieczka do Egiptu
+[1568] 123. Wczesne dzieciństwo Jezusa
+[1569] Pobyt w Egipcie
+[1570] 1. Znowu w Nazarecie
+[1571] Czwarty rok Jezusa
+[1572] 2. Piąty rok (2 p.n.e.)
+[1573] Wychowanie dzieci
+[1574] 3. Wydarzenia roku szóstego (1 p.n.e.)
+[1575] 4. Rok siódmy (1 n.e.)
+[1576] Wypadki materialne
+[1577] 5. Szkolne lata w Nazarecie
+[1578] 6. Jego ósmy rok (2 n.e.)
+[1579] 124. Późne dzieciństwo Jezusa
+[1580] 1. Dziewiąty rok życia Jezusa (3 n.e.)
+[1581] Rysunek na podłodze
+[1582] Klimat Galilei
+[1583] 2. Rok dziesiąty (4 n.e.)
+[1584] Jakub syn kamieniarza
+[1585] 3. Rok jedenasty (5 n.e.)
+[1586] W Scytopolis
+[1587] 4. Rok dwunasty (6 n.e.)
+[1588] Moralność osobista a lojalność grupowa
+[1589] 5. Jego rok trzynasty (7 n.e.)
+[1590] 6. W drodze do Jerozolimy
+[1591] Maria, Marta i Łazarz
+[1592] 125. Jezus w Jerozolimie
+[1593] 1. Jezus ogląda Świątynię
+[1594] 2. Jezus i Pascha
+[1595] 3. Wyruszenie w drogę Józefa i Marii
+[1596] 4. Pierwsze dwa dni w Świątyni
+[1597] 5. Trzeci dzień w Świątyni
+[1598] 6. Czwarty dzień w Świątyni
+[1599] 126. Dwa przełomowe lata
+[1600] 1. Jego rok czternasty (8 n.e.)
+[1601] 2. Śmierć Józefa
+[1602] 3. Rok piętnasty (9 n.e.)
+[1603] „Powstanie „Modlitwy Pańskiej”
+[1604] „Syn Człowieczy”
+[1605] Kim jest Mesjasz?
+[1606] 4. Pierwsze kazanie w synagodze
+[1607] 5. Kłopoty finansowe
+[1608] 127. Lata młodzieńcze
+[1609] 1. Rok szesnasty (10 n.e.)
+[1610] 2. Rok siedemnasty (11 n.e.)
+[1611] Zeloci
+[1612] 3. Rok osiemnasty (12 n.e.)
+[1613] Pascha z Jakubem
+[1614] Odwiedziny Elżbiety i Jana
+[1615] Śmierć Amosa
+[1616] 4. Rok dziewiętnasty (13 n.e.)
+[1617] Wychowywanie dzieci
+[1618] 5. Rebeka córka Ezry
+[1619] 6. Jego rok dwudziesty (14 n.e.)
+[1620] Pascha w Jerozolimie
+[1621] 128. Wczesny wiek męski Jezusa
+[1622] 1. Rok dwudziesty pierwszy (15 n.e.)
+[1623] Narastająca świadomość boskości
+[1624] Pascha z Józefem
+[1625] 2. Rok dwudziesty drugi (16 n.e.)
+[1626] Jako kowal w Seforis
+[1627] 3. Rok dwudziesty trzeci (17 n.e.)
+[1628] Pascha z Szymonem
+[1629] Jezus spotyka Szczepana
+[1630] 4. Epizod damasceński
+[1631] 5. Rok dwudziesty czwarty (18 n.e.)
+[1632] Propozycja z Aleksandrii
+[1633] 6. Rok dwudziesty piąty (19 n.e.)
+[1634] Pascha z Judą
+[1635] „Wujku Jeszua opowiedz nam bajkę”
+[1636] 7. Rok dwudziesty szósty (20 n.e.)
+[1637] Ślub Jakuba
+[1638] Ślub Miriam
+[1639] Jakub głową rodziny Józefa
+[1640] 129. Jezus jako człowiek dorosły
+[1641] 1. Rok dwudziesty siódmy (21 n.e.)
+[1642] Zebedeusz z Kafarnaum
+[1643] Jezus szkutnik
+[1644] 2. Rok dwudziesty ósmy (22 n.e.)
+[1645] Jezus w Jerozolimie
+[1646] Spotkanie z Gonodem i Ganidem
+[1647] 3. Rok dwudziesty dziewiąty (23 n.e.)
+[1648] Cel podróży do Rzymu
+[1649] 4. Jezus-człowiek
+[1650] 130. W drodze do Rzymu
+[1651] 1. W Jafie — rozprawa o Jonaszu
+[1652] Rozprawa na temat dobra i zła
+[1653] 2. W Cezarei
+[1654] Kupiec z Mongolii
+[1655] Grecki robotnik i rzymski brygadzista
+[1656] Wola Boska i wola ludzka
+[1657] 3. W Aleksandrii
+[1658] 4. Rozprawa o rzeczywistości
+[1659] 5. Na wyspie Krecie
+[1660] 6. Zdjęty strachem młodzieniec
+[1661] 7. W Kartaginie — rozprawa o czasie i przestrzeni
+[1662] 8. W drodze do Neapolu i Rzymu
+[1663] Ezra, błądzący Żyd
+[1664] 131. Religie świata
+[1665] 1. Cynizm
+[1666] 2. Judaizm
+[1667] 3. Buddyzm
+[1668] 4. Hinduizm
+[1669] 5. Zoroastryzm
+[1670] 6. Sudanizm (Dżinizm)
+[1671] 7. Sinto
+[1672] 8. Taoizm
+[1673] 9. Konfucjanizm
+[1674] 10. „Nasza religia”
+[1675] 132. W Rzymie
+[1676] Wpływ na trzydziestu dwu przywódców religijnych
+[1677] 1. Prawdziwe wartości
+[1678] 2. Dobro i zło
+[1679] 3. Prawda i wiara
+[1680] 4. Służba indywidualna
+[1681] Dla rzymskiego senatora
+[1682] Dla żołnierza rzymskiego
+[1683] Dla mówcy na forum
+[1684] Dla biedaka, niesprawiedliwie oskarżonego
+[1685] 5. Porady dla bogatego
+[1686] 6. Służba społeczna
+[1687] 7. Wycieczki po okolicach Rzymu
+[1688] Bezmyślny poganin
+[1689] „Ty i ja, zróbmy nową religię”
+[1690] 133. Powrót z Rzymu
+[1691] System kastowy Indii
+[1692] 1. Miłosierdzie i sprawiedliwość
+[1693] 2. Zaokrętowanie w Tarencie
+[1694] Człowiek znęcający się nad swą żoną
+[1695] 3. W Koryncie
+[1696] Krispus, zarządca synagogi
+[1697] Kupiec Justus
+[1698] Dwie kobiety publiczne
+[1699] 4. Działalność indywidualna w Koryncie
+[1700] Dla młynarza
+[1701] Dla rzymskiego setnika
+[1702] Dla mitraickiego przywódcy
+[1703] Dla epikurejskiego nauczyciela
+[1704] Dla greckiego przedsiębiorcy
+[1705] Dla rzymskiego sędziego
+[1706] Dla właścicielki greckiego zajazdu
+[1707] Dla chińskiego kupca
+[1708] Dla podróżnika z Brytanii
+[1709] Dla zbiegłego chłopca
+[1710] Dla potępionego kryminalisty
+[1711] 5. W Atenach — rozprawa o nauce
+[1712] 6. W Efezie — rozprawa o duszy
+[1713] 7. Pobyt na Cyprze — rozprawa o umyśle
+[1714] 8. W Antiochii
+[1715] 9. W Mezopotamii
+[1716] 134. Lata przejściowe
+[1717] 1. Rok trzydziesty (24 n.e.)
+[1718] Powrót do Nazaretu
+[1719] Ślub Szymona; ślub Judy
+[1720] 2. Podróż karawaną do Morza Kaspijskiego
+[1721] 3. Wykłady w Urmii
+[1722] 4. Władza — Boska i ludzka
+[1723] 5. Suwerenność polityczna
+[1724] 6. Prawo, wolność i suwerenność
+[1725] 7. Rok trzydziesty pierwszy (25 n.e.)
+[1726] Samotne wędrówki
+[1727] 8. Pobyt na górze Hermon
+[1728] Koniec buntu Lucyfera
+[1729] Władza nad Nebadonem
+[1730] 9. Czas oczekiwania
+[1731] W Jerozolimie z Janem
+[1732] Praca w warsztacie szkutniczym Zebedeusza
+[1733] 135. Jan Chrzciciel
+[1734] 1. Jan zostaje nazirejczykiem
+[1735] 2. Śmierć Zachariasza
+[1736] 3. Życie pasterza
+[1737] 4. Śmierć Elżbiety
+[1738] 5. Królestwo Boże
+[1739] 6. Jan zaczyna głosić kazania
+[1740] 7. Jan idzie na północ
+[1741] 8. Spotkanie Jana z Jezusem
+[1742] Chrzest Jezusa
+[1743] 9. Czterdzieści dni uzgodnień
+[1744] 10. Podróż Jana na południe
+[1745] 11. Jan w więzieniu
+[1746] 12. Śmierć Jana Chrzciciela
+[1747] 136. Chrzest i czterdzieści dni
+[1748] 1. Idee oczekiwanego Mesjasza
+[1749] 2. Chrzest Jezusa
+[1750] 3. Czterdzieści dni
+[1751] Spotkanie z Gabrielem
+[1752] Potwierdzenie władzy nad wszechświatem
+[1753] 4. Plany pracy publicznej
+[1754] Droga Ojca
+[1755] 5. Pierwsza wielka decyzja
+[1756] Uosobiony Dostrajacz dowódcą
+[1757] Dostrajacz niewrażliwy na czas
+[1758] 6. Druga decyzja
+[1759] Droga normalnej, ziemskiej egzystencji
+[1760] 7. Trzecia decyzja
+[1761] Podporządkowanie się prawom przyrody
+[1762] 8. Czwarta decyzja
+[1763] Bez kompromisu ze złem
+[1764] 9. Piąta decyzja
+[1765] Odrzucenie tronu Dawida
+[1766] 10. Szósta decyzja
+[1767] „Będę podległy woli mego Ojca”
+[1768] 137. Czas oczekiwania w Galilei
+[1769] 1. Wybór pierwszych czterech apostołów
+[1770] Andrzej i Piotr
+[1771] Jakub i Jan
+[1772] 2. Wybór Filipa i Nataniela
+[1773] 3. Pobyt w Kafarnaum
+[1774] 4. Wesele w Kanie
+[1775] 5. Znowu z Kafarnaum
+[1776] 6. Wydarzenia dnia szabatu
+[1777] 7. Cztery miesiące szkolenia
+[1778] 8. Rozprawa o królestwie
+[1779] 138. Nauczanie posłańców królestwa
+[1780] 1. Końcowe pouczenia
+[1781] 2. Wybór sześciu
+[1782] 3. Powołanie Mateusza i Szymona
+[1783] Nie prawych, ale grzeszników
+[1784] 4. Powołanie bliźniaków
+[1785] 5. Powołanie Tomasza i Judasza
+[1786] 6. Tydzień intensywnej nauki
+[1787] 7. Nowe rozczarowanie
+[1788] 8. Pierwsza praca dwunastu
+[1789] 9. Pięć miesięcy prób
+[1790] 10. Organizacja Dwunastu
+[1791] 139. Dwunastu apostołów
+[1792] 1. Andrzej, pierwszy wybrany
+[1793] 2. Szymon Piotr
+[1794] 3. Jakub Zebedeusz
+[1795] 4. Jan Zebedeusz
+[1796] 5. Filip Ciekawy
+[1797] 6. Uczciwy Nataniel
+[1798] 7. Mateusz Lewi
+[1799] 8. Tomasz Didymos
+[1800] 9. i 10. Jakub i Judasz Alfeusz
+[1801] 11. Szymon Zelota
+[1802] 12. Judasz Iskariota
+[1803] 140. Wyświęcenie Dwunastu
+[1804] 1. Nauczanie wstępne
+[1805] 2. Wyświęcenie
+[1806] 3. Kazanie wyświęcające
+[1807] „Kazanie na Górze”
+[1808] 4. Jesteście solą ziemi
+[1809] 5. Ojcowska i braterska miłość
+[1810] Szczęśliwi ubodzy w duchu — pokorni...
+[1811] Szczęśliwi głodni i spragnieni prawości...
+[1812] Szczęśliwi pokorni...
+[1813] Szczęśliwi czystego serca...
+[1814] Szczęśliwi, którzy lamentują...
+[1815] Szczęśliwi miłosierni...
+[1816] Szczęśliwi, którzy czynią pokój...
+[1817] Szczęśliwi, którzy prześladowani są...
+[1818] 6. Wieczór wyświęcenia
+[1819] „Patrzę ponad czynem...”
+[1820] Odnośnie rozwodu
+[1821] Sprawiedliwość a miłosierdzie
+[1822] „Oni dobrze robią — nie kłopocz ich”
+[1823] 7. Tydzień po wyświęceniu
+[1824] 8. Czwartkowe popołudnie na jeziorze
+[1825] (1) Czynienie woli Ojca
+[1826] (2) Stanowisko polityczne
+[1827] (3) Stanowisko społeczne
+[1828] (4) Stanowisko ekonomiczne
+[1829] (5) Religia osobista
+[1830] 9. Dzień konsekracji
+[1831] 10. Wieczór po konsekracji
+[1832] 141. Początek działalności publicznej
+[1833] 1. Wyruszenie z Galilei
+[1834] 2. Boskie prawo i wola Ojca
+[1835] 3. Pobyt w Amatus
+[1836] Osobowość Jezusa
+[1837] Wygląd Jezusa
+[1838] 4. Nauka o Ojcu
+[1839] Służenie chorym
+[1840] 5. Jedność duchowa
+[1841] 6. Ostatni dzień w Amatus
+[1842] Pers Teherma
+[1843] 7. W Betanii za Jordanem
+[1844] Nauczanie o królestwie
+[1845] Zbawienie przez wiarę; wyzwolenie przez prawdę
+[1846] 8. Praca w Jerychu
+[1847] 9. Droga do Jerozolimy
+[1848] 142. Pascha w Jerozolimie
+[1849] Spotkanie z Annaszem
+[1850] 1. Nauczanie w Świątyni
+[1851] 2. Gniew Boży
+[1852] Jakub z Krety
+[1853] 3. Idea Boga
+[1854] Sześć hebrajskich idei Boga
+[1855] Dziesięć wcześniejszych przykazań
+[1856] 4. Flawiusz i kultura grecka
+[1857] 5. Rozprawa o pewności
+[1858] 6. Spotkanie z Nikodemem
+[1859] 7. Lekcja o rodzinie
+[1860] 8. W Judei południowej
+[1861] Obóz w ogrodzie Getsemane
+[1862] 143. Po Samarii
+[1863] 1. Głoszenie kazań w Archelais
+[1864] „Lekceważą nasze posłanie”
+[1865] „Czy przypominacie słabeuszy”?
+[1866] 2. Lekcja samokontroli
+[1867] 3. Rozrywka i odpoczynek
+[1868] Trzy dni na górze Sartaba
+[1869] 4. Żydzi i Samarytanie
+[1870] 5. Kobieta z Sychar
+[1871] 6. Odrodzenie religijne Samarytan
+[1872] W obozie na górze Garizim
+[1873] 7. Nauka o modlitwie i czczeniu
+[1874] 144. Na Gilboa i w Dekapolu
+[1875] 1. Obozowisko na Gilboa
+[1876] 2. Rozprawa o modlitwie
+[1877] 3. Modlitwa wierzącego
+[1878] 4. Jeszcze o modlitwie
+[1879] 5. Inne formy modlitwy
+[1880] Siedem modlitw z innych światów
+[1881] 6. Narada z apostołami Jana
+[1882] 7. W miastach Dekapolu
+[1883] 8. W obozie niedaleko Pelli
+[1884] „...powiedzcie Janowi, że nie zapomniano o nim.”
+[1885] 9. Śmierć Jana Chrzciciela
+[1886] 145. Cztery pamiętne dni w Kafarnaum
+[1887] Spotkanie z Ruth
+[1888] 1. Połów ryb
+[1889] 2. Popołudnie w synagodze
+[1890] Religia jest doświadczeniem osobistym
+[1891] Młody epileptyk
+[1892] Matka żony Piotra
+[1893] 3. Uzdrowienie o zachodzie słońca
+[1894] 4. Wieczorem
+[1895] 5. Wczesny niedzielny poranek
+[1896] 146. Pierwsza tura głoszenia kazań w Galilei
+[1897] 1. Nauczanie w Rimmonie
+[1898] 2. W Jotapacie
+[1899] Modlitwa, dziękczynienie i czczenie
+[1900] Sprawiedliwość i miłosierdzie
+[1901] Modlitwa a osobiste starania
+[1902] Modlitwa etyczna
+[1903] 3. Postój w Haramie
+[1904] Religia, nauka i filozofia
+[1905] Pewność prawdy
+[1906] Wizyta w Zabulon
+[1907] 4. Głoszenie ewangelii w Jireon
+[1908] Praca w kopalniach
+[1909] Uzdrowienie trędowatego
+[1910] 5. Znowu w Kanie
+[1911] Arystokrata Tytus
+[1912] 6. Nain i syn wdowy
+[1913] 7. W Endorze
+[1914] 147. Krótka wizyta w Jerozolimie
+[1915] 1. Służący setnika
+[1916] 2. W drodze do Jerozolimy
+[1917] Rozstanie z apostołami Jana
+[1918] 3. Przy sadzawce Betesda
+[1919] 4. Zasady życia
+[1920] Pytanie Nataniela w sprawie złotej zasady
+[1921] 5. Odwiedziny u Szymona faryzeusza
+[1922] Przypowieść o lichwiarzu
+[1923] Status i postęp
+[1924] 6. Powrót do Kafarnaum
+[1925] Sześciu szpiegów
+[1926] „Szabat został ustanowiony dla człowieka...”
+[1927] 7. Znowu w Kafarnaum
+[1928] 8. Święto duchowej dobroci
+[1929] 148. Nauczanie ewangelistów w Betsaidzie
+[1930] 1. Nowa szkoła proroków
+[1931] 2. Szpital w Betsaidzie
+[1932] 3. Sprawy Ojca
+[1933] 4. Zło, grzech i nikczemność
+[1934] 5. Sens cierpienia
+[1935] 6. Niezrozumienie cierpienia — rozprawa o Hiobie
+[1936] 7. Człowiek z uschniętą ręką
+[1937] 8. Ostatni tydzień w Betsaidzie
+[1938] Kirmet z Bagdadu
+[1939] 9. Uzdrowienie paralityka
+[1940] Chrzest trzech szpiegów
+[1941] 149. Druga tura głoszenia kazań
+[1942] Dawidowa organizacja gromadzenie informacji
+[1943] 1. Szerząca się sława Jezusa
+[1944] Fenomeny uzdrawiania
+[1945] 2. Nastawienie ludzi
+[1946] Dwa błędy wczesnego chrześcijaństwa
+[1947] Sława Jezusa jako uzdrowiciela
+[1948] Uznanie równouprawnienia kobiet przez Jezusa
+[1949] Urok osobowości Jezusa
+[1950] 3. Wrogość przywódców religijnych
+[1951] 4. Przebieg tury kazań
+[1952] Rozważania o gniewie
+[1953] W sprawie zrównoważonego charakteru
+[1954] 5. Nauka o zadowoleniu
+[1955] 6. „Bojaźń Pańska”
+[1956] 7. Powrót do Betsaidy
+[1957] 150. Trzecia tura głoszenia kazań
+[1958] 1. Kobieca grupa ewangeliczna
+[1959] 2. Postój w Magdali
+[1960] 3. Szabat w Tyberiadzie
+[1961] Rozważania „Magia i przesąd”
+[1962] 4. Rozesłanie apostołów parami
+[1963] 5. Co muszę zrobić, aby być zbawiony(a)?
+[1964] 6. Lekcje wieczorne
+[1965] 7. Pobyt w Nazarecie
+[1966] 8. Szabatowe nabożeństwo
+[1967] 9. Odrzucenie w Nazarecie
+[1968] 151. Czas oczekiwania i nauczanie nad morzem
+[1969] 1. Przypowieść o siewcy
+[1970] 2. Interpretacja przypowieści
+[1971] 3. Więcej o przypowieściach
+[1972] 4. Więcej przypowieści nad morzem
+[1973] 5. Pobyt w Gergezie
+[1974] Burza na jeziorze
+[1975] 6. Opętany z Gergezy
+[1976] 152. Wydarzenia prowadzące do kryzysu w Kafarnaum
+[1977] Weronika z Cezarei Filipowej
+[1978] 1. W domu Jaira
+[1979] 2. Nakarmienie pięciu tysięcy
+[1980] 3. Obwołanie królem
+[1981] 4. Nocne widzenie Szymona Piotra
+[1982] 5. Powrót do Betsaidy
+[1983] 6. W Genezaret
+[1984] Więcej o przypowieści o siewcy
+[1985] 7. W Jerozolimie
+[1986] 153. Kryzys w Kafarnaum
+[1987] 1. Tło wydarzeń
+[1988] 2. Epokowe kazanie
+[1989] „Jestem chlebem życia”
+[1990] 3. Zakończenie spotkania
+[1991] 4. Ostatnie słowa w synagodze
+[1992] Młodzieniec opętany przez złego ducha
+[1993] „Jak Szatan może wyrzucać Szatana”?
+[1994] 5. Sobotni wieczór
+[1995] Dezercja małodusznych wyznawców
+[1996] 154. Ostatnie dni w Kafarnaum
+[1997] 1. Tydzień narad
+[1998] 2. Tydzień odpoczynku
+[1999] Zamknięcie synagog
+[2000] 3. Druga narada w Tyberiadzie
+[2001] 4. Sobotni wieczór w Kafarnaum
+[2002] „Co mamy zrobić z Jezusem”?
+[2003] 5. Pamiętny niedzielny poranek
+[2004] 6. Przybycie rodziny Jezusa
+[2005] 7. Pospieszna ucieczka
+[2006] 155. Ucieczka przez północną Galileę
+[2007] 1. Dlaczego burzą się poganie?
+[2008] 2. Ewangeliści w Korazin
+[2009] 3. W Cezarei Filipowej
+[2010] Prawda i doktryna
+[2011] Początki tradycji religijnych
+[2012] 4. W drodze do Fenicji
+[2013] 5. Rozprawa o prawdziwej religii
+[2014] 6. Druga rozprawa o religii
+[2015] 156. Pobyt w Tyrze i Sydonie
+[2016] 1. Syryjska kobieta
+[2017] 2. Nauczanie w Sydonie
+[2018] „Ten świat jest tylko mostem...”
+[2019] 3. Wybrzeżem na północ
+[2020] 4. W Tyrze
+[2021] 5. Nauki Jezusa w Tyrze
+[2022] Przypowieść o nierozsądnym cieśli
+[2023] Pokusa i ludzka natura
+[2024] Podstawy materialnego sukcesu
+[2025] Życie duchowe i poczucie własnej godności
+[2026] Ideały i idee
+[2027] Takt, urok osobisty i mądrość
+[2028] 6. Powrót z Fenicji
+[2029] Nastawienie przywódców żydowskich
+[2030] 157. W Cezarei Filipowej
+[2031] Próby spotkania Jezusa z rodziną
+[2032] 1. Poborca podatków świątynnych
+[2033] „Ryba z szeklem w pyszczku”
+[2034] 2. W Betsaidzie Juliusza
+[2035] 3. Wyznanie Piotra
+[2036] „Za kogo ludzie mnie uważają”?
+[2037] 4. Rozmowa o królestwie
+[2038] 5. Nowa koncepcja
+[2039] 6. Następnego popołudnia
+[2040] Czwarty etap życia Jezusa
+[2041] Nowe, autorytatywne oświadczenia
+[2042] 7. Rozmowy Andrzeja
+[2043] 158. Góra Przemienienia
+[2044] 1. Przemienienie
+[2045] 2. Zejście z góry
+[2046] 3. Znaczenie przemienienia
+[2047] 4. Chłopiec epileptyk
+[2048] Jakub z Safedu
+[2049] 5. Jezus uzdrawia chłopca
+[2050] „Panie, wierzę...pomóż mojemu niedowiarstwu”
+[2051] 6. W ogrodzie Celsusa
+[2052] 7. Protest Piotra
+[2053] 8. W domu Piotra
+[2054] 159. Tura po Dekapolu
+[2055] 1. Rozprawa o przebaczaniu
+[2056] „Ile razy mam przebaczyć, jeśli mój brat zgrzeszy”?
+[2057] Przypowieść o rozliczaniu się ze sługami
+[2058] Niebezpieczeństwa osobistego osądzania
+[2059] 2. Obcy kaznodzieja
+[2060] 3. Instrukcja dla nauczycieli i wierzących
+[2061] 4. Rozmowa z Natanielem
+[2062] „Jaka jest prawda o Piśmie Świętym”?
+[2063] 5. Konstruktywny charakter religii Jezusa
+[2064] „...nieść pakunek drugą milę”
+[2065] 6. Powrót do Magedanu
+[2066] 160. Rodan z Aleksandrii
+[2067] 1. Grecka filozofia Rodana
+[2068] Trzy czynniki napędzające życie
+[2069] Rozwiązywanie problemów i pełne czci medytacje
+[2070] Uprzedzenie a poznawanie prawdy
+[2071] 2. Sztuka życia
+[2072] Uspołeczniające wartości przyjaźni
+[2073] Wielka wartość małżeństwa
+[2074] 3. Pokusy dojrzałości
+[2075] 4. Równowaga dojrzałości
+[2076] Podstawowe czynniki życia doczesnego
+[2077] Czynniki powodzenia materialnego
+[2078] Znaczenie niepowodzenia
+[2079] 5. Religia ideału
+[2080] Czym jest religia?
+[2081] Idea Boga i ideał Boga
+[2082] Ojciec jest wartością ostateczną
+[2083] „Ale czy chcemy zapłacić cenę...”?
+[2084] 161. Dalsze rozmowy z Rodanem
+[2085] 1. Osobowość Boga
+[2086] Pięć punktów Nataniela
+[2087] 2. Boska natura Jezusa
+[2088] Oświadczenie Nataniela i Tomasza
+[2089] 3. Ludzki i boski umysł Jezusa
+[2090] Opinia pośrednich
+[2091] 162. Święto Namiotów
+[2092] „Mistrzu...wezwij ogień z nieba...”
+[2093] 1. Niebezpieczeństwa wizyty w Jerozolimie
+[2094] 2. Pierwsza mowa w Świątyni
+[2095] Eber, urzędnik Sanhedrynu
+[2096] 3. Kobieta przyłapana na cudzołóstwie
+[2097] 4. Święto Namiotów
+[2098] 5. Kazanie o światłości świata
+[2099] 6. Rozprawa o wodzie życia
+[2100] 7. Rozprawa o wolności duchowej
+[2101] 8. Spotkanie z Martą i Marią
+[2102] 9. Z Abnerem w Betlejem
+[2103] 163. Wyświęcenie Siedemdziesięciu w Magedanie
+[2104] 1. Wyświęcenie Siedemdziesięciu
+[2105] Żniwo wielkie, ale robotników mało
+[2106] 2. Bogaty młodzieniec i inni
+[2107] Bogactwo i miłość do bogactwa
+[2108] 3. Rozmowa o bogactwie
+[2109] Przypowieść o robotnikach w winnicy
+[2110] 4. Pożegnanie Siedemdziesięciu
+[2111] Instrukcje Jezusa
+[2112] Wyświęcające kazanie Piotra
+[2113] 5. Przeniesienie obozu do Pelli
+[2114] 6. Powrót Siedemdziesięciu
+[2115] 7. Przygotowania do ostatniej misji
+[2116] 164. Święto Poświęcenia
+[2117] 1. Opowieść o dobrym Samarytaninie
+[2118] 2. W Jerozolimie
+[2119] 3. Uzdrowienie ślepego żebraka
+[2120] 4. Jozjasz przed Sanhedrynem
+[2121] 5. Nauczanie w Portyku Salomona
+[2122] 165. Początek misji pereańskiej
+[2123] 1. W obozie w Pelli
+[2124] 2. Kazanie o dobrym pasterzu
+[2125] 3. Szabatowe kazanie w Pelli
+[2126] „Strzeżcie się zakwasu faryzeuszy...”
+[2127] „...nawet włosy na waszej głowie są policzone”
+[2128] 4. Podział spadku
+[2129] Przypowieść o niemądrym bogaczu
+[2130] „Gdzie jest wasz skarb, tam też będzie wasze serce.”
+[2131] Cóż będziesz miał za korzyść z tego, jeśli cały świat zyskasz...?
+[2132] 5. Pogadanka dla apostołów o bogactwie
+[2133] „Weźcie pod uwagę lilie, jak rosną...”
+[2134] 6. Odpowiedź na pytanie Piotra
+[2135] 166. Ostatnia wizyta w północnej Perei
+[2136] 1. Faryzeusze w Ragabie
+[2137] Obrzędowe mycie rąk
+[2138] 2. Dziesięciu trędowatych
+[2139] 3. Kazanie w Gerasie
+[2140] Prosta i wąska droga
+[2141] Wielu pierwszych będzie ostatnimi
+[2142] „Stoję u drzwi i pukam...”
+[2143] 4. Nauka o wypadkach
+[2144] 5. Kongregacja w Filadelfii
+[2145] Późniejsza służba i śmierć Abnera
+[2146] 167. Wizyta w Filadelfii
+[2147] 1. Śniadanie z faryzeuszami
+[2148] Uzdrowienie wierzącego
+[2149] „...nie siadajcie na najwyższym miejscu...”
+[2150] 2. Przypowieść o wspaniałej wieczerzy
+[2151] 3. Kobieta dotknięta duchem niemocy
+[2152] 4. Wieści z Betanii
+[2153] 5. W drodze do Betanii
+[2154] Faryzeusz i celnik
+[2155] Nauka o małżeństwie
+[2156] 6. Błogosławienie małych dzieci
+[2157] Piękno jako czynnik zachęcający do czczenia
+[2158] 7. Rozmowa o aniołach
+[2159] 168. Wskrzeszenie Łazarza
+[2160] „Ja jestem zmartwychwstaniem i życiem...”
+[2161] 1. Przy grobowcu Łazarza
+[2162] 2. Zmartwychwstanie Łazarza
+[2163] 3. Zebranie Sanhedrynu
+[2164] „Lepiej, żeby jeden człowiek umarł...”
+[2165] 4. Odpowiedź na modlitwę
+[2166] 5. Dalsze losy Łazarza
+[2167] 169. Ostatnie nauki w Pelli
+[2168] Oskarżenia Sanhedrynu przeciw Jezusowi
+[2169] 1. Przypowieść o straconym synu
+[2170] 2. Przypowieść o sprytnym rzadcy
+[2171] 3. Bogacz i żebrak
+[2172] 4. Ojciec i jego królestwo
+[2173] Jezus {i{i{żył}i}i} objawieniem Boga
+[2174] Elohim i Jahwe
+[2175] 170. Królestwo nieba
+[2176] 1. Koncepcje królestwa nieba
+[2177] 2. Jezusowa koncepcja królestwa
+[2178] Grzech i przebaczenie
+[2179] 3. O prawości
+[2180] 4. Jezusowe nauki o królestwie
+[2181] 5. Późniejsze idee królestwa
+[2182] Społeczne braterstwo i duchowe braterstwo
+[2183] Nowy i większy Jan Chrzciciel
+[2184] Chrześcijaństwo a ewangelia Jezusa
+[2185] 171. W drodze do Jerozolimy
+[2186] „...obiecaj mi, że moi synowie będą dzielić z tobą zaszczyty...”
+[2187] 1. Wyruszenie z Pelli
+[2188] Późniejsze życie Dawida Zebedeusza
+[2189] Antiochia i Filadelifa
+[2190] 2. O obliczaniu kosztu
+[2191] 3. Tura pereańska
+[2192] Pożegnanie Abnera
+[2193] 4. Nauczanie w Liwias
+[2194] Piotr, Szymon i 100 mieczy
+[2195] Ostrzeżenie zaprzyjaźnionych faryzeuszy
+[2196] 5. Ślepiec w Jerychu
+[2197] 6. W gościnie u Zacheusza
+[2198] 7. „Gdy Jezus przechodził obok”
+[2199] 8. Przypowieść o minach
+[2200] Natanielowa interpretacja przypowieści
+[2201] 172. Wjazd do Jerozolimy
+[2202] 1. Szabat w Betanii
+[2203] Maria namaszcza stopy Jezusa
+[2204] Jezus napomina Judasza
+[2205] 2. Niedzielny ranek z apostołami
+[2206] 3. Droga do Jerozolimy
+[2207] 4. Pobyt w Świątyni
+[2208] Wdowi grosz
+[2209] 5. Postawa apostołów
+[2210] 173. Poniedziałek w Jerozolimie
+[2211] 1. Oczyszczenie Świątyni
+[2212] 2. Kwestionowanie autorytetu Mistrza
+[2213] „Skąd pochodził chrzest Janowy”?
+[2214] 3. Przypowieść o dwóch synach
+[2215] 4. Przypowieść o nieobecnym ziemianinie
+[2216] Kamień, który budowniczowie odrzucili
+[2217] 5. Przypowieść o uczcie weselnej
+[2218] „Zniszczcie tę Świątynię a ja...wzniosę ją na nowo”
+[2219] 174. Wtorkowy ranek w Świątyni
+[2220] Osobiste pozdrowienia dla Dwunastu
+[2221] 1. Boskie przebaczenie
+[2222] 2. Indagowanie przez władców żydowskich
+[2223] Czy jest zgodne z prawem oddawanie daniny cesarzowi?
+[2224] 3. Saduceusze i zmartwychwstanie
+[2225] 4. Największe przykazanie
+[2226] Czyim synem jest Wybawiciel?
+[2227] 5. Dociekliwi Grecy
+[2228] „...kiedy ziarno pszenicy spadnie na ziemię i umrze...”
+[2229] „...jeśli zostanę wyniesiony...w waszym życiu...”
+[2230] 175. Ostatnia mowa w Świątyni
+[2231] 1. Mowa
+[2232] „Pokolenie za pokoleniem wysyłaliśmy naszych proroków...”
+[2233] „...ten, kto chce być największy wśród was...”
+[2234] „Biada wam, uczeni w Piśmie i faryzeusze, hipokryci!”
+[2235] „...czyścicie zewnętrzną stronę kubka...”
+[2236] „A teraz zostawiam was”
+[2237] 2. Status Żydów jako jednostek
+[2238] 3. Pamiętne spotkanie Sanhedrynu
+[2239] 4. Sytuacja w Jerozolimie
+[2240] Ostateczna decyzja Judasza
+[2241] 176. Wtorkowy wieczór na Górze Oliwnej
+[2242] 1. Zniszczenie Jerozolimy
+[2243] 2. Drugie przyjście Mistrza
+[2244] Relacja w Ewangelii Mateusza
+[2245] 3. Dalsza dyskusja w obozie
+[2246] Przypowieść o talentach
+[2247] „Nie przestawajcie, dopóki ja nie przyjdę”.
+[2248] Uwaga na temat rozwoju żywej prawdy
+[2249] 4. Powrót Michała
+[2250] 177. Środa, dzień odpoczynku
+[2251] 1. Dzień sam na sam z Bogiem
+[2252] Jan Marek i koszyk z jedzeniem
+[2253] 2. Wczesne życie rodzinne
+[2254] 3. Dzień w obozie
+[2255] 4. Judasz i wyżsi kapłani
+[2256] 5. Ostatnie spotkanie towarzyskie
+[2257] Ostrożność, gdy idzie o aprobatę tłumów
+[2258] 178. Ostatni dzień w obozie
+[2259] 1. Rozprawa o synostwie i obywatelstwie
+[2260] Uczcie się być wierni królestwu, nawet w czasach pomyślności
+[2261] Nie kuście nadzorujących was aniołów
+[2262] 2. Po obiedzie
+[2263] Dawid uwalnia Judasza od „torby”
+[2264] Przygotowania do Ostatniej Wieczerzy
+[2265] 3. W drodze na wieczerzę
+[2266] 179. Ostatnia Wieczerza
+[2267] 1. Pragnienie pierwszeństwa
+[2268] 2. Początek wieczerzy
+[2269] 3. Mycie stóp apostołom
+[2270] 4. Ostatnie słowa do zdrajcy
+[2271] 5. Ustanowienie wieczerzy upamiętniającej
+[2272] 180. Mowa pożegnalna
+[2273] 1. Nowe przykazanie
+[2274] „...kochajcie się wzajemnie tak, jak ja was umiłowałem”
+[2275] 2. Krzew winny i latorośle
+[2276] 3. Wrogość świata
+[2277] „Nie zadręczajcie się w waszych sercach”
+[2278] „Mistrzu, pokaż nam Ojca...”
+[2279] 4. Obiecany pomocnik
+[2280] 5. Duch Prawdy
+[2281] Uwagi na temat złotej zasady
+[2282] 6. Konieczność odejścia
+[2283] 181. Ostatnie upomnienia i przestrogi
+[2284] 1. Ostatnie słowa pocieszenia
+[2285] „Daję każdemu z was, wszyscy je dostaniecie”
+[2286] „Niech nie trwoży się wasze serce”
+[2287] 2. Pożegnalne napomnienia osobiste
+[2288] 182. W Getsemane
+[2289] 1. Ostatnia wspólna modlitwa
+[2290] Poszerzenie przez Jezusa objawienia imienia Bożego
+[2291] 2. Ostatnia godzina przed zdradą
+[2292] Wysłanie gońca do Abnera
+[2293] Pożegnanie Dawida Zebedeusza
+[2294] 3. Samotnie w Getsemane
+[2295] Duch ochoczy, ale ciało słabe
+[2296] 183. Zdrada i aresztowanie
+[2297] 1. Wola Ojca
+[2298] 2. Judasz w mieście
+[2299] 3. Aresztowanie Mistrza
+[2300] 4. Dyskusja przy tłoczni oliwy
+[2301] 5. W drodze do pałacu arcykapłana
+[2302] 184. Przed sądem Sanhedrynu
+[2303] 1. Przesłuchanie u Annasza
+[2304] 2. Piotr na dziedzińcu
+[2305] 3. Przed sądem członków Sanhedrynu
+[2306] 4. Godzina upokorzenia
+[2307] Nowe objawienie człowieka Bogu
+[2308] 5. Drugie posiedzenie sądu
+[2309] 185. Rozprawa przed Piłatem
+[2310] 1. Poncjusz Piłat
+[2311] 2. Jezus staje przed Piłatem
+[2312] Pisemne oskarżenia sanhedrynowego trybunału
+[2313] 3. Prywatne przesłuchanie u Piłata
+[2314] 4. Jezus przed Herodem
+[2315] 5. Powrót Jezusa do Piłata
+[2316] 6. Ostatni apel Piłata
+[2317] Biczowanie Jezusa
+[2318] „Oto człowiek!”
+[2319] 7. Ostatnie przesłuchanie u Piłata
+[2320] 8. Tragiczna kapitulacja Piłata
+[2321] 186. Tuż przed ukrzyżowaniem
+[2322] Rodzina Jezusa w Betanii
+[2323] 1. Koniec Judasza Iskarioty
+[2324] Trzydzieści srebrników
+[2325] 2. Postawa Mistrza
+[2326] „Piłat na rozprawie przed Jezusem”
+[2327] „Oto Bóg i człowiek!”
+[2328] 3. Niezawodny Dawid Zebedeusz
+[2329] 4. Przygotowania do ukrzyżowania
+[2330] 5. Śmierć Jezusa a Pascha
+[2331] 187. Ukrzyżowanie
+[2332] 1. W drodze na Golgotę
+[2333] „Córki Jerozolimy, nie płaczcie nade mną...”
+[2334] Szymon z Cyreny
+[2335] 2. Ukrzyżowanie
+[2336] 3. Świadkowie ukrzyżowania
+[2337] 4. Złodziej na krzyżu
+[2338] Polecenie Jezusa dla Jana
+[2339] 5. Ostatnia godzina na krzyżu
+[2340] 6. Po ukrzyżowaniu
+[2341] 188. Czas grobu
+[2342] Józef i Nikodem przed Piłatem
+[2343] 1. Pogrzeb Jezusa
+[2344] 2. Zabezpieczenie grobu
+[2345] 3. W dzień szabatu
+[2346] Co Jezus powierzył w ręce Ojca?
+[2347] Status osobowości Jezusa
+[2348] 4. Znaczenie śmierci na krzyżu
+[2349] 5. Nauki wynikające z krzyża
+[2350] 189. Zmartwychwstanie
+[2351] 1. Przejście morontialne
+[2352] 2. Materialne ciało Jezusa
+[2353] 3. Zmartwychwstanie na koniec systemu sprawiedliwości
+[2354] Odlot Uosobionego Dostrajacza
+[2355] 4. Odkrycie pustego grobu
+[2356] Pięć kobiet
+[2357] Jezus ukazuje się Marii Magdalenie
+[2358] 5. Piotr i Jan przy grobie
+[2359] Drugie ukazanie się Marii Magdalenie
+[2360] 190. Morontialne ukazania się Jezusa
+[2361] 1. Heroldowie zmartwychwstania
+[2362] 2. Ukazanie się Jezusa w Betanii
+[2363] Ukazanie się ziemskiemu bratu
+[2364] Ukazanie się ziemskiej rodzinie
+[2365] 3. W domu Józefa
+[2366] 4. Ukazanie się Grekom
+[2367] 5. Spacer z dwoma braćmi
+[2368] 191. Ukazanie się apostołom i innym przywódcom
+[2369] Reakcje poszczególnych apostołów
+[2370] 1. Ukazanie się Piotrowi
+[2371] 2. Pierwsze ukazanie się apostołom
+[2372] 3. Z istotami morontialnymi
+[2373] Stadia rozwoju morontialnego
+[2374] 4. Dziesiąte ukazanie się (w Filadelfii)
+[2375] 5. Drugie ukazanie się apostołom
+[2376] „Błogosławieni ci, we wszystkich nadchodzących wiekach...”
+[2377] 6. Ukazanie się w Aleksandrii
+[2378] 192. Ukazania się Jezusa w Galilei
+[2379] 1. Ukazanie się nad jeziorem
+[2380] „Chłopcy, czy coś złapaliście”?
+[2381] 2. Rozmowy z dwójkami apostołów
+[2382] 3. Na górze wyświęcenia
+[2383] 4. Zgromadzenie nad jeziorem
+[2384] 193. Końcowe ukazania się i wniebowstąpienie
+[2385] Szesnaste ukazanie się (dziedziniec domu Nikodema)
+[2386] 1. Ukazanie się w Sychar
+[2387] 2. Ukazanie się w Fenicji
+[2388] 3. Ostatnie ukazanie się w Jerozolimie
+[2389] 4. Przyczyny upadku Judasza
+[2390] 5. Wniebowstąpienie Mistrza
+[2391] 6. Piotr zwołuje zebranie
+[2392] 194. Obdarzenie Duchem Prawdy
+[2393] Nowa ewangelia {i{i{o}i}i} Jezusie
+[2394] 1. Kazanie w dzień Zesłania Ducha
+[2395] 2. Doniosłość Zesłania Ducha
+[2396] Misja Ducha Prawdy
+[2397] Trojakie duchowe wyposażenie człowieka
+[2398] Siedem wyższych wpływów duchowych
+[2399] 3. Co się stało podczas Zesłania Ducha
+[2400] 4. Początki Kościoła chrześcijańskiego
+[2401] 195. Po Zesłaniu Ducha
+[2402] Dlaczego chrześcijaństwo tryumfowało na Zachodzie
+[2403] Kompromisy wczesnego chrześcijaństwa
+[2404] 1. Wpływy Greków
+[2405] 2. Wpływy rzymskie
+[2406] 3. W Cesarstwie Rzymskim
+[2407] 4. Europejskie średniowiecze
+[2408] 5. Problem współczesny
+[2409] 6. Materializm
+[2410] 7. Słabość materializmu
+[2411] 8. Sekularny totalitaryzm
+[2412] 9. Problem chrześcijaństwa
+[2413] 10. Przyszłość
+[2414] 196. Wiara Jezusa
+[2415] Jezusowa żywa wiara w Boga
+[2416] „Najpierw szukajcie królestwa nieba”
+[2417] „Dlaczego nazywasz mnie dobrym”?
+[2418] Czym była modlitwa dla Jezusa
+[2419] Podobna dziecięcej Jezusowa wiara w Boga
+[2420] 1. Jezus — człowiek
+[2421] 2. Religia Jezusa
+[2422] Religia o Jezusie
+[2423] Religia jako osobiste doświadczenie
+[2424] 3. Supremacja religii
+[2425] Fakt, idea i relacja
+[2426] Rozumowanie, mądrość i wiara
+[2427] Rzecz, znaczenie i wartość
+[2428] Gdyby Boski kochanek nie mieszkał w człowieku
+[2429] Moralność i religia
+[2430] Ojciec jest żywą miłością

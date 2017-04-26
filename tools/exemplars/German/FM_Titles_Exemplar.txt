@@ -1,0 +1,216 @@
+﻿[0] Das Urantia Buch: Titel der Schriften
+[1] Das Urantia Buch
+[2] Hоме Seite
+[3] Die Teile des Buches
+[4] Titel der Schriften
+[5] Ausführliches Inhaltsverzeichnis
+[6] Titel der Schriften
+[7] TEIL I.
+[8] Das Zentraluniversum und Superuniversen
+[9] Schrift . Verfasser . Seite
+[10] 0. Vorwort . Göttlicher Ratgeber
+[11] 1. Der Universale Vater . Göttlicher Ratgeber
+[12] 2. Die Natur Gottes . Göttlicher Ratgeber
+[13] 3. Die Attribute Gottes . Göttlicher Ratgeber
+[14] 4. Gottes Beziehung zum Universum . Göttlicher Ratgeber
+[15] 5. Gottes Beziehung zum Einzelnen . Göttlicher Ratgeber
+[16] 6. Der Ewige Sohn . Göttlicher Ratgeber
+[17] 7. Beziehung des Ewigen Sohnes zum Universum . Göttlicher Ratgeber
+[18] 8. Der Unendliche Geist . Göttlicher Ratgeber
+[19] 9. Beziehung des Unendlichen Geistes zum Universum . Göttlicher Ratgeber
+[20] 10. Die Paradies-Trinität . Universeller Zensor
+[21] 11. Die ewige Paradies-Insel . Vervollkommner der Weisheit
+[22] 12. Das Universum der Universen . Vervollkommner der Weisheit
+[23] 13. Die heiligen Welten des Paradieses . Vervollkommner der Weisheit
+[24] 14. Das zentrale und göttliche Universum . Vervollkommner der Weisheit
+[25] 15. Die sieben Superuniversen . Universeller Zensor
+[26] 16. Die sieben Hauptgeiste . Universeller Zensor
+[27] 17. Die sieben Gruppen Supremer Geiste . Göttlicher Ratgeber
+[28] 18. Die Supremen Persönlichkeiten der Trinität . Göttlicher Ratgeber
+[29] 19. Die Koordinierten Wesen Trinitären Ursprungs . Göttlicher Ratgeber
+[30] 20. Die Paradies-Söhne Gottes . Vervollkommener der Weisheit
+[31] 21. Die Paradies-Schöpfersöhne . Vervollkommener der Weisheit
+[32] 22. Die Trinitisierten Söhne Gottes . Mächtiger Botschafter
+[33] 23. Die Einsamen Botschafter . Göttlicher Ratgeber
+[34] 24. Höhere Persönlichkeiten des Unendlichen Geistes . Göttlicher Ratgeber
+[35] 25. Die Botschafterheere des Raums . Mit Hoher Autorität Begabter
+[36] 26. Dienende Geiste des Zentraluniversums . Vervollkommner der Weisheit
+[37] 27. Wirken der primären Supernaphim . Vervollkommner der Weisheit
+[38] 28. Dienende Geiste der Superuniversen . Mächtiger Botschafter
+[39] 29. Die Machtlenker des Universums . Universeller Zensor
+[40] 30. Persönlichkeiten des Großen Universums . Mächtiger Botschafter
+[41] 31. Das Korps der Finalität . Göttlicher Ratgeber und Namen- und Nummernloser
+[42] TEIL II.
+[43] Das Lokaluniversum
+[44] Schrift . Verfasser . Seite
+[45] 32. Die Evolution der Lokaluniversen . Mächtiger Botschafter
+[46] 33. Verwaltung des Lokaluniversums . Oberhaupt der Erzengel
+[47] 34. Der Muttergeist des Lokaluniversums . Mächtiger Botschafter
+[48] 35. Die Lokaluniversumssöhne Gottes . Oberhaupt der Erzengel
+[49] 36. Die Lebensbringer . Vorondadek-Sohn
+[50] 37. Persönlichkeiten des Lokaluniversums . Leuchtender Abendstern
+[51] 38. Dienende Geiste des Lokaluniversums . Melchisedek
+[52] 39. Die seraphischen Heerscharen . Melchisedek
+[53] 40. Die aufsteigenden Söhne Gottes . Mächtiger Botschafter
+[54] 41. Physische Aspekte des Lokaluniversums . Erzengel
+[55] 42. Energie – Verstand und Materie . Mächtiger Botschafter
+[56] 43. Die Konstellationen . Malavatia Melchisedek
+[57] 44. Die himmlischen Künstler . Erzengel
+[58] 45. Die Verwaltung des Lokalsystems . Melchisedek
+[59] 46. Die Hauptsitzwelt des Lokalsystems . Erzengel
+[60] 47. Die sieben Residenzwelten . Leuchtender Abendstern
+[61] 48. Das morontielle Leben . Erzengel
+[62] 49. Die bewohnten Welten . Melchisedek
+[63] 50. Die Planetarischen Fürsten . Sekundärer Lanonandek-Sohn
+[64] 51. Die Planetarischen Adame . Sekundärer Lanonandek-Sohn
+[65] 52. Planetarische Epochen der Menschheit . Mächtiger Botschafter
+[66] 53. Die Rebellion Luzifers . Manovandet Melchisedek
+[67] 54. Probleme der Rebellion Luzifers . Mächtiger Botschafter
+[68] 55. Die Sphären des Lichts und Lebens . Mächtiger Botschafter
+[69] 56. Universale Einheit . Mächtiger Botschafter und Machiventa
+[70] TEIL III.
+[71] Die Geschichte Urantias
+[72] Schrift . Verfasser . Seite
+[73] 57. Der Ursprung Urantias . Lebensbringer
+[74] 58. Ansiedlung des Lebens auf Urantia . Lebensbringer
+[75] 59. Die Ära des marinen Lebens auf Urantia . Lebensbringer
+[76] 60. Urantia während der frühen Ära des Landlebens . Lebensbringer
+[77] 61. Die Ära der Säugetiere auf Urantia . Lebensbringer
+[78] 62. Die Dämmerstunde der primitiven Menschenrassen . Lebensbringer
+[79] 63. Die erste menschliche Familie . Lebensbringer
+[80] 64. Die evolutionären farbigen Rassen . Lebensbringer
+[81] 65. Die Überwachung der Evolution . Lebensbringer
+[82] 66. Der planetarische Fürst Urantias . Melchisedek
+[83] 67. Die planetarische Rebellion . Melchisedek
+[84] 68. Das Heraufdämmern der Zivilisation . Melchisedek
+[85] 69. Primitive menschliche Institutionen . Melchisedek
+[86] 70. Die Evolution der menschlichen Regierung . Melchisedek
+[87] 71. Entwicklung des Staates . Melchisedek
+[88] 72. Regierung auf einem Nachbarplaneten . Melchisedek
+[89] 73. Der Garten Eden . Solonia
+[90] 74. Adam und Eva . Solonia
+[91] 75. Die Verfehlung Adams und Evas . Solonia
+[92] 76. Der zweite Garten . Solonia
+[93] 77. Die Mittler-Geschöpfe . Erzengel
+[94] 78. Die violette Rasse nach den Tagen Adams . Erzengel
+[95] 79. Anditische Expansion im Orient . Erzengel
+[96] 80. Anditische Expansion im Abendland . Erzengel
+[97] 81. Entwicklung der modernen Zivilisation . Erzengel
+[98] 82. Die Evolution der Ehe . Chef der Seraphim
+[99] 83. Die Institution der Ehe . Chef der Seraphim
+[100] 84. Ehe und Familienleben . Chef der Seraphim
+[101] 85. Die Ursprünge der Anbetung . Leuchtender Abendstern
+[102] 86. Frühe Evolution der Religion . Leuchtender Abendstern
+[103] 87. Die Phantomkulte . Leuchtender Abendstern
+[104] 88. Fetische, Zauber und Magie . Leuchtender Abendstern                               
+[105] 89. Sünde, Opfer und Sühne . Leuchtender Abendstern
+[106] 90. Schamanismus – Medizinmänner und Priester . Melchisedek
+[107] 91. Die Evolution des Gebetes . Chef der Mittler
+[108] 92. Die spätere Evolution der Religion . Melchisedek
+[109] 93. Machiventa Melchisedek . Melchisedek
+[110] 94. Die Lehren Melchisedeks im Orient . Melchisedek
+[111] 95. Die Lehren Melchisedeks in der Levante . Melchisedek
+[112] 96. Jahve – der Gott der Hebräer . Melchisedek
+[113] 97. Evolution des Gotteskonzeptes bei den Hebräern . Melchisedek
+[114] 98. Die Lehren Melchisedeks im Abendland . Melchisedek
+[115] 99. Die sozialen Probleme der Religion . Melchisedek         
+[116] 100. Religion in menschlicher Erfahrung . Melchisedek
+[117] 101. Die wahre Natur der Religion . Melchisedek
+[118] 102. Die Fundamente religiösen Glaubens . Melchisedek
+[119] 103. Die Realität religiöser Erfahrung . Melchisedek
+[120] 104. Wachstum des Trinitätskonzeptes . Melchisedek
+[121] 105. Gottheit und Realität . Melchisedek
+[122] 106. Realitätsebenen des Universums . Melchisedek
+[123] 107. Ursprung und Natur der Gedankenjustierer . Einsamer Botschafter
+[124] 108. Sendung und Wirken der Gedankenjustierer . Einsamer Botschafter
+[125] 109. Beziehung der Justierer zu den Universumsgeschöpfen . Einsamer Botschafter
+[126] 110. Beziehung der Justierer zu den einzelnen Sterblichen . Einsamer Botschafter
+[127] 111. Der Justierer und die Seele . Einsamer Botschafter
+[128] 112. Fortleben der Persönlichkeit . Einsamer Botschafter
+[129] 113. Seraphische Schicksalshüter . Chef der Seraphim
+[130] 114. Seraphische planetarische Regierung . Chef der Seraphim
+[131] 115. Das Supreme Wesen . Mächtiger Botschafter
+[132] 116. Der Allmächtige Supreme . Mächtiger Botschafter
+[133] 117. Der Supreme Gott . Mächtiger Botschafter
+[134] 118. Der Supreme und der Ultime – Zeit und Raum . Mächtiger Botschafter
+[135] 119. Die Selbsthingaben von Christus Michael . Chef der Abendsterne
+[136] TEIL IV.
+[137] Das Leben und die Lehren Jesu
+[138] Schrift . Verfasser . Seite
+[139] 120. Die Selbsthingabe Michaels auf Urantia . Mantutia Melchisedek
+[140] 121. Die Epoche der Selbsthingabe Michaels . Mittler-Kommission
+[141] 122. Jesu Geburt und Kindheit . Mittler-Kommission
+[142] 123. Die frühe Kindheit Jesu . Mittler-Kommission
+[143] 124. Die spätere Kindheit Jesu . Mittler-Kommission
+[144] 125. Jesus in Jerusalem . Mittler-Kommission
+[145] 126. Die beiden entscheidenden Jahre . Mittler-Kommission
+[146] 127. Die Jünglingsjahre . Mittler-Kommission
+[147] 128. Jesu frühes Mannesalter . Mittler-Kommission
+[148] 129. Das spätere Leben Jesu als Erwachsener . Mittler-Kommission
+[149] 130. Auf dem Weg nach Rom . Mittler-Kommission
+[150] 131. Die Religionen der Welt . Mittler-Kommission
+[151] 132. Der Aufenthalt in Rom . Mittler-Kommission
+[152] 133. Die Rückkehr von Rom . Mittler-Kommission
+[153] 134. Die Übergangsjahre . Mittler-Kommission
+[154] 135. Johannes der Täufer . Mittler-Kommission
+[155] 136. Taufe und die vierzig Tage . Mittler-Kommission
+[156] 137. Wartezeit in Galiläa . Mittler-Kommission
+[157] 138. Ausbildung der Botschafter des Königreichs . Mittler-Kommission
+[158] 139. Die zwölf Apostel . Mittler-Kommission
+[159] 140. Die Weihe der Zwölf . Mittler-Kommission
+[160] 141. Beginn des öffentlichen Wirkens . Mittler-Kommission
+[161] 142. Das Passahfest in Jerusalem . Mittler-Kommission
+[162] 143. Sie ziehen durch Samaria . Mittler-Kommission
+[163] 144. Auf dem Gilboa und in der Dekapolis . Mittler-Kommission
+[164] 145. Vier ereignisreiche Tage in Kapernaum . Mittler-Kommission
+[165] 146. Erste Predigtrundreise durch Galiläa . Mittler-Kommission
+[166] 147. Der Zwischenbesuch in Jerusalem . Mittler-Kommission
+[167] 148. Ausbildung der Evangelisten in Bethsaida . Mittler-Kommission
+[168] 149. Die zweite Predigtrundreise . Mittler-Kommission
+[169] 150. Die dritte Predigtrundreise . Mittler-Kommission
+[170] 151. Abwarten und lehren am Seeufer . Mittler-Kommission
+[171] 152. Ereignisse, die zu der Krise in Kapernaum führen . Mittler-Kommission
+[172] 153. Die Krise in Kapernaum . Mittler-Kommission
+[173] 154. Letzte Tage in Kapernaum . Mittler-Kommission
+[174] 155. Flucht durch Nordgaliläa . Mittler-Kommission
+[175] 156. Der Aufenthalt in Tyrus und Sidon . Mittler-Kommission
+[176] 157. In Cäsarea-Philippi . Mittler-Kommission
+[177] 158. Der Berg der Verklärung . Mittler-Kommission
+[178] 159. Die Reise durch die Dekapolis . Mittler-Kommission
+[179] 160. Rodan von Alexandrien . Mittler-Kommission
+[180] 161. Weitere Diskussionen mit Rodan . Mittler-Kommission
+[181] 162. Beim Laubhüttenfest . Mittler-Kommission
+[182] 163. Weihe der Siebzig in Magadan . Mittler-Kommission
+[183] 164. Beim Fest der Tempelweihe . Mittler-Kommission
+[184] 165. Die peräische Mission beginnt . Mittler-Kommission
+[185] 166. Letzter Besuch im nördlichen Peräa . Mittler-Kommission
+[186] 167. Der Besuch in Philadelphia . Mittler-Kommission
+[187] 168. Die Auferstehung des Lazarus . Mittler-Kommission
+[188] 169. Letzte Unterweisung in Pella . Mittler-Kommission
+[189] 170. Das Königreich des Himmels . Mittler-Kommission
+[190] 171. Auf dem Weg nach Jerusalem . Mittler-Kommission
+[191] 172. Einzug in Jerusalem . Mittler-Kommission
+[192] 173. Am Montag in Jerusalem . Mittler-Kommission
+[193] 174. Am Dienstagvormittag im Tempel . Mittler-Kommission
+[194] 175. Die letzte Rede im Tempel . Mittler-Kommission
+[195] 176. Am Dienstagabend auf dem Ölberg . Mittler-Kommission
+[196] 177. Mittwoch, der Ruhetag . Mittler-Kommission
+[197] 178. Letzter Tag im Lager . Mittler-Kommission
+[198] 179. Das letzte Abendmahl . Mittler-Kommission
+[199] 180. Die Abschiedsrede . Mittler-Kommission
+[200] 181. Letzte Ermahnungen und Warnungen . Mittler-Kommission
+[201] 182. In Gethsemane . Mittler-Kommission
+[202] 183. Der Verrat und die Verhaftung Jesu . Mittler-Kommission
+[203] 184. Vor dem Gericht des Sanhedrins . Mittler-Kommission
+[204] 185. Der Prozess vor Pilatus . Mittler-Kommission
+[205] 186. Unmittelbar vor der Kreuzigung . Mittler-Kommission
+[206] 187. Die Kreuzigung . Mittler-Kommission
+[207] 188. Die Zeit im Grabe . Mittler-Kommission
+[208] 189. Die Auferstehung . Mittler-Kommission
+[209] 190. Morontielle Erscheinungen Jesu . Mittler-Kommission
+[210] 191. Erscheinungen vor den Aposteln und anderen Führern . Mittler-Kommission
+[211] 192. Erscheinungen in Galiläa . Mittler-Kommission
+[212] 193. Letzte Erscheinungen und Himmelfahrt . Mittler-Kommission
+[213] 194. Ausgießung des Geistes der Wahrheit . Mittler-Kommission
+[214] 195. Nach Pfingsten . Mittler-Kommission
+[215] 196. Der Glaube Jesu . Mittler-Kommission

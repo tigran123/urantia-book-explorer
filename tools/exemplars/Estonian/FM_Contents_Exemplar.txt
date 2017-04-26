@@ -1,0 +1,2431 @@
+[0] Urantia Raamat: Raamatu sisukord
+[1] Urantia Raamat
+[2] Avaleht
+[3] Raamatu osad
+[4] Kirjade pealkirjad
+[5] Raamatu sisukord
+[6] Raamatu sisukord
+[7] I OSA.
+[8] Keskne universum ja superuniversumid
+[9] 0. Eessõna
+[10] I. Jumalus ja jumalikkus
+[11] II. Jumal
+[12] III. Esimene Allikas ja Kese
+[13] Seitse Absoluuti
+[14] Reaalsus
+[15] MINA OLEN käsitus
+[16] IV. Universumi reaalsus
+[17] Paradiis
+[18] V. Isiksuste reaalsused
+[19] VI. Energia ja algkuju
+[20] VII. Ülim Olend
+[21] VIII. Seitsmekordne Jumal
+[22] IX. Viimane Jumal
+[23] X. Absoluutne Jumal
+[24] XI. Kolm Absoluuti
+[25] XII. Kolmsused
+[26] Märkus
+[27] 1. Kõikne Isa
+[28] 1. Isa nimi
+[29] 2. Jumala reaalsus
+[30] 3. Jumal on kõikne vaim
+[31] 4. Jumala müsteerium
+[32] 5. Kõikse Isa isiksus
+[33] 6. Isiksus universumis
+[34] 7. Isiksuse arusaama vaimne väärtus
+[35] 2. Jumala olemus
+[36] 1. Jumala lõpmatus
+[37] 2. Isa igavene täiuslikkus
+[38] 3. Õigusemõistmine ja õiglus
+[39] 4. Jumalik arm
+[40] 5. Jumala armastus
+[41] 6. Jumala headus
+[42] 7. Jumalik tõde ja ilu
+[43] 3. Jumala omadused
+[44] 1. Jumala kõikjalolek
+[45] 2. Jumala lõpmatu võimsus
+[46] 3. Jumala kõiketeadmine
+[47] 4. Jumala piiramatus
+[48] 5. Isa ülim valitsemine
+[49] Vältimatud asjaolud
+[50] 6. Isa esmasus
+[51] Õnnistamine
+[52] 4. Jumala suhe universumiga
+[53] 1. Isa suhtumine universumisse
+[54] Ettehooldus
+[55] 2. Jumal ja loodusmaailm
+[56] 3. Jumala muutumatu iseloom
+[57] 4. Jumala äratundmine
+[58] 5. Väärarusaamad Jumalast
+[59] 5. Jumala suhe üksikisikuga
+[60] 1. Lähenemine Jumalale
+[61] 2. Jumala kohalolek
+[62] 3. Tõeline palveldamine
+[63] 4. Jumal religioonis
+[64] 5. Teadlikkus Jumalast
+[65] 6. Isiksuse Jumal
+[66] 6. Igavene Poeg
+[67] 1. Igavese Poja identiteet
+[68] 2. Igavese Poja olemus
+[69] 3. Isa armastuse osutamine
+[70] 4. Igavese Poja omadused
+[71] Kõikvõimsus, kõikjalolek, kõiketeadmine
+[72] 5. Igavest Poega puudutavad kitsendused
+[73] 6. Vaimumeel
+[74] 7. Igavese Poja isiksus
+[75] 8. Igavese Poja äratundmine
+[76] 7. Igavese Poja suhe universumiga
+[77] 1. Vaimugravitatsiooniringlus
+[78] 2. Igavese Poja haldus
+[79] 3. Igavese Poja suhe üksikisikuga
+[80] 4. Jumalikud täiustamisplaanid
+[81] 5. Annetumise vaim
+[82] Igavese Poja annetumised
+[83] Algse Miikaeli annetumised
+[84] 6. Jumala Paradiisi-Pojad
+[85] 7. Isa ülim ilmutamine
+[86] 8. Lõpmatu Vaim
+[87] 1. Tegutsev Jumal
+[88] 2. Lõpmatu Vaimu olemus
+[89] 3. Vaimu suhe Isa ja Pojaga
+[90] 4. Jumaliku hoolitsuse Vaim
+[91] Loovad Tütred
+[92] 5. Jumala kohalolek
+[93] 6. Lõpmatu Vaimu isiksus
+[94] 9. Lõpmatu Vaimu suhe universumiga
+[95] 1. Kolmanda Allika ja Keskme omadused
+[96] 2. Kõikjalolev Vaim
+[97] 3. Kõikne Korraldaja
+[98] 4. Absoluutne meel
+[99] 5. Meele hoolekanne
+[100] 6. Meelegravitatsiooniringlus
+[101] 7. Universumi peegelduvus
+[102] 8. Lõpmatu Vaimu isiksused
+[103] Kolmanda Allika ja Keskme toimiv perekond
+[104] 10. Paradiisi-Kolmsus
+[105] 1. Esimese Allika ja Keskme enesejaotamine
+[106] 2. Jumaluse isikustumine
+[107] 3. Jumaluse kolm isikut
+[108] 4. Jumaluse kolmsusliit
+[109] 5. Kolmsuse funktsioonid
+[110] Piiritletud, absoniitne ja absoluutne suhe
+[111] 6. Kolmsuse Alalised Pojad
+[112] Õigusemõistmine, asitõendid ja kohtumõistmine
+[113] 7. Ülimuslikkuse ülemjuhtimine
+[114] 8. Kolmsus teispool piiritletut
+[115] Sureliku saatuse piirid
+[116] 11. Igavene Paradiisisaar
+[117] 1. Jumalik asupaik
+[118] 2. Igavese Saare olemus
+[119] 3. Üla-Paradiis
+[120] 4. Paradiisi ääreala
+[121] 5. Ala-Paradiis
+[122] 6. Ruumihingamine
+[123] Läbimatu kosmos
+[124] 7. Paradiisi ruumifunktsioonid
+[125] Keskkosmose tsoonid
+[126] 8. Paradiisi gravitatsioon
+[127] Jõud, energia, võimsus
+[128] 9. Paradiisi ainulaadsus
+[129] 12. Universumite universum
+[130] 1. Tervikuniversumi kosmosetasandid
+[131] 2. Määratlematu Absoluudi mõjuvald
+[132] 3. Universaalne gravitatsioon
+[133] 4. Ruum ja liikumine
+[134] 5. Ruum ja aeg
+[135] 6. Kõikne ülemjuhtimine
+[136] 7. Osa ja tervik
+[137] 8. Mateeria, meel ja vaim
+[138] 9. Isikulised reaalsused
+[139] 13. Paradiisi pühad sfäärid
+[140] 1. Isa seitse püha maailma
+[141] (1) Divinington
+[142] (2) Sonarington
+[143] (3) Spiritington
+[144] (4) Vicegerington
+[145] (5) Solitarington
+[146] (6) Seraphington
+[147] (7) Ascendington
+[148] 2. Isa ja maailmade vahelised suhted
+[149] 3. Igavese Poja pühad maailmad
+[150] 4. Lõpmatu Vaimu maailmad
+[151] Meistervaimude haldusalad
+[152] 14. Keskne ja jumalik universum
+[153] 1. Paradiisi-Havona süsteem
+[154] Paradiisi-Havona päev
+[155] Tumedad gravitatsioonikehad
+[156] 2. Havona ülesehitus
+[157] 3. Havona maailmad
+[158] 4. Keskse universumi olendid
+[159] Havona põliselanikud
+[160] 5. Elu Havonas
+[161] Üksluisus ja avastusretk
+[162] 6. Keskse universumi eesmärk
+[163] 15. Seitse superuniversumit
+[164] 1. Superuniversumite kosmosetasand
+[165] 2. Superuniversumite ülesehitus
+[166] 3. Orvontoni superuniversum
+[167] 4. Udud — universumite eelkäijad
+[168] 5. Kosmiliste kehade päritolu
+[169] 6. Kosmosesfäärid
+[170] 7. Arhitektuursed sfäärid
+[171] Superuniversumi aeg
+[172] 8. Energia juhtimine ja reguleerimine
+[173] 9. Superuniversumite ringlused
+[174] Kohaliku universumi ringlused
+[175] 10. Superuniversumite valitsejad
+[176] 11. Nõuandev kogu
+[177] 12. Kõrgeimad kohtud
+[178] 13. Sektorivalitsused
+[179] 14. Seitsme superuniversumi eesmärgid
+[180] 16. Seitse Meistervaimu
+[181] 1. Suhe kolmese Jumalusega
+[182] 2. Suhe Lõpmatu Vaimuga
+[183] 3. Meistervaimude identiteet ja eripära
+[184] 4. Meistervaimude omadused ja funktsioonid
+[185] 5. Suhe loodud-olenditega
+[186] 6. Kosmiline meel
+[187] Põhjuslikkus, kohustus ja palveldamine
+[188] 7. Kõlblus, vooruslikkus ja isiksus
+[189] 8. Isiksus Urantial
+[190] 9. Inimteadvuse reaalsus
+[191] 17. Seitse Ülimate Vaimude rühma
+[192] 1. Seitse Ülimat Täideviijat
+[193] Loodud-olendite kolmsustatud pojad
+[194] 2. Majeston — Peegeldavuse Juht
+[195] 3. Peegeldavad Vaimud
+[196] 4. Peegeldusabilised
+[197] 5. Ringluste Seitse Vaimu
+[198] 6. Kohaliku universumi Loovad Vaimud
+[199] 7. Meeleabivaimud
+[200] 8. Ülimate Vaimude funktsioonid
+[201] 18. Ülimad Kolmsusisiksused
+[202] 1. Ülimuslikkuse Kolmsustatud Saladused
+[203] 2. Päevilt Igavesed
+[204] 3. Päevilt Vanad
+[205] 4. Päevilt Täiuslikud
+[206] 5. Päevilt Uued
+[207] 6. Päevilt Ühtsed
+[208] 7. Päevilt Ustavad
+[209] 19. Kooskõlastavad Kolmsus-päritolu olendid
+[210] 1. Kolmsuse Õpetajad-Pojad
+[211] 2. Tarkuse Täiustajad
+[212] 3. Jumalikud Nõuandjad
+[213] 4. Kõiksed Hindajad
+[214] Kolmsuse Alalised Pojad
+[215] 5. Inspireeritud Kolmsuslikud Vaimud
+[216] 6. Havona põliselanikud
+[217] 7. Paradiisi kodanikud
+[218] 20. Jumala Paradiisi-Pojad
+[219] 1. Laskuvad Jumala Pojad
+[220] 2. Kohtumõistjad-Pojad
+[221] 3. Õigusemõistmine
+[222] 4. Kohtumõistmislähetused
+[223] 5. Jumala Paradiisi-Poegade annetumine
+[224] 6. Annetumised surelikena
+[225] 7. Kolmsuse Õpetajad-Pojad
+[226] 8. Daynalite hoolekanne kohalikus universumis
+[227] 9. Daynalite teenistus planeetidel
+[228] 10. Paradiisi-Poegade ühine hoolekanne
+[229] 21. Paradiisi Loojad-Pojad
+[230] Algne Miikael
+[231] 1. Loojate-Poegade päritolu ja olemus
+[232] 2. Kohalike universumite Loojad
+[233] 3. Kohaliku universumi suveräänsus
+[234] 4. Miikaelide annetumised
+[235] 5. Meister-Poegade suhtumine universumisse
+[236] 6. Meister-Miikaelide saatus
+[237] 22. Jumala Kolmsustatud Pojad
+[238] 1. Kolmsusest hõlmatud Pojad
+[239] Saavutuse Kolmsustatud Pojad
+[240] Väljavalimise Kolmsustatud Pojad
+[241] Täiustumise Kolmsustatud Pojad
+[242] 2. Vägevad Sõnumitoojad
+[243] 3. Kõrgeaulised
+[244] 4. Nime ja Numbrita Olendid
+[245] 5. Kolmsustatud Hooldajad
+[246] 6. Kolmsustatud Saadikud
+[247] 7. Kolmsustamise tehnika
+[248] Tõusuteeliste kolmsustatud pojad
+[249] Paradiisi-Havona kolmsustatud pojad
+[250] Saatuse kolmsustatud pojad
+[251] 8. Loodud olendid kolmsustatud pojad
+[252] 9. Taevased Valvurid
+[253] 10. Kõrgete Poegade Abilised
+[254] 23. Üksildased Sõnumitoojad
+[255] 1. Üksildaste Sõnumitoojate päritolu ja olemus
+[256] 2. Üksildaste Sõnumitoojate ülesanded
+[257] 3. Üksildaste Sõnumitoojate teenistus ajas ja ruumis
+[258] Seeravite ja teiste olendite liikumiskiirus
+[259] 4. Üksildaste Sõnumitoojate eriline hoolekandetöö
+[260] Kindla eemärgiga kolmsustatud pojad
+[261] 24. Lõpmatu Vaimu kõrgemad isiksused
+[262] 1. Universumiringluste Juhendajad
+[263] 2. Loenduse Juhatajad
+[264] 3. Lõpmatu Vaimu isiklikud abilised
+[265] 4. Inspektor-kaaslased
+[266] 5. Kohalemääratud Tunnimehed
+[267] 6. Aspirantide Teejuhid
+[268] Grandfanda, esimene tõusuolend
+[269] 7. Aspirantide Teejuhtide päritolu
+[270] 25. Kosmose sõnumitoojate väed
+[271] 1. Havona Servitalid
+[272] 2. Kõiksed Lepitajad
+[273] 3. Lepitajate ulatuslik teenistus
+[274] 4. Tehnilised Nõuandjad
+[275] 5. Paradiisi Arhivaarid
+[276] 6. Taevased Kroonikud
+[277] 7. Morontiakaaslased
+[278] 8. Paradiisikaaslased
+[279] 26. Keskse universumi hoolekandevaimud
+[280] 1. Hoolekandevaimud
+[281] Keskse universumi hoolekandevaimud
+[282] Superuniversumite hoolekandevaimud
+[283] Kohalike universumite hoolekandevaimud
+[284] 2. Vägevad supernavid
+[285] 3. Kolmanda astme supernavid
+[286] (1) Harmoonia juhendajad
+[287] (2) Peakroonikud
+[288] (3) Teabelevitajad
+[289] (4) Sõnumitoojad
+[290] (5) Teabekogumise koordineerijad
+[291] (6) Transpordiisiksused
+[292] (7) Varukorpus
+[293] 4. Teise astme supernavid
+[294] Tõusuolendite saabumine Havonasse
+[295] 5. Palverändurite abistajad
+[296] 6. Ülimuslikkuses juhtijad
+[297] 7. Kolmsuses juhtijad
+[298] 8. Poja leidjad
+[299] Kui Jumaluse leidmine ebaõnnestub
+[300] 9. Isas juhtijad
+[301] 10. Nõuandjad ja soovitajad
+[302] Ebaõnnestunud kandidaatide ülesanded
+[303] 11. Puhkusetäiendajad
+[304] Loodud-olendite kolmsustatud pojad
+[305] 27. Esimese astme supernavide hoolekanne
+[306] 1. Puhkuseajendajad
+[307] Puhkuse olemus
+[308] 2. Määramisülemad
+[309] 3. Eetikatõlgendajad
+[310] 4. Käitumisesuunajad
+[311] 5. Teadmiste hoidjad
+[312] 6. Filosoofiameistrid
+[313] 7. Palveldamisjuhid
+[314] 28. Superuniversumite hoolekandevaimud
+[315] 1. Tertsiavid
+[316] 2. Omniavid
+[317] 3. Sekonavid
+[318] 4. Esimese astme sekonavid
+[319] (1) Ühise Toimija Hääl
+[320] (2) Seitsme Meistervaimu Hääl
+[321] (3) Loojate-Poegade Hääl
+[322] (4) Inglihulkade Hääl
+[323] (5) Teabelevi vastuvõtjad
+[324] (6) Transpordiisiksused
+[325] (7) Varukorpus
+[326] 5. Teise astme sekonavid
+[327] (1) Tarkuse Hääl
+[328] (2) Filosoofia Hing
+[329] (3) Hingede Ühendus
+[330] (4) Nõuandev Süda
+[331] (5) Olemise Rõõm
+[332] (6) Teenimise Rahuldus
+[333] (7) Vaimude Eristaja
+[334] 6. Kolmanda astme sekonavid
+[335] (1) Päritolu Tähendus
+[336] (2) Halastuse Mälu
+[337] (3) Aja Tähtsus
+[338] (4) Usalduse Tõsidus
+[339] (5) Teenimise Pühadus
+[340] (6) ja (7) Suuruse Saladus ja Headuse Hing
+[341] 7. Sekonavide hoolekanne
+[342] 29. Universumi Võimsusesuunajad
+[343] 1. Seitse Ülimat Võimsusesuunajat
+[344] 2. Ülimad Võimsuskeskused
+[345] (1) Ülimad Keskusejuhendajad
+[346] (2) Havona Keskused
+[347] (3) Superuniversumi Keskused
+[348] (4) Kohaliku Universumi Keskused
+[349] (5) Tähtkujude Keskused
+[350] (6) Süsteemide Keskused
+[351] (7) Liigitamata Keskused
+[352] 3. Võimsuskeskuste tegevuspiirkond
+[353] 4. Füüsilised Meisterjuhtijad
+[354] (1) Abi-võimsusesuunajad
+[355] (2) Mehaanilised juhtijad
+[356] (3) Energiamuundajad
+[357] (4) Energia ülekandjad
+[358] (5) Esmased ühendajad
+[359] (6) Teisesed lahutajad
+[360] (7) Frandalankid
+[361] Kronoldekid
+[362] 5. Meister-Jõukorraldajad
+[363] Esmased Ilmnevad Meister-Jõukorraldajad
+[364] Abistavad Transtsendentsed Meister-Jõukorraldajad
+[365] 30. Suuruniversumi isiksused
+[366] 1. Elusolendite liigitus Paradiisis
+[367] I. Kolmese päritoluga olendid
+[368] II. Kahese päritoluga olendid
+[369] III. Ühese päritoluga olendid
+[370] IV. Ilmnenud transtsendentsed olendid
+[371] V. Jumaluse fragmenteeritud olemusvormid
+[372] VI. Üleisikulised olendid
+[373] VII. Liigitamata ja ilmutamata klassid
+[374] 2. Uversa isiksuseregister
+[375] I. Paradiisi Jumalused
+[376] II. Ülimad Vaimud
+[377] III. Kolmsus-päritolu Olendid
+[378] IV. Jumala Pojad
+[379] V. Lõpmatu Vaimu isiksused
+[380] VI. Universumi Võimsusesuunajad
+[381] VII. Alaliste Kodanike Korpus
+[382] Isiksuste koondrühmad
+[383] 3. Hea tahte kolooniad
+[384] (1) Täheuurijad
+[385] (2) Taevased kunstimeistrid
+[386] (3) Meenutusjuhid
+[387] (4) Ettevalmistuskooli õpetajad
+[388] (5) Mitmesugused varukorpused
+[389] (6) Õpilastest külalised
+[390] (7) Tõusu-palverändurid
+[391] 4. Tõususurelikud
+[392] (1) Planeetide surelikud
+[393] (2) Magavad ellujääjad
+[394] (3) Eluasemeilmade õpilased
+[395] (4) Morontia edasijõudjad
+[396] (5) Superuniversumi hoolealused
+[397] (6) Havona palverändurid
+[398] (7) Paradiisijõudjad
+[399] 31. Lõplikkuse Korpus
+[400] 1. Havona põliselanikud
+[401] 2. Gravitatsiooni Sõnumitoojad
+[402] 3. Aulised surelikud
+[403] 4. Vastuvõetud seeravid
+[404] 5. Aulised Ainelised Pojad
+[405] 6. Aulised keskteeolendid
+[406] 7. Valgusekuulutajad
+[407] 8. Transtsendentaalid
+[408] 9. Tervikuniversumi Arhitektid
+[409] 10. Lõplik avastusretk
+[410] II OSA.
+[411] Kohalik universum
+[412] 32. Kohalike universumite evolutsioon
+[413] 1. Universumite füüsiline tekkimine
+[414] 2. Universumi korraldatus
+[415] 3. Arengu idee
+[416] 4. Jumala suhe kohaliku universumiga
+[417] 5. Igavene ja jumalik eesmärk
+[418] 33. Kohaliku universumi haldamine
+[419] 1. Nebadoni Miikael
+[420] 2. Nebadoni Suverään
+[421] 3. Universumi Poeg ja Vaim
+[422] 4. Gabriel — täitevjuht
+[423] 5. Kolmsuse saadikud
+[424] 6. Üldine haldamine
+[425] Kohaliku universumi aeg
+[426] 7. Nebadoni kohtud
+[427] 8. Seadusandlikud ja täidesaatvad funktsioonid
+[428] 34. Kohaliku universumi Emavaim
+[429] 1. Loova Vaimu isikustumine
+[430] 2. Jumaliku Hoolekandja olemus
+[431] 3. Poeg ja Vaim ajas ja ruumis
+[432] 4. Kohaliku universumi ringlused
+[433] 5. Vaimu hoolekanne
+[434] 6. Vaim inimeses
+[435] Inimese kahene olemus
+[436] 7. Vaim ja liha
+[437] See on see tee.”
+[438] 35. Jumala kohaliku universumi Pojad
+[439] 1. Melkisedek-Isa
+[440] 2. Melkisedek-Pojad
+[441] 3. Melkisedekite maailmad
+[442] 4. Melkisedekite eriline töö
+[443] Melkisedekite kehastumised
+[444] 5. Vorondadek-Pojad
+[445] 6. Tähtkujude Isad
+[446] 7. Vorondadekite maailmad
+[447] 8. Lanonandek-Pojad
+[448] Esimese astme Lanonandekid
+[449] Teise astme Lanonandekid
+[450] Kolmanda astme Lanonandekid
+[451] 9. Lanonandekitest valitsejad
+[452] 10. Lanonandekite maailmad
+[453] 36. Elukandjad
+[454] 1. Elukandjate päritolu ja iseloom
+[455] 2. Elukandjate maailmad
+[456] 3. Elu siirdamine
+[457] 4. Melkisedekitest Elukandjad
+[458] Midsoniidid
+[459] Salvingtoni Lõpetanute Maailmad
+[460] 5. Seitse meeleabivaimu
+[461] (1) Intuitsioonivaim
+[462] (2) Arusaamisvaim
+[463] (3) Julgusevaim
+[464] (4) Teadmisvaim
+[465] (5) Nõuandevaim
+[466] (6) Palveldamisvaim
+[467] (7) Tarkusevaim
+[468] 6. Elavad jõud
+[469] 37. Kohaliku universumi isiksused
+[470] 1. Universumi Abid
+[471] 2. Kirkad Õhtutähed
+[472] Loodud Õhtutähed
+[473] Tõusvad Õhtutähed
+[474] Õhtutähtede maailmad
+[475] 3. Peainglid
+[476] Peainglite maailmad
+[477] 4. Kõrgeimad Abilised
+[478] 5. Kõrged Volinikud
+[479] Rassivolinikud
+[480] Nebadoni Täiuslikkuse Korpus
+[481] Vaimuga ühtesulanud surelike maailmad
+[482] 6. Taevased juhendajad
+[483] Nebadoni haridussüsteem
+[484] 7. Eluasemeilmade õpetajad
+[485] 8. Kõrgemad ülesandega vaimuklassid
+[486] Üksildased Sõnumitoojad
+[487] Universumiringluste Juhendaja — Andovontia
+[488] Loenduse Juhataja — Salsatia
+[489] Inspektor-kaaslane
+[490] Kohalemääratud Tunnimehed
+[491] Kõiksed Lepitajad
+[492] Tehnilised Nõuandjad
+[493] Taevased Kroonikud
+[494] Morontiakaaslased
+[495] 9. Kohaliku universumi alalised kodanikud
+[496] (1) Susatiad
+[497] (2) Univitatiad
+[498] (3) Ainelised Pojad
+[499] (4) Keskteelised
+[500] Abandonterid
+[501] 10. Muud rühmad kohalikus universumis
+[502] Spirongad
+[503] Spornagiad
+[504] Hea tahte kolooniad
+[505] 38. Kohaliku universumi hoolekandevaimud
+[506] 1. Seeravite päritolu
+[507] 2. Inglite olemus
+[508] 3. Ilmutamata inglid
+[509] 4. Seeravite maailmad
+[510] 5. Seeravite koolitus
+[511] 6. Seeravite organisatsioon
+[512] 7. Keerubid ja sanobid
+[513] 8. Keerubite ja sanobite evolutsioon
+[514] (1) Tõusutee kandidaadid
+[515] (2) Vahepealsed keerubid
+[516] (3) Morontia keerubid
+[517] 9. Keskteelised
+[518] (1) Esmased keskteelised
+[519] (2) Teisesed keskteelised
+[520] 39. Seeraviväed
+[521] 1. Ülimad seeravid
+[522] (1) Poegade ja Vaimude Teenijad
+[523] Annetumiselude abistajad
+[524] (2) Kohtu nõuandjad
+[525] (3) Universumi tutvustajad
+[526] (4) Õpetavad nõuandjad
+[527] (5) Ülesannete andjad
+[528] (6) Kroonikud
+[529] (7) Vabad hoolekandjad
+[530] 2. Kõrgemad seeravid
+[531] (1) Teabekogumiskorpus
+[532] (2) Halastuse hääl
+[533] (3) Vaimsed kooskõlastajad
+[534] (4) Abiõpetajad
+[535] (5) Transportijad
+[536] Seeravliku transpordi tehnika
+[537] (6) Kroonikud
+[538] Teabelevitajad
+[539] (7) Reservid
+[540] 3. Juhendavad seeravid
+[541] (1) Ülevaatajate abilised
+[542] (2) Seaduste prognoosijad
+[543] (3) Sotsiaalsed arhitektid
+[544] (4) Eetikatundlikkuse andjad
+[545] (5) Transportijad
+[546] (6) Kroonikud
+[547] (7) Reservid
+[548] 4. Haldurseeravid
+[549] (1) Haldusabilised
+[550] (2) Õigluse juhtijad
+[551] (3) Kosmilise kodakondsuse tõlgendajad
+[552] (4) Moraalsuse stimuleerijad
+[553] (5) Transportijad
+[554] (6) Kroonikud
+[555] (7) Reservid
+[556] 5. Planeetide abilised
+[557] (1) Aia hääled
+[558] (2) Vendluse vaimud
+[559] (3) Rahuhinged
+[560] (4) Usalduse vaimud
+[561] (5) Transportijad
+[562] Seeravliku transpordi lahkumine
+[563] (6) Kroonikud
+[564] (7) Reservid
+[565] 6. Ülemineku hoolekandjad
+[566] 7. Tulevikuseeravid
+[567] 8. Seeravite saatus
+[568] 9. Seeravite Täielikkuse Korpus
+[569] 40. Tõusvad Jumala pojad
+[570] 1. Arenevad seeravid
+[571] 2. Tõusvad Ainelised Pojad
+[572] 3. Üleviidud keskteelised
+[573] 4. Isikustatud Kohandajad
+[574] 5. Aja ja ruumi surelikud
+[575] Ajutise või kogemusliku Kohandajaga surelikud
+[576] Kohandajatega mitteühtesulavad surelikud
+[577] Kohandajatega ühtesulavad surelikud
+[578] Nummerdamata seeriad
+[579] 6. Jumala usupojad
+[580] 7. Isaga ühtesulanud surelikud
+[581] 8. Pojaga ühtesulanud surelikud
+[582] 9. Vaimuga ühtesulanud surelikud
+[583] Mälu taastamise tehnikad
+[584] 10. Tõusutee saatused
+[585] 41. Kohaliku universumi füüsilised aspektid
+[586] 1. Nebadoni võimsuskeskused
+[587] 2. Satania füüsilised juhtijad
+[588] 3. Meie tähtedest kaaslased
+[589] 4. Päikese tihedus
+[590] 5. Päikese kiirgus
+[591] 6. Kosmoserändur kaltsium
+[592] 7. Päikeseenergia allikad
+[593] 8. Päikeseenergia reaktsioonid
+[594] 9. Päikese stabiilsus
+[595] 10. Asustatud maailmade päritolu
+[596] 42. Energia — meel ja mateeria
+[597] 1. Paradiisi jõud ja energiad
+[598] 2. Universumi mittevaimsed energiasüsteemid (füüsilised energiad)
+[599] (1) Kosmose võimsusvaru
+[600] (2) Ürgjõud
+[601] (3) Esilekerkivad energiad
+[602] a. Võimsusenergia
+[603] b. Gravitatsioonienergia
+[604] (4) Universumivõimsus
+[605] (5) Havona energia
+[606] (6) Transtsendentne energia
+[607] (7) Monota
+[608] 3. Aine liigitus
+[609] 4. Energia ja mateeria teisenemised
+[610] 5. Laineenergia avaldumisvormid
+[611] 6. Ultimaatonid, elektronid ja aatomid
+[612] 7. Atomaarne aine
+[613] 8. Aatomite kohesioon
+[614] 9. Loodusfilosoofia
+[615] 10. Universaalsed mittevaimsed energiasüsteemid (ainelise meele süsteemid)
+[616] (1) Meeleabivaimueelne-eelne meel
+[617] (2) Meeleabivaimu meel
+[618] (3) Arenev morontiameel
+[619] Kosmiline meel
+[620] 11. Universumi toimemehhanismid
+[621] 12. Algkuju ja vorm — meele domineerimine
+[622] 43. Tähtkujud
+[623] 1. Tähtkuju keskusmaailm
+[624] 2. Tähtkujuvalitsus
+[625] 3. Norlatiadeki Kõigekõrgemad
+[626] 4. Kogunemismägi — Päevilt Ustav
+[627] 5. Edentia Isad pärast Luciferi mässu
+[628] 6. Jumala aiad
+[629] 7. Univitatiad
+[630] 8. Edentia koolitusmaailmad
+[631] 9. Edentia kodakondsus
+[632] 44. Taevased kunstimeistrid
+[633] 1. Taevased muusikud
+[634] 2. Taevased interpreedid
+[635] 3. Jumalikud ehitajad
+[636] 4. Mõttekroonikud
+[637] 5. Energiakorraldajad
+[638] 6. Kujundajad ja kaunistajad
+[639] 7. Harmooniatöötajad
+[640] 8. Sureliku püüdlused ja morontiasaavutused
+[641] 45. Kohaliku süsteemi haldamine
+[642] 1. Üleminekukultuuri maailmad
+[643] (1) Lõpetanute maailm
+[644] (2) Morontiamaailm
+[645] (3) Inglimaailm
+[646] (4) Kõrgemate Inglite Maailm
+[647] (5) Poegade Maailm
+[648] (6) Vaimu Maailm
+[649] (7) Isa Maailm
+[650] 2. Süsteemi Suverään
+[651] 3. Süsteemi Valitsus
+[652] 4. Neli ja kakskümmend nõuandjat
+[653] 5. Ainelised Pojad
+[654] 6. Tõusuteeliste aadamlik koolitamine
+[655] Vanemlik kogemus
+[656] Satania hooldusvalve-lastetuba
+[657] 7. Melkisedekite koolid
+[658] 46. Kohaliku süsteemi keskus
+[659] 1. Jerusemi füüsilised aspektid
+[660] 2. Jerusemi füüsilised iseärasused
+[661] 3. Jerusemi teabelevi
+[662] 4. Elukoha- ja halduspiirkonnad
+[663] 5. Jerusemi ringid
+[664] (1) Jumala Poegade ringid
+[665] (2) Inglite ringid
+[666] (3) Universumi Abiliste ringid
+[667] (4) Füüsiliste Meisterjuhtijate ringid
+[668] (5) Tõususurelike ringid
+[669] (6) Hea tahte kolooniate ringid
+[670] (7) Lõpetanute ringid
+[671] 6. Täitevvõimu- ja haldusruudud
+[672] 7. Ristkülikud — spornagiad
+[673] 8. Jerusemi kolmnurgad
+[674] 47. Seitse eluasemeilma
+[675] 1. Lõpetanute maailm
+[676] Nõutav vanemlik kogemus
+[677] 2. Hooldusvalve-lastetuba
+[678] 3. Esimene eluasemeilm
+[679] Morontiakaaslased
+[680] 4. Teine eluasemeilm
+[681] 5. Kolmas eluasemeilm
+[682] 6. Neljas eluasemeilm
+[683] 7. Viies eluasemeilm
+[684] 8. Kuues eluasemeilm
+[685] Kohandajaga sulandumine
+[686] 9. Seitsmes eluasemeilm
+[687] 10. Jerusemi kodakondsus
+[688] 48. Morontiaelu
+[689] 1. Morontiamaterjalid
+[690] 2. Morontia võimsusejuhendajad
+[691] (1) Ringluse reguleerijad
+[692] (2) Süsteemi koordineerijad
+[693] (3) Planeedi hooldajad
+[694] (4) Ühendatud juhtijad
+[695] (5) Ühenduste stabiliseerijad
+[696] (6) Valivad liigitajad
+[697] (7) Abiregistraatorid
+[698] 3. Morontiakaaslased
+[699] (1) Palverändurite kaitsjad
+[700] (2) Palverändurite vastuvõtjad ja vabad liitujad
+[701] (3) Taevaste külastajate võõrustajad
+[702] (4) Koordineerijad ja ühenduste suunajad
+[703] (5) Tõlgid ja tõlkijad
+[704] (6) Huvireiside ja meenutuste juhendajad
+[705] (7) Alade ja ehitiste hooldajad
+[706] 4. Meenutusjuhid
+[707] Taevane huumor
+[708] Surelike huumor
+[709] 5. Eluasemeilmade Õpetajad
+[710] 6. Morontiamaailma seeravid — ülemineku hoolekandjad
+[711] (1) Seeravid-kuulutajad
+[712] Kahekümne kolmanda psalmi algupärand
+[713] (2) Rassitõlgid
+[714] (3) Meeleplaneerijad
+[715] (4) Morontia nõuandjad
+[716] Mota stereoskoopiline efekt
+[717] (5) Tehnikud
+[718] (6) Kroonikud-õpetajad
+[719] Tõde ja fakt
+[720] (7) Hoolekandereservid
+[721] Edu, ebaõnn ja ego
+[722] 7. Morontia mota
+[723] 8. Morontia edasijõudjad
+[724] 49. Asustatud maailmad
+[725] 1. Elu planeetidel
+[726] 2. Planeetide füüsilised liigid
+[727] (1) Atmosfääritüübid
+[728] (2) Elemenditüübid
+[729] (3) Gravitatsioonitüübid
+[730] (4) Temperatuuritüübid
+[731] (5) Elektritüübid
+[732] (6) Energiatarbimistüübid
+[733] (7) Nimetamata tüübid
+[734] 3. Mittehingajate maailmad
+[735] 4. Arenevad tahteolendid
+[736] 5. Planeetidel elavate surelike liigid
+[737] (1) Kohanemine planeedi elukeskkonnaga
+[738] Kogemusel rajanevad seeriad Tabamantia järelevalve all
+[739] (2) Ajutüübid
+[740] (3) Vaimne vastuvõtlikkus
+[741] (4) Planeetide surelike epohhid
+[742] (5) Olendite omavaheline sugulus
+[743] (6) Kohandajaga ühtesulamine
+[744] (7) Maisest elust vabanemise viisid
+[745] 6. Maisest elust vabanemine
+[746] (1) Usulis-elukorralduslik ehk rühmaviisiline ellujäämine
+[747] (2) Surelike individuaalsed tõusuteed
+[748] (3) Surelike hooldusvalve-lastetubadest sõltuvad tõusuteed
+[749] (4) Teisese muudetud tõusukorra surelikud
+[750] (5) Esmased muudetud tõusukorra surelikud
+[751] 50. Planeedivürstid
+[752] 1. Vürstide ülesanne
+[753] 2. Planeedi haldamine
+[754] 3. Vürsti aineline kaaskond
+[755] 4. Planeedi keskused ja koolid
+[756] 5. Arenev tsivilisatsioon
+[757] 6. Planeedi kultuur
+[758] 7. Isolatsiooni hüvitus
+[759] Agondonterid
+[760] Tabamantia on agondonter
+[761] 51. Planeetide Aadamad
+[762] 1. Jumala Aineliste Poegade päritolu ja olemus
+[763] 2. Planeetide Aadamate üleviimine
+[764] 3. Aadamate ülesanded
+[765] 4. Kuus arengurassi
+[766] 5. Rasside segunemine — Aadama vere annetus
+[767] 6. Eedeni kord
+[768] 7. Ühishaldus
+[769] 52. Planeetide surelike epohhid
+[770] 1. Ürginimene
+[771] 2. Inimene Planeedivürsti-järgsel ajal
+[772] 3. Inimene Aadama-järgsel ajal
+[773] 4. Inimene Kohtumõistja-Poja järgsel ajal
+[774] 5. Inimene Annetuva Poja järgsel ajal
+[775] 6. Annetumisjärgne ajastu Urantial
+[776] 7. Inimene Õpetaja-Poja järgsel ajal
+[777] 53. Luciferi mäss
+[778] 1. Mässu juhid
+[779] 2. Mässu põhjused
+[780] 3. Luciferi manifest
+[781] 4. Mässu puhkemine
+[782] 5. Konflikti olemus
+[783] 6. Ustav seeravist väejuht
+[784] 7. Mässu ajalugu
+[785] 8. Inimese Poeg Urantial
+[786] 9. Mässu praegune seis
+[787] 54. Luciferi mässu probleemid
+[788] 1. Tõeline ja väär vabadus
+[789] 2. Vabaduse varastamine
+[790] 3. Viivitus õigusemõistmisega
+[791] 4. Halastav viivitus
+[792] 5. Viivitamise tarkus
+[793] Kaksteist põhjust
+[794] 6. Armastuse võidukäik
+[795] 55. Valguse ja elu sfäärid
+[796] 1. Morontiatempel
+[797] 2. Surm ja ülesviimine
+[798] 3. Kuldajastud
+[799] 4. Haldusalased ümberkorraldused
+[800] Seitse etappi planeedil
+[801] Keskteeliste vabastamine
+[802] Aadama lahkumine
+[803] 5. Ainelise arengu tipp
+[804] 6. Surelik indiviid
+[805] 7. Esimene ehk planeedietapp
+[806] 8. Teine ehk süsteemietapp
+[807] 9. Kolmas ehk tähtkujuetapp
+[808] 10. Neljas ehk kohaliku universumi etapp
+[809] 11. Väike- ja suursektorite etapp
+[810] 12. Seitsmes ehk superuniversumi etapp
+[811] Ülima Määratlemata Juhendajad
+[812] 56. Kõikne ühtsus
+[813] 1. Füüsiline koordineerimine
+[814] 2. Intellektuaalne ühtsus
+[815] 3. Vaimne ühendamine
+[816] 4. Isiksuse ühendamine
+[817] 5. Jumaluse ühtsus
+[818] 6. Areneva Jumaluse ühinemine
+[819] 7. Evolutsiooni kõiksed vastukajad
+[820] 8. Ülim Ühendaja
+[821] 9. Kõikse Absoluudi ühtsus
+[822] 10. Tõde, ilu ja headus
+[823] III OSA.
+[824] Urantia ajalugu
+[825] 57. Urantia päritolu
+[826] 1. Andronoveri udu
+[827] 2. Esmase udu aste
+[828] 3. Teise astme udu
+[829] 4. Kolmas ja neljas aste
+[830] Päikese päritolu
+[831] 5. Urantia Päikesesüsteemi Monmatia päritolu
+[832] Retrograadne liikumine
+[833] 6. Päikesesüsteemi staadium
+[834] Planeetide moodustumise ajajärk
+[835] Loodetest tingitud hõõrdumine
+[836] Gravitatsiooni- ja loodeplahvatused
+[837] 7. Meteooride ajastu
+[838] Vulkaanide aeg
+[839] Planeedi algne atmosfäär
+[840] 8. Maakoore stabiliseerumine
+[841] Maavärinate ajastu
+[842] Maailmameri ja esimene manner
+[843] 58. Elu sisseseadmine Urantial
+[844] 1. Füüsilise elu eeltingimused
+[845] 2. Urantia atmosfäär
+[846] 3. Ümbritsev kosmos
+[847] 4. Elu koidiku ajajärk
+[848] 5. Mandrite triiv
+[849] 6. Üleminekuajastu
+[850] 7. Geoloogiline ajalooraamat
+[851] 59. Mereelu aegkond Urantial
+[852] 1. Varajane mereelu madalates meredes
+[853] Trilobiitide ajajärk
+[854] 2. Mandrite esimene üleujutus
+[855] Selgrootute ajajärk
+[856] 3. Teine suur üleujutus
+[857] Korallide ajastu
+[858] Käsijalgsete ajajärk
+[859] 4. Suur mandrite teke
+[860] Maismaataimede ajastu
+[861] Kalade ajajärk
+[862] 5. Maakoore liikumised
+[863] Sõnajalametsad kivisöeajastul
+[864] Konnade ajajärk
+[865] 6. Kliima üleminekuetapp
+[866] Seemnetaimede ajastu
+[867] Bioloogiliste katsumuste ajajärk
+[868] 60. Varase maismaaelu aegkond Urantial
+[869] 1. Varasem roomajate ajajärk
+[870] 2. Hilisem roomajate ajajärk
+[871] 3. Kriidiajastu
+[872] Õistaimede ajastu
+[873] Lindude ajajärk
+[874] 4. Kriidiajastu lõpp
+[875] 61. Imetajate aegkond Urantial
+[876] 1. Uus mandrilise maismaa etapp
+[877] Varajaste imetajate ajajärk
+[878] 2. Viimane üleujutus
+[879] Arenenud imetajate ajajärk
+[880] 3. Nüüdismäestike teke
+[881] Elevandi ja hobuse ajajärk
+[882] 4. Viimane mandrite kerkimine
+[883] Viimane suur imetajate ränne
+[884] 5. Varane jääaeg
+[885] 6. Ürginimene jääajal
+[886] 7. Jääaja jätkumine
+[887] 62. Varase inimese ürgrassid
+[888] 1. Varased leemuritüübid
+[889] 2. Ürgimetajad
+[890] 3. Vahepealsed imetajad
+[891] Inimahvide põlvnemine
+[892] 4. Primaadid
+[893] 5. Esimesed inimolendid
+[894] 6. Inimmeele areng
+[895] 7. Urantia tunnustamine asustatud maailmana
+[896] 63. Esimene inimperekond
+[897] 1. Andon ja Fonta
+[898] 2. Kaksikute põgenemine
+[899] 3. Andoni perekond
+[900] 4. Andoniitide suguvõsad
+[901] 5. Andoniitide hajumine
+[902] 6. Onagar — esimene tõeõpetaja
+[903] 7. Andoni ja Fonta ellujäämine
+[904] 64. Värvilised arengurassid
+[905] 1. Andoniitidest ürgasukad
+[906] 2. Foxhalli rahvad
+[907] 3. Badonani hõimud
+[908] 4. Neandertali rassid
+[909] 5. Värviliste rasside päritolu
+[910] 6. Urantia kuus sangikrassi
+[911] (1) Punane inimene
+[912] (2) Oranž inimene
+[913] (3) Kollane inimene
+[914] (4) Roheline inimene
+[915] (5) Sinine inimene
+[916] (6) Indigo rass
+[917] Kuue rassi tähendus
+[918] 7. Värviliste rasside hajumine
+[919] 65. Evolutsiooni juhtimine
+[920] 1. Elukandjate ülesanded
+[921] (1) Elektrokeemia füüsiline tase
+[922] (2) Tavaline poolmorontia-eksistentsi keskfaas
+[923] (3) Kõrgem poolvaimne tase
+[924] 2. Evolutsiooni panoraam
+[925] 3. Evolutsiooni edendamine
+[926] 4. Avastusretk Urantial
+[927] 5. Elu arenguraskused
+[928] 6. Elu arendamise meetodid
+[929] 7. Areneva meele tasandid
+[930] Mehaaniline mitteõpetatav meel
+[931] Mittemehaaniline õppiv meel
+[932] 8. Evolutsioon ajas ja ruumis
+[933] 66. Urantia Planeedivürst
+[934] 1. Vürst Caligastia
+[935] 2. Vürsti kaaskond
+[936] 3. Dalamatia — Vürsti linn
+[937] 4. Sadakonna algusajad
+[938] 5. Sadakonna tegevuse korraldus
+[939] (1) Toidu ja ainelise heaolu nõukogu
+[940] (2) Loomade kodustamise ja kasutamise komitee
+[941] (3) Röövloomadega toimetulemise nõuandjad
+[942] (4) Õpetatud kogu teadmiste levitamiseks ja säilitamiseks
+[943] (5) Tööstus- ja kaubanduskomisjon
+[944] (6) Ilmutusliku religiooni kolledž
+[945] (7) Tervise ja elu vardjad
+[946] (8) Planetaarne kunsti- ja teadusnõukogu
+[947] (9) Arenenud hõimusuhete juhtijad
+[948] (10) Hõimude koordineerimise ja rasside koostöö alane ülemkohus
+[949] 6. Vürsti valitsemisaeg
+[950] 7. Elu Dalamatias
+[951] 8. Caligastia ebaõnnestumine
+[952] 67. Planeedi mäss
+[953] 1. Caligastia reetmine
+[954] 2. Mässu puhkemine
+[955] 3. Seitse otsustavat aastat
+[956] 4. Caligastia sadakond pärast mässu
+[957] 5. Mässu vahetud tagajärjed
+[958] 6. Vankumatu Van
+[959] 7. Patu kauged järelmõjud
+[960] 8. Mässu inimkangelane
+[961] 68. Tsivilisatsiooni koidik
+[962] 1. Kaitsev ühiskonnastumine
+[963] 2. Sotsiaalse progressi tegurid
+[964] 3. Tondihirmu ühiskonnastav mõju
+[965] 4. Tavade areng
+[966] 5. Maakasutusviisid kui enese elatamisviisid
+[967] (1) Koriluse etapp
+[968] (2) Jahipidamise etapp
+[969] (3) Karjakasvatuse etapp
+[970] (4) Põlluharimise etapp
+[971] 6. Kultuuri areng
+[972] Maa ja inimese suhe
+[973] 69. Põhilised iniminstitutsioonid
+[974] 1. Põhilised iniminstitutsioonid
+[975] (1) Elatumisinstitutsioonid
+[976] (2) Enesejäädvustamisinstitutsioonid
+[977] (3) Eneserahuldust kindlustavad institutsioonid
+[978] 2. Tootmise algus
+[979] 3. Töö spetsialiseerumine
+[980] 4. Kaubanduse algus
+[981] 5. Kapitali alged
+[982] 6. Tule seos tsivilisatsiooniga
+[983] 7. Loomade kasutamine
+[984] 8. Orjus kui tsivilisatsiooni tegur
+[985] 9. Eraomand
+[986] 70. Inimvalitsuse areng
+[987] 1. Sõja tekkimine
+[988] 2. Sõja ühiskondlik väärtus
+[989] Tänapäevane industrialism militarismi vastu
+[990] 3. Varased inimühendused
+[991] 4. Sugukonnad ja hõimud
+[992] 5. Valitsuse alged
+[993] 6. Monarhistlik valitsus
+[994] 7. Algelised klubid ja salaseltsid
+[995] 8. Ühiskonnaklassid
+[996] 9. Inimõigused
+[997] 10. Õigluse areng
+[998] 11. Seadused ja kohtud
+[999] 12. Tsiviilvõimu jaotumine
+[1000] 71. Riigi areng
+[1001] 1. Algne riik
+[1002] 2. Rahvaesindusliku valitsuse areng
+[1003] 3. Riikluse ideaalid
+[1004] 4. Arenev tsivilisatsioon
+[1005] 5. Konkurentsi areng
+[1006] 6. Kasumimotiiv
+[1007] 7. Haridus
+[1008] 8. Riikluse olemus
+[1009] 72. Valitsemisstruktuurid ühel naaberplaneedil
+[1010] 1. Ühe mandri rahvas
+[1011] 2. Poliitiline kord
+[1012] 3. Kodune elu
+[1013] 4. Haridussüsteem
+[1014] 5. Tootmise korraldus
+[1015] 6. Vanaduskindlustus
+[1016] 7. Maksustamine
+[1017] 8. Erikolledžid
+[1018] 9. Üldise hääleõiguse süsteem
+[1019] 10. Kuritegevuse piiramine
+[1020] 11. Sõjaline valmisolek
+[1021] 12. Teised rahvad
+[1022] 73. Eedeni aed
+[1023] Tabamantia inspektsioonireis
+[1024] 1. Nodiidid ja amadoniidid
+[1025] 2. Aia planeerimine
+[1026] 3. Aia asukoht
+[1027] 4. Aia rajamine
+[1028] 5. Aed kui kodu
+[1029] 6. Elupuu
+[1030] 7. Eedeni saatus
+[1031] 74. Aadam ja Eeva
+[1032] 1. Aadam ja Eeva Jerusemil
+[1033] 2. Aadama ja Eeva saabumine
+[1034] 3. Aadam ja Eeva õpivad planeeti tundma
+[1035] 4. Esimene tõrge
+[1036] 5. Aadama valitsus
+[1037] 6. Aadama ja Eeva kodune elu
+[1038] 7. Elu aias
+[1039] 8. Loomise legend
+[1040] 75. Aadam ja Eeva üleastumine
+[1041] 1. Urantia probleem
+[1042] 2. Caligastia vandenõu
+[1043] 3. Eeva kiusatuses
+[1044] 4. Üleastumisest arusaamine
+[1045] 5. Üleastumise vastukajad
+[1046] 6. Aadam ja Eeva lahkuvad aiast
+[1047] 7. Aadama ja Eeva alandamine
+[1048] 8. Inimese niinimetatud pattulangemine
+[1049] 76. Teine aed
+[1050] 1. Eedenlased saabuvad Mesopotaamiasse
+[1051] 2. Kain ja Aabel
+[1052] 3. Elu Mesopotaamias
+[1053] Setiitide preesterkond
+[1054] 4. Violetne rass
+[1055] 5. Aadama ja Eeva surm
+[1056] Miikaeli sõnum
+[1057] 6. Aadama ja Eeva ellujäämine
+[1058] 77. Keskteelised
+[1059] 1. Esmased keskteelised
+[1060] 2. Nodiitide rass
+[1061] 3. Paabeli torn
+[1062] 4. Nodiitide tsivilisatsiooni keskused
+[1063] 5. Aadamapoeg ja Ratta
+[1064] 6. Teisesed keskteelised
+[1065] 7. Mässulised keskteelised
+[1066] 8. Keskteeliste ühendus
+[1067] 9. Urantia alalised kodanikud
+[1068] 78. Violetne rass pärast Aadamat
+[1069] 1. Rasside ja kultuuride paiknemine
+[1070] 2. Adamiidid teises aias
+[1071] 3. Adamiitide varasem levik
+[1072] 4. Andiidid
+[1073] 5. Andiitide ränded
+[1074] 6. Andiitide viimased hajumised
+[1075] 7. Veeuputused Mesopotaamias
+[1076] Noa lugu
+[1077] 8. Sumerid — viimased andiidid
+[1078] 79. Andiitide siirdumine hommikumaadesse
+[1079] 1. Turkestani andiidid
+[1080] 2. India vallutamine andiitide poolt
+[1081] 3. Draviidide India
+[1082] 4. Aarialaste sissetung Indiasse
+[1083] 5. Punane inimene ja kollane inimene
+[1084] 6. Hiina tsivilisatsiooni koidik
+[1085] 7. Andiidid jõuavad Hiinasse
+[1086] 8. Hiina hilisem tsivilisatsioon
+[1087] 80. Andiitide siirdumine õhtumaadesse
+[1088] 1. Adamiidid jõuavad Euroopasse
+[1089] 2. Klimaatilised ja geoloogilised muutused
+[1090] Üleujutused Vahemere piirkonnas
+[1091] 3. Kromanjooni sinine inimene
+[1092] 4. Andiitide sissetung Euroopasse
+[1093] 5. Andiidid vallutavad Põhja-Euroopa
+[1094] 6. Andiidid Niiluse ääres
+[1095] 7. Vahemere saarte andiidid
+[1096] 8. Doonau andoniidid
+[1097] 9. Kolm valget rahvast
+[1098] 81. Nüüdisaegse tsivilisatsiooni areng
+[1099] 1. Tsivilisatsiooni häll
+[1100] 2. Tsivilisatsiooni tööriistad
+[1101] (1) Tule taltsutamine
+[1102] (2) Loomade kodustamine
+[1103] (3) Vangide orjastamine
+[1104] (4) Eraomand
+[1105] 3. Linnad, käsitööndus ja äri
+[1106] 4. Segarassid
+[1107] (1) Europiidid
+[1108] (2) Mongoliidid
+[1109] (3) Negriidid
+[1110] 5. Kultuurühiskond
+[1111] Võim ja õigus
+[1112] 6. Tsivilisatsiooni säilitamine
+[1113] (1) Looduslikud tingimused
+[1114] (2) Kogutud vara
+[1115] (3) Teaduslikud teadmised
+[1116] (4) Inimressursid
+[1117] (5) Aineliste varude tõhus ärakasutamine
+[1118] (6) Keele tähtsus
+[1119] (7) Mehaaniliste seadmete tõhusus
+[1120] (8) Tunglakandjate olemus
+[1121] (9) Rassiideaalid
+[1122] (10) Asjatundjate kooskõlastatud tegutsemine
+[1123] (11) Meetmed oma koha leidmiseks
+[1124] (12) Koostöötahe
+[1125] (13) Tõhus ja tark juhtimine
+[1126] (14) Ühiskondlikud muutused
+[1127] (15) Kokkuvarisemise vältimine üleminekuperioodil
+[1128] 82. Abielu areng
+[1129] 1. Paaritumisinstinkt
+[1130] 2. Piiravad tabud
+[1131] 3. Varased abielukombed
+[1132] 4. Abielu ja omanditavad
+[1133] 5. Sugukonnasisene ja -väline abiellumine
+[1134] 6. Rasside segunemine
+[1135] 83. Abieluinstitutsioon
+[1136] 1. Abielu kui ühiskondlik institutsioon
+[1137] 2. Kosimine ja kihlus
+[1138] 3. Ostmine ja kaasavara
+[1139] 4. Pulmatseremoonia
+[1140] 5. Mitmikabielud
+[1141] 6. Tõeline monogaamia — paarisabielu
+[1142] 7. Abielu lahutamine
+[1143] 8. Abielu idealiseerimine
+[1144] 84. Abielu ja perekonnaelu
+[1145] 1. Algelised paarisuhted
+[1146] 2. Varane emakeskne perekond
+[1147] 3. Isakeskne perekond
+[1148] 4. Naise seisund varases ühiskonnas
+[1149] 5. Naise seisund kommete arenedes
+[1150] 6. Mehe ja naise partnerlus
+[1151] 7. Perekonnaelu ideaalid
+[1152] 8. Ihade rahuldamises sisalduvad ohud
+[1153] 85. Palvelduse päritolu
+[1154] 1. Kivide ja kinkude kummardamine
+[1155] 2. Taimede ja puude kummardamine
+[1156] 3. Loomade kummardamine
+[1157] 4. Loodusjõudude kummardamine
+[1158] 5. Taevakehade kummardamine
+[1159] 6. Inimese kummardamine
+[1160] 7. Palveldamisvaim ja tarkusevaim
+[1161] 86. Religiooni varane areng
+[1162] 1. Juhus: hea ja halb õnn
+[1163] 2. Juhuse isikustamine
+[1164] 3. Surm, see seletamatu
+[1165] 4. Arusaam pärast surma ellujäämisest
+[1166] 5. Hinge kui tondi käsitus
+[1167] 6. Vaimu kui tondi keskkond
+[1168] 7. Algelise religiooni ülesanne
+[1169] 87. Tondikultused
+[1170] 1. Tondihirm
+[1171] 2. Tontide lepitamine
+[1172] 3. Esivanemate kummardamine
+[1173] 4. Head ja halvad tondid
+[1174] 5. Arenenud tondikultus
+[1175] 6. Sundimine ja väljaajamine
+[1176] 7. Kultuse olemus
+[1177] 88. Fetišid, amuletid ja maagia
+[1178] 1. Usk fetišitesse
+[1179] 2. Fetiši areng
+[1180] Kujud ja puuslikud
+[1181] Pühad raamatud”
+[1182] 3. Totemism
+[1183] 4. Maagia
+[1184] 5. Maagilised amuletid
+[1185] 6. Maagia harrastamine
+[1186] 89. Patt, ohverdamine ja lepitus
+[1187] 1. Tabu
+[1188] 2. Patu mõiste
+[1189] 3. Loobumus ja alandus
+[1190] Sugulise karskuse kultus
+[1191] 4. Ohverdamise lätted
+[1192] 5. Ohverdamine ja inimsöömine
+[1193] 6. Inimese ohverdamise areng
+[1194] 7. Inimohvrite erivormid
+[1195] Templiprostitutsioon
+[1196] 8. Lunastus ja lepingud
+[1197] 9. Ohvrid ja sakramendid
+[1198] 10. Patu andeksandmine
+[1199] 90. Šamanism — ravitsejad ja preestrid
+[1200] 1. Esimesed šamaanid — ravitsejad
+[1201] 2. Šamaanide tegevus
+[1202] 3. Šamaanide arusaam haigusest ja surmast
+[1203] 4. Šamaaniravi
+[1204] 5. Preestrid ja rituaalid
+[1205] 91. Palve areng
+[1206] 1. Algeline palve
+[1207] 2. Arenev palve
+[1208] Palve maagia vastu
+[1209] 3. Palve ja alter ego
+[1210] 4. Eetiline palve
+[1211] 5. Palve vastukajad ühiskonnas
+[1212] 6. Palve ulatus
+[1213] 7. Müstika, ekstaas ja inspiratsioon
+[1214] 8. Palvetamine kui isiklik kogemus
+[1215] 9. Tulemusliku palve tingimused
+[1216] 92. Religiooni hilisem areng
+[1217] 1. Religiooni arenguline olemus
+[1218] 2. Religioon ja kombed
+[1219] 3. Arengulise religiooni olemus
+[1220] 4. Ilmutus kui kingitus
+[1221] (1) Dalamatia õpetused
+[1222] (2) Eedeni õpetused
+[1223] (3) Saalemi Melkisedek
+[1224] (4) Jeesus Naatsaretlane
+[1225] (5) Urantia kirjad
+[1226] 5. Suured usujuhid
+[1227] 6. Ühendreligioonid
+[1228] Üksteist elavat religiooni
+[1229] 7. Religiooni edasine areng
+[1230] 93. Machiventa Melkisedek
+[1231] 1. Machiventa kehastumine
+[1232] 2. Saalemi tark
+[1233] 3. Melkisedeki õpetused
+[1234] 4. Saalemi religioon
+[1235] Usutunnistus
+[1236] Seitse käsku
+[1237] 5. Aabrahami väljavalimine
+[1238] 6. Melkisedeki leping Aabrahamiga
+[1239] 7. Melkisedeki misjonärid
+[1240] 8. Melkisedeki lahkumine
+[1241] 9. Pärast Melkisedeki lahkumist
+[1242] 10. Machiventa Melkisedeki praegune seisund
+[1243] 94. Melkisedeki õpetused hommikumaal
+[1244] 1. Saalemi õpetused veedade Indias
+[1245] Rigveda
+[1246] 2. Brahmanism
+[1247] Taaskehastumise õpetus
+[1248] 3. Brahmanistlik filosoofia
+[1249] 4. Hinduism
+[1250] 5. Võitlus tõe eest Hiinas
+[1251] 6. Laozi ja Kong Fuzi
+[1252] 7. Gautama Siddhartha
+[1253] 8. Budism
+[1254] Gautama evangeelium
+[1255] Moraalinõuded
+[1256] 9. Budismi levik
+[1257] 10. Tiibeti religioon
+[1258] 11. Budistlik filosoofia
+[1259] 12. Budismi jumalakäsitus
+[1260] 95. Melkisedeki õpetused Vahemere idarannikul
+[1261] 1. Saalemi religioon Mesopotaamias
+[1262] 2. Egiptuse varasem religioon
+[1263] 3. Moraalikäsituste areng
+[1264] 4. Amenhotepi õpetused
+[1265] 5. Tähelepanuväärne Ehnaton
+[1266] 6. Saalemi õpetused Iraanis
+[1267] 7. Saalemi õpetused Araabias
+[1268] 96. Jahve — heebrealaste Jumal
+[1269] 1. Semiitide arusaamad Jumalusest
+[1270] 2. Semiidi rahvad
+[1271] 3. Võrratu Mooses
+[1272] 4. Jahve kuulutamine
+[1273] 5. Moosese õpetused
+[1274] Aineline ettehooldus
+[1275] 6. Jumalakäsitus pärast Moosese surma
+[1276] 7. Psalmid ja Iiobi raamat
+[1277] 97. Heebrealaste jumalakäsituse areng
+[1278] 1. Saamuel — esimene Heebrea prohvet
+[1279] 2. Eelija ja Eliisa
+[1280] 3. Jahve ja Baal
+[1281] 4. Aamos ja Hoosea
+[1282] 5. Esimene Jesaja
+[1283] Miika ja Obadja
+[1284] 6. Kartmatu Jeremija
+[1285] 7. Teine Jesaja
+[1286] 8. Püha ja paganlik ajalugu
+[1287] 9. Heebrea ajalugu
+[1288] Efraim ja Juuda
+[1289] Saul ja Taavet
+[1290] Saalomon ja maksustamine
+[1291] Iisrael ja Juuda
+[1292] Iisraeli kuningriigi hävitamine
+[1293] Juuda kuningriigi lõpp
+[1294] Babüloni vangipõlv
+[1295] 10. Heebrea religioon
+[1296] 98. Melkisedeki õpetused õhtumaal
+[1297] 1. Saalemi religioon kreeklaste seas
+[1298] 2. Kreeka filosoofiline mõte
+[1299] 3. Melkisedeki õpetused Roomas
+[1300] 4. Müsteeriumikultused
+[1301] Früüglaste Kybele ja Attise kultus
+[1302] Egiptlaste Osirise ja Isise kultus
+[1303] Iraanlaste Mithra kultus
+[1304] 5. Mithra kultus
+[1305] 6. Mithraism ja ristiusk
+[1306] 7. Kristlik religioon
+[1307] 99. Religiooni ühiskondlikud probleemid
+[1308] 1. Religioon ja ühiskonna ümberkorraldamine
+[1309] 2. Korraldusliku religiooni nõrkus
+[1310] 3. Religioon ja usklik
+[1311] 4. Üleminekuraskused
+[1312] 5. Religiooni ühiskondlikud aspektid
+[1313] 6. Korralduslik religioon
+[1314] 7. Religiooni panus
+[1315] 100. Religioon inimkogemuses
+[1316] 1. Usuline kasv
+[1317] 2. Vaimne kasv
+[1318] 3. Ülima väärtuse käsitused
+[1319] 4. Kasvuraskused
+[1320] 5. Uskupöördumine ja müstika
+[1321] 6. Religioosse elu tunnused
+[1322] 7. Religioosse elu kõrgpunkt
+[1323] 101. Religiooni tõeline olemus
+[1324] 1. Tõeline religioon
+[1325] 2. Religiooni tõelisus
+[1326] 3. Religiooni omadused
+[1327] Vaimse usu kaksteist näidet
+[1328] 4. Ilmutuse piirangud
+[1329] 5. Ilmutuse tulemusena avarduv religioon
+[1330] 6. Arenev usukogemus
+[1331] Lunastuse seitse tahku
+[1332] 7. Isiklik usufilosoofia
+[1333] 8. Usk ja uskumus
+[1334] 9. Religioon ja moraal
+[1335] 10. Religioon kui inimese vabastaja
+[1336] 102. Religioosse usu alused
+[1337] 1. Usu kinnitused
+[1338] 2. Religioon ja reaalsus
+[1339] 3. Teadmine, tarkus ja taipamine
+[1340] 4. Kogemus kui tõsiasi
+[1341] 5. Eesmärgipärase potentsiaali ülimuslikkus
+[1342] 6. Religioosse usu kindlus
+[1343] 7. Veendumus Jumala olemasolus
+[1344] 8. Religiooni tõendid
+[1345] 103. Usukogemuse reaalsus
+[1346] 1. Religioonifilosoofia
+[1347] 2. Religioon ja üksikisik
+[1348] 3. Religioon ja inimsugu
+[1349] 4. Vaimne osadus
+[1350] 5. Ideaalide päritolu
+[1351] 6. Filosoofiline kooskõlastamine
+[1352] 7. Teadus ja religioon
+[1353] 8. Filosoofia ja religioon
+[1354] 9. Religiooni põhiolemus
+[1355] 104. Kolmsuse mõiste areng
+[1356] 1. Urantia Kolmsuse käsitused
+[1357] 2. Kolmsuse ühtsus ja Jumaluse paljusus
+[1358] 3. Kolmsused ja kolmühtsused
+[1359] 4. Seitse kolmühtsust
+[1360] 5. Kolmikliidud
+[1361] 105. Jumalus ja reaalsus
+[1362] 1. Filosoofiline mõiste „MINA OLEN”
+[1363] 2. MINA OLEN kolmühtsena ja seitsmekordsena
+[1364] 3. Lõpmatuse Seitse Absoluuti
+[1365] 4. Ühtsus, kahesus ja kolmühtsus
+[1366] 5. Piiritletud reaalsuse kehtestamine
+[1367] 6. Piiritletud reaalsuse vastukajad
+[1368] 7. Transtsendentaalide ilmnemine
+[1369] 106. Reaalsuse universumitasandid
+[1370] 1. Piiritletud funktsionalide esimese astme ühendus
+[1371] Seitsmekordne Jumal
+[1372] 2. Teise astme Ülima piiritletu lõimumine
+[1373] Ülim Olend
+[1374] 3. Transtsendentne kolmanda astme reaalsuseühendus
+[1375] Viimane Kolmsus
+[1376] 4. Viimane, neljanda astme integratsioon
+[1377] Viimane Jumalus
+[1378] 5. Kaasabsoluutne ehk viienda faasi ühendus
+[1379] Kolmsus-Absoluut
+[1380] 6. Absoluutne ehk kuuendane integratsioon
+[1381] Kosmoslõpmatus
+[1382] 7. Saatuse lõplikkus
+[1383] 8. Kolmsuste Kolmsus
+[1384] (1) Kolme Kolmsuse tasand
+[1385] (2) Kogemusliku Jumaluse tasand
+[1386] (3) MINA OLEN - tasand
+[1387] 9. Eksistentsiaalse lõpmatuse ühildumine
+[1388] 107. Mõttekohandajate päritolu ja olemus
+[1389] 1. Mõttekohandajate päritolu
+[1390] 2. Kohandajate liigitus
+[1391] 3. Mõttekohandajate kodu Divinington
+[1392] 4. Mõttekohandajate olemus ja kohalolek
+[1393] 5. Kohandajate meel
+[1394] 6. Kohandajad kui ehedad vaimud
+[1395] 7. Kohandajad ja isiksus
+[1396] 108. Mõttekohandajate missioon ja hoolekanne
+[1397] 1. Valik ja ülesanded
+[1398] 2. Kohandaja tuleku eeldused
+[1399] Urantial
+[1400] Teistes maailmades
+[1401] 3. Korraldamine ja haldamine
+[1402] Tabamantia lõiv
+[1403] 4. Seos teiste vaimsete mõjudega
+[1404] 5. Kohandaja missioon
+[1405] 6. Jumal inimeses
+[1406] 109. Kohandajate suhe universumi loodud-olenditega
+[1407] 1. Kohandajate areng
+[1408] 2. Isetegutsevad Kohandajad
+[1409] 3. Kohandajate suhe surelike loodud-olenditega
+[1410] 4. Kohandajad ja inimisiksus
+[1411] 5. Sisimas elava Kohandaja ainelised piirangud
+[1412] 6. Tõeliste väärtuste püsivus
+[1413] Kohandaja, kes elas Jeesuses
+[1414] 7. Isikustatud Kohandajate saatus
+[1415] Isikuliselt kõiksed olendid
+[1416] 110. Kohandajate suhted üksiksurelikega
+[1417] 1. Elu surelikus meeles
+[1418] 2. Kohandajad ja inimese tahe
+[1419] 3. Koostöö Kohandajaga
+[1420] 4. Kohandaja töö meeles
+[1421] 5. Väärarusaamad seoses Kohandaja tegevusega
+[1422] 6. Seitse psüühilist ringi
+[1423] 7. Surematuse saavutamine
+[1424] Kohandaja palve hingele
+[1425] 111. Kohandaja ja hing
+[1426] 1. Meel kui valikute tegemise väli
+[1427] 2. Hinge olemus
+[1428] 3. Arenev hing
+[1429] 4. Sisemine elu
+[1430] 5. Valiku pühitsemine
+[1431] 6. Inimese paradoks
+[1432] 7. Kohandaja probleem
+[1433] Saatuse kaitsja ettekanne
+[1434] 112. Isiksuse ellujäämine
+[1435] Isiksuse neliteist aspekti
+[1436] 1. Isiksus ja reaalsus
+[1437] 2. Ise
+[1438] 3. Surm kui nähtus
+[1439] 4. Kohandajad pärast surma
+[1440] 5. Inimese mina ellujäämine
+[1441] 6. Morontiamina
+[1442] 7. Sulandumine Kohandajaga
+[1443] 113. Seeravlikud saatuse kaitsjad
+[1444] 1. Kaitseinglid
+[1445] 2. Saatuse kaitsjad
+[1446] 3. Suhe teiste vaimumõjudega
+[1447] 4. Seeravite tegevusvaldkonnad
+[1448] 5. Seeravite hoolitsus surelike eest
+[1449] 6. Kaitseinglid pärast surma
+[1450] 7. Seeravid ja tõusutee
+[1451] 114. Seeravite valitsus planeedil
+[1452] 1. Urantia suveräänsus
+[1453] 2. Planeedi juhendajate kogu
+[1454] 3. Kohalik kindralkuberner
+[1455] 4. Kõigekõrgem vaatleja
+[1456] Kõigekõrgema asevalitseja
+[1457] 5. Planeedi valitsus
+[1458] 6. Planeeti juhendavad meisterseeravid
+[1459] (1) Epohhiinglid
+[1460] (2) Arenguinglid
+[1461] (3) Usukaitsjad
+[1462] (4) Riigielu inglid
+[1463] (5) Rasside inglid
+[1464] (6) Tulevikuinglid
+[1465] (7) Valgustuseinglid
+[1466] (8) Terviseinglid
+[1467] (9) Koduseeravid
+[1468] (10) Tööstuseinglid
+[1469] (11) Meelelahutuseinglid
+[1470] (12) Üleinimliku hoolekande inglid
+[1471] 7. Saatuse reservkorpus
+[1472] 115. Ülim Olend
+[1473] 1. Arusaamapiiride suhtelisus
+[1474] 2. Ülimuslikkuse absoluutne alus
+[1475] 3. Algne, tegelik ja potentsiaalne
+[1476] 4. Ülima reaalsuse allikad
+[1477] 5. Ülima suhe Paradiisi-Kolmsusega
+[1478] 6. Ülima suhe kolmikliitudega
+[1479] 7. Ülima olemus
+[1480] 116. Kõikvõimas Ülim
+[1481] 1. Ülim meel
+[1482] Kosmiline meel
+[1483] 2. Kõikvõimas ja Seitsmekordne Jumal
+[1484] 3. Kõikvõimas ja Paradiisi-Jumalus
+[1485] 4. Kõikvõimas ja Ülimad Loojad
+[1486] 5. Kõikvõimas ja Seitsmekordsed ülevaatajad
+[1487] Tasakaalu küsimus
+[1488] 6. Vaimu ülemvõim
+[1489] 7. Suuruniversumi elav organism
+[1490] 117. Ülim Jumal
+[1491] 1. Ülima Olendi olemus
+[1492] 2. Arengulise kasvu allikas
+[1493] Loodud-olendite kolmsustatud pojad ja kasv
+[1494] 3. Ülima tähendus universumi loodud-olendite jaoks
+[1495] 4. Piiritletud Jumal
+[1496] Kosmiline kõlblus on ülim kohus
+[1497] 5. Loodu ülemhing
+[1498] Lõpetanute transtsendeerumine
+[1499] Inimese arengu vastukajad
+[1500] 6. Ülima otsinguil
+[1501] 7. Ülima tulevik
+[1502] 118. Ülim ja Viimane — aeg ja ruum
+[1503] 1. Aeg ja igavik
+[1504] Kogemuslikud (subjektiivsed) ajaühikud
+[1505] 2. Kõikjalolek ja kõikjale jõudmine
+[1506] 3. Aegruumilised suhted
+[1507] Tõde ja fakt
+[1508] Ruum ja vorm
+[1509] 4. Esmane ja teisene põhjuslik seos
+[1510] 5. Kõikvõimsus ja koosvõimalikkus
+[1511] 6. Kõikvõimsus ja kõikeloovus
+[1512] 7. Kõiketeadmine ja ettemääratus
+[1513] 8. Juhtimine ja ülemjuhtimine
+[1514] Arengu juhtija ajas
+[1515] 9. Universumi mehhanismid
+[1516] 10. Ettehoolduse funktsioonid
+[1517] 119. Kristus Miikaeli annetumised
+[1518] 1. Esimene annetumine
+[1519] 2. Teine annetumine
+[1520] 3. Kolmas annetumine
+[1521] 4. Neljas annetumine
+[1522] 5. Viies annetumine
+[1523] 6. Kuues annetumine
+[1524] 7. Seitsmes ja viimane annetumine
+[1525] 8. Miikaeli annetumisjärgne staatus
+[1526] IV OSA.
+[1527] Jeesuse elu ja õpetused
+[1528] 120. Miikaeli annetumine Urantial
+[1529] 1. Seitsmes annetumisülesanne
+[1530] 2. Annetumispiirangud
+[1531] 3. Muud nõuanded ja soovitused
+[1532] 4. Kehastumine — kahe tegemine üheks
+[1533] 121. Miikaeli annetumise aeg
+[1534] 1. Õhtumaa esimesel sajandil pärast Kristust
+[1535] 2. Juudi rahvas
+[1536] 3. Paganate hulgas
+[1537] 4. Paganlik filosoofia
+[1538] (1) Epikuurlased
+[1539] (2) Stoikud
+[1540] (3) Küünikud
+[1541] (4) Skeptikud
+[1542] 5. Paganlikud religioonid
+[1543] Müsteeriumreligioonid
+[1544] 6. Heebrea religioon
+[1545] 7. Juudid ja paganad
+[1546] 8. Varem koostatud kirjalikud allikad
+[1547] (1) Markuse evangeelium
+[1548] (2) Matteuse evangeelium
+[1549] (3) Luuka evangeelium
+[1550] (4) Johannese evangeelium
+[1551] Märkus
+[1552] 122. Jeesuse sünd ja imikuiga
+[1553] 1. Joosep ja Maarja
+[1554] 2. Gabriel ilmub Eliisabetile
+[1555] 3. Gabrieli teade Maarjale
+[1556] 4. Joosepi unenägu
+[1557] Taaveti koda”
+[1558] 5. Jeesuse maised vanemad
+[1559] 6. Kodu Naatsaretis
+[1560] 7. Reis Petlemma
+[1561] 8. Jeesuse sünd
+[1562] Legend karjustest
+[1563] Kolm Uuri preestrit
+[1564] Petlemma täht
+[1565] 9. Jeesus viiakse templisse
+[1566] 10. Herodes tegutseb
+[1567] Põgenemine Egiptusse
+[1568] 123. Jeesuse varane lapseiga
+[1569] Viibimine Egiptuses
+[1570] 1. Tagasi Naatsaretis
+[1571] Jeesuse neljas eluaasta
+[1572] 2. Viies eluaasta (2. a eKr)
+[1573] Laste kasvatamine
+[1574] 3. Kuuenda eluaasta sündmused (1. a eKr)
+[1575] 4. Seitsmes eluaasta (1. a pKr)
+[1576] Ainelised õnnetused
+[1577] 5. Koolipäevad Naatsaretis
+[1578] 6. Tema kaheksas eluaasta (2. a pKr)
+[1579] 124. Jeesuse hilisem lapseiga
+[1580] 1. Jeesuse üheksas eluaasta (3. a pKr)
+[1581] Pilt põrandal
+[1582] Galilea kliima
+[1583] 2. Kümnes eluaasta (4. a pKr)
+[1584] Müürsepa poeg Jaakob
+[1585] 3. Üheteistkümnes eluaasta (5. a pKr)
+[1586] Skythopolise episood
+[1587] 4. Kaheteistkümnes eluaasta (6. a pKr)
+[1588] Isiklik moraalsus ja ustavus rühmale
+[1589] 5. Tema kolmeteistkümnes eluaasta (7. a pKr)
+[1590] 6. Reis Jeruusalemma
+[1591] Maarja, Marta ja Laatsarus
+[1592] 125. Jeesus Jeruusalemmas
+[1593] 1. Jeesus tutvub templiga
+[1594] 2. Jeesus ja paasapüha
+[1595] 3. Joosepi ja Maarja lahkumine
+[1596] 4. Esimene ja teine päev templis
+[1597] 5. Kolmas päev templis
+[1598] 6. Neljas päev templis
+[1599] 126. Kaks otsustavat aastat
+[1600] 1. Tema neljateistkümnes eluaasta (8. a pKr)
+[1601] 2. Joosepi surm
+[1602] 3. Viieteistkümnes eluaasta (9. a pKr)
+[1603] Meie Isa palve päritolu
+[1604] Inimese Poeg
+[1605] Kes on messias?
+[1606] 4. Esimene jutlus sünagoogis
+[1607] 5. Rahalised raskused
+[1608] 127. Noorusaastad
+[1609] 1. Kuueteistkümnes eluaasta (10. a pKr)
+[1610] 2. Seitsmeteistkümnes eluaasta (11. a pKr)
+[1611] Seloodi episood
+[1612] 3. Kaheksateistkümnes eluaasta (12. a pKr)
+[1613] Jaakobusega paasapühal
+[1614] Eliisabeti ja Johannese külaskäik
+[1615] Aamose surm
+[1616] 4. Üheksateistkümnes eluaasta (13. a pKr)
+[1617] Laste kasvatamine
+[1618] 5. Esra tütar Rebeka
+[1619] 6. Tema kahekümnes eluaasta (14. a pKr)
+[1620] Paasapüha-külaskäik Jeruusalemma
+[1621] 128. Jeesus noore mehe eas
+[1622] 1. Kahekümne esimene eluaasta (15. a pKr)
+[1623] Süvenev teadlikkus jumalikkusest
+[1624] Joosepiga paasapühal
+[1625] 2. Kahekümne teine eluaasta (16. a pKr)
+[1626] Sepana Sepphorises
+[1627] 3. Kahekümne kolmas eluaasta (17. a pKr)
+[1628] Siimoniga paasapühal
+[1629] Jeesus kohtub Stefanosega
+[1630] 4. Damaskuse episood
+[1631] 5. Kahekümne neljas eluaasta (18. a pKr)
+[1632] Aleksandrialaste ettepanek
+[1633] 6. Kahekümne viies eluaasta (19. a pKr)
+[1634] Juudaga paasapühal
+[1635] „Onu Joosua, räägi meile üks jutt”
+[1636] 7. Kahekümne kuues eluaasta (20. a pKr)
+[1637] Jaakobuse abielu
+[1638] Mirjami abielu
+[1639] Jaakobus Joosepi perekonna peana
+[1640] 129. Jeesuse hilisem elu täiskasvanuna
+[1641] 1. Kahekümne seitsmes eluaasta (21. a pKr)
+[1642] Sebedeus Kapernaumast
+[1643] Jeesus paadiehitajana
+[1644] 2. Kahekümne kaheksas eluaasta (22. a pKr)
+[1645] Jeesus külastab Jeruusalemma
+[1646] Kohtumine Gonodi ja Ganidiga
+[1647] 3. Kahekümne üheksas eluaasta (23. a pKr)
+[1648] Rooma-reisi eesmärk
+[1649] 4. Jeesus inimesena
+[1650] 130. Teel Rooma
+[1651] 1. Joppes — kõnelus Joonast
+[1652] Arutlus heast ja kurjast
+[1653] 2. Kaisareas
+[1654] Kaupmees Mongooliast
+[1655] Kreeka tööline ja Rooma ülemus
+[1656] Jumala tahe ja inimese tahe
+[1657] 3. Aleksandrias
+[1658] 4. Kõnelus reaalsusest
+[1659] 5. Kreeta saarel
+[1660] 6. Kartlik noormees
+[1661] 7. Kartaagos. Arutlus ajast ja ruumist
+[1662] 8. Teel Napolisse ja Rooma
+[1663] Esra, usust taganenud juut
+[1664] 131. Maailmausundid
+[1665] 1. Küünikute õpetus
+[1666] 2. Judaism
+[1667] 3. Budism
+[1668] 4. Hinduism
+[1669] 5. Zoroastrism
+[1670] 6. Suduanism (džainism)
+[1671] 7. Šintoism
+[1672] 8. Taoism
+[1673] 9. Konfutsianism
+[1674] 10. „Meie usund”
+[1675] 132. Viibimine Roomas
+[1676] Mõju kolmekümne kahele usujuhile
+[1677] 1. Tõelised väärtused
+[1678] 2. Hea ja kuri
+[1679] 3. Tõde ja usk
+[1680] 4. Isiklik hoolitsus
+[1681] Rooma senaatorile
+[1682] Rooma sõdurile
+[1683] Foorumil kõnelejale
+[1684] Vaesele mehele, keda ebaõiglaselt süüdistati
+[1685] 5. Nõuanne rikkale
+[1686] 6. Ühiskonna teenimine
+[1687] 7. Rännakud Rooma lähikonnas
+[1688] Mõtlematu pagan
+[1689] „Teeme ühes sinuga uue religiooni”
+[1690] 133. Tagasipöördumine Roomast
+[1691] India kastisüsteem
+[1692] 1. Halastus ja õiglus
+[1693] 2. Laevaleminek Tarentumis
+[1694] Mees, kes oma naist halvasti kohtles
+[1695] 3. Korintoses
+[1696] Sünagoogi ülem Krispus
+[1697] Kaupmees Justus
+[1698] Kaks avalikku naist
+[1699] 4. Isiklik töö Korintoses
+[1700] Möldrile
+[1701] Rooma tsentuuriole
+[1702] Mithraismikultuse juhile
+[1703] Epikuurlasest õpetajale
+[1704] Kreeka ettevõtjale
+[1705] Rooma kohtunikule
+[1706] Kreeka kõrtsiemandale
+[1707] Hiina kaupmehele
+[1708] Rändurile Britanniast
+[1709] Põgenevale poisile
+[1710] Süüdimõistetud kurjategijale
+[1711] 5. Ateenas — arutlus teadusest
+[1712] 6. Efesoses — arutlus hingest
+[1713] 7. Viibimine Küprosel — arutlus meelest
+[1714] 8. Antiookias
+[1715] 9. Mesopotaamias
+[1716] 134. Üleminekuaastad
+[1717] 1. Kolmekümnes eluaasta (24. a pKr)
+[1718] Tagasipöördumine Naatsaretti
+[1719] Siimoni abielu, Juuda abielu
+[1720] 2. Karavanireis Kaspia mere äärde
+[1721] 3. Urmia loengud
+[1722] 4. Suveräänsus — jumalik ja inimlik
+[1723] 5. Poliitiline suveräänsus
+[1724] 6. Seadus, vabadus ja suveräänsus
+[1725] 7. Kolmekümne esimene eluaasta (25. a pKr)
+[1726] Rännakud üksinda
+[1727] 8. Viibimine Hermoni mäel
+[1728] Luciferi mässu lõpp
+[1729] Nebadoni suveräänsus
+[1730] 9. Ooteaeg
+[1731] Johannesega Jeruusalemmas
+[1732] Tööl Sebedeuse paadikojas
+[1733] 135. Ristija Johannes
+[1734] 1. Johannesest saab nasariit
+[1735] 2. Sakariase surm
+[1736] 3. Karjuseelu
+[1737] 4. Eliisabeti surm
+[1738] 5. Jumalariik
+[1739] 6. Johannes alustab kuulutamist
+[1740] 7. Johannes rändab põhja suunas
+[1741] 8. Jeesuse ja Johannese kohtumine
+[1742] Jeesuse ristimine
+[1743] 9. Nelikümmend päeva jutlustamist
+[1744] 10. Johannes rändab lõuna poole
+[1745] 11. Johannes vanglas
+[1746] 12. Ristija Johannese surm
+[1747] 136. Ristimine ja nelikümmend päeva
+[1748] 1. Käsitused oodatud messiast
+[1749] 2. Jeesuse ristimine
+[1750] 3. Nelikümmend päeva
+[1751] Nõupidamine Gabrieliga
+[1752] Universumi suveräänsuse saavutamine
+[1753] 4. Avaliku töö plaanid
+[1754] Isa tee
+[1755] 5. Esimene suur otsus
+[1756] Isikustatud Kohandaja juhtimas
+[1757] Kohandaja sõltumatus ajast
+[1758] 6. Teine otsus
+[1759] Loomuliku maise elu rada
+[1760] 7. Kolmas otsus
+[1761] Allumine loodusseadustele
+[1762] 8. Neljas otsus
+[1763] Keeldumine kompromissist kurjaga
+[1764] 9. Viies otsus
+[1765] Taaveti trooni tagasilükkamine
+[1766] 10. Kuues otsus
+[1767] „Ma täidan oma Isa tahet.”
+[1768] 137. Galileas veedetud aeg
+[1769] 1. Esimese nelja apostli väljavalimine
+[1770] Andreas ja Peetrus
+[1771] Jaakobus ja Johannes
+[1772] 2. Filippuse ja Naatanaeli väljavalimine
+[1773] 3. Külaskäik Kapernauma
+[1774] 4. Kaana pulm
+[1775] 5. Tagasi Kapernaumas
+[1776] 6. Sabatipäeva sündmused
+[1777] 7. Neli kuud õppimist
+[1778] 8. Jutlus taevariigist
+[1779] 138. Taevariigi sõnumitoojate koolitus
+[1780] 1. Viimased õpetussõnad
+[1781] 2. Kuue väljavalimine
+[1782] 3. Matteuse ja Siimoni kutsumine
+[1783] Mitte õiged, vaid patused
+[1784] 4. Kaksikute kutsumine
+[1785] 5. Toomase ja Juuda kutsumine
+[1786] 6. Nädal pingelist koolitust
+[1787] 7. Veel üks pettumus
+[1788] 8. Kaheteistkümne esimene töö
+[1789] 9. Viis kuud järelekatsumist
+[1790] 10. Kaheteistkümne töökorraldus
+[1791] 139. Kaksteist apostlit
+[1792] 1. Andreas, esimene väljavalitu
+[1793] 2. Siimon Peetrus
+[1794] 3. Jaakobus Sebedeus
+[1795] 4. Johannes Sebedeus
+[1796] 5. Uudishimulik Filippus
+[1797] 6. Aus Naatanael
+[1798] 7. Matteus Leevi
+[1799] 8. Toomas Didymos
+[1800] 9. ja 10. Jaakobus ja Juudas Alfeus
+[1801] 11. Seloot Siimon
+[1802] 12. Juudas Iskariot
+[1803] 140. Kaheteistkümne apostli ametissepühitsemine
+[1804] 1. Esialgsed õpetused
+[1805] 2. Ametissepühitsemine
+[1806] 3. Pühitsusjutlus
+[1807] Mäejutlus
+[1808] 4. Teie olete maa sool
+[1809] 5. Isa- ja vennaarmastus
+[1810] Õndsad on vaimus vaesed — alandlikud...
+[1811] Õndsad on need, kellel on nälg ja janu õiguse järele...
+[1812] Õndsad on tasased...
+[1813] Õndsad on puhtad südamelt...
+[1814] Õndsad on kurvad...
+[1815] Õndsad on halastajad...
+[1816] Õndsad on rahutegijad...
+[1817] Õndsad on need, keda taga kiusatakse...
+[1818] 6. Ametissepühitsemise päeva õhtu
+[1819] „Ma vaatan tegudest kaugemale...”
+[1820] Abielulahutusest
+[1821] Õiglus ja arm
+[1822] „Neil on hea magada — ära sega neid.”
+[1823] 7. Pühitsemisele järgnenud nädal
+[1824] 8. Neljapäeva õhtupoolik järvel
+[1825] (1) Isa tahte täitmine
+[1826] (2) Suhtumine poliitikasse
+[1827] (3) Ühiskondlik hoiak
+[1828] (4) Suhtumine majandusse
+[1829] (5) Isiklik religioon
+[1830] 9. Õnnistamispäev
+[1831] 10. Õhtupoolik pärast õnnistamist
+[1832] 141. Avaliku töö algus
+[1833] 1. Lahkumine Galileast
+[1834] 2. Jumala seadus ja Isa tahe
+[1835] 3. Viibimine Amatuses
+[1836] Jeesuse iseloom
+[1837] Jeesuse välimus
+[1838] 4. Õpetus Isast
+[1839] Haigete eest hoolitsemine
+[1840] 5. Vaimne ühtsus
+[1841] 6. Viimane nädal Amatuses
+[1842] Pärslane Teherma
+[1843] 7. Betaanias, teispool Jordanit
+[1844] Õpetus taevariigist
+[1845] Pääsemine usu kaudu, vabadus tõe kaudu
+[1846] 8. Töö Jeerikos
+[1847] 9. Jeruusalemma minek
+[1848] 142. Paasapüha Jeruusalemmas
+[1849] Külaskäik Hannase juurde
+[1850] 1. Õpetustöö templis
+[1851] 2. Jumala viha
+[1852] Jaakob Kreetalt
+[1853] 3. Arusaam Jumalast
+[1854] Heebrealaste kuus arusaama Jumalast
+[1855] Varasemad kümme käsku
+[1856] 4. Flavius ja Kreeka kultuur
+[1857] 5. Jutlus kindlast usust
+[1858] 6. Nikodeemose külaskäik
+[1859] 7. Õppetund perekonnast
+[1860] 8. Juudamaa lõunaosas
+[1861] Laager Ketsemani aias
+[1862] 143. Teekond läbi Samaaria
+[1863] 1. Jutlustamine Arhelaisis
+[1864] „Nad tegid meie sõnumit maha.”
+[1865] „Kas teie näite nõrkadena?”
+[1866] 2. Enesevalitsemise õppetund
+[1867] 3. Meelelahutus ja puhkus
+[1868] Kolm päeva Sartaba mäel
+[1869] 4. Juudid ja samaarlased
+[1870] 5. Naine Sühharist
+[1871] 6. Samaarlaste usuline ärkamine
+[1872] Laagris Gerisimi mäel
+[1873] 7. Õpetused palvest ja palveldamisest
+[1874] 144. Gilboas ja Dekapolis
+[1875] 1. Laager Gilboas
+[1876] 2. Jutlus palvest
+[1877] 3. Uskuja palve
+[1878] 4. Veel palvest
+[1879] 5. Muud palvevormid
+[1880] Seitse palvet teistest maailmadest
+[1881] 6. Nõupidamine Johannese apostlitega
+[1882] 7. Dekapolise linnades
+[1883] 8. Laagris Pella lähistel
+[1884] „...öelge Johannesele, et teda pole unustatud.”
+[1885] 9. Ristija Johannese surm
+[1886] 145. Neli sündmusrohket päeva Kapernaumas
+[1887] Vestlus Rutiga
+[1888] 1. Kalasaak
+[1889] 2. Pärastlõuna sünagoogis
+[1890] Usk on isiklik kogemus
+[1891] Noor langetõbine
+[1892] Siimon Peetruse ämm
+[1893] 3. Tervendamine päikeseloojangul
+[1894] 4. Sama päeva õhtu
+[1895] 5. Pühapäeva varahommik
+[1896] 146. Esimene jutlustamisreis Galileas
+[1897] 1. Jutlustamine Rimmonis
+[1898] 2. Jotapatas
+[1899] Palve, tänu ja palveldamine
+[1900] Õiglus ja arm
+[1901] Palve ja isiklik püüd
+[1902] Eetiline palve
+[1903] 3. Peatus Raamas
+[1904] Usk, teadus ja filosoofia
+[1905] Tõe kinnitamine
+[1906] Külaskäik Sebuloni
+[1907] 4. Jireonis esitatud evangeelium
+[1908] Töö kaevandustes
+[1909] Pidalitõbise mehe ravimine
+[1910] 5. Tagasi Kaanas
+[1911] Silmapaistev kodanik Tiitus
+[1912] 6. Nain ja lesknaise poeg
+[1913] 7. Een-Dooris
+[1914] 147. Vahepealne Jeruusalemma külastamine
+[1915] 1. Väeülema teener
+[1916] 2. Reis Jeruusalemma
+[1917] Lahkumine Johannese apostlitest
+[1918] 3. Betesda tiigi ääres
+[1919] 4. Elureegel
+[1920] Naatanaeli küsimus kuldreegli kohta
+[1921] 5. Külas variser Siimonil
+[1922] Mõistujutt rahalaenajast
+[1923] Ühiskondlik seisund ja areng
+[1924] 6. Tagasipöördumine Kapernauma
+[1925] Kuus nuhki
+[1926] „Sabat on loodud inimese jaoks...”
+[1927] 7. Tagasi Kapernaumas
+[1928] 8. Vaimse headuse püha
+[1929] 148. Evangelistide koolitamine Betsaidas
+[1930] 1. Uus prohvetite kool
+[1931] 2. Betsaida haigla
+[1932] 3. Isa ülesandeid täitmas
+[1933] 4. Pahe, patt ja kurjus
+[1934] 5. Kannatamise eesmärk
+[1935] 6. Vääritimõistetud kannatus — arutlus Iiobi üle
+[1936] 7. Kuivanud käega mees
+[1937] 8. Viimane nädal Betsaidas
+[1938] Kirmet Bagdadist
+[1939] 9. Halvatu tervendamine
+[1940] Kolme nuhi ristimine
+[1941] 149. Teine jutlustamisreis
+[1942] Taaveti teabetalitus
+[1943] 1. Jeesuse kuulsuse kasv
+[1944] Tervendamisilmingud
+[1945] 2. Rahva suhtumine
+[1946] Varakristluse kaks viga
+[1947] Jeesuse kuulsus tervendajana
+[1948] Jeesus tunnistab naiste võrdõiguslikkust
+[1949] Tema isiksuse võlu
+[1950] 3. Usujuhtide vaenulikkus
+[1951] 4. Edenemine jutlustamisreisil
+[1952] Kommentaarid viha kohta
+[1953] Tasakaalustatud loomus
+[1954] 5. Õppetund rahulolust
+[1955] 6. „Issanda kartus”
+[1956] 7. Tagasipöördumine Betsaidasse
+[1957] 150. Kolmas jutlustamisreis
+[1958] 1. Naisevangelistide rühm
+[1959] 2. Peatus Magdalas
+[1960] 3. Sabat Tibeerias
+[1961] Jutlus maagiast ja ebausust
+[1962] 4. Apostleid kahekaupa lähetamine
+[1963] 5. Mida ma pean tegema, et saada päästetud?
+[1964] 6. Õhtused õppetunnid
+[1965] 7. Viibimine Naatsaretis
+[1966] 8. Sabatiteenistus
+[1967] 9. Naatsaret hülgab Jeesuse
+[1968] 151. Vahepeatus ja õpetamine rannal
+[1969] 1. Mõistujutt külvajast
+[1970] 2. Mõistujutu tõlgendamine
+[1971] 3. Veel mõistujuttudest
+[1972] 4. Veel mõistujutte järve kaldal
+[1973] 5. Külaskäik Keresasse
+[1974] Torm järvel
+[1975] 6. Keresa vaimuhaige
+[1976] 152. Kapernauma kriisini viinud sündmused
+[1977] Veroonika Filippuse Kaisareast
+[1978] 1. Jairuse majas
+[1979] 2. Viie tuhande söötmine
+[1980] 3. Kuningaks tegemise episood
+[1981] 4. Siimon Peetruse öine nägemus
+[1982] 5. Tagasi Betsaidas
+[1983] 6. Geneetsaretis
+[1984] Täiendavalt mõistujutust külvaja kohta
+[1985] 7. Jeruusalemmas
+[1986] 153. Kapernauma kriis
+[1987] 1. Olukorra kujunemine
+[1988] 2. Murranguline jutlus
+[1989] „Mina olen elu leib”
+[1990] 3. Jutlusele järgnenud kohtumine
+[1991] 4. Viimased sõnad sünagoogis
+[1992] Kurjast vaimust vaevatud poiss
+[1993] „Kuidas võib Saatan välja ajada Saatanat?”
+[1994] 5. Laupäeva õhtu
+[1995] Kõhklevad pooldajad pagevad
+[1996] 154. Viimased päevad Kapernaumas
+[1997] 1. Nõupidamisnädal
+[1998] 2. Puhkusenädal
+[1999] Sünagoogide sulgemine
+[2000] 3. Teine Tibeerias toimunud nõupidamine
+[2001] 4. Laupäeva õhtu Kapernaumas
+[2002] „Mida teha Jeesusega?”
+[2003] 5. Sündmusterikas pühapäevahommik
+[2004] 6. Jeesuse perekond saabub
+[2005] 7. Kiire põgenemine
+[2006] 155. Põgenemine läbi Põhja-Galilea
+[2007] 1. Miks on paganad raevutsevad?
+[2008] 2. Evangelistid Korasinis
+[2009] 3. Filippuse Kaisareas
+[2010] Tõde ja usutunnistus
+[2011] Usutavade päritolu
+[2012] 4. Teel Foiniikiasse
+[2013] 5. Jutlus tõelisest religioonist
+[2014] 6. Teine jutlus religioonist
+[2015] 156. Viibimine Tüüroses ja Siidonis
+[2016] 1. Süüria naine
+[2017] 2. Õpetamine Siidonis
+[2018] „See maailm on vaid sild...”
+[2019] 3. Teekond rannikut mööda põhja poole
+[2020] 4. Tüüroses
+[2021] 5. Jeesuse õpetused Tüüroses
+[2022] Mõistujutt rumalast puusepast
+[2023] Kiusatus ja inimese olemus
+[2024] Ainelise edu eeltingimused
+[2025] Vaimne elu ja eneseaustus
+[2026] Ideaalid ja ideed
+[2027] Takt, võlu ja tarkus
+[2028] 6. Tagasipöördumine Foiniikiast
+[2029] Juudi juhtide suhtumine
+[2030] 157. Filippuse Kaisareas
+[2031] Jeesus püüab kohtuda oma perekonnaga
+[2032] 1. Templi maksukoguja
+[2033] „kala, kellel oli seekel suus.”
+[2034] 2. Betsaida-Juliases
+[2035] 3. Peetruse tunnistus
+[2036] „Kes ma nende arvates olen?”
+[2037] 4. Keskustelu taevariigist
+[2038] 5. Uus käsitus
+[2039] 6. Järgmine pärastlõuna
+[2040] Jeesuse elu neli staadiumi
+[2041] Uued autoriteetsed avaldused
+[2042] 7. Andrease nõupidamine
+[2043] 158. Muutmise mägi
+[2044] 1. Muutmine
+[2045] 2. Mäest allatulek
+[2046] 3. Muutmise tähendus
+[2047] 4. Langetõbine poiss
+[2048] Jaakobus Saafedist
+[2049] 5. Jeesus tervendab poisi
+[2050] „Issand, ma usun, palun aita mind mu uskmatuses.”
+[2051] 6. Celsuse aias
+[2052] 7. Peetruse protest
+[2053] 8. Peetruse kojas
+[2054] 159. Reis Dekapolisesse
+[2055] 1. Jutlus andeksandmisest
+[2056] „Mitu korda võib mu vend minu vastu pattu teha?”
+[2057] Mõistujutt arvepidamisest teenritega
+[2058] Isikliku kohtumõistmise ohud
+[2059] 2. Võõras jutlustaja
+[2060] 3. Õpetused õpetajatele ja uskujatele
+[2061] 4. Vestlus Naatanaeliga
+[2062] „Mis on pühakirjades tõde?”
+[2063] 5. Jeesuse usu positiivne olemus
+[2064] „...kanda koormat veel ühe versta.”
+[2065] 6. Tagasipöördumine Magadani
+[2066] 160. Rodan Aleksandriast
+[2067] 1. Rodani kreeka filosoofia
+[2068] Inimelu kolme suurt ajet
+[2069] Probleemide lahendamine ja palveldav meditatsioon
+[2070] Eelarvamus ja tõe äratundmine
+[2071] 2. Elamiskunst
+[2072] Sõpruse ühiskonnastav väärtus
+[2073] Abielu suur väärtus
+[2074] 3. Küpsuse ahvatlused
+[2075] 4. Küpsuse tasakaal
+[2076] Ajaliku elu alused
+[2077] Ainelise edu tingimused
+[2078] Ebaõnne tähendus
+[2079] 5. Ideaalne religioon
+[2080] Mis on religioon?
+[2081] Idee Jumalast ja Jumala ideaal
+[2082] Isa on lõplik väärtus
+[2083] „Ent kas me oleme valmis maksma...?”
+[2084] 161. Edasised arutelud Rodaniga
+[2085] 1. Jumal kui isiksus
+[2086] Naatanaeli viis seisukohta
+[2087] 2. Jeesuse jumalik olemus
+[2088] Naatanaeli ja Tooma arutelu
+[2089] 3. Jeesuse inimlik ja jumalik meel
+[2090] Keskteeliste seisukohad
+[2091] 162. Lehtmajadepüha
+[2092] „Meister, palun luba meil taevast tuli alla kutsuda...”
+[2093] 1. Jeruusalemma külastamise ohud
+[2094] 2. Esimene templivestlus
+[2095] Suurkohtu ametnik Eber
+[2096] 3. Abielurikkumiselt tabatud naine
+[2097] 4. Lehtmajadepüha
+[2098] 5. Jutlus maailma valgusest
+[2099] 6. Arutlus eluveest
+[2100] 7. Arutlus vaimsest vabadusest
+[2101] 8. Vestlus Marta ja Maarjaga
+[2102] 9. Koos Abneriga Petlemmas
+[2103] 163. Seitsmekümne ametissepühitsemine Magadanis
+[2104] 1. Seitsmekümne ametissepühitsemine
+[2105] Lõikus on rikkalik, kuid töötegijaid on vähe
+[2106] 2. Rikas noormees ja teised
+[2107] Rikkus ja jõukusearmastus
+[2108] 3. Arutelu jõukusest
+[2109] Mõistujutt töölistest viinamäel
+[2110] 4. Hüvastijätt seitsmekümnega
+[2111] Jeesuse õpetused
+[2112] Peetruse ametissepühitsemisjutlus
+[2113] 5. Laagri üleviimine Pellasse
+[2114] 6. Seitsmekümne tagasipöördumine
+[2115] 7. Ettevalmistused viimaseks misjoniks
+[2116] 164. Templipühitsuse pühal
+[2117] 1. Lugu halastajast samaaarlasest
+[2118] 2. Jeruusalemmas
+[2119] 3. Pimeda kerjuse tervendamine
+[2120] 4. Joosija Suurkohtu ees
+[2121] 5. Õpetamine Saalomoni eeskojas
+[2122] 165. Perea jutlustamisretke algus
+[2123] 1. Pella laagris
+[2124] 2. Jutlus heast karjasest
+[2125] 3. Sabatipäeva jutlus Pellas
+[2126] „Hoiduge variseride haputaigna eest...”
+[2127] „...Kaitseseeravitel on iga teie juuksekarvgi loetud.”
+[2128] 4. Päranduse jagamine
+[2129] Mõistujutt rumalast rikkast mehest
+[2130] „kus on teie aare, seal on ka teie süda.”
+[2131] „mis kasu on sul sellest, kui sa võidad kogu maailma, aga kaotad oma hinge?”
+[2132] 5. Kõnelused apostlitega rikkusest
+[2133] „Pange tähele, kuidas liiliad kasvavad...”
+[2134] 6. Vastus Peetruse küsimusele
+[2135] 166. Viimane külaskäik Põhja-Pereasse
+[2136] 1. Variserid Ragabas
+[2137] Tseremoniaalne kätepesemine
+[2138] 2. Kümme pidalitõbist
+[2139] 3. Jutlus Gerasas
+[2140] Sirge ja kitsas tee
+[2141] Paljud, kes on esimesed, saavad viimasteks
+[2142] „ma seisan inimsüdamete uksel ja koputan...”
+[2143] 4. Õpetus õnnetustest
+[2144] 5. Filadelfia kogudus
+[2145] Abneri hilisem tegevus ja surm
+[2146] 167. Külaskäik Filadelfiasse
+[2147] 1. Hommikueine variseridega
+[2148] Uskuja tervendamine
+[2149] „...ärge istuge aukohale...”
+[2150] 2. Mõistujutt suurest õhtusöömaajast
+[2151] 3. Jõuetusevaimuga naine
+[2152] 4. Teade Betaaniast
+[2153] 5. Teel Betaaniasse
+[2154] Variser ja tölner
+[2155] Õpetus abielust
+[2156] 6. Väikeste laste õnnistamine
+[2157] Ilu kui palveldamisele kaasaaitaja
+[2158] 7. Vestlus inglitest
+[2159] 168. Laatsaruse surnuist äratamine
+[2160] „Mina olen ülestõusmine ja elu...”
+[2161] 1. Laatsaruse haua juures
+[2162] 2. Laatsaruse surnuist äratamine
+[2163] 3. Suurkohtu koosolek
+[2164] „Parem surgu üks inimene...”
+[2165] 4. Vastus palvele
+[2166] 5. Mis sai Laatsarusest
+[2167] 169. Viimased õpetused Pellas
+[2168] Suurkohtu süüdistused Jeesuse vastu
+[2169] 1. Mõistujutt kadunud pojast
+[2170] 2. Mõistujutt kavalast majapidajast
+[2171] 3. Rikas mees ja kerjus
+[2172] 4. Isa ja tema taevariik
+[2173] Jeesus oli Jumala {i{i{elav}i}i} ilmutus
+[2174] Elohim ja Jahve
+[2175] 170. Taevariik
+[2176] 1. Arusaamad taevariigist
+[2177] 2. Jeesuse käsitus taevariigist
+[2178] Patt ja andeksandmine
+[2179] 3. Suhe õiglase meelega
+[2180] 4. Jeesuse õpetused taevariigist
+[2181] 5. Hilisemad taevariigi ideed
+[2182] Sotsiaalne vennaskond ja vaimne vennaskond
+[2183] Uus ja suurem Ristija Johannes
+[2184] Ristiusk ja Jeesuse evangeelium
+[2185] 171. Teel Jeruusalemma
+[2186] „...et sa annad minu poegadele enda juures auväärsed kohad...”
+[2187] 1. Lahkumine Pellast
+[2188] Taavet Sebedeuse hilisem elu
+[2189] Antiookia ja Filadelfia
+[2190] 2. Kulude arvestamisest
+[2191] 3. Reis Pereasse
+[2192] Hüvastijätt Abneriga
+[2193] 4. Õpetamine Liviases
+[2194] Peetrus, Siimon ja sada mõõka
+[2195] Hoiatus sõbralike variseride eest
+[2196] 5. Pime mees Jeerikos
+[2197] 6. Külaskäik Sakkeuse juurde
+[2198] 7. „Kui Jeesus möödus”
+[2199] 8. Mõistujutt naeladest
+[2200] Naatanaeli tõlgendus mõistujutust
+[2201] 172. Jeruusalemma minek
+[2202] 1. Sabatipäev Betaanias
+[2203] Maarja võiab Jeesuse jalgu
+[2204] Jeesus noomib Juudast
+[2205] 2. Pühapäeva hommik koos apostlitega
+[2206] 3. Teeleasumine Jeruusalemma
+[2207] 4. Templi lähedal
+[2208] Lesknaise veering
+[2209] 5. Apostlite suhtumine
+[2210] 173. Esmaspäev Jeruusalemmas
+[2211] 1. Templi puhastamine
+[2212] 2. Meistri volituste ründamine
+[2213] „Kas Johannes sai oma volitused taevast või inimestelt?”
+[2214] 3. Mõistujutt kahest pojast
+[2215] 4. Mõistujutt võõrsil viibivast isandast
+[2216] Kivi, mille ehitajad kõrvale heitsid
+[2217] 5. Mõistujutt pulmapeost
+[2218] „Hävitage see tempel ja ma ehitan ta kolme päevaga üles.”
+[2219] 174. Teisipäeva hommik templis
+[2220] Isiklikud tervitused kaheteistkümnele apostlile
+[2221] 1. Jumalik andestus
+[2222] 2. Juudi valitsejate küsimused
+[2223] Kas keisrile andami maksmine on seaduslik?
+[2224] 3. Saduserid ja ülestõusmine
+[2225] 4. Suur käsk
+[2226] Vabastaja, kelle poeg ta on?
+[2227] 5. Teadmishimulised kreeklased
+[2228] „...kui nisutera ei lange mulda ega sure...”
+[2229] „...kui mind maa peal teie elu ajal ülendatakse...”
+[2230] 175. Viimane jutlus templis
+[2231] 1. Jutlus
+[2232] „Põlvest põlve oleme saatnud oma prohveteid...”
+[2233] „...see, kes tahab olla teie seast suurim...”
+[2234] „Häda teile, kirjatundjad ja variserid, te silmakirjateenrid!”
+[2235] „...te puhastate karika ja liua ülihoolikalt väljastpoolt...”
+[2236] „Ja nüüd jätan ma teiega hüvasti.”
+[2237] 2. Üksikute juutide olukord
+[2238] 3. Suurkohtu saatuslik istung
+[2239] 4. Olukord Jeruusalemmas
+[2240] Juudase lõplik otsus
+[2241] 176. Teisipäeva õhtupoolik Õlimäel
+[2242] 1. Jeruusalemma hävitamine
+[2243] 2. Meistri teine tulemine
+[2244] Matteuse evangeeliumis sisalduv kirjeldus
+[2245] 3. Edasine arutelu laagris
+[2246] Mõistujutt talentidest
+[2247] „Jätkake seda kuni minu tulekuni.”
+[2248] Kommentaarid elava tõe kasvust
+[2249] 4. Miikaeli tagasitulek
+[2250] 177. Kolmapäev — puhkepäev
+[2251] 1. Üks päev kahekesi Jumalaga
+[2252] Johannes Markus ja toidukorv
+[2253] 2. Lapsepõlv kodus
+[2254] 3. Päev laagris
+[2255] 4. Juudas ja ülempreestrid
+[2256] 5. Viimane koosviibimine
+[2257] Ärge laske end petta rahvahulkade toetusest
+[2258] 178. Viimane päev laagris
+[2259] 1. Kõnelus pojaseisusest ja kodanikuseisusest
+[2260] Õppige olema usklikud ka külluse sees
+[2261] Ärge kiusake ingleid, kes valvavad teie üle
+[2262] 2. Pärast keskpäevast einet
+[2263] Taavet võtab Juudaselt kogu raha
+[2264] Ettevalmistused viimseks õhtusöömaajaks
+[2265] 3. Teel õhtusöömaajale
+[2266] 179. Viimne õhtusöömaaeg
+[2267] 1. Parema koha soovimine
+[2268] 2. Õhtusöömaaja algus
+[2269] 3. Apostlite jalgade pesemine
+[2270] 4. Viimased sõnad äraandjale
+[2271] 5. Mälestusõhtusöömaaja sisseseadmine
+[2272] 180. Hüvastijätujutlus
+[2273] 1. Uus käsk
+[2274] „...armastage üksteist nii, nagu mina olen teid armastanud.”
+[2275] 2. Viinapuu ja selle oksad
+[2276] 3. Maailma vaenulikkus
+[2277] „Ärge kandke muret oma südames.”
+[2278] „Meister, näita meile Isa...”
+[2279] 4. Tõotatud abiline
+[2280] 5. Tõe Vaim
+[2281] Kommentaarid kuldreeglile
+[2282] 6. Lahkumise vajalikkus
+[2283] 181. Viimased manitsused ja hoiatused
+[2284] 1. Viimased lohutussõnad
+[2285] „annan teile igaühele kõike, mida te tahate vastu võtta...”
+[2286] „Ärgu olgu teie südames muret...”
+[2287] 2. Isiklikud hüvastijätumanitsused
+[2288] 182. Ketsemanis
+[2289] 1. Viimane ühispalve
+[2290] Jeesus laiendab Jumala nime ilmutust
+[2291] 2. Viimane tund enne äraandmist
+[2292] Sõnumitooja läkitamine Abneri juurde
+[2293] Taavet Sebedeuse hüvastijätt
+[2294] 3. Üksinda Ketsemanis
+[2295] Vaim on valmis, aga liha on nõder
+[2296] 183. Jeesuse äraandmine ja vahistamine
+[2297] 1. Isa tahe
+[2298] 2. Juudas linnas
+[2299] 3. Meistri vahistamine
+[2300] 4. Arutelu oliivipressi juures
+[2301] 5. Teel ülempreestri lossi
+[2302] 184. Suurkohtu ees
+[2303] 1. Hannas kuulab Jeesust üle
+[2304] 2. Peetrus lossiõues
+[2305] 3. Suurkohtu ees
+[2306] 4. Alandamise tund
+[2307] Inimese uus ilmutus Jumalale
+[2308] 5. Teine kohtuistung
+[2309] 185. Kohtupidamine Pilatuse ees
+[2310] 1. Pontius Pilatus
+[2311] 2. Jeesus ilmub Pilatuse ette
+[2312] Suurkohtu kirjalikud süüdistused
+[2313] 3. Pilatus kuulab Jeesuse isiklikult üle
+[2314] 4. Jeesus Herodese ees
+[2315] 5. Jeesus pöördub tagasi Pilatuse juurde
+[2316] 6. Pilatuse viimane katse
+[2317] Jeesuse piitsutamine
+[2318] „Ennäe inimest!”
+[2319] 7. Pilatuse viimane küsitlus
+[2320] 8. Pilatuse traagiline alistumine
+[2321] 186. Vahetult enne ristilöömist
+[2322] Jeesuse perekond Betaanias
+[2323] 1. Juudas Iskarioti lõpp
+[2324] Kolmkümmend hõbeseeklit
+[2325] 2. Meistri suhtumine
+[2326] „Pilatus Jeesuse kohtu ees”
+[2327] „Ennäe Jumalat ja inimest!”
+[2328] 3. Usaldusväärne Taavet Sebedeus
+[2329] 4. Ettevalmistused ristilöömiseks
+[2330] 5. Jeesuse surma seos paasapühaga
+[2331] 187. Ristilöömine
+[2332] 1. Kolgata teel
+[2333] „Jeruusalemma tütred, ärge nutke minu pärast...”
+[2334] Siimon Küreenest
+[2335] 2. Ristilöömine
+[2336] 3. Ristilöömise pealtnägijad
+[2337] 4. Röövel ristil
+[2338] Jeesus annab Johannesele ülesande
+[2339] 5. Viimne tund ristil
+[2340] 6. Pärast ristilöömist
+[2341] 188. Hauasoleku aeg
+[2342] Joosep ja Nikodeemos Pilatuse ees
+[2343] 1. Jeesuse matmine
+[2344] 2. Haua valvamine
+[2345] 3. Sabatipäeval
+[2346] Mille Jeesus oma Isa kätte usaldas?
+[2347] Jeesuse isiksuse staatus
+[2348] 4. Ristisurma tähendus
+[2349] 5. Risti õppetunnid
+[2350] 189. Ülestõusmine
+[2351] 1. Üleminek morontiasse
+[2352] 2. Jeesuse aineline keha
+[2353] 3. Ülestõusmine usulise elukorralduse lõpus
+[2354] Isikustatud Kohandaja lahkumine
+[2355] 4. Tühja haua leidmine
+[2356] Viis naist
+[2357] Jeesus ilmub Maarja Magdaleenale
+[2358] 5. Peetrus ja Johannes haua juures
+[2359] Teine ilmumine Maarja Magdaleenale
+[2360] 190. Jeesuse morontiailmumised
+[2361] 1. Ülestõusmise kuulutajad
+[2362] 2. Jeesuse ilmumine Betaanias
+[2363] Ilmumine oma vennale Jaakobusele
+[2364] Ilmumine oma maisele perekonnale
+[2365] 3. Joosepi majas
+[2366] 4. Ilmumine kreeklastele
+[2367] 5. Jalutuskäik kahe vennaga
+[2368] 191. Ilmumised apostlitele ja teistele juhtidele
+[2369] Üksikute apostlite reageering
+[2370] 1. Ilmumine Peetrusele
+[2371] 2. Esimene ilmumine apostlitele
+[2372] 3. Koos morontiaolenditega
+[2373] Morontia-arenemise astmed
+[2374] 4. Kümnes ilmumine (Filadelfias)
+[2375] 5. Teine ilmumine apostlitele
+[2376] „Õndsad on need, kes tulevastel aegadel...”
+[2377] 6. Ilmumine Aleksandrias
+[2378] 192. Ilmumised Galileas
+[2379] 1. Ilmumine järve ääres
+[2380] „Mehed, kas püüdsite midagi?”
+[2381] 2. Kahekaupa peetud jutuajamised apostlitega
+[2382] 3. Ametissepühitsemise mäel
+[2383] 4. Kogunemine järve ääres
+[2384] 193. Viimased ilmumised ja taevaminek
+[2385] Kuueteistkümnes ilmumine (Nikodeemose õuel)
+[2386] 1. Ilmumine Sühharis
+[2387] 2. Ilmumine Foiniikias
+[2388] 3. Viimane ilmumine Jeruusalemmas
+[2389] 4. Juuda languse põhjused
+[2390] 5. Meistri taevassetõusmine
+[2391] 6. Peetrus kutsub kokku koosoleku
+[2392] 194. Tõe Vaimu annetamine
+[2393] Uus evangeelium {i{i{Jeesusest}i}i}
+[2394] 1. Nelipühijutlus
+[2395] 2. Nelipühade tähendus
+[2396] Tõe Vaimu ülesanne
+[2397] Kolmekordne vaimne annetus inimesele
+[2398] Seitse kõrgemat vaimset mõju
+[2399] 3. Mis juhtus nelipühade ajal
+[2400] 4. Kristliku kiriku algus
+[2401] 195. Pärast nelipühi
+[2402] Ristiusu võidukäigu põhjused õhtumaades
+[2403] Varakristlikud kompromissid
+[2404] 1. Kreeklaste mõju
+[2405] 2. Rooma mõju
+[2406] 3. Rooma impeeriumi võimu all
+[2407] 4. Euroopa pimeduseajad
+[2408] 5. Tänapäeva probleem
+[2409] 6. Materialism
+[2410] 7. Materialismi haavatavus
+[2411] 8. Ilmalik totalitarism
+[2412] 9. Ristiusu probleem
+[2413] 10. Tulevik
+[2414] 196. Jeesuse usk
+[2415] Jeesuse elav usk Jumalasse
+[2416] „Otsige kõigepealt taevariiki.”
+[2417] Miks sa nimetad mind heaks?”
+[2418] Mida tähendas palve Jeesusele
+[2419] Jeesuse lapselik usk Jumalasse
+[2420] 1. Jeesus kui inimene
+[2421] 2. Jeesuse religioon
+[2422] Religioon Jeesusest
+[2423] Usk kui isiklik kogemus
+[2424] 3. Religiooni ülimuslikkus
+[2425] Fakt, idee ja suhe
+[2426] Mõistus, tarkus ja usk
+[2427] Asi, tähendus ja väärtus
+[2428] Kui inimeses ei elaks jumalikku armastajat...
+[2429] Moraal ja religioon
+[2430] Isa on elav armastus...

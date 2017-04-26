@@ -1,0 +1,2431 @@
+[0] Az Urantia könyv: A könyv tartalomjegyzéke
+[1] Az Urantia könyv
+[2] Főoldal
+[3] A könyv részei
+[4] Az írások címjegyzéke
+[5] A könyv tartalomjegyzéke
+[6] A könyv tartalomjegyzéke
+[7] I. rész:
+[8] A központi világegyetem és a felsőbb-világegyetemek
+[9] 0. Előszó
+[10] I. Istenség és Isteniség
+[11] II. Isten
+[12] III. Az Első Forrás és Középpont
+[13] A hét Abszolút
+[14] Valóság
+[15] A VAGYOK fogalma
+[16] IV. A világegyetemi valóság
+[17] Paradicsom
+[18] V. A személyiségi valóságok
+[19] VI. Energia és minta
+[20] VII. A Legfelsőbb Lény
+[21] VIII. A Hétszeres Isten
+[22] IX. A Végleges Isten
+[23] X. Az Abszolút Isten
+[24] XI. A három Abszolút
+[25] XII. A Háromságok
+[26] Az írások hiteléül
+[27] 1. Az Egyetemes Atya
+[28] 1. Az Atya neve
+[29] 2. Isten valósága
+[30] 3. Az Isten egyetemes szellem
+[31] 4. Isten rejtélye
+[32] 5. Az Egyetemes Atya személyisége
+[33] 6. A személyiség a világegyetemben
+[34] 7. A személyiségfogalom szellemi értéke
+[35] 2. Az Isten természete
+[36] 1. Az Isten végtelensége
+[37] 2. Az Atya örök tökéletessége
+[38] 3. Igazságosság és pártatlanság
+[39] 4. Az isteni irgalom
+[40] 5. Az Isten szeretete
+[41] 6. Az Isten jósága
+[42] 7. Isteni igazság és szépség
+[43] 3. Az Isten sajátosságai
+[44] 1. Isten mindenütt-jelenvalósága
+[45] 2. Isten végtelen hatalma
+[46] 3. Isten egyetemes tudása
+[47] 4. Isten határtalansága
+[48] 5. Az Atya legfelsőbb uralma
+[49] Az elkerülhetetlen dolgok
+[50] 6. Az Atya elsősége
+[51] Az áldás
+[52] 4. Isten viszonya a világegyetemhez
+[53] 1. Az Atya világegyetemi magatartásformája
+[54] Gondviselés
+[55] 2. Isten és természet
+[56] 3. Isten változatlan jelleme
+[57] 4. Az Isten megértése
+[58] 5. Az Istenről alkotott téveszmék
+[59] 5. Isten viszonya az egyénhez
+[60] 1. Az Isten megközelítése
+[61] 2. Az Isten jelenléte
+[62] 3. Igaz istenimádat
+[63] 4. Isten a vallásban
+[64] 5. Az Isten-tudat
+[65] 6. A személyiség Istene
+[66] 6. Az Örökkévaló Fiú 
+[67] 1. Az Örökkévaló Fiú önazonossága
+[68] 2. Az Örökkévaló Fiú természete
+[69] 3. Segédkezés az Atya szeretetében
+[70] 4. Az Örökkévaló Fiú sajátosságai
+[71] Mindenhatóság, mindenütt-jelenvalóság, mindentudás
+[72] 5. Az Örökkévaló Fiú korlátai
+[73] 6. A Szellem-elme
+[74] 7. Az Örökkévaló Fiú személyisége
+[75] 8. Az Örökkévaló Fiú megértése
+[76] 7. Az Örökkévaló Fiú viszonya a világegyetemhez
+[77] 1. A Szellem-gravitációs kör
+[78] 2. Az Örökkévaló Fiú kormányzása
+[79] 3. Az Örökkévaló Fiú viszonya az egyénhez
+[80] 4. Az isteni tökéletességi tervek
+[81] 5. A szellemadomány
+[82] Az Örökkévaló Fiú alászállásai
+[83] Az eredeti Mihály alászállásai
+[84] 6. A paradicsomi Istenfiak
+[85] 7. Az Atya legfelsőbb kinyilatkoztatása
+[86] 8. A Végtelen Szellem
+[87] 1. A Cselekvő Isten
+[88] 2. A Végtelen Szellem természete
+[89] 3. A Szellem viszonya az Atyához és a Fiúhoz
+[90] 4. Az isteni segédkezés Szelleme
+[91] Alkotó Leányok
+[92] 5. Az Isten jelenléte
+[93] 6. A Végtelen Szellem személyisége
+[94] 9. A Végtelen Szellem viszonya a világegyetemhez
+[95] 1. A Harmadik Forrás és Középpont sajátosságai
+[96] 2. A mindenütt jelenvaló Szellem
+[97] 3. Az egyetemes átalakító
+[98] 4. Az Abszolút Elme
+[99] 5. Az elme-segédkezés
+[100] 6. Az elme-gravitációs kör
+[101] 7. Világegyetemi tükrözőműködés
+[102] 8. A Végtelen Szellem személyiségei
+[103] A Harmadik Forrás és Középpont működési családja
+[104] 10. A paradicsomi Háromság
+[105] 1. Az önmagát szétosztó Első Forrás és Középpont
+[106] 2. Istenségi megszemélyesülés
+[107] 3. Az Istenség három személye
+[108] 4. Az Istenség háromsági egyesülése
+[109] 5. A Háromság szerepkörei
+[110] Véges, abszonit és abszolút magatartás
+[111] 6. A Háromság Állandó Fiai
+[112] Igazságosság, bizonyíték és ítélkezés
+[113] 7. A Felsőség felügyelete
+[114] 8. A Végesen túli Háromság
+[115] A halandói beteljesülés korlátai
+[116] 11. A Paradicsom Örök Szigete
+[117] 1. Az isteni székhely
+[118] 2. Az Örök Sziget természete
+[119] 3. A Felső-Paradicsom
+[120] 4. A Külső-Paradicsom
+[121] 5. Az Alsó-Paradicsom
+[122] 6. A tér lélegzése
+[123] Ki nem töltött tér
+[124] 7. A Paradicsom térműködései
+[125] Középtéri körzetek
+[126] 8. Paradicsomi gravitáció
+[127] Térerő, energia, erőtér
+[128] 9. A Paradicsom különlegessége
+[129] 12. A világegyetemek mindensége
+[130] 1. A világmindenség térszintjei
+[131] 2. A Korlátlan Abszolút területe
+[132] 3. Világegyetemi gravitáció
+[133] 4. Tér és mozgás
+[134] 5. Tér és idő
+[135] 6. Egyetemes felügyelet
+[136] 7. A rész és az egész
+[137] 8. Anyag, elme és szellem
+[138] 9. Személyes valóságok
+[139] 13. A Paradicsom szent szférái
+[140] 1. Az Atya hét szent világa
+[141] (1) Divinington
+[142] (2) Szonarington
+[143] (3) Spiritington
+[144] (4) Vicegerington
+[145] (5) Szolitarington
+[146] (6) Szerafington
+[147] (7) Aszendington
+[148] 2. Atya-világi viszonyok
+[149] 3. Az Örökkévaló Fiú szent világai
+[150] 4. A Végtelen Szellem világai
+[151] A Tökéletes Szellemek tartózkodási helye
+[152] 14. A központi és isteni világegyetem
+[153] 1. A Paradicsom-Havona rendszer
+[154] Paradicsom-Havona nap
+[155] A sötét gravitációs testek
+[156] 2. A Havona felépítése
+[157] 3. A Havona-világok
+[158] 4. A központi világegyetem teremtményei
+[159] Havona-honosok
+[160] 5. Az élet a Havonában
+[161] Egyhangúság és kaland
+[162] 6. A központi világegyetem rendeltetése
+[163] 15. A hét felsőbb-világegyetem
+[164] 1. A felsőbb-világegyetemi térszintek
+[165] 2. A felsőbb-világegyetemek szerveződése
+[166] 3. Az Orvonton felsőbb-világegyetem
+[167] 4. Csillagködök — a világegyetemek elődei
+[168] 5. Az égitestek eredete
+[169] 6. A tér szférái
+[170] 7. Az épített szférák
+[171] Felsőbb-világegyetemi idő
+[172] 8. Energiafelügyelet és energiaszabályozás
+[173] 9. A felsőbb-világegyetemi körök
+[174] Helyi világegyetemi körök
+[175] 10. A felsőbb-világegyetemi vezetők
+[176] 11. A tanácskozó közgyűlés
+[177] 12. A legfelsőbb bíróságok
+[178] 13. Az övezeti kormányzatok
+[179] 14. A hét felsőbb-világegyetem rendeltetési céljai
+[180] 16. A hét Tökéletes Szellem
+[181] 1. A hármas Istenséghez fűződő viszony
+[182] 2. A Végtelen Szellemhez fűződő viszony
+[183] 3. A Tökéletes Szellemek azonossága és különbözősége
+[184] 4. A Tökéletes Szellemek sajátosságai és szerepkörei
+[185] 5. A teremtményekhez fűződő viszony
+[186] 6. A Mindenségrendi Elme
+[187] Okozati viszony, kötelesség és istenimádat
+[188] 7. Erkölcsök, erény és személyiség
+[189] 8. Az Urantia-személyiség
+[190] 9. Az emberi tudat valósága
+[191] 17. A hét legfelsőbb szellem-csoport
+[192] 1. A hét Legfőbb Igazgató
+[193] Teremtményi háromságot-elért fiak
+[194] 2. Madzseszton — a tükrözőműködés vezetője
+[195] 3. A Tükröző Szellemek
+[196] 4. A Tükröző Kép Segítők
+[197] 5. A Körök Hét Szelleme
+[198] 6. A helyi világegyetemi Alkotó Szellemek
+[199] 7. Az Elmeszellem-segédek
+[200] 8. A Legfelsőbb Szellemek szerepkörei
+[201] 18. A Legfelsőbb Háromsági Személyiségek
+[202] 1. A Felsőség Háromságivá Tett Titkai
+[203] 2. A Nappalok Örökkévalói
+[204] 3. A Nappalok Elődei
+[205] 4. A Nappalok Tökéletességei
+[206] 5. A Nappalok Utódai
+[207] 6. A Nappalok Szövetségei
+[208] 7. A Nappalok Hűséges Követői
+[209] 19. A mellérendelt háromsági-származású lények
+[210] 1. A Háromsági Tanító Fiak
+[211] 2. A Bölcsesség-tökéletesítők
+[212] 3. Az Isteni Tanácsosok
+[213] 4. A Világegyetemi Ítélők
+[214] A Háromság Állandó Fiai
+[215] 5. Ihletett Háromsági Szellemek
+[216] 6. Havona-honosok
+[217] 7. Paradicsomi létpolgárok
+[218] 20. A paradicsomi Istenfiak
+[219] 1. Az alászálló Istenfiak
+[220] 2. Az Ítélkező Fiak
+[221] 3. Bírói feladatok
+[222] 4. Ítélkezői küldetések
+[223] 5. A paradicsomi Fiak alászállása
+[224] 6. A halandó-alászállási létpályák
+[225] 7. A Háromsági Tanító Fiak
+[226] 8. A Daynalok helyi világegyetemi segédkezése
+[227] 9. A Daynalok szolgálata a bolygókon
+[228] 10. A paradicsomi Fiak egyesített segédkezése
+[229] 21. A paradicsomi Teremtő Fiak
+[230] Az Eredeti Mihály
+[231] 1. A Teremtő Fiak eredete és természete
+[232] 2. A helyi világegyetemek teremtői
+[233] 3. A helyi világegyetem feletti fennhatóság
+[234] 4. A Mihályi alászállások
+[235] 5. A Tökéletes Fiak viszonya a világegyetemhez
+[236] 6. A Tökéletes Mihályok rendeltetése
+[237] 22. Az Isten Háromságot-elért Fiai
+[238] 1. A Háromságba-foglalt Fiak
+[239] Méltóságra emelkedett Háromságot-elért Fiak
+[240] Kiválasztott Háromságot-elért Fiak
+[241] Tökéletes Háromságot-elért Fiak
+[242] 2. A Fenséges Hírvivők
+[243] 3. A Nagytekintélyűek
+[244] 4. Az Ismeretlen Nevűek és Származásúak
+[245] 5. A Háromságot-elért Felügyelők
+[246] 6. A Háromságot-elért Követek
+[247] 7. A háromságivá alakítás eljárása
+[248] Felemelkedő-háromságivá lett Fiak
+[249] Paradicsom-Havona-háromságivá lett Fiak
+[250] A Végzet Háromságot-elért Fiai
+[251] 8. A Teremtményi-háromságot elért Fiak
+[252] 9. A Mennyei Oltalmazók
+[253] 10. A Magas Fiú-segédek
+[254] 23. A Független Hírvivők
+[255] 1. A Független Hírvivők természete és eredete
+[256] 2. A Független Hírvivők feladatai
+[257] 3. A Független Hírvivők idő- és térszolgálatai
+[258] Szeráfi és egyéb térsebességek
+[259] 4. A Független Hírvivők különleges segédkezése
+[260] A végzet háromságot-elért fiai
+[261] 24. A Végtelen Szellem felsőbb személyiségei
+[262] 1. A Világegyetemi Körök Felügyelői
+[263] 2. Az Összeírási Igazgatók
+[264] 3. A Végtelen Szellem Személyi Segédei
+[265] 4. A Társfelügyelők
+[266] 5. A Kinevezett Őrök
+[267] 6. A Végzős Kísérők
+[268] Grandfanda, az első felemelkedő
+[269] 7. A Végzős Kísérők eredete
+[270] 25. A tér hírvivő seregei
+[271] 1. A Havona-szolgálók
+[272] 2. A Világegyetemi Békéltetők
+[273] 3. A Békéltetők kiterjedt szolgálata
+[274] 4. Szakmai Tanácsadók
+[275] 5. A Paradicsomi Feljegyzés-felügyelők
+[276] 6. A Mennyei Adatrögzítők
+[277] 7. A Morontia Társak
+[278] 8. A Paradicsomi Társak
+[279] 26. A központi világegyetem segédkező szellemei
+[280] 1. A segédkező szellemek
+[281] A központi világegyetem segédkező szellemei
+[282] A felsőbb-világegyetemek segédkező szellemei
+[283] A helyi világegyetemek segédkező szellemei
+[284] 2. A fenséges szupernáfok
+[285] 3. A harmadrendű szupernáfok
+[286] (1) Az Összhang-felügyelők
+[287] (2) A Vezető Adatrögzítők
+[288] (3) A Hírközlők
+[289] (4) A Hírvivők
+[290] (5) A Hírszerzési Irányítók
+[291] (6) A Szállító Személyiségek
+[292] (7) A Tartalékos Testület
+[293] 4. A másodrendű szupernáfok
+[294] A felemelkedők megérkezése a Havonába
+[295] 5. A Zarándok-segítők
+[296] 6. A Felsőségi Kísérők
+[297] 7. A Háromsági Kísérők
+[298] 8. A Fiút-elértek
+[299] Az Istenség elérésének sikertelensége
+[300] 9. Az Atyai Kísérők
+[301] 10. A tanácsosok és tanácsadók
+[302] A sikertelen pályázók beosztása
+[303] 11. A Pihenés Személyi Állománya
+[304] Teremtményi háromságot-elért fiak
+[305] 27. Az elsőrendű szupernáfok segédkezése
+[306] 1. Pihenés-ösztönzők
+[307] A pihenés jellege
+[308] 2. Kinevezési Elöljárók
+[309] 3. Erkölcstan-tolmácsok
+[310] 4. Viselkedés-igazgatók
+[311] 5. A Tudás Őrzői
+[312] 6. A Bölcselet Mesterei
+[313] 7. Istenimádat-vezetők
+[314] 28. A felsőbb-világegyetemek segédkező szellemei
+[315] 1. A terciáfok
+[316] 2. Az omniáfok
+[317] 3. A szekonáfok
+[318] 4. Az elsőfajú szekonáfok
+[319] (1) Az Együttes Cselekvő Hangja
+[320] (2) A Hét Tökéletes Szellem Hangja
+[321] (3) A Teremtő Fiak Hangja
+[322] (4) Az Angyali Seregek Hangja
+[323] (5) Híradás-fogadók
+[324] (6) Szállító-személyiségek
+[325] (7) Tartalékos Testület
+[326] 5. A másodfajú szekonáfok
+[327] (1) A Bölcsesség Hangja
+[328] (2) A Bölcselet Lelke
+[329] (3) A Lelkek Szövetsége
+[330] (4) A Tanács Szíve
+[331] (5) A Létezés Öröme
+[332] (6) A Szolgálat Megelégedése
+[333] (7) A Szellemek Szakértője
+[334] 6. A harmadfajú szekonáfok
+[335] (1) Az Eredetek Jelentősége
+[336] (2) Az Irgalom Emléke
+[337] (3) Az Idő Jelentősége
+[338] (4) A Bizalom Komolysága
+[339] (5) A Szolgálat Szentsége
+[340] (6) és (7) A Nagyszerűség Titka és a Jóság Lelke
+[341] 7. A szekonáfok segédkezése
+[342] 29. A Világegyetemi Erőtér-irányítók
+[343] 1. A hét Legfelsőbb Erőtér-irányító
+[344] 2. A Legfőbb Erőtér-központok
+[345] (1) Legfőbb Központ-felügyelők
+[346] (2) Havona Központok
+[347] (3) Felsőbb-világegyetemi Központok
+[348] (4) Helyi Világegyetemi Központok
+[349] (5) Csillagvilági Központok
+[350] (6) Csillagrendszeri Központok
+[351] (7) Besorolatlan Központok
+[352] 3. Az Erőtér-központok területe
+[353] 4. A Fizikai Főszabályozók
+[354] (1) Erőtér-irányító Segítők
+[355] (2) Gépies Szabályozók
+[356] (3) Energia-átalakítók
+[357] (4) Energia-továbbítók
+[358] (5) Elsődleges Társítók
+[359] (6) Másodlagos Szétbontók
+[360] (7) A frandalankok
+[361] A kronoldekek
+[362] 5. A Fő-erőszervezők
+[363] Megjelent Elsőrendű Fő-erőszervezők
+[364] Tapasztalás-meghaladó Társ-főerőszervezők
+[365] 30. A nagy világegyetem személyiségei
+[366] 1. Az élőlények paradicsomi osztályozása
+[367] I. Háromsági-származású lények
+[368] II. Kettős-származású lények
+[369] III. Egyes-származású lények
+[370] IV. Megjelent tapasztalás-meghaladó lények
+[371] V. Az Istenség szilánkosult entitásai
+[372] VI. Személyes-feletti lények
+[373] VII. Nem osztályozott és nem kinyilatkoztatott rendek
+[374] 2. Az uverszai személyi nyilvántartás
+[375] I. A paradicsomi Istenségek
+[376] II. A Legfelsőbb Szellemek
+[377] III. A Háromsági-származású lények
+[378] IV. Az Istenfiak
+[379] V. A Végtelen Szellem személyiségei
+[380] VI. A Világegyetemi Erőtér-irányítók
+[381] VII. Az Állandó Létpolgárságú Testület
+[382] Összetett személyiségcsoportok
+[383] 3. Az önkéntes telepesek
+[384] (1) Csillagászat-hallgatók
+[385] (2) Égi mesterek
+[386] (3) Visszatekintési igazgatók
+[387] (4) Kiterjesztési tanodai oktatók
+[388] (5) A különféle tartalékos testületek
+[389] (6) Hallgató-látogatók
+[390] (7) Felemelkedő zarándokok
+[391] 4. A felemelkedő halandók
+[392] (1) Bolygói halandók
+[393] (2) Alvó továbbélők
+[394] (3) Lakóvilági hallgatók
+[395] (4) Morontia fejlődő lények
+[396] (5) Felsőbb-világegyetemi védencek
+[397] (6) Havona-zarándokok
+[398] (7) Paradicsomi jövevények
+[399] 31. A végleges testületek
+[400] 1. A Havona honosai
+[401] 2. Gravitációs Hírvivők
+[402] 3. Megdicsőült halandók
+[403] 4. Befogadott Szeráfok
+[404] 5. Megdicsőült Anyagi Fiak
+[405] 6. Megdicsőült köztes teremtmények
+[406] 7. A Fény Örömhírhozói
+[407] 8. A tapasztalattól függetlenül létezők
+[408] 9. A Világmindenség Építészei
+[409] 10. A végső kaland
+[410] II. rész:
+[411] A helyi világegyetem
+[412] 32. A helyi világegyetemek kialakulása
+[413] 1. A világegyetemek fizikai megjelenése
+[414] 2. Világegyetem-szervezés
+[415] 3. Az evolúciós eszme
+[416] 4. Isten viszonya a helyi világegyetemhez
+[417] 5. Az örökkévaló és isteni cél
+[418] 33. A helyi világegyetem igazgatása
+[419] 1. A nebadoni Mihály
+[420] 2. A Nebadon fejedelme
+[421] 3. A világegyetemi Fiú és Szellem
+[422] 4. Gábriel — a főigazgató
+[423] 5. A Háromsági Nagykövetek
+[424] 6. Általános igazgatás
+[425] Helyi világegyetemi idő
+[426] 7. A nebadoni bíróságok
+[427] 8. Jogalkotói és végrehajtói feladatkörök
+[428] 34. A helyi világegyetemi Anyaszellem
+[429] 1. Az Alkotó Szellem megszemélyesülése
+[430] 2. Az Isteni Segédkező természete
+[431] 3. A Fiú és a Szellem az időben és térben
+[432] 4. A helyi világegyetemi körök
+[433] 5. A Szellem segédkezése
+[434] 6. A Szellem az emberben
+[435] Az ember kettős természete
+[436] 7. A szellem és a húsvér test
+[437] „Ez a helyes út”
+[438] 35. A helyi világegyetemi Istenfiak
+[439] 1. A Melkizedek Atya
+[440] 2. A Melkizedek Fiak
+[441] 3. A Melkizedek-világok
+[442] 4. A melkizedekek különleges tevékenysége
+[443] Melkizedek megtestesülések
+[444] 5. A Vorondadek Fiak
+[445] 6. A Csillagvilági Atyák
+[446] 7. A Vorondadek-világok
+[447] 8. A Lanonandek Fiak
+[448] Elsőrendű lanonandekek
+[449] Másodrendű lanonandekek
+[450] Harmadrendű lanonandekek
+[451] 9. A Lanonandek vezetők
+[452] 10. A Lanonandek-világok
+[453] 36. Az Élethordozók
+[454] 1. Az Élethordozók eredete és természete
+[455] 2. Az Élethordozók világai
+[456] 3. Az élet megtelepítése
+[457] 4. A Melkizedek Élethordozók
+[458] A midszonit lények
+[459] A véglegességet elértek szalvingtoni világai
+[460] 5. A hét elmeszellem-segéd
+[461] (1) A belső meglátás szelleme
+[462] (2) Az értelem szelleme
+[463] (3) A bátorság szelleme
+[464] (4) A tudás szelleme
+[465] (5) A tanácskozás szelleme
+[466] (6) Az istenimádat szelleme
+[467] (7) A bölcsesség szelleme
+[468] 6. Az élő hatóerők
+[469] 37. A helyi világegyetem személyiségei
+[470] 1. A Világegyetemi Segítők
+[471] 2. A Ragyogó Estcsillagok
+[472] Teremtett Estcsillagok
+[473] Felemelkedő Estcsillagok
+[474] Az Estcsillagok világai
+[475] 3. A főangyalok
+[476] A főangyalok világai
+[477] 4. Fenséges Segédek
+[478] 5. Főbiztosok
+[479] Fajok biztosai
+[480] A nebadoni Tökéletes Testület
+[481] A Szellemmel eggyé kapcsolódást megélt halandók világai
+[482] 6. Mennyei Felvigyázók
+[483] A nebadoni oktatási rendszer
+[484] 7. Lakóvilági tanítók
+[485] 8. Kinevezett felsőbb szellemrendek
+[486] Független Hírvivők
+[487] Világegyetemi Körök Felügyelője — Andovontia
+[488] Összeírási Igazgató — Szalszatia
+[489] Társfelügyelő
+[490] Kinevezett Őrök
+[491] Világegyetemi Békéltetők
+[492] Szakmai Tanácsadók
+[493] Mennyei Adatrögzítők
+[494] Morontia Társak
+[495] 9. A helyi világegyetem állandó létpolgárai
+[496] (1) Szuszatia
+[497] (2) Univitatia
+[498] (3) Anyagi Fiak
+[499] (4) Köztes teremtmények
+[500] Abandonterek
+[501] 10. Egyéb helyi világegyetemi csoportok
+[502] A Spironga
+[503] A Spornagia
+[504] Önkéntes telepes csoportok
+[505] 38. A helyi világegyetem segédkező szellemei
+[506] 1. A szeráfok eredete
+[507] 2. Angyali természetek
+[508] 3. Ki nem nyilatkoztatott angyalok
+[509] 4. A szeráfi világok
+[510] 5. Szeráfi felkészülés
+[511] 6. Szeráfi szervezet
+[512] 7. Kerubok és szanóbok
+[513] 8. A kerubok és szanóbok fejlődési lehetőségei
+[514] (1) Felemelkedésre pályázók
+[515] (2) Középszakaszú kerubok
+[516] (3) Morontia kerubok
+[517] 9. A köztes teremtmények
+[518] (1) Elsőfajú közteslények
+[519] (2) Másodfajú közteslények
+[520] 39. A szeráfseregek
+[521] 1. Legfelsőbb szeráfok
+[522] (1) Fiú-Szellem segédkezők
+[523] Alászállás-kísérők
+[524] (2) Bírósági tanácsadók
+[525] (3) Világegyetemi iránymutatók
+[526] (4) A Tanító Tanácsosok
+[527] (5) Jelölő Igazgatók
+[528] (6) Az adatrögzítők
+[529] (7) Önálló segédkezők
+[530] 2. Felettes szeráfok
+[531] (1) A hírszerző testület
+[532] (2) Az Irgalom Hangja
+[533] (3) Szellem Összehangolók
+[534] (4) Segédtanítók
+[535] (5) A szállítók
+[536] Szeráfi szállításmódok
+[537] (6) Az adatrögzítők
+[538] Hírközlők
+[539] (7) A tartalékosok
+[540] 3. Felügyelő szeráfok
+[541] (1) Segédfelügyelők
+[542] (2) A törvény előrevetítői
+[543] (3) A közösségi érzék kialakítói
+[544] (4) Az erkölcstani érzék fejlesztői
+[545] (5) A szállítók
+[546] (6) Az adatrögzítők
+[547] (7) A tartalékosok
+[548] 4. Intéző szeráfok
+[549] (1) Igazgatási segédek
+[550] (2) Igazságossági kísérők
+[551] (3) A mindenségrendi létpolgárság tolmácsai
+[552] (4) Az erkölcsiség serkentői
+[553] (5) A szállítók
+[554] (6) Az adatrögzítők
+[555] (7) A tartalékosok
+[556] 5. A bolygók segítői
+[557] (1) A Kert hangjai
+[558] (2) A testvériség szellemei
+[559] (3) A béke lelkei
+[560] (4) A bizodalom szellemei
+[561] (5) A szállítók
+[562] A szeráfi szállítmány elindítása
+[563] (6) Az adatrögzítők
+[564] (7) A tartalékosok
+[565] 6. Az átmenetben segédkezők
+[566] 7. A jövő szeráfjai
+[567] 8. Szeráfi végzet
+[568] 9. A Teljes Szeráfok Testülete
+[569] 40. A felemelkedő Istenfiak
+[570] 1. Evolúciós szeráfok
+[571] 2. Felemelkedő Anyagi Fiak
+[572] 3. Átvitt Közteslények
+[573] 4. Megszemélyesült Igazítók
+[574] 5. Az idő és tér halandói
+[575] Átmeneti vagy tapasztalatszerzési célú tartózkodásra érkező Igazítót fogadó halandók
+[576] Az Igazítóval eggyé kapcsolódást meg nem élő fajtába tartozó halandók
+[577] Az Igazítóval való eggyé kapcsolódási potenciállal rendelkező halandók
+[578] A számba nem vett sorozatok
+[579] 6. Az Isten hű fiai
+[580] 7. Az Atyával eggyé kapcsolódást elért halandók
+[581] 8. A Fiúval eggyé kapcsolódást elért halandók
+[582] 9. A Szellemmel eggyé kapcsolódást elért halandók
+[583] Az emlékek helyreállításának eljárásai
+[584] 10. Felemelkedői végzetek
+[585] 41. A helyi világegyetem fizikai sajátosságai
+[586] 1. A nebadoni erőtér-központok
+[587] 2. A sataniai fizikai szabályozók
+[588] 3. Csillagtársaink
+[589] 4. Napsűrűség
+[590] 5. Napsugárzás
+[591] 6. Kalcium — a tér vándora
+[592] 7. A napenergia forrásai
+[593] 8. Napenergia-kölcsönhatások
+[594] 9. A nap egyensúlyi állapotának biztonsága
+[595] 10. A lakott világok eredete
+[596] 42. Energia — elme és anyag
+[597] 1. A paradicsomi erők és energiák
+[598] 2. A világegyetem nem-szellemi energiarendszerei (a fizikai energiák)
+[599] (1) Térpotenciál
+[600] (2) Elsőfajú erő
+[601] (3) Kilépő energiák
+[602] a. Hatóenergia
+[603] b. Gravitációs energia
+[604] (4) Világegyetemi erőtér
+[605] (5) Havona-energia
+[606] (6) Tapasztalás-meghaladó energia
+[607] (7) Monota
+[608] 3. Az anyag osztályozása
+[609] 4. Az energia és az anyag átalakulásai
+[610] 5. Hullámenergia megnyilvánulások
+[611] 6. Ultimatonok, elektronok és atomok
+[612] 7. Atomi anyag
+[613] 8. Atomi összetartó erő
+[614] 9. A természetbölcseletek
+[615] 10. A világegyetem nem-szellemi energiarendszerei (az anyagi elmerendszerek)
+[616] (1) Segédelőtti-szellemi elmék
+[617] (2) Segéd-szellemi elmék
+[618] (3) Kibontakozó morontia elmék
+[619] A mindenségrendi elme
+[620] 11. Világegyetemi működési rendek
+[621] 12. Minta és forma — az elme fölérendeltsége
+[622] 43. A csillagvilágok
+[623] 1. A csillagvilági központok
+[624] 2. A csillagvilági kormányzat
+[625] 3. A Norlatiadek Fenségesei
+[626] 4. A Gyűlés-hegy — a Nappalok Hűséges Követője
+[627] 5. Az edentiai Atyák a Lucifer-féle lázadás óta
+[628] 6. Az Isten kertjei
+[629] 7. Az univitatia
+[630] 8. Az edentiai felkészülési világok
+[631] 9. Az edentiai létpolgárság
+[632] 44. Az égi mesterek
+[633] 1. Az égi zenészek
+[634] 2. A mennyei előadóművészek
+[635] 3. Az isteni építők
+[636] 4. A gondolatrögzítők
+[637] 5. Az energia-átalakítók
+[638] 6. A formatervezők és díszítők
+[639] 7. Az összhangmunkások
+[640] 8. Halandói törekvések és morontia teljesítmények
+[641] 45. A helyi csillagrendszer igazgatása
+[642] 1. Az átmeneti műveltség világai
+[643] (1) A véglegesrendűek világa
+[644] (2) A morontia világ
+[645] (3) Az angyalvilág
+[646] (4) A felsőbbangyal-világ
+[647] (5) A Fiak világa
+[648] (6) A Szellem világa
+[649] (7) Az Atya világa
+[650] 2. A Csillagrendszer Fejedelem
+[651] 3. A csillagrendszeri kormányzat
+[652] 4. A huszonnégy tanácsos
+[653] 5. Az Anyagi Fiak
+[654] 6. A felemelkedők ádámi felkészítése
+[655] Szülői élmény
+[656] A Satania gyakorlóotthona
+[657] 7. A Melkizedek-tanodák
+[658] 46. A helyi csillagrendszer központja
+[659] 1. A Jerusem fizikai felépítése
+[660] 2. A Jerusem fizikai adottságai
+[661] 3. A jerusemi híradások
+[662] 4. Lakó- és igazgatási területek
+[663] 5. A jerusemi körök
+[664] (1) Az Istenfiak körei
+[665] (2) Az angyalok körei
+[666] (3) A Világegyetemi Segítők körei
+[667] (4) A Fizikai Főszabályozók körei
+[668] (5) A felemelkedő halandók körei
+[669] (6) Az önkéntes telepes csoportok körei
+[670] (7) A végleges rendű lények körei
+[671] 6. A végrehajtói-igazgatási négyzetek
+[672] 7. A téglalapok — a spornagia
+[673] 8. A jerusemi háromszögek
+[674] 47. A hét lakóvilág
+[675] 1. A végleges rendű lények világa
+[676] A szükséges szülői tapasztalás
+[677] 2. A gyakorlóotthon
+[678] 3. Az első lakóvilág
+[679] Morontia társak
+[680] 4. A második lakóvilág
+[681] 5. A harmadik lakóvilág
+[682] 6. A negyedik lakóvilág
+[683] 7. Az ötödik lakóvilág
+[684] 8. A hatodik lakóvilág
+[685] Az Igazítóval való eggyé kapcsolódás
+[686] 9. A hetedik lakóvilág
+[687] 10. Jerusemi létpolgárság
+[688] 48. A morontia élet
+[689] 1. Morontia anyagok
+[690] 2. A Morontia Erőtér-felügyelők
+[691] (1) Kör-szabályozók
+[692] (2) Rendszer összehangolók
+[693] (3) Bolygó felügyelők
+[694] (4) Együttes szabályozók
+[695] (5) Kapcsolat-állandósítók
+[696] (6) Válogató-osztályozók
+[697] (7) Iktató-segédek
+[698] 3. A morontia társak
+[699] (1) A zarándok-oltalmazók
+[700] (2) Zarándok-fogadók és szabadtársítók
+[701] (3) A mennyei látogatók fogadói
+[702] (4) Összehangolók és összekötő igazgatók
+[703] (5) Tolmácsok és fordítók
+[704] (6) Kirándulás és visszatekintés felügyelők
+[705] (7) Terület- és épületfelügyelők
+[706] 4. A visszatekintési igazgatók
+[707] Mennyei humor
+[708] Halandói humor
+[709] 5. A lakóvilági tanítók
+[710] 6. A morontia-világi szeráfok — az átmenetben segédkezők
+[711] (1) Szeráfi örömhírhozók
+[712] A huszonharmadik istendicsőítő ének eredetije
+[713] (2) Faji közvetítők
+[714] (3) Elmetervezők
+[715] (4) Morontia tanácsosok
+[716] A mota térhatása
+[717] (5) Műszakiak
+[718] (6) Adatrögzítő-tanítók
+[719] Igazság és tény
+[720] (7) Segédkező tartalékosok
+[721] Siker, bukás és az ember önnön valója
+[722] 7. Morontia mota
+[723] 8. A morontia fejlődő lények
+[724] 49. A lakott világok
+[725] 1. A bolygói élet
+[726] 2. A bolygói fizikai fajták
+[727] (1) A légköri fajták
+[728] (2) Az elemi fajták
+[729] (3) A gravitációs fajták
+[730] (4) A hőmérsékleti fajták
+[731] (5) A villamos fajták
+[732] (6) Az energia-felvételi fajták
+[733] (7) A külön meg nem nevezett fajták
+[734] 3. A nemlégzők világai
+[735] 4. Evolúciós sajátakaratú teremtmények
+[736] 5. A halandók bolygói sorozatai
+[737] (1) A bolygói környezethez való alkalmazkodás
+[738] A Tabamantia felügyelte kísérleti sorozat
+[739] (2) Agyszelvény-fajta sorozatok
+[740] (3) Szellem-befogadási sorozatok
+[741] (4) Bolygói-halandói korszakok
+[742] (5) Teremtmény-rokonsági sorozatok
+[743] (6) Igazítói eggyé kapcsolódási sorozatok
+[744] (7) A föld elhagyásának eljárásai
+[745] 6. A bolygó elhagyása
+[746] (1) A túlélés megítéltetési vagy csoportos rendje
+[747] (2) A felemelkedés egyedi rendjei
+[748] (3) A felemelkedés próbaidős rendjei
+[749] (4) A felemelkedés második módosított rendjei
+[750] (5) A felemelkedés első módosított rendje
+[751] 50. A Bolygóhercegek
+[752] 1. A Hercegek küldetése
+[753] 2. A bolygó igazgatása
+[754] 3. A Herceg testtel bíró törzskara
+[755] 4. A bolygón létesített központ és a tanintézetek
+[756] 5. A fokozatosan fejlődő polgárosodott társadalom
+[757] 6. Bolygói műveltség
+[758] 7. Az elszigeteltség jutalma
+[759] Agondonterek
+[760] Tabamantia, egy agondonter
+[761] 51. A Bolygók Ádámjai
+[762] 1. Az Isten Anyagi Fiainak eredete és természete
+[763] 2. A bolygók Ádámjainak átvitele
+[764] 3. Az ádámi küldetések
+[765] 4. A hat evolúciós emberfajta
+[766] 5. Az emberfajták összeolvadása — az ádámi vér adományozása
+[767] 6. Az édeni rendszer
+[768] 7. Egyesített igazgatás
+[769] 52. A bolygók halandói korszakai
+[770] 1. Az ősember
+[771] 2. A Bolygóherceg utáni ember
+[772] 3. Az Ádám utáni ember
+[773] 4. Az Ítélkező Fiú utáni ember
+[774] 5. Az alászálló Fiú utáni ember
+[775] 6. Az Urantia alászállás utáni korszaka
+[776] 7. A Tanító Fiú utáni ember
+[777] 53. A Lucifer-féle lázadás
+[778] 1. A lázadás vezetői
+[779] 2. A lázadás okai
+[780] 3. A luciferi kiáltvány
+[781] 4. A lázadás kitörése
+[782] 5. Az összeütközés természete
+[783] 6. Egy állhatatos szeráfparancsnok
+[784] 7. A lázadás története
+[785] 8. Az Ember Fia az Urantián
+[786] 9. A lázadás jelenlegi állása
+[787] 54. A Lucifer-féle lázadásból eredő problémák
+[788] 1. Igaz és hamis szabadság
+[789] 2. A szabadság elrablása
+[790] 3. Az igazság eljövetelének késlekedése
+[791] 4. A könyörület miatti időbeli késedelem
+[792] 5. A késlekedésben rejlő bölcsesség
+[793] Tizenkét ok
+[794] 6. A szeretet diadala
+[795] 55. A fény és élet világai
+[796] 1. A morontia templom
+[797] 2. Halál és átmenet
+[798] 3. Az aranykor
+[799] 4. Igazgatási átalakítások
+[800] A bolygói hét szakasz
+[801] A köztes lények elbocsátása
+[802] Az ádámi indulás
+[803] 5. Az anyagi fejlődés csúcspontja
+[804] 6. Az egyes halandó
+[805] 7. Az első vagy bolygói szakasz
+[806] 8. A második vagy csillagrendszeri szakasz
+[807] 9. A harmadik vagy csillagvilági szakasz
+[808] 10. A negyedik vagy helyi világegyetemi szakasz
+[809] 11. A kis- és nagyövezeti szakaszok
+[810] 12. A hetedik vagy felsőbb-világegyetemi szakasz
+[811] A Legfelsőbb Korlátlan Ellenőrei
+[812] 56. Az egyetemes egység
+[813] 1. Fizikai összehangolódás
+[814] 2. Értelmi egység
+[815] 3. Szellemi egyesülés
+[816] 4. Személyiségi egyesülés
+[817] 5. Az Istenség-egység
+[818] 6. Az Evolúciós-istenségi egyesülés
+[819] 7. Az egyetemes fejlődésből eredő hatások
+[820] 8. A legfelsőbb egyesítő
+[821] 9. Az egyetemes abszolút egység
+[822] 10. Igazság, szépség és jóság
+[823] III. rész:
+[824] Az Urantia története
+[825] 57. Az Urantia keletkezése
+[826] 1. Az Andronover csillagköd
+[827] 2. Az első csillagköd szakasz
+[828] 3. A második csillagköd szakasz
+[829] 4. A harmadik és negyedik szakasz
+[830] A nap keletkezése
+[831] 5. A Monmatia eredete — az Urantia naprendszere
+[832] Ellentétes irányú mozgás
+[833] 6. A naprendszeri szakasz
+[834] A bolygók kialakulásának kora
+[835] Árapály-súrlódás
+[836] Gravitációs-árapály robbanások
+[837] 7. A meteori korszak
+[838] A tűzhányók kora
+[839] A kezdetleges földi légkör
+[840] 8. A földkéreg megszilárdulása
+[841] A földrengések kora
+[842] A világtenger és az első földrész
+[843] 58. Élet létesítése az Urantián
+[844] 1. A fizikai élet előfeltételei
+[845] 2. Az urantiai légkör
+[846] 3. A térbeli környezet
+[847] 4. Az élet kezdetének korszaka
+[848] 5. A földrészek sodródása
+[849] 6. Az átmeneti időszak
+[850] 7. A földtani történelemkönyv
+[851] 59. A tengervízi élet az Urantián
+[852] 1. A korai tengervízi élet a sekély tengerekben
+[853] A háromkaréjú ősrákok kora
+[854] 2. Az első szárazföldi áradások korszaka
+[855] A gerinctelen állatok kora
+[856] 3. A második nagy áradási szakasz
+[857] A tengeri virágállat időszak
+[858] A brachiopodák kora
+[859] 4. A nagy szárazföld-kiemelkedés szakasza
+[860] A szárazföldi növényi élet időszaka
+[861] A halak kora
+[862] 5. A földkéreg-vándorlások szakasza
+[863] A karbonkor — a páfrányerdők időszaka
+[864] A békák kora
+[865] 6. Az éghajlatváltozás szakasza
+[866] A magvas növények időszaka
+[867] Az élőlénytani nehézségek kora
+[868] 60. Az Urantia a korai szárazföldi élet időszakában
+[869] 1. A földtörténeti alsó középkor
+[870] 2. A földtörténeti felső középkor
+[871] 3. A krétakor
+[872] A virágos növények időszaka
+[873] A madarak kora
+[874] 4. A krétakor vége
+[875] 61. Az emlősök kora az Urantián
+[876] 1. Az új szárazföldi szakasz
+[877] A korai emlősök kora
+[878] 2. A jelenkori áradás szakasza
+[879] A fejlett emlősök kora
+[880] 3. Az újkori hegyképződési szakasz
+[881] Az elefántok és a lovak kora
+[882] 4. A jelenkori földrész-kiemelkedési szakasz
+[883] Az utolsó nagy emlősvándorlás
+[884] 5. A korai jégkorszak
+[885] 6. Az ősember a jégkorszakban
+[886] 7. A folytatódó jégkorszak
+[887] 62. Az emberi kor hajnalának ősi fajai
+[888] 1. A korai makifajták
+[889] 2. A korai emlősök
+[890] 3. A középemlősök
+[891] A majomtörzsek eredete
+[892] 4. A főemlősök
+[893] 5. Az első emberi lények
+[894] 6. Az emberi elme evolúciója
+[895] 7. A lakott világként való elismerés
+[896] 63. Az első embercsalád
+[897] 1. Andon és Fonta
+[898] 2. Az ikrek elmenekülése
+[899] 3. Andon családja
+[900] 4. Az andoni nemzetségek
+[901] 5. Az andonfiak szétszóródása
+[902] 6. Onagar — az igazság első tanítója
+[903] 7. Andon és Fonta továbbélése
+[904] 64. A színes evolúciós emberfajták
+[905] 1. Az andoni őslakók
+[906] 2. A foxhalli népek
+[907] 3. A Badonan-törzsek
+[908] 4. A neandervölgyi emberfajták
+[909] 5. A színes emberfajták eredete
+[910] 6. Az Urantia hat szangik emberfajtája
+[911] (1) A vörös ember
+[912] (2) A narancsszín ember
+[913] (3) A sárga ember
+[914] (4) A zöld ember
+[915] (5) A kék ember
+[916] (6) Az indigó emberfajta
+[917] A hat emberfajta kifejlődésének oka
+[918] 7. A színes emberfajták szétszóródása
+[919] 65. Az evolúció felügyelete
+[920] 1. Az Élethordozók működése
+[921] (1) A villamos-vegytani fizikai szint
+[922] (2) A majdnem-morontiai létezés szokványos középszakasza
+[923] (3) A fejlett félszellemi szint
+[924] 2. Az evolúciós körkép
+[925] 3. A törzsfejlődés előmozdítása
+[926] 4. Az urantiai kaland
+[927] 5. Az élet-evolúció nehézségei
+[928] 6. Az élet evolúciós módszerei
+[929] 7. Evolúciós elmeszintek
+[930] Gépies-nemtanítható elme
+[931] Nemgépies-tapasztaló elme
+[932] 8. Evolúció időben és térben
+[933] 66. Az Urantia Bolygóhercege
+[934] 1. Kaligasztia Herceg
+[935] 2. A Herceg törzskara
+[936] 3. Dalamatia — a Herceg városa
+[937] 4. A százak első napjai
+[938] 5. A százak megszervezése
+[939] (1) Az élelmezési és anyagi jóléti tanács
+[940] (2) Az állatok háziasításának és igénybevételének tanácsa
+[941] (3) A ragadozó állatok legyőzésében tanácsokat adók
+[942] (4) A tudás terjesztésének és megőrzésének tagozata
+[943] (5) Az ipari és kereskedelmi bizottság
+[944] (6) A kinyilatkoztatott vallás kara
+[945] (7) Az egészség és az élet megőrzői
+[946] (8) A kézművesség és a tudomány bolygói tanácsa
+[947] (9) A fejlett törzsi kapcsolatok kormányzói
+[948] (10) A törzsi összhang és a faji együttműködés legfelsőbb bírósága
+[949] 6. A Herceg uralkodása
+[950] 7. A dalamatiai élet
+[951] 8. Kaligasztia hányattatásai
+[952] 67. A lázadás a bolygón
+[953] 1. A Kaligasztia-féle árulás
+[954] 2. A lázadás kitörése
+[955] 3. A hét nehéz év
+[956] 4. A kaligasztiai százak a lázadás után
+[957] 5. A lázadás közvetlen következményei
+[958] 6. Van — a megingathatatlan
+[959] 7. A bűn közvetett következményei
+[960] 8. A lázadás emberi hőse
+[961] 68. A polgárosodás hajnala
+[962] 1. A védelmi közösségtudat
+[963] 2. A társadalmi fejlődést meghatározó tényezők
+[964] 3. A kísértetektől való félelem közösségszervező hatása
+[965] 4. Az erkölcsök fejlődése
+[966] 5. A földhasználati módszerek — az ember önfenntartási készségei
+[967] (1) A gyűjtögető szakasz
+[968] (2) A vadászó szakasz
+[969] (3) A pásztorkodó szakasz
+[970] (4) A mezőgazdasági szakasz
+[971] 6. A műveltség kialakulása
+[972] A termőföld-ember arány
+[973] 69. A kezdetleges emberi intézmények
+[974] 1. Alapvető emberi intézmények
+[975] (1) Az önfenntartás intézményei
+[976] (2) Az önmaga átörökítésének intézményei
+[977] (3) A maga kedvére való létezés intézményei
+[978] 2. Az ipar hajnala
+[979] 3. A munka szakosodása
+[980] 4. A kereskedelem kezdetei
+[981] 5. A tőkefelhalmozás kezdetei
+[982] 6. A tűz és a polgárosodás viszonya
+[983] 7. Az állatok igénybevétele
+[984] 8. A rabszolgaság mint polgárosodási tényező
+[985] 9. Magántulajdon
+[986] 70. Az emberi közösségek kormányzásának fejlődése
+[987] 1. A háború eredete
+[988] 2. A háború társadalmi értéke
+[989] A mai indusztrializmus és a fegyverkezés küzdelme
+[990] 3. Az első emberi társulások
+[991] 4. Nemzetségek és törzsek
+[992] 5. A kormányzás kezdetei
+[993] 6. Egyeduralmi kormányzás
+[994] 7. Kezdetleges társaskörök és titkos társaságok
+[995] 8. Társadalmi osztályok
+[996] 9. Emberi jogok
+[997] 10. Az igazságosság fejlődése
+[998] 11. Törvények és bíróságok
+[999] 12. A polgári hatóság felállítása
+[1000] 71. Az állam fejlődése
+[1001] 1. A kezdetleges állam
+[1002] 2. A képviseleti kormányzás kialakulása
+[1003] 3. Az államiság eszményképei
+[1004] 4. Fokozatos polgárosodás
+[1005] 5. A versengés kialakulása
+[1006] 6. A nyereségérdekeltség
+[1007] 7. Nevelés
+[1008] 8. Az államiság jellege
+[1009] 72. Egy szomszédos bolygó kormányzati berendezkedése
+[1010] 1. A földrészen élő nemzet
+[1011] 2. Politikai szerveződés
+[1012] 3. A családi élet
+[1013] 4. Az oktatási rendszer
+[1014] 5. Ipari szerveződés
+[1015] 6. Öregségi biztosítás
+[1016] 7. Adórendszer
+[1017] 8. A szakirányú felsőbb tanintézetek
+[1018] 9. Az általános választójog terve
+[1019] 10. A bűnözés kérdésének kezelése
+[1020] 11. Katonai felkészültség
+[1021] 12. A többi nemzet
+[1022] 73. Az Édenkert
+[1023] Tabamantia felügyeleti látogatása
+[1024] 1. A nodfiak és az amadonfiak
+[1025] 2. Előkészületek a kert megépítéséhez
+[1026] 3. A kert helye
+[1027] 4. A kert kialakítása
+[1028] 5. A kertbeli otthon
+[1029] 6. Az élet fája
+[1030] 7. Az Éden létének vége
+[1031] 74. Ádám és Éva
+[1032] 1. Ádám és Éva a Jerusemen
+[1033] 2. Ádám és Éva megérkezése
+[1034] 3. Ádám és Éva ismerkedik a bolygóval
+[1035] 4. Az első zavarok
+[1036] 5. Az Ádám-féle igazgatási rend
+[1037] 6. Ádám és Éva családi élete
+[1038] 7. Élet a kertben
+[1039] 8. A teremtés mondája
+[1040] 75. Ádám és Éva vétke
+[1041] 1. Az Urantia-probléma
+[1042] 2. Kaligasztia cselszövése
+[1043] 3. Éva megkísértése
+[1044] 4. A vétek megvalósulása
+[1045] 5. A vétek következményei
+[1046] 6. Ádám és Éva elhagyja a kertet
+[1047] 7. Ádám és Éva leépülése
+[1048] 8. Az ember úgynevezett bűnbeesése
+[1049] 76. A második kert
+[1050] 1. Az édeniek belépnek Mezopotámiába
+[1051] 2. Káin és Ábel
+[1052] 3. Élet Mezopotámiában
+[1053] A szetfi papság
+[1054] 4. Az ibolyaszín emberfajta
+[1055] 5. Ádám és Éva halála
+[1056] Mihály üzenete
+[1057] 6. Ádám és Éva továbbélése
+[1058] 77. A köztes teremtmények
+[1059] 1. Az elsőfajú közteslények
+[1060] 2. A nodfi emberfajta
+[1061] 3. Bábel tornya
+[1062] 4. A nodfi polgárosultság központjai
+[1063] 5. Ádámszon és Ratta
+[1064] 6. A másodfajú közteslények
+[1065] 7. A lázadó közteslények
+[1066] 8. Az Egyesült Közteslények
+[1067] 9. Az Urantia állandó létpolgárai
+[1068] 78. Az ibolyaszín emberfajta az Ádám utáni időkben
+[1069] 1. Faji és műveltségi megoszlás
+[1070] 2. Az ádámfiak a második kertben
+[1071] 3. Az ádámfiak első terjeszkedése
+[1072] 4. Az anditák
+[1073] 5. Az andita vándorlások
+[1074] 6. Az utolsó andita kirajzások
+[1075] 7. A mezopotámiai áradások
+[1076] Noé története
+[1077] 8. A sumérok — az utolsó anditák
+[1078] 79. Az andita terjeszkedés keleten
+[1079] 1. A turkesztáni anditák
+[1080] 2. India andita meghódítása
+[1081] 3. A dravida India
+[1082] 4. India árja megszállása
+[1083] 5. A vörös ember és a sárga ember
+[1084] 6. A kínai polgárosodás hajnala
+[1085] 7. Az anditák elérik Kínát
+[1086] 8. A kései kínai polgárosodás
+[1087] 80. Az andita terjeszkedés nyugaton
+[1088] 1. Az ádámfiak belépnek Európa területére
+[1089] 2. Éghajlati és földtani változások
+[1090] A földközi-tengeri medence elárasztása
+[1091] 3. A cro-magnoni fajta kék ember
+[1092] 4. Az anditák európai betörései
+[1093] 5. Észak-Európa andita meghódítása
+[1094] 6. Az anditák a Nílus mentén
+[1095] 7. A földközi-tengeri szigetek anditái
+[1096] 8. A dunai andonfiak
+[1097] 9. A három fehér emberfajta
+[1098] 81. A mai polgárosodott viszonyok kialakulása
+[1099] 1. A polgárosodás bölcsője
+[1100] 2. A polgárosodás eszközei
+[1101] (1) A tűz legyőzése
+[1102] (2) Az állatok háziasítása
+[1103] (3) A hadifoglyok rabszolgasorba vetése
+[1104] (4) A magántulajdon
+[1105] 3. Városok, kézművesipar és kereskedelem
+[1106] 4. A kevert emberfajták
+[1107] (1) A kaukázusi fajta
+[1108] (2) A mongoloid fajta
+[1109] (3) A negroid fajta
+[1110] 5. Műveltségi társadalom
+[1111] Hatalom és jog
+[1112] 6. A polgárosodott társadalom fenntartása
+[1113] (1) Természeti körülmények
+[1114] (2) A tőke javak
+[1115] (3) Tudományos ismeretek
+[1116] (4) Emberi erőforrások
+[1117] (5) Az anyagi erőforrások hatékonysága
+[1118] (6) A nyelv hatékonysága
+[1119] (7) A gépi eszközök hatékonysága
+[1120] (8) A fáklyavivők jelleme
+[1121] (9) A faji eszményképek
+[1122] (10) A szakértők szervezése
+[1123] (11) Eszközök ahhoz, hogy az ember megtalálhassa a helyét
+[1124] (12) Az együttműködésre való hajlam
+[1125] (13) Hatékony és bölcs vezetés
+[1126] (14) Társadalmi változások
+[1127] (15) Az átmeneti összeomlás megakadályozása
+[1128] 82. A házasság fejlődése
+[1129] 1. A párzási ösztön
+[1130] 2. A korlátozó tabuk
+[1131] 3. A korai házassági erkölcsök
+[1132] 4. Házasság a vagyoni erkölcsök mellett
+[1133] 5. Belházasság és külházasság
+[1134] 6. Fajkeveredések
+[1135] 83. A házasság intézménye
+[1136] 1. A házasság mint társadalmi intézmény
+[1137] 2. Udvarlás és jegyesség
+[1138] 3. Vásárlás és hozomány
+[1139] 4. A házassági szertartás
+[1140] 5. Többes házasságok
+[1141] 6. Igazi egynejűség — a párok házassága
+[1142] 7. A házasság felbontása
+[1143] 8. A házasság eszményítése
+[1144] 84. Házasság és családi élet
+[1145] 1. Kezdetleges párkapcsolatok
+[1146] 2. A korai anyaközpontú család
+[1147] 3. Az apa uralta család
+[1148] 4. A nők helyzete a korai társadalomban
+[1149] 5. A nők helyzete a fejlődő erkölcsök mellett
+[1150] 6. A férfi-nő társas viszony
+[1151] 7. A családi élet eszményképei
+[1152] 8. A maga kedvére való létezés veszélyei
+[1153] 85. Az istenimádás gyökerei
+[1154] 1. A kövek és hegyek imádása
+[1155] 2. A növények és fák imádása
+[1156] 3. Az állatok imádása
+[1157] 4. Az elemek imádása
+[1158] 5. Az égitestek imádása
+[1159] 6. Az ember imádása
+[1160] 7. Az istenimádat és a bölcsesség segédje
+[1161] 86. A vallás fejlődésének korai szakasza
+[1162] 1. A véletlen: jószerencse és balszerencse
+[1163] 2. A véletlen megszemélyesítése
+[1164] 3. A halál — a megmagyarázhatatlan
+[1165] 4. A halál túlélésének fogalma
+[1166] 5. A kísértetlélek fogalma
+[1167] 6. A kísértet-szellem környezet
+[1168] 7. A kezdetleges vallás rendeltetési célja
+[1169] 87. A kísértettiszteletek
+[1170] 1. A kísértetfélés
+[1171] 2. A kísértetek kiengesztelése
+[1172] 3. Az ősök imádása
+[1173] 4. Jó és rossz szellemkísértetek
+[1174] 5. A fejlődő kísértettisztelet
+[1175] 6. Kikényszerítés és elűzés
+[1176] 7. A tiszteletközösség természete
+[1177] 88. Bűvtárgyak, szerencsetárgyak és varázslás
+[1178] 1. A bűvtárgyakban való hit
+[1179] 2. A bűvtárgy fejlődése
+[1180] Képek és bálványok
+[1181] „Szent könyvek”
+[1182] 3. A megtestesült ős tisztelete
+[1183] 4. Varázslás
+[1184] 5. Varázserejű szerencsetárgyak
+[1185] 6. A varázslás gyakorlása
+[1186] 89. Bűn, áldozás és vezeklés
+[1187] 1. A tabu
+[1188] 2. A bűnről alkotott felfogás
+[1189] 3. Lemondás és sanyargatás
+[1190] A nemi önmegtartóztatás tisztelete
+[1191] 4. Az áldozás gyökerei
+[1192] 5. Áldozás és emberevés
+[1193] 6. Az emberáldozás fejlődési folyamata
+[1194] 7. Változások az emberáldozásban
+[1195] A templomi bujálkodás
+[1196] 8. Megváltás és szövetségek
+[1197] 9. Áldozások és szentségek
+[1198] 10. A bűn megbocsátása
+[1199] 90. Sámánizmus — javasok és papok
+[1200] 1. Az első sámánok — a kuruzslók
+[1201] 2. Sámánszokások
+[1202] 3. A betegségről és a halálról alkotott sámánfelfogás
+[1203] 4. A gyógyítás a sámánok gyakorlatában
+[1204] 5. Papok és szertartások
+[1205] 91. Az ima fejlődése
+[1206] 1. A kezdetleges ima
+[1207] 2. Az ima kialakulása
+[1208] Az ima és a varázslás ellentéte
+[1209] 3. Az ima és a második én
+[1210] 4. Erkölcsi imádkozás
+[1211] 5. Az ima társadalmi következményei
+[1212] 6. Az ima területe
+[1213] 7. A megmagyarázhatatlan keresése, önkívület és ihletettség
+[1214] 8. Az imádkozás mint személyes tapasztalás
+[1215] 9. A hatékony ima feltételei
+[1216] 92. A vallás fejlődésének későbbi szakasza
+[1217] 1. A vallás evolúciós természete
+[1218] 2. A vallás és az erkölcsök
+[1219] 3. Az evolúciós vallás természete
+[1220] 4. A kinyilatkoztatás ajándéka
+[1221] (1) A dalamatiai tanítások
+[1222] (2) Az édeni tanítások
+[1223] (3) A sálemi Melkizedek
+[1224] (4) A názáreti Jézus
+[1225] (5) Az Urantia Írások
+[1226] 5. A nagy vallási vezetők
+[1227] 6. Az összetett vallások
+[1228] Tizenegy élő vallás
+[1229] 7. A vallás továbbfejlődése
+[1230] 93. Makiventa Melkizedek
+[1231] 1. A Makiventa megtestesülés
+[1232] 2. Sálem bölcse
+[1233] 3. A Melkizedek tanításai
+[1234] 4. A sálemi vallás
+[1235] A hitvallás
+[1236] A hét parancsolat
+[1237] 5. Ábrahám kiválasztása
+[1238] 6. A Melkizedek szövetsége Ábrahámmal
+[1239] 7. A Melkizedek-féle hitterjesztők
+[1240] 8. A Melkizedek távozása
+[1241] 9. A Melkizedek távozása utáni idők
+[1242] 10. Makiventa Melkizedek jelenlegi helyzete
+[1243] 94. A Melkizedek tanítások keleten
+[1244] 1. A sálemi tanok a védikus Indiában
+[1245] A Rigvéda
+[1246] 2. Brahmanizmus
+[1247] Az újratestesülés tantétele
+[1248] 3. A brahman bölcselet
+[1249] 4. A hindu vallás
+[1250] 5. Küzdelem az igazságért Kínában
+[1251] 6. Lao-ce és Konfuciusz
+[1252] 7. Gautama Sziddhártha
+[1253] 8. A Buddhista hit
+[1254] Gautama evangéliuma
+[1255] Az erkölcsi parancsolatok
+[1256] 9. A buddhizmus elterjedése
+[1257] 10. A vallási helyzet Tibetben
+[1258] 11. Buddhista bölcselet
+[1259] 12. A buddhizmus istenképe
+[1260] 95. A Melkizedek tanítások a Levantéban
+[1261] 1. A sálemi vallás Mezopotámiában
+[1262] 2. A korai egyiptomi vallás
+[1263] 3. Az erkölcsi felfogások fejlődése
+[1264] 4. Amenemope tanításai
+[1265] 5. A figyelemre méltó Ikhnaton
+[1266] 6. A sálemi tantételek Iránban
+[1267] 7. A sálemi tanok Arábiában
+[1268] 96. Jahve — a héberek Istene
+[1269] 1. Istenségképek a szemiták körében
+[1270] 2. A szemita népek
+[1271] 3. A páratlan Mózes
+[1272] 4. Jahve hirdetése
+[1273] 5. Mózes tanításai
+[1274] Anyagelvű Gondviselés
+[1275] 6. Az istenkép Mózes halála után
+[1276] 7. A Zsoltárok és Jób könyve
+[1277] 97. Az istenkép fejlődése a héber népek körében
+[1278] 1. Sámuel — az első héber látnok
+[1279] 2. Illés és Elizeus
+[1280] 3. Jahve és Baál
+[1281] 4. Ámósz és Hósea
+[1282] 5. Az első Ésaiás
+[1283] Míka és Abdiás
+[1284] 6. Jeremiás, a Rettenthetetlen
+[1285] 7. A második Ésaiás
+[1286] 8. Szent és világi történelem
+[1287] 9. Héber történelem
+[1288] Efraim és Júda
+[1289] Saul és Dávid
+[1290] Salamon és az adóztatás
+[1291] Izráel és Júda
+[1292] Izráel királyságának elpusztítása
+[1293] Júda királyságának vége
+[1294] A babiloni fogság
+[1295] 10. A héber vallás
+[1296] 98. A Melkizedek tanítások nyugaton
+[1297] 1. A sálemi vallás a görögöknél
+[1298] 2. A görög bölcseleti gondolkodás
+[1299] 3. A Melkizedek tanítások Rómában
+[1300] 4. A rejtelemimádatok
+[1301] Cibele és Attisz fríg tisztelete
+[1302] Ozirisz és Ízisz egyiptomi tisztelete
+[1303] Mitrász iráni tisztelete
+[1304] 5. A Mitrász-tisztelet
+[1305] 6. Mitraizmus és kereszténység
+[1306] 7. A keresztény vallás
+[1307] 99. A vallás társadalmi problémái
+[1308] 1. Vallás és társadalmi újjászervezés
+[1309] 2. Az intézményesített vallás gyengesége
+[1310] 3. A vallás és a hívő
+[1311] 4. Átmeneti nehézségek
+[1312] 5. A vallás társadalmi vetületei
+[1313] 6. Intézményesített vallás
+[1314] 7. A vallás hozadéka
+[1315] 100. Az ember által megtapasztalható vallás
+[1316] 1. Vallásos gyarapodás
+[1317] 2. Szellemi növekedés
+[1318] 3. A legfelsőbb értékkel kapcsolatos fogalmak
+[1319] 4. A növekedéssel járó problémák
+[1320] 5. Megtérés és a megmagyarázhatatlan imádata
+[1321] 6. A vallásos élet jegyei
+[1322] 7. A vallásos élet tetőpontja
+[1323] 101. A vallás valódi természete
+[1324] 1. Az igaz vallás
+[1325] 2. A vallás ténye
+[1326] 3. A vallás ismérvei
+[1327] Tizenkét példa a szellemi hit szemléltetésére
+[1328] 4. A kinyilatkoztatás korlátai
+[1329] 5. A kinyilatkoztatás által kiterjesztett vallás
+[1330] 6. Gyarapodó vallási tapasztalás
+[1331] Az üdvözülés hét vetülete
+[1332] 7. Személyes vallásbölcselet
+[1333] 8. Hit és hiedelem
+[1334] 9. Vallás és erkölcsiség
+[1335] 10. A vallás mint az ember felszabadítója
+[1336] 102. A vallásos hit alapjai
+[1337] 1. Hitbeli bizonyosságok
+[1338] 2. Vallás és valóság
+[1339] 3. Tudás, bölcsesség és rálátás
+[1340] 4. A tapasztalás ténye
+[1341] 5. A célirányos magvábanvaló felsősége
+[1342] 6. A vallásos hitbeli meggyőződés
+[1343] 7. Az isteni bizonyossága
+[1344] 8. A vallás tanúságai
+[1345] 103. A vallásos tapasztalás valósága
+[1346] 1. Vallásbölcselet
+[1347] 2. A vallás és az egyén
+[1348] 3. A vallás és az emberi faj
+[1349] 4. Szellemi közösség
+[1350] 5. Az eszményképek eredete
+[1351] 6. Bölcseleti összhangteremtés
+[1352] 7. Tudomány és vallás
+[1353] 8. Bölcselet és vallás
+[1354] 9. A vallás lényege
+[1355] 104. A háromság fogalmának kiteljesedése
+[1356] 1. Az urantiai háromsági fogalmak
+[1357] 2. Háromság-egység és Istenség-többesség
+[1358] 3. Háromságok és hármasegységek
+[1359] 4. A hét hármasegység
+[1360] 5. A trioditák
+[1361] 105. Istenség és valóság
+[1362] 1. A VAGYOK bölcseleti fogalma
+[1363] 2. A VAGYOK mint háromsági és mint hétszeres
+[1364] 3. A végtelenség hét Abszolútja
+[1365] 4. Egység, kettősség és hármasegység
+[1366] 5. A véges valóság kiteljesedése
+[1367] 6. A véges valóság tükröződései
+[1368] 7. A tapasztalás-meghaladók meglényegülése
+[1369] 106. Világegyetemi valóságszintek
+[1370] 1. A véges működésiek elsőrendű társulásai
+[1371] A Hétszeres Isten
+[1372] 2. A véges valóságok másodrendű legfelsőbb egységesülése
+[1373] A Legfelsőbb Lény
+[1374] 3. Tapasztalás-meghaladó harmadrendű valóság-csoportok
+[1375] A Háromsági Végleges
+[1376] 4. Végleges negyedrendű egységesülés
+[1377] Végleges Istenség
+[1378] 5. Mellérendelt-abszolút vagy ötödrendű társulás
+[1379] A Háromsági Abszolút
+[1380] 6. Abszolút vagy hatodrendű egységesülés
+[1381] A végtelen mindenségrend
+[1382] 7. A beteljesülés véglegessége
+[1383] 8. A Háromságok Háromsága
+[1384] (1) A három Háromság szintje
+[1385] (2) Az élményelvi Istenség szintje
+[1386] (3) A VAGYOK szintje
+[1387] 9. Lételvi végtelen egyesülés
+[1388] 107. A Gondolatigazítók eredete és természete
+[1389] 1. A Gondolatigazítók eredete
+[1390] 2. Az Igazítók csoportosítása
+[1391] 3. Az Igazítók diviningtoni otthona
+[1392] 4. Az Igazítók természete és jelenléte
+[1393] 5. Az igazítói elme jellege
+[1394] 6. Az Igazítók mint tiszta szellemek
+[1395] 7. Az Igazítók és a személyiség
+[1396] 108. A Gondolatigazítók küldetése és segédkezése
+[1397] 1. A kiválasztás és a feladat
+[1398] 2. Az Igazító adományozásának előfeltételei
+[1399] Az Urantián
+[1400] Más világokon
+[1401] 3. Szervezés és igazgatás
+[1402] Tabamantia tisztelgése
+[1403] 4. Az egyéb szellemi hatásokhoz való viszony
+[1404] 5. Az Igazítók küldetése
+[1405] 6. Isten az emberben
+[1406] 109. Az Igazítók viszonya a világegyetemi teremtményekhez
+[1407] 1. Az Igazítók fejlődése
+[1408] 2. Az öntevékeny Igazítók
+[1409] 3. Az Igazítók viszonya a halandólény-fajtákhoz
+[1410] 4. Az Igazítók és az emberi személyiség
+[1411] 5. Az Igazító beköltözésének anyagi akadályai
+[1412] 6. Az igazi értékek állandósága
+[1413] A Jézusban lakozott Igazító
+[1414] 7. A megszemélyesült igazítói beteljesülés
+[1415] Minden-személyiségű lények
+[1416] 110. Az Igazítók viszonya a halandó egyénekhez
+[1417] 1. A halandóelmébe való beköltözés
+[1418] 2. Az Igazítók és az emberi akarat
+[1419] 3. Az Igazítóval való együttműködés
+[1420] 4. Az Igazító munkája az elmében
+[1421] 5. Az igazítói vezetéssel kapcsolatos tévképzetek
+[1422] 6. A hét lelki kör
+[1423] 7. A halhatatlanság elérése
+[1424] Az Igazító kérelme a lélekhez
+[1425] 111. Az Igazító és a lélek
+[1426] 1. Az elme — A választás színtere
+[1427] 2. A lélek természete
+[1428] 3. A kifejlődő lélek
+[1429] 4. A bensőben zajló élet
+[1430] 5. A szabad döntés szentesítése
+[1431] 6. Az emberrel kapcsolatos látszólagos ellentmondás
+[1432] 7. Az Igazító problémája
+[1433] Egy végzet-őrangyal beszámolója
+[1434] 112. A személyiség továbbélése
+[1435] A személyiség tizennégy ismérve
+[1436] 1. Személyiség és valóság
+[1437] 2. Az ember önnön valója
+[1438] 3. A halál jelensége
+[1439] 4. Az Igazítók sora a halál után
+[1440] 5. Az emberi sajátlényeg továbbélése
+[1441] 6. Az ember morontia valója
+[1442] 7. Az Igazítóval való eggyé kapcsolódás
+[1443] 113. A szeráfi végzet-őrangyalok
+[1444] 1. Az őrangyalok
+[1445] 2. A végzet-őrangyalok
+[1446] 3. Az egyéb szellemhatásokhoz fűződő viszony
+[1447] 4. A szeráfok tevékenységi köre
+[1448] 5. A halandó számára végzett szeráfi segédkezés
+[1449] 6. Az őrangyalok szerepe a halált követően
+[1450] 7. A szeráfok és a felemelkedési létpálya
+[1451] 114. A bolygók szeráfi kormányzása
+[1452] 1. Az Urantia felségjoga
+[1453] 2. A bolygófelügyelők tanácsa
+[1454] 3. Az állandó főkormányzó
+[1455] 4. A Fenséges Megfigyelő
+[1456] A Fenséges kormányzósága
+[1457] 5. A bolygó kormánya
+[1458] 6. A bolygó felügyeletét ellátó főszeráfok
+[1459] (1) A korszakos angyalok
+[1460] (2) A fejlődés angyalai
+[1461] (3) A vallási őrangyalok
+[1462] (4) A nemzetlét angyalai
+[1463] (5) A fajok angyalai
+[1464] (6) A jövő angyalai
+[1465] (7) A megvilágosodás angyalai
+[1466] (8) Az egészség angyalai
+[1467] (9) Az otthon szeráfjai
+[1468] (10) Az ipar angyalai
+[1469] (11) A kikapcsolódás angyalai
+[1470] (12) Az emberfeletti szolgálat angyalai
+[1471] 7. A beteljesülés tartalékos alakulata
+[1472] 115. A Legfelsőbb Lény
+[1473] 1. A fogalomrendszer határainak viszonylagossága
+[1474] 2. A Felsőség abszolút alapja
+[1475] 3. Az eredeti, a tényleges és a magvábanvaló
+[1476] 4. A Legfelsőbb valóság forrásai
+[1477] 5. A Legfelsőbb viszonya a paradicsomi Háromsághoz
+[1478] 6. A Legfelsőbb viszonya a trioditákhoz
+[1479] 7. A Legfelsőbb természete
+[1480] 116. A Mindenható Legfelsőbb
+[1481] 1. A Legfelsőbb Elme
+[1482] A mindenségrendi elme
+[1483] 2. A Mindenható és a Hétszeres Isten
+[1484] 3. A Mindenható és a Paradicsomi Istenség
+[1485] 4. A Mindenható és a Legfelsőbb Teremtők
+[1486] 5. A Mindenható és a Hétszeres Szabályozók
+[1487] Az egyensúly problémája
+[1488] 6. A szellem irányító jellege
+[1489] 7. A nagy világegyetem élő szervezete
+[1490] 117. A Legfelsőbb Isten
+[1491] 1. A Legfelsőbb Lény természete
+[1492] 2. Az evolúciós növekedés forrása
+[1493] A teremtményi-háromságot elért fiak és a növekedés
+[1494] 3. A Legfelsőbb jelentése a világegyetemi teremtmények számára
+[1495] 4. A véges Isten
+[1496] Mindenségrendi erkölcsiség — a legfőbb kötelesség
+[1497] 5. A teremtés mindent átható lelke
+[1498] A véglegesrendűek érzékfeletti lényegűvé alakítása
+[1499] Az emberi növekedés következményei
+[1500] 6. A Legfelsőbb keresése
+[1501] 7. A Legfelsőbb jövője
+[1502] 118. Legfelsőbb és Végleges — idő és tér
+[1503] 1. Idő és örökkévalóság
+[1504] Tapasztalásbeli (alanyi) időegységek
+[1505] 2. Tér-időt-meghaladó mindenütt-jelenvalóság és tér-időbeli mindenütt-jelenvalóság
+[1506] 3. Tér-idő viszonyok
+[1507] Igazság és tény
+[1508] Tér és minta
+[1509] 4. Elsődleges és másodlagos okozati viszony
+[1510] 5. Mindenhatóság és összeférhetőség
+[1511] 6. Mindenhatóság és mindentevőség
+[1512] 7. Mindentudás és eleve elrendelés
+[1513] 8. Szabályozás és felügyelet
+[1514] A haladás idő-szabályozója
+[1515] 9. Világegyetemi működési rendek
+[1516] 10. A Gondviselés rendeltetési céljai
+[1517] 119. Krisztus Mihály alászállásai
+[1518] 1. Az első alászállás
+[1519] 2. A második alászállás
+[1520] 3. A harmadik alászállás
+[1521] 4. A negyedik alászállás
+[1522] 5. Az ötödik alászállás
+[1523] 6. A hatodik alászállás
+[1524] 7. A hetedik és utolsó alászállás
+[1525] 8. Mihály helyzete a megtestesülések után
+[1526] IV. rész:
+[1527] Jézus élete és tanításai
+[1528] 120. Mihály megtestesülése az Urantián
+[1529] 1. A hetedik alászállási megbízás
+[1530] 2. Az alászállással kapcsolatos megkötések
+[1531] 3. További tanácsok és intelmek
+[1532] 4. A megtestesülés — A kettő eggyé tétele
+[1533] 121. Mihály alászállásának kora
+[1534] 1. A Krisztus utáni első század nyugati világa
+[1535] 2. A zsidó nép
+[1536] 3. A nem-zsidók körei
+[1537] 4. A nem-zsidó bölcselet
+[1538] (1) Az epikureusi
+[1539] (2) A sztoikus
+[1540] (3) A cinikus
+[1541] (4) A szkeptikus
+[1542] 5. A nem-zsidó vallások
+[1543] A rejtelemvallások
+[1544] 6. A héber vallás
+[1545] 7. Zsidók és nem-zsidók
+[1546] 8. Korábbi írásos feljegyzések
+[1547] (1) A Márk által írt evangélium
+[1548] (2) Máté evangéliuma
+[1549] (3) A Lukács által írt evangélium
+[1550] (4) János evangéliuma
+[1551] Az írások hiteléül
+[1552] 122. Jézus megszületése és kisgyermekkora
+[1553] 1. József és Mária
+[1554] 2. Gábriel megjelenik Erzsébetnek
+[1555] 3. Gábriel bejelentése Máriának
+[1556] 4. József álma
+[1557] „Dávid háza”
+[1558] 5. Jézus földi szülei
+[1559] 6. A názáreti otthon
+[1560] 7. A betlehemi utazás
+[1561] 8. Jézus megszületése
+[1562] A pásztorokkal kapcsolatos hitrege
+[1563] Az Urból jött három pap
+[1564] A „betlehemi csillag”
+[1565] 9. Jézus bemutatása a templomban
+[1566] 10. Heródes intézkedései
+[1567] Menekülés Egyiptomba
+[1568] 123. Jézus zsengekora
+[1569] Időzés Egyiptomban
+[1570] 1. Visszatérés Názáretbe
+[1571] Jézus negyedik éve
+[1572] 2. Az ötödik év (Kr.e. 2)
+[1573] Gyermeknevelés
+[1574] 3. A hatodik év történései (Kr.e. 1)
+[1575] 4. A hetedik év (Kr.u. 1)
+[1576] Anyagi véletlen események
+[1577] 5. A názáreti tanodai napok
+[1578] 6. Jézus nyolcadik életéve (Kr.u. 2)
+[1579] 124. Jézus kései gyermekkora
+[1580] 1. Jézus kilencedik éve (Kr.u. 3)
+[1581] A rajz a padlón
+[1582] Galilea éghajlata
+[1583] 2. A tizedik év (Kr.u. 4)
+[1584] Jákob, a kőműves fia
+[1585] 3. A tizenegyedik év (Kr.u. 5)
+[1586] A szkítavárosi mellékesemény
+[1587] 4. A tizenkettedik év (Kr.u. 6)
+[1588] Személyes erkölcsiség és csoporthűség
+[1589] 5. A tizenharmadik év (Kr.u. 7)
+[1590] 6. A jeruzsálemi utazás
+[1591] Mária, Márta és Lázár
+[1592] 125. Jézus Jeruzsálemben
+[1593] 1. Jézus ellátogat a templomba
+[1594] 2. Jézus és a páska-ünnep
+[1595] 3. József és Mária elindulása
+[1596] 4. Az első és a második nap a templomban
+[1597] 5. A harmadik nap a templomban
+[1598] 6. A negyedik nap a templomban
+[1599] 126. A két legválságosabb év
+[1600] 1. Jézus tizennegyedik éve (Kr.u. 8)
+[1601] 2. József halála
+[1602] 3. A tizenötödik év (Kr.u. 9)
+[1603] „Az Úr Imájának” eredete
+[1604] Az „Ember Fia”
+[1605] Ki a Messiás?
+[1606] 4. Az első hitszónoklat a zsinagógában
+[1607] 5. A pénzügyi nehézségek
+[1608] 127. A kamaszkori évek
+[1609] 1. A tizenhatodik év (Kr.u. 10)
+[1610] 2. A tizenhetedik év (Kr.u. 11)
+[1611] A zélótákkal kapcsolatos mellékesemény
+[1612] 3. A tizennyolcadik év (Kr.u. 12)
+[1613] Jakabbal a páska-ünnepen
+[1614] Erzsébet és János látogatása
+[1615] Ámósz halála
+[1616] 4. A tizenkilencedik év (Kr.u. 13)
+[1617] A gyerekek nevelése
+[1618] 5. Rebeka, Ezra leánya
+[1619] 6. Jézus huszadik éve (Kr.u. 14)
+[1620] A páska-ünnepi látogatás Jeruzsálemben
+[1621] 128. Jézus korai felnőttkora
+[1622] 1. A huszonegyedik év (Kr.u. 15)
+[1623] Az isteniség folyamatos tudatosulása
+[1624] Józseffel a páska-ünnepen
+[1625] 2. A huszonkettedik év (Kr.u. 16)
+[1626] Kovácsként Szeforiszban
+[1627] 3. A huszonharmadik év (Kr.u. 17)
+[1628] Simonnal a páska-ünnepen
+[1629] Jézus találkozik Istvánnal
+[1630] 4. A damaszkuszi mellékesemény
+[1631] 5. A huszonnegyedik év (Kr.u. 18)
+[1632] Az alexandriai ajánlat
+[1633] 6. A huszonötödik év (Kr.u. 19)
+[1634] Júdással a páska-ünnepen
+[1635] „Jósua bácsi, mesélj nekünk.”
+[1636] 7. A huszonhatodik év (Kr.u. 20)
+[1637] Jakab megházasodása
+[1638] Mirjám házasságkötése
+[1639] Jakab a feje József családjának
+[1640] 129. Jézus későbbi felnőttkori élete
+[1641] 1. A huszonhetedik év (Kr.u. 21)
+[1642] Kapernaumi Zebedeus
+[1643] Jézus, a hajóépítő
+[1644] 2. A huszonnyolcadik év (Kr.u. 22)
+[1645] Jézus ellátogat Jeruzsálembe
+[1646] Találkozás Gonoddal és Ganiddal
+[1647] 3. A huszonkilencedik év (Kr.u. 23)
+[1648] A római utazás célja
+[1649] 4. Az emberi Jézus
+[1650] 130. Úton Rómába
+[1651] 1. Joppában — beszélgetés Jónásról
+[1652] Vita a jóról és a rosszról
+[1653] 2. Cezáreában
+[1654] A mongóliai kereskedő
+[1655] A görög munkás és a római munkafelügyelő
+[1656] Az Isten akarata és az ember akarata
+[1657] 3. Alexandriában
+[1658] 4. Beszélgetés a valóságról
+[1659] 5. Kréta szigetén
+[1660] 6. A félős legény
+[1661] 7. Karthágóban — beszélgetés az időről és a térről
+[1662] 8. Úton Nápolyba és Rómába
+[1663] Ezra, az eltévelyedett zsidó
+[1664] 131. A világ vallásai
+[1665] 1. Cinizmus
+[1666] 2. Judaizmus
+[1667] 3. Buddhizmus
+[1668] 4. Hinduizmus
+[1669] 5. Zoroasztrizmus
+[1670] 6. Szuduanizmus (Dzsainizmus)
+[1671] 7. Sintó
+[1672] 8. Taoizmus
+[1673] 9. Konfucianizmus
+[1674] 10. „A Mi Vallásunk”
+[1675] 132. Időzés Rómában
+[1676] A harminckét vallási vezetőre gyakorolt hatás
+[1677] 1. Igaz értékek
+[1678] 2. Jó és rossz
+[1679] 3. Igazság és hit
+[1680] 4. Személyes segédkezés
+[1681] A római szenátornak
+[1682] A római katonának
+[1683] A főtér egyik szónokának
+[1684] A hamisan vádolt szegény embernek
+[1685] 5. Intelmek a gazdag embernek
+[1686] 6. Társadalmi szolgálat
+[1687] 7. A Róma környéki utazások
+[1688] A meggondolatlan pogány
+[1689] „Teremtsünk, te és én, egy új vallást.”
+[1690] 133. Visszatérés Rómából
+[1691] India kasztrendszere
+[1692] 1. Irgalom és igazságosság
+[1693] 2. Hajóra szállás Tarentumban
+[1694] A feleségével gorombán viselkedő férfi
+[1695] 3. Korinthoszban
+[1696] Kriszpusz, a zsinagóga elöljárója
+[1697] Jusztusz, a kereskedő
+[1698] A két nyilvánosnő
+[1699] 4. Személyes működés Korinthoszban
+[1700] A molnár hasznára
+[1701] A római centurió hasznára
+[1702] A mitrász-tisztelet vezetője hasznára
+[1703] Az epikureus tanító hasznára
+[1704] A görög építési vállalkozó hasznára
+[1705] A római bíró hasznára
+[1706] A görög fogadó tulajdonosnője hasznára
+[1707] A kínai kereskedő hasznára
+[1708] A brit utazó hasznára
+[1709] Az elszökött fiú hasznára
+[1710] Az elítélt bűnöző hasznára
+[1711] 5. Athénban — beszélgetés a tudományról
+[1712] 6. Efezusban — beszélgetés a lélekről
+[1713] 7. Időzés Cipruson — beszélgetés az elméről
+[1714] 8. Antiókhiában
+[1715] 9. Mezopotámiában
+[1716] 134. Az átmeneti évek
+[1717] 1. A harmincadik év (Kr.u. 24)
+[1718] Visszatérés Názáretbe
+[1719] Simon esküvője; Júdás esküvője
+[1720] 2. Utazás a Káspi-tenger vidékére
+[1721] 3. Az urmiai előadások
+[1722] 4. Főhatalom — Isteni és emberi
+[1723] 5. A politikai főhatalom
+[1724] 6. Törvény, szabadság és függetlenség
+[1725] 7. A harmincegyedik év (Kr.u. 25)
+[1726] Magányos vándorlások
+[1727] 8. A Hermon-hegyi elvonulás
+[1728] A Lucifer-féle lázadás vége
+[1729] A nebadoni főhatalom
+[1730] 9. A várakozás időszaka
+[1731] Látogatás Jeruzsálemben Jánossal
+[1732] A Zebedeus-féle műhelybeli munka
+[1733] 135. Keresztelő János
+[1734] 1. Jánosból nazireus lesz
+[1735] 2. Zakariás halála
+[1736] 3. A pásztorélet
+[1737] 4. Erzsébet halála
+[1738] 5. Isten országa
+[1739] 6. János a tan hirdetéséhez fog
+[1740] 7. János útja észak felé
+[1741] 8. Jézus és János találkozása
+[1742] Jézus megkeresztelése
+[1743] 9. A tan hirdetése negyven napon át
+[1744] 10. János útja dél felé
+[1745] 11. János a börtönben
+[1746] 12. Keresztelő János halála
+[1747] 136. A keresztelés és a negyven nap
+[1748] 1. A várt messiással kapcsolatos felfogások
+[1749] 2. Jézus megkeresztelése
+[1750] 3. A negyven nap
+[1751] Tanácskozás Gábriellel
+[1752] A világegyetemi főhatalom kiteljesítése
+[1753] 4. A nyilvános tevékenységgel kapcsolatos tervek
+[1754] Az Atya útja
+[1755] 5. Az első nagy elhatározás
+[1756] A parancsnokló Megszemélyesült Igazító
+[1757] Az Igazító közömbössége az idővel szemben
+[1758] 6. A második elhatározás
+[1759] A szokványos földi létezés útja
+[1760] 7. A harmadik elhatározás
+[1761] A természeti törvénynek való engedelmesség
+[1762] 8. A negyedik elhatározás
+[1763] A rosszal való megalkuvás elutasítása
+[1764] 9. Az ötödik elhatározás
+[1765] Dávid királyszékének elvetése
+[1766] 10. A hatodik elhatározás
+[1767] „Az Atyám akaratának engedelmeskedni fogok.”
+[1768] 137. Időzés Galileában
+[1769] 1. Az első négy apostol kiválasztása
+[1770] András és Péter
+[1771] Jakab és János
+[1772] 2. Fülöp és Nátániel kiválasztása
+[1773] 3. Látogatás Kapernaumban
+[1774] 4. A kánai menyegző
+[1775] 5. Visszatérés Kapernaumba
+[1776] 6. Egy szombati nap történései
+[1777] 7. Négyhónapos felkészülés
+[1778] 8. Beszéd az Országról
+[1779] 138. Az Ország hírnökeinek felkészítése
+[1780] 1. Az utolsó tanítások
+[1781] 2. A hatok kiválasztása
+[1782] 3. Máté és Simon szólítása
+[1783] Nem az igazakat, hanem a bűnösöket
+[1784] 4. Az ikrek szólítása
+[1785] 5. Tamás és Júdás szólítása
+[1786] 6. Az alapos felkészülés hete
+[1787] 7. Újabb csalódás
+[1788] 8. A tizenkettek első munkája
+[1789] 9. A próbatételek öt hónapja
+[1790] 10. A tizenkettek megszervezése
+[1791] 139. A tizenkét apostol
+[1792] 1. András, az elsőként kiválasztott
+[1793] 2. Simon Péter
+[1794] 3. Zebedeus Jakab
+[1795] 4. Zebedeus János
+[1796] 5. Kíváncsi Fülöp
+[1797] 6. Őszinte Nátániel
+[1798] 7. Lévi Máté
+[1799] 8. Didimusz Tamás
+[1800] 9. és 10. Alfeus Jakab és Júdás
+[1801] 11. Zélóta Simon
+[1802] 12. Karióti Júdás
+[1803] 140. A tizenkettek felavatása
+[1804] 1. Előkészítő tanítás
+[1805] 2. A felavatás
+[1806] 3. A felavatási beszéd
+[1807] A „hegyi beszéd”
+[1808] 4. Ti vagytok a föld sója
+[1809] 5. Atyai és testvéri szeretet
+[1810] Boldogok a szellemben szegények — az alázatosak...
+[1811] Boldogok, akik éhezik és szomjazzák az igazságot...
+[1812] Boldogok a szelídek...
+[1813] Boldogok a tiszta szívűek...
+[1814] Boldogok, akik szomorúak...
+[1815] Boldogok az irgalmasok...
+[1816] Boldogok a békességszerzők...
+[1817] Boldogok, akik üldöztetést szenvednek...
+[1818] 6. A felavatás estéje
+[1819] „Én a cselekedetnél mélyebbre tekintek... ”
+[1820] A válást illetően
+[1821] Igazság és irgalom
+[1822] „Jól teszik — ne háborgasd őket.”
+[1823] 7. A felavatást követő hét
+[1824] 8. Csütörtök délután a tónál
+[1825] (1) Az Atya akaratának megcselekedése
+[1826] (2) Politikai hozzáállás
+[1827] (3) Társadalmi beállítottság
+[1828] (4) Gazdasági magatartás
+[1829] (5) Személyes vallás
+[1830] 9. A felszentelés napja
+[1831] 10. A felszentelést követő este
+[1832] 141. A nyilvános működés elkezdése
+[1833] 1. Galilea elhagyása
+[1834] 2. Az Isten törvénye és az Atya akarata
+[1835] 3. Időzés Amathuszban
+[1836] Jézus személyisége
+[1837] Jézus megjelenése
+[1838] 4. Tanítás az Atyáról
+[1839] Segédkezni a betegeknek
+[1840] 5. Szellemi egység
+[1841] 6. Az utolsó hét Amathuszban
+[1842] Teherma, a perzsa
+[1843] 7. Betániában, a Jordánon túl
+[1844] Tanítás az országról
+[1845] Üdvözülés hit révén; szabadság az igazságon keresztül
+[1846] 8. A jerikói ténykedés
+[1847] 9. Utazás Jeruzsálembe
+[1848] 142. A páska-ünnep Jeruzsálemben
+[1849] Annás meglátogatása
+[1850] 1. Tanítás a templomban
+[1851] 2. Az Isten haragja
+[1852] A krétai Jákob
+[1853] 3. Az Istenről alkotott kép
+[1854] A hatféle héber istenkép
+[1855] Az ősi tízparancsolat
+[1856] 4. Fláviusz és a görög műveltség
+[1857] 5. Beszélgetés a bizonyosságról
+[1858] 6. A Nikodémusszal folytatott beszélgetés
+[1859] 7. Tanítás a családról
+[1860] 8. Dél-Júdeában
+[1861] A Getszemáni ligetbeli tábor
+[1862] 143. Utazás Szamarián át
+[1863] 1. A tan hirdetése Arkhelaiszban
+[1864] „Félvállról vették az üzenetünket.”
+[1865] „Talán ti gyengékre hasonlítotok?”
+[1866] 2. Tanítás az önuralomról
+[1867] 3. Szórakozás és kikapcsolódás
+[1868] Három nap a Sartaba-hegyen
+[1869] 4. A zsidók és a szamaritánusok
+[1870] 5. A sikári asszony
+[1871] 6. A szamaritánus hitébredés
+[1872] Táborverés a Gerizim-hegyen
+[1873] 7. Tanítások az imáról és az istenimádatról
+[1874] 144. Gilboában és a Tízvárosban
+[1875] 1. A gilboai tábor
+[1876] 2. Beszélgetés az imáról
+[1877] 3. A hívő ember imája
+[1878] 4. Egyebek az imáról
+[1879] 5. Más imaformák
+[1880] Hét ima más világokról
+[1881] 6. Tanácskozás János apostolaival
+[1882] 7. A Tízváros településein
+[1883] 8. A Pella közeli táborban
+[1884] „...mondjátok meg Jánosnak, hogy nem felejtkeztek el róla.”
+[1885] 9. Keresztelő János halála
+[1886] 145. Négy eseménydús nap Kapernaumban
+[1887] Ruth látogatása
+[1888] 1. A halfogás
+[1889] 2. Délután a zsinagógában
+[1890] A vallás személyes tapasztalás
+[1891] A rángógörcsös fiatalember
+[1892] Péter feleségének anyja
+[1893] 3. A gyógyítás napnyugtakor
+[1894] 4. Az este további részében
+[1895] 5. Vasárnap kora reggel
+[1896] 146. Az első tanhirdető vándorút Galileában
+[1897] 1. A tan hirdetése Rimmonban
+[1898] 2. Jotapatában
+[1899] Ima, köszönetnyilvánítás és istenimádat
+[1900] Igazság és irgalom
+[1901] Ima és személyes erőfeszítés
+[1902] Erkölcsös ima
+[1903] 3. A rámai megálló
+[1904] Vallás, tudomány és bölcselet
+[1905] Az igazság bizonyossága
+[1906] A zebuluni látogatás
+[1907] 4. A jiróni evangélium
+[1908] A bányákban végzett munka
+[1909] A bélpoklos meggyógyítása
+[1910] 5. Visszatérés Kánába
+[1911] Titusz, a nemesember
+[1912] 6. Nain és az özvegyasszony fia
+[1913] 7. Éndórban
+[1914] 147. Rövid látogatás Jeruzsálemben
+[1915] 1. A centurió szolgája
+[1916] 2. Az utazás Jeruzsálembe
+[1917] Elkülönülés János apostolaitól
+[1918] 3. A Bethesda vizénél
+[1919] 4. Az életmódszabály
+[1920] Nátániel kérdése az aranyszabályról
+[1921] 5. A farizeus Simon meglátogatása
+[1922] Példabeszéd a pénzkölcsönzőről
+[1923] Kapcsolat és fejlődés
+[1924] 6. Visszatérés Kapernaumba
+[1925] A hat kém
+[1926] „A szombat van az emberért... ”
+[1927] 7. Újra Kapernaumban
+[1928] 8. A szellemi jóság ünnepe
+[1929] 148. A vándor hitszónokok tanítása Betszaidában
+[1930] 1. A látnokok új tanodája
+[1931] 2. A betszaidai kórház
+[1932] 3. Az Atya ügye
+[1933] 4. A rossz, a bűn és a gonoszság
+[1934] 5. A megpróbáltatás célja
+[1935] 6. A szenvedés félreértelmezése — beszélgetés Jóbról
+[1936] 7. Az elsorvadt kezű ember
+[1937] 8. Az utolsó betszaidai hét
+[1938] A bagdadi Kirmeth
+[1939] 9. A lebénult ember meggyógyítása
+[1940] A három kém megkeresztelése
+[1941] 149. A második tanhirdető vándorút
+[1942] Dávid hírvivői szervezete
+[1943] 1. Jézus hírnevének terjedése
+[1944] A gyógyulási jelenségek
+[1945] 2. Az emberek hozzáállása
+[1946] A korai kereszténység két hibája
+[1947] Jézus gyógyítói hírneve
+[1948] A nők egyenjogúságának jézusi elismerése
+[1949] Jézus személyiségének magával ragadó volta
+[1950] 3. A vallási vezetők ellenségessége
+[1951] 4. A tanhirdető vándorút lefolyása
+[1952] A haraggal kapcsolatos megjegyzések
+[1953] A kiegyensúlyozott jellemet illetően
+[1954] 5. Tanítás a megelégedettségről
+[1955] 6. „Félni az Urat”
+[1956] 7. Visszatérés Betszaidába
+[1957] 150. A harmadik tanhirdető vándorút
+[1958] 1. A női vándor hitszónokok testülete
+[1959] 2. A magadáni megálló
+[1960] 3. A szombat Tibériásban
+[1961] Beszéd a „varázslásról és babonaságról”
+[1962] 4. Az apostolok kettesével való kiküldése
+[1963] 5. Mit kell tennem, hogy üdvözüljek?
+[1964] 6. Az esti tanítások
+[1965] 7. Időzés Názáretben
+[1966] 8. A szombati istentisztelet
+[1967] 9. A názáreti elutasítás
+[1968] 151. Időzés és tanítás a parton
+[1969] 1. A magvetőről szóló példabeszéd
+[1970] 2. A példabeszéd értelmezése
+[1971] 3. További beszélgetés a példázatokról
+[1972] 4. Újabb példabeszédek a tónál
+[1973] 5. A kheresai út
+[1974] A vihar a tavon
+[1975] 6. A kheresai eszelős
+[1976] 152. A kapernaumi válsághoz vezető események
+[1977] A cezárea-filippi Veronika
+[1978] 1. Jairus házában
+[1979] 2. Az ötezer ember jóllakatása
+[1980] 3. A királycsináló mellékesemény
+[1981] 4. Simon Péter éjszakai látomása
+[1982] 5. Újra Betszaidában
+[1983] 6. Genezáretben
+[1984] Kiegészítések a magvetőről szóló példázathoz
+[1985] 7. Jeruzsálemben
+[1986] 153. A kapernaumi válság
+[1987] 1. Az előkészületek sora
+[1988] 2. A korszakos beszéd
+[1989] „Én vagyok az élet kenyere.”
+[1990] 3. A beszéd után
+[1991] 4. Az utolsó szavak a zsinagógában
+[1992] A rossz szellemtől megszállt fiú
+[1993] „Hogyan képes Sátán Sátánt kiűzni?”
+[1994] 5. A szombat este
+[1995] A félig hívő követők elpártolása
+[1996] 154. Az utolsó napok Kapernaumban
+[1997] 1. A tanácskozás hete
+[1998] 2. A pihenés hete
+[1999] A zsinagógák bezárása
+[2000] 3. A második megbeszélés Tibériásban
+[2001] 4. Szombat éjjel Kapernaumban
+[2002] „Mihez kezdjünk Jézussal?”
+[2003] 5. A mozgalmas vasárnap reggel
+[2004] 6. Jézus családjának megérkezése
+[2005] 7. A sietve távozás
+[2006] 155. Menekülés Észak-Galileán át
+[2007] 1. Miért háborognak a pogányok?
+[2008] 2. A vándor hitszónokok Korazinban
+[2009] 3. Cezárea-Filippiben
+[2010] Igazság és hitvallás
+[2011] A vallási hagyományok eredete
+[2012] 4. Útban Fönícia felé
+[2013] 5. Beszélgetés az igaz vallásról
+[2014] 6. A második beszélgetés a vallásról
+[2015] 156. Időzés Tiruszban és Szidonban
+[2016] 1. A szíriai nő
+[2017] 2. Tanítás Szidonban
+[2018] „E világ csak egy híd... ”
+[2019] 3. Utazás a partvidéken
+[2020] 4. Tiruszban
+[2021] 5. Jézus Tiruszban tanít
+[2022] Az ostoba ács példázata
+[2023] A kísértés és az emberi természet
+[2024] Az anyagi siker lényeges elemei
+[2025] A szellemi életmód és az önbecsülés
+[2026] Eszményképek és eszmék
+[2027] Tapintat, báj és bölcsesség
+[2028] 6. Visszatérés Föníciából
+[2029] A zsidó vezetők hozzáállása
+[2030] 157. Cezárea-Filippiben
+[2031] Jézus találkozni szeretne a családjával
+[2032] 1. A templomi adószedő
+[2033] „A szájában sékelt hordozó hal”
+[2034] 2. Betszaida-Juliászban
+[2035] 3. Péter hitet tesz
+[2036] „Mit mondanak az emberek, ki vagyok én?”
+[2037] 4. Beszélgetés az Országról
+[2038] 5. Az új felfogás
+[2039] 6. A következő délután
+[2040] Jézus életének négy szakasza
+[2041] Újabb határozott kijelentések
+[2042] 7. András beszélgetései
+[2043] 158. Az átlényegülés hegye
+[2044] 1. Az átlényegülés
+[2045] 2. Útban lefelé a hegyről
+[2046] 3. Az átlényegülés jelentése
+[2047] 4. A nyavalyatörős fiú
+[2048] A sáfedi Jakab
+[2049] 5. Jézus meggyógyítja a fiút
+[2050] „Uram, én hiszek... segíts a hitetlenségemen!”
+[2051] 6. Kelszosz kertjében
+[2052] 7. Péter tiltakozása
+[2053] 8. Péter házában
+[2054] 159. A tízvárosi vándorút
+[2055] 1. A megbocsátásról szóló tan hirdetése
+[2056] „Hányszor kell megbocsátanom a testvéremnek?”
+[2057] Példázat az intézők elszámoltatásáról
+[2058] A személyes ítélkezés veszélyei
+[2059] 2. A különös tanhirdető
+[2060] 3. Intelem a tanítóknak és a híveknek
+[2061] 4. Beszélgetés Nátániellel
+[2062] „Mi az igazság az Írásokkal kapcsolatban?”
+[2063] 5. Jézus vallásának igenlő jellege
+[2064] „...még egy mérföldön át viheted a csomagot.”
+[2065] 6. Visszatérés Magadánba
+[2066] 160. Alexandriai Rodan
+[2067] 1. Rodan görög bölcselete
+[2068] A három életkésztetés
+[2069] Problémamegoldás és mély istenimádat
+[2070] Előítélet és az igazság felismerése
+[2071] 2. Az életmód
+[2072] A barátság közösségszervező értéke
+[2073] A házasság nagy értéke
+[2074] 3. Az érettség csábításai
+[2075] 4. Az érettségi egyensúly
+[2076] Az ideigvaló élet lényeges dolgai
+[2077] Az anyagi sikerhez hozzájáruló tényezők
+[2078] A kudarc értelme
+[2079] 5. Az eszménykép vallása
+[2080] Mi a vallás?
+[2081] Az Istenre vonatkozó eszme és az Istennel kapcsolatos eszménykép
+[2082] Az Atya a végső érték
+[2083] „De vajon hajlandók vagyunk-e megfizetni az árat... ?”
+[2084] 161. További viták Rodannal
+[2085] 1. Az Isten személyisége
+[2086] Nátániel ötlépéses érvelése
+[2087] 2. Jézus isteni természete
+[2088] Nátániel és Tamás tanító beszéde
+[2089] 3. Jézus emberi és isteni elméje
+[2090] A közteslények nézete
+[2091] 162. A sátoros ünnepen
+[2092] „Mester... mennyből való tüzet rendelhessünk... ”
+[2093] 1. A jeruzsálemi látogatás veszélyei
+[2094] 2. Az első templomi beszéd
+[2095] Éber, a Szanhedrin tisztviselője
+[2096] 3. A házasságtörésen ért asszony
+[2097] 4. A sátoros ünnep
+[2098] 5. Hitszónoklat a világ világosságáról
+[2099] 6. Beszéd az élet vizéről
+[2100] 7. Beszéd a szellemi szabadságról
+[2101] 8. Látogatás Mártánál és Máriánál
+[2102] 9. Betlehemben Abnerrel
+[2103] 163. A hetvenek felavatása Magadánban
+[2104] 1. A hetvenek felavatása
+[2105] „A termés valóban bőséges, de a munkás kevés.”
+[2106] 2. A gazdag ifjú és a többiek
+[2107] A vagyon, és a javak imádása
+[2108] 3. Vita a vagyonról
+[2109] A szőlőben dolgozók példázata
+[2110] 4. Búcsú a hetvenektől
+[2111] Jézus intelmei
+[2112] Péter felavatási beszéde
+[2113] 5. A tábor áthelyezése Pellába
+[2114] 6. A hetvenek visszatérése
+[2115] 7. Felkészülés az utolsó küldetésre
+[2116] 164. A templomszentelés ünnepén
+[2117] 1. A jó szamaritánus története
+[2118] 2. Jeruzsálemben
+[2119] 3. A vak koldus meggyógyítása
+[2120] 4. Jósiás a Szanhedrin előtt
+[2121] 5. Tanítás Salamon csarnokában
+[2122] 165. A pereai küldetés kezdete
+[2123] 1. A pellai táborban
+[2124] 2. Hitszónoklat a jó pásztorról
+[2125] 3. Szombati hitszónoklat Pellában
+[2126] „Óvakodjatok a farizeusok kovászától... ”
+[2127] „...a fejeteken a hajszálakat is mind számon tartják”
+[2128] 4. Az örökség felosztása
+[2129] Az ostoba gazdag ember példázata
+[2130] „Ahol a kincsed, ott lesz a te szíved is.”
+[2131] „Mi hasznod abból, ha megnyered az egész világot... ?”
+[2132] 5. Beszéd az apostoloknak a vagyonról
+[2133] „Nézzétek a liliomokat, hogyan nőnek... ”
+[2134] 6. Válasz Péter kérdésére
+[2135] 166. Az utolsó látogatás Észak-Pereában
+[2136] 1. A farizeusok Ragabában
+[2137] A szertartásos kézmosás
+[2138] 2. A tíz bélpoklos ember
+[2139] 3. A geraszai hitszónoklat
+[2140] Az egyenes és keskeny út
+[2141] Sokan az elsők közül utolsók lesznek
+[2142] „Az ajtóban állok és kopogok... ”
+[2143] 4. A véletlenekről szóló tanítás
+[2144] 5. A filadelfiai gyülekezet
+[2145] Abner későbbi szolgálat és halála
+[2146] 167. Látogatás Filadelfiában
+[2147] 1. Reggeli a farizeusokkal
+[2148] A hívő meggyógyítása
+[2149] „...ne üljetek a főszékbe...”
+[2150] 2. A nagy estebédről szóló példabeszéd
+[2151] 3. Az erőtlen szellemű asszony
+[2152] 4. A Betániából jött üzenet
+[2153] 5. Útban Betániába
+[2154] A farizeus és a publikánus
+[2155] Tanítás a házasságról
+[2156] 6. A kisgyermekek megáldása
+[2157] A szépség, mint az istenimádatra késztetés eszköze
+[2158] 7. Beszélgetés az angyalokról
+[2159] 168. Lázár feltámasztása
+[2160] Én vagyok a feltámadás és az élet... ”
+[2161] 1. Lázár sírjánál
+[2162] 2. Lázár feltámasztása
+[2163] 3. A Szanhedrin ülése
+[2164] „Jobb, ha egy ember hal meg... ”
+[2165] 4. Az ima meghallgatása
+[2166] 5. Lázár további sorsa
+[2167] 169. Az utolsó tanítás Pellában
+[2168] A Szanhedrin vádjai Jézus ellen
+[2169] 1. Példabeszéd az elveszett fiúról
+[2170] 2. Példabeszéd a ravasz intézőről
+[2171] 3. A gazdag ember és a koldus
+[2172] 4. Az Atya és az ő Országa
+[2173] Jézus {i{i{megélte}i}i} Isten kinyilatkoztatását
+[2174] Elohim és Jahve
+[2175] 170. A mennyország
+[2176] 1. A mennyországgal kapcsolatos felfogások
+[2177] 2. Jézus felfogása az Országról
+[2178] Bűn és megbocsátás
+[2179] 3. Az igazságossággal kapcsolatban
+[2180] 4. Jézus tanítása az Országról
+[2181] 5. Az Országról alkotott későbbi eszmék
+[2182] Társadalmi testvériség és szellemi testvériség
+[2183] Egy másik és még nagyobb Keresztelő János
+[2184] A kereszténység és a jézusi evangélium
+[2185] 171. Úton Jeruzsálembe
+[2186] „...ígérd meg nekem, hogy az én két fiamat nagy tiszteletben részesíted... ”
+[2187] 1. Elindulás Pellából
+[2188] Zebedeus Dávid életének későbbi szakasza
+[2189] Antiókhia és Filadelfia
+[2190] 2. A költségek számbavétele
+[2191] 3. A pereai vándorút
+[2192] Búcsú Abnertől
+[2193] 4. Tanítás Liviaszban
+[2194] Péter és Simon, valamint a 100 kard
+[2195] A rokonszenvező farizeusok figyelmeztetése
+[2196] 5. A jerikói vak ember
+[2197] 6. Látogatás Zákeusnál
+[2198] 7. „Ahogy Jézus arra ment”
+[2199] 8. Példázat a minákról
+[2200] Nátániel példázat-értelmezése
+[2201] 172. Bevonulás Jeruzsálembe
+[2202] 1. A szombat Betániában
+[2203] Mária bekeni Jézus lábát
+[2204] Jézus rendreutasítja Júdást
+[2205] 2. Vasárnap reggel az apostolokkal
+[2206] 3. Elindulás Jeruzsálembe
+[2207] 4. Időzés a templomnál
+[2208] Az özvegyasszony fillérei
+[2209] 5. Az apostolok hozzáállása
+[2210] 173. A hétfői nap Jeruzsálemben
+[2211] 1. A templom megtisztítása
+[2212] 2. A Mester tekintélyének megkérdőjelezése
+[2213] „János keresztelése, az honnan eredt?”
+[2214] 3. Példabeszéd a két fiúról
+[2215] 4. Példabeszéd a távollévő földbirtokosról
+[2216] Az építők otthagyta kő
+[2217] 5. Példabeszéd az esküvői lakomáról
+[2218] „Pusztítsátok el e templomot és... én feltámasztom.”
+[2219] 174. A keddi reggel a templomban
+[2220] A tizenkettek egyenkénti köszöntése
+[2221] 1. Isteni megbocsátás
+[2222] 2. A zsidó vezetők kérdései
+[2223] Törvényes dolog-e adót fizetnünk Cézárnak?
+[2224] 3. A szadduceusok és a feltámadás
+[2225] 4. A nagy parancsolat
+[2226] Kinek a fia a Megszabadító?
+[2227] 5. Az érdeklődő görögök
+[2228] „...hacsak nem esik a földbe és pusztul el a búzamag... ”
+[2229] „...ha felemeltetek... az életetekben... ”
+[2230] 175. Az utolsó templomi beszéd
+[2231] 1. A beszéd
+[2232] „Nemzedékről nemzedékre küldtük látnokainkat... ”
+[2233] „...aki a legnagyobb akar lenni közöttetek... ”
+[2234] „Jaj nektek, írástudók és farizeusok, ti álszentek!”
+[2235] „...hogy kívülről megtisztítsátok a poharat...”
+[2236] „És most búcsúzom tőletek.”
+[2237] 2. Az egyes zsidók helyzete
+[2238] 3. A Szanhedrin sorsdöntő ülése
+[2239] 4. A jeruzsálemi helyzet
+[2240] Júdás végső elhatározása
+[2241] 176. Kedd este az Olajfák hegyén
+[2242] 1. Jeruzsálem pusztulása
+[2243] 2. A Mester második eljövetele
+[2244] A Máté evangéliumban szereplő beszámoló
+[2245] 3. Későbbi beszélgetés a táborban
+[2246] A talentumok példázata
+[2247] „Folytassátok, míg eljövök.”
+[2248] Az élő igazság gyarapodásával kapcsolatos szavak
+[2249] 4. Mihály visszatérése
+[2250] 177. Szerda, a pihenés napja
+[2251] 1. Egy nap egyedül az Istennel
+[2252] János Márk és az ebédes kosár
+[2253] 2. Az otthoni gyermekkori évek
+[2254] 3. Napközben a táborban
+[2255] 4. Júdás és a főpapok
+[2256] 5. Az utolsó együtt töltött óra
+[2257] Óvakodni a tömeg támogatásától
+[2258] 178. Az utolsó nap a táborban
+[2259] 1. Beszélgetés a fiúi elismertségről és az állampolgárságról
+[2260] Tanuljatok meg hűségesek lenni még a jólét idején is
+[2261] Ne kísértsétek a titeket felügyelő angyalokat...
+[2262] 2. Ebéd után
+[2263] Dávid átveszi Júdástól az „erszényt”
+[2264] Az Utolsó Estebéd előkészületei
+[2265] 3. Útban az Estebédre
+[2266] 179. Az Utolsó Estebéd
+[2267] 1. A megkülönböztetés utáni vágy
+[2268] 2. Az Estebéd kezdete
+[2269] 3. Az apostolok lábának megmosása
+[2270] 4. Az árulóhoz intézett utolsó szavak
+[2271] 5. A megemlékezési Estebéd Meghonosítása
+[2272] 180. A búcsúbeszéd
+[2273] 1. Az új parancsolat
+[2274] „...szeressétek a másikat éppen úgy, ahogy én szerettelek titeket.”
+[2275] 2. A szőlőtő és az ágak
+[2276] 3. A világ ellenségessége
+[2277] „A szívetekben ne támadjon aggodalom.”
+[2278] „Mester, mutasd meg nekünk az Atyát... ”
+[2279] 4. A megígért segítő
+[2280] 5. Az Igazság Szelleme
+[2281] Az aranyszabályra vonatkozó megjegyzések
+[2282] 6. A távozás szükségessége
+[2283] 181. Az utolsó intelmek és figyelmeztetések
+[2284] 1. Az utolsó vigasztaló szavak
+[2285] „Én mindegyiketeknek megadom mindazt, amit el tudtok fogadni.”
+[2286] „Ne nyugtalankodjon a szívetek.”
+[2287] 2. Személyes búcsúintelmek
+[2288] 182. A Getszemániban
+[2289] 1. Az utolsó csoportos ima
+[2290] Ahogy Jézus kiteljesíti az Isten nevének kinyilatkoztatását
+[2291] 2. Az árulás előtti utolsó óra
+[2292] A futár kiküldése Abnerhez
+[2293] Zebedeus Dávid búcsúja
+[2294] 3. Egyedül a Getszemániban
+[2295] A szellem valóban készséges, de a húsvér test gyenge
+[2296] 183. Jézus elárulása és elfogása
+[2297] 1. Az Atya akarata
+[2298] 2. Júdás a városban
+[2299] 3. A Mester elfogása
+[2300] 4. Vita az olajütőnél
+[2301] 5. Útban a főpap palotájához
+[2302] 184. A Szanhedrin bírósága előtt
+[2303] 1. Az Annás által lefolytatott vizsgálat
+[2304] 2. Péter az udvarban
+[2305] 3. A Szanhedrin tagjaiból álló bíróság előtt
+[2306] 4. A megaláztatás órája
+[2307] Az ember új kinyilatkoztatása az Istennek
+[2308] 5. A bíróság második ülése
+[2309] 185. A Pilátus előtti per
+[2310] 1. Pilátus helytartó
+[2311] 2. Jézus megjelenik Pilátus előtt
+[2312] A Szanhedrin tagjaiból álló bíróság írásban megfogalmazott vádjai
+[2313] 3. Pilátus magánkihallgatása
+[2314] 4. Jézus Heródes előtt
+[2315] 5. Jézus visszatér Pilátushoz
+[2316] 6. Pilátus utolsó próbálkozása
+[2317] Jézus megkorbácsolása
+[2318] „Íme, az ember!”
+[2319] 7. Pilátus utolsó kérdései
+[2320] 8. Pilátus gyászos megfutamodása
+[2321] 186. Röviddel a keresztre feszítés előtt
+[2322] Jézus családja Betániában
+[2323] 1. Karióti Júdás vége
+[2324] A harminc ezüst
+[2325] 2. A Mester hozzáállása
+[2326] „Pilátus áll perben Jézus előtt.”
+[2327] „Íme, az Isten és az ember!”
+[2328] 3. A megbízható Zebedeus Dávid
+[2329] 4. Előkészületek a keresztre feszítésre
+[2330] 5. Jézus halálának a páska-ünnephez való viszonya
+[2331] 187. A keresztre feszítés
+[2332] 1. Útban a Golgotához
+[2333] „Jeruzsálem leányai, ne értem sírjatok... ”
+[2334] A cirénei Simon
+[2335] 2. A keresztre feszítés
+[2336] 3. A keresztre feszítés szemtanúi
+[2337] 4. A tolvaj a kereszten
+[2338] Jézus megbízza Jánost
+[2339] 5. Az utolsó óra a kereszten
+[2340] 6. A keresztre feszítés után
+[2341] 188. A sírban töltött idő
+[2342] József és Nikodémusz Pilátus előtt
+[2343] 1. Jézus temetése
+[2344] 2. A sír őrzése
+[2345] 3. A szombat napján
+[2346] Mit ajánlott Jézus az Atya kezébe?
+[2347] Jézus személyiségének helyzete
+[2348] 4. A kereszthalál jelentése
+[2349] 5. A kereszt tanulságai
+[2350] 189. A feltámadás
+[2351] 1. A morontia átmenet
+[2352] 2. Jézus anyagi teste
+[2353] 3. A megítéltetési feltámadás
+[2354] A Megszemélyesült Igazító elindulása
+[2355] 4. Az üres sír felfedezése
+[2356] Az öt nő
+[2357] Jézus megjelenik a magadáni Máriának
+[2358] 5. Péter és János a sírnál
+[2359] A második megjelenés — a magadáni Máriának
+[2360] 190. Jézus morontia jelenései
+[2361] 1. A feltámadás hírnökei
+[2362] 2. Jézus megjelenése Betániában
+[2363] Megjelenés Jakab fivérének
+[2364] Megjelenés a földi családjának
+[2365] 3. József házában
+[2366] 4. Jézus megjelenése a görögöknek
+[2367] 5. Séta a két testvérrel
+[2368] 191. Jelenések az apostolok és más vezetők előtt
+[2369] Az egyes apostolok hozzáállása
+[2370] 1. Jelenés Péter előtt
+[2371] 2. Az első megjelenés az apostoloknak
+[2372] 3. A morontia teremtményekkel
+[2373] A morontia fejlődési szakaszok
+[2374] 4. A tizedik megjelenés (Filadelfiában)
+[2375] 5. A második megjelenés az apostoloknak
+[2376] „Áldottak az eljövendő korszakokban azok... ”
+[2377] 6. Az alexandriai jelenés
+[2378] 192. Jelenések Galileában
+[2379] 1. Jelenés a tónál
+[2380] „Fiúk, fogtatok valamit?”
+[2381] 2. Beszélgetés az apostolokkal kettesével
+[2382] 3. A felavatás hegyén
+[2383] 4. A tóparti gyűlés
+[2384] 193. Az utolsó jelenések és a mennybemenetel
+[2385] A tizenhatodik megjelenés (Nikodémusz kertjében)
+[2386] 1. A jelenés Sikárban
+[2387] 2. A föníciai jelenés
+[2388] 3. Az utolsó jelenés Jeruzsálemben
+[2389] 4. Júdás bukásának okai
+[2390] 5. A Mester mennybemenetele
+[2391] 6. Péter gyűlést hív össze
+[2392] 194. Az Igazság Szellemének adományozása
+[2393] A {i{i{Jézusról}i}i} szóló új evangélium
+[2394] 1. A pünkösdi beszéd
+[2395] 2. A pünkösd jelentősége
+[2396] Az Igazság Szellemének küldetése
+[2397] Az ember háromszoros szellemi felruházottsága
+[2398] A hét magasabb szellemi hatás
+[2399] 3. Ami pünkösdkor történt
+[2400] 4. A keresztény egyház kezdetei
+[2401] 195. Pünkösd után
+[2402] A kereszténység nyugaton való győzedelmeskedésének okai
+[2403] A korai keresztények kiegyezése
+[2404] 1. A görögök hatása
+[2405] 2. A római hatás
+[2406] 3. A római birodalom fennállása alatt
+[2407] 4. Az európai sötét korszakok
+[2408] 5. A mai kor problémája
+[2409] 6. Az anyagelvű gondolkodás
+[2410] 7. Az anyagelvűség sérülékeny volta
+[2411] 8. Világi egyeduralom
+[2412] 9. A kereszténység problémája
+[2413] 10. A jövő
+[2414] 196. Jézus hite
+[2415] Jézus élő hite Istenben
+[2416] „Először a mennyországot keressétek.”
+[2417] „Miért hívsz engem jónak?”
+[2418] Az ima jelentése Jézus számára
+[2419] Jézus gyermeki hite Istenben
+[2420] 1. Jézus — az ember
+[2421] 2. Jézus vallása
+[2422] A Jézusról szóló vallás
+[2423] A vallás, mint személyes tapasztalás
+[2424] 3. A vallás felsősége
+[2425] Tény, eszme és hit
+[2426] Értelem, bölcsesség és hit
+[2427] Dolog, jelentéstartalom és érték
+[2428] Ha az emberben nem lakozna isteni szerető...
+[2429] Erkölcsiség és vallás
+[2430] Az Atya élő szeretet...

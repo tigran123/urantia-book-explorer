@@ -1,0 +1,216 @@
+[0] El Libro de Urantia: Índice de Materias
+[1] El Libro de Urantia
+[2] Ínicio
+[3] Las Partes del Libro
+[4] Índice de Materias
+[5] Contenido del Libro
+[6] Índice de Materias
+[7] PRIMERA PARTE
+[8] El Universo Central y los Superuniversos
+[9] Documento . Título . Autor
+[10] 000. Prólogo . Consejero Divino
+[11] 001. El Padre Universal . Consejero Divino
+[12] 002. La naturaleza de Dios . Consejero Divino
+[13] 003. Los atributos de Dios . Consejero Divino
+[14] 004. Las relaciones de Dios con el universo . Consejero Divino
+[15] 005. Las relaciones de Dios con los individuos . Consejero Divino
+[16] 006. El Hijo Eterno . Consejero Divino
+[17] 007. Las relaciones del Hijo Eterno con el universo . Consejero Divino
+[18] 008. El Espíritu Infinito . Consejero Divino
+[19] 009. Las relaciones del Espíritu Infinito con el universo . Consejero Divino
+[20] 010. La Trinidad del Paraíso . Censor Universal
+[21] 011. La Isla Eterna del Paraíso . Perfeccionador de la Sabiduría
+[22] 012. El universo de universos . Perfeccionador de la Sabiduría
+[23] 013. Las esferas sagradas del Paraíso . Perfeccionador de la Sabiduría
+[24] 014. El universo central y divino . Perfeccionador de la Sabiduría
+[25] 015. Los siete superuniversos . Censor Universal
+[26] 016. Los Siete Espíritus Maestros . Censor Universal
+[27] 017. Los siete grupos de Espíritus Supremos . Consejero Divino
+[28] 018. Las Personalidades Trinitarias Supremas . Consejero Divino
+[29] 019. Los Seres Coordinados de origen trinitario . Consejero Divino
+[30] 020. Los Hijos Paradisiacos de Dios . Perfeccionador de la Sabiduría
+[31] 021. Los Hijos Creadores Paradisiacos . Perfeccionador de la Sabiduría
+[32] 022. Los Hijos de Dios Trinitizados . Mensajero Poderoso
+[33] 023. Los Mensajeros Solitarios . Consejero Divino
+[34] 024. Las personalidades superiores del Espíritu Infinito . Consejero Divino
+[35] 025. Las huestes de mensajeros del espacio . Un Elevado en Autoridad
+[36] 026. Los espíritus ministrantes del universo central . Perfeccionador de la Sabiduría
+[37] 027. El ministerio de los Supernafines primarios . Perfeccionador de la Sabiduría
+[38] 028. Los espíritus ministrantes de los superuniversos . Mensajero Poderoso
+[39] 029. Los Directores del Poder Universal . Censor Universal
+[40] 030. Las personalidades del gran universo . Mensajero Poderoso
+[41] 031. El Cuerpo de la Finalidad . Consejero Divino y Uno que no tiene Nombre ni Número
+[42] SEGUNDA PARTE
+[43] El Universo Local
+[44] Documento . Título . Autor
+[45] 032. La evolución de los universos locales . Mensajero Poderoso
+[46] 033. La administración del universo local . Jefe de los Arcángeles
+[47] 034. El Espíritu Madre del universo local . Mensajero Poderoso
+[48] 035. Los Hijos de Dios de los universos locales . Jefe de los Arcángeles
+[49] 036. Los Portadores de Vida . Hijo Vorondadek
+[50] 037. Las personalidades del universo local . Brillante Estrella Vespertina
+[51] 038. Los espíritus ministrantes del universo local . Melquisedek
+[52] 039. Las huestes seráficas . Melquisedek
+[53] 040. Los Hijos ascendentes de Dios . Mensajero Poderoso
+[54] 041. Aspectos físicos del universo local . Arcángel
+[55] 042. La energía —la mente y la materia . Mensajero Poderoso
+[56] 043. Las constelaciones . Malavatia Melquisedek
+[57] 044. Los artesanos celestiales . Arcángel
+[58] 045. La administración del sistema local . Melquisedek
+[59] 046. La sede del sistema local . Arcángel
+[60] 047. Los siete mundos de las mansiones . Brillante Estrella Vespertina
+[61] 048. La vida morontial . Arcángel
+[62] 049. Los mundos habitados . Melquisedek
+[63] 050. Los Príncipes Planetarios . Lanonandek Secundario
+[64] 051. Los Adanes Planetarios . Lanonandek Secundario
+[65] 052. Las épocas planetarias de los mortales . Mensajero Poderoso
+[66] 053. La rebelión de Lucifer . Manovandet Melquisedek
+[67] 054. Los problemas de la rebelión de Lucifer . Mensajero Poderoso
+[68] 055. Las esferas de luz y de vida . Mensajero Poderoso
+[69] 056. La unidad universal . Mensajero Poderos y Maquiventa Melquisedek
+[70] TERCERA PARTE
+[71] La Historia de Urantia
+[72] Documento . Título . Autor
+[73] 057. El origen de Urantia . Portador de Vida
+[74] 058. El establecimiento de la vida en Urantia . Portador de Vida
+[75] 059. La era de la vida marina en Urantia . Portador de Vida
+[76] 060. Urantia durante la era de la vida terrestre primitiva . Portador de Vida
+[77] 061. La era de los mamíferos en Urantia . Portador de Vida
+[78] 062. Las razas en los albores del hombre primitivo . Portador de Vida
+[79] 063. La primera familia humana . Portador de Vida
+[80] 064. Las razas evolutivas de color . Portador de Vida
+[81] 065. El supercontrol de la evolución . Portador de Vida
+[82] 066. El Príncipe Planetario de Urantia . Melquisedek
+[83] 067. La rebelión planetaria . Melquisedek
+[84] 068. Los albores de la civilización . Melquisedek
+[85] 069. Las instituciones humanas primitivas . Melquisedek
+[86] 070. La evolución del gobierno humano . Melquisedek
+[87] 071. El desarrollo del Estado . Melquisedek
+[88] 072. Un gobierno en un planeta vecino . Melquisedek
+[89] 073. El Jardín del Edén . Solonia
+[90] 074. Adán y Eva . Solonia
+[91] 075. La falta de Adán y Eva . Solonia
+[92] 076. El segundo jardín . Solonia
+[93] 077. Las criaturas intermedias . Arcángel
+[94] 078. La raza violeta después de la época de Adán . Arcángel
+[95] 079. La expansión andita en Oriente . Arcángel
+[96] 080. La expansión andita en Occidente . Arcángel
+[97] 081. El desarrollo de la civilización moderna . Arcángel
+[98] 082. La evolución del matrimonio . Jefe de los serafines
+[99] 083. La institución del matrimonio . Jefe de los serafines
+[100] 084. El matrimonio y la vida familiar . Jefe de los serafines
+[101] 085. Los orígenes de la adoración . Brillante Estrella Vespertina
+[102] 086. La evolución inicial de la religión . Brillante Estrella Vespertina
+[103] 087. Los cultos a los fantasmas . Brillante Estrella Vespertina
+[104] 088. Fetiches, amuletos y magia . Brillante Estrella Vespertina
+[105] 089. Pecado, sacrificio y expiación . Brillante Estrella Vespertina
+[106] 090. El chamanismo —los curanderos y los sacerdotes . Melquisedek
+[107] 091. La evolución de la oración . Jefe de los Intermedios
+[108] 092. La evolución posterior de la religión . Melquisedek
+[109] 093. Maquiventa Melquisedek . Melquisedek
+[110] 094. Las enseñanzas de Melquisedek en Oriente . Melquisedek
+[111] 095. Las enseñanzas de Melquisedek en el Levante . Melquisedek
+[112] 096. Yahvé —el Dios de los hebreos . Melquisedek
+[113] 097. La evolución del concepto de Dios entre los hebreos . Melquisedek
+[114] 098. Las enseñanzas de Melquisedek en Occidente . Melquisedek
+[115] 099. Los problemas sociales de la religión . Melquisedek
+[116] 100. La religión en la experiencia humana . Melquisedek
+[117] 101. La naturaleza real de la religión . Melquisedek
+[118] 102. Los fundamentos de la fe religiosa . Melquisedek
+[119] 103. La realidad de la experiencia religiosa . Melquisedek
+[120] 104. El crecimiento del concepto de la Trinidad . Melquisedek
+[121] 105. La Deidad y la realidad . Melquisedek
+[122] 106. Los niveles de realidad del universo . Melquisedek
+[123] 107. El origen y la naturaleza de los Ajustadores del Pensamiento . Mensajero Solitario
+[124] 108. La misión y el ministerio de los Ajustadores del Pensamiento . Mensajero Solitario
+[125] 109. Relación de los Ajustadores con las criaturas del universo . Mensajero Solitario
+[126] 110. Relación de los Ajustadores con los mortales individuales . Mensajero Solitario
+[127] 111. El Ajustador y el alma . Mensajero Solitario
+[128] 112. La supervivencia de la personalidad . Mensajero Solitario
+[129] 113. Los guardianes seráficos del destino . Jefe de los Serafines
+[130] 114. El gobierno planetario de los serafines . Jefe de los Serafines
+[131] 115. El Ser Supremo . Mensajero Poderoso
+[132] 116. El Todopoderoso Supremo . Mensajero Poderoso
+[133] 117. Dios Supremo . Mensajero Poderoso
+[134] 118. El Supremo y el Último—el tiempo y el espacio . Mensajero Poderoso
+[135] 119. Las donaciones de Cristo Miguel . Jefe Estrellas Vespertinas
+[136] CUARTA PARTE
+[137] La Vida y las Enseñanzas de Jesús
+[138] Documento . Título . Autor
+[139] 120. La donación de Miguel en Urantia . Mantutia Melquisedek
+[140] 121. La época de la donación de Miguel . Comisión de intermedios
+[141] 122. El nacimiento y la infancia de Jesús . Comisión de intermedios
+[142] 123. Los primeros años de la infancia de Jesús . Comisión de intermedios
+[143] 124. Los últimos años de la infancia de Jesús . Comisión de intermedios
+[144] 125. Jesús en Jerusalén . Comisión de intermedios
+[145] 126. Los dos años cruciales . Comisión de intermedios
+[146] 127. Los años de adolescencia . Comisión de intermedios
+[147] 128. Los primeros años de la vida adulta de Jesús . Comisión de intermedios
+[148] 129. Continuación de la vida adulta de Jesús . Comisión de intermedios
+[149] 130. En el camino de Roma . Comisión de intermedios
+[150] 131. Las religiones del mundo . Comisión de intermedios
+[151] 132. La estancia en Roma . Comisión de intermedios
+[152] 133. El regreso de Roma . Comisión de intermedios
+[153] 134. Los años de transición . Comisión de intermedios
+[154] 135. Juan el Bautista . Comisión de intermedios
+[155] 136. El bautismo y los cuarenta días . Comisión de intermedios
+[156] 137. El tiempo de espera en Galilea . Comisión de intermedios
+[157] 138. La formación de los mensajeros del reino . Comisión de intermedios
+[158] 139. Los doce apóstoles . Comisión de intermedios
+[159] 140. La ordenación de los doce . Comisión de intermedios
+[160] 141. El comienzo de la obra pública . Comisión de intermedios
+[161] 142. La Pascua en Jerusalén . Comisión de intermedios
+[162] 143. La travesía de Samaria . Comisión de intermedios
+[163] 144. En el Gilboa y la Decápolis . Comisión de intermedios
+[164] 145. Cuatro días memorables en Cafarnaúm . Comisión de intermedios
+[165] 146. La primera gira de predicación en Galilea . Comisión de intermedios
+[166] 147. El paréntesis de la visita a Jerusalén . Comisión de intermedios
+[167] 148. La preparación de los evangelistas en Betsaida . Comisión de intermedios
+[168] 149. La segunda gira de predicación . Comisión de intermedios
+[169] 150. La tercera gira de predicación . Comisión de intermedios
+[170] 151. Estancia y enseñanza a la orilla del mar . Comisión de intermedios
+[171] 152. Los acontecimientos que condujerona la crisis de Cafarnaúm . Comisión de intermedios
+[172] 153. La crisis en Cafarnaúm . Comisión de intermedios
+[173] 154. Los últimos días en Cafarnaúm . Comisión de intermedios
+[174] 155. La huida por el norte de Galilea . Comisión de intermedios
+[175] 156. La estancia en Tiro y Sidón . Comisión de intermedios
+[176] 157. En Cesarea de Filipo . Comisión de intermedios
+[177] 158. El monte de la transfiguración . Comisión de intermedios
+[178] 159. La gira por la Decápolis . Comisión de intermedios
+[179] 160. Rodán de Alejandría . Comisión de intermedios
+[180] 161. Otras discusiones con Rodán . Comisión de intermedios
+[181] 162. En la fiesta de los tabernáculos . Comisión de intermedios
+[182] 163. La ordenación de los setenta en Magadán . Comisión de intermedios
+[183] 164. En la fiesta de la consagración . Comisión de intermedios
+[184] 165. Comienza la misión en Perea . Comisión de intermedios
+[185] 166. La última visita al norte de Perea . Comisión de intermedios
+[186] 167. La visita a Filadelfia . Comisión de intermedios
+[187] 168. La resurrección de Lázaro . Comisión de intermedios
+[188] 169. La última enseñanza en Pella . Comisión de intermedios
+[189] 170. El reino de los cielos . Comisión de intermedios
+[190] 171. En el camino de Jerusalén . Comisión de intermedios
+[191] 172. La entrada en Jerusalén . Comisión de intermedios
+[192] 173. El lunes en Jerusalén . Comisión de intermedios
+[193] 174. El martes por la mañana en el templo . Comisión de intermedios
+[194] 175. El último discurso en el templo . Comisión de intermedios
+[195] 176. El martes por la noche en el Monte de los Olivos . Comisión de intermedios
+[196] 177. El miércoles, día de descanso . Comisión de intermedios
+[197] 178. El último día en el campamento . Comisión de intermedios
+[198] 179. La última cena . Comisión de intermedios
+[199] 180. El discurso de despedida . Comisión de intermedios
+[200] 181. Las últimas recomendaciones y advertencias . Comisión de intermedios
+[201] 182. En Getsemaní . Comisión de intermedios
+[202] 183. La traición y el arresto de Jesús . Comisión de intermedios
+[203] 184. Ante el tribunal del sanedrín . Comisión de intermedios
+[204] 185. El juicio ante Pilatos . Comisión de intermedios
+[205] 186. Poco antes de la crucifixión . Comisión de intermedios
+[206] 187. La crucifixión . Comisión de intermedios
+[207] 188. El período en la tumba . Comisión de intermedios
+[208] 189. La resurrección . Comisión de intermedios
+[209] 190. Las apariciones morontiales de Jesús . Comisión de intermedios
+[210] 191. Las apariciones a los apóstoles y a otros discípulos principales . Comisión de intermedios
+[211] 192. Las apariciones en Galilea . Comisión de intermedios
+[212] 193. Las apariciones finales y la ascensión . Comisión de intermedios
+[213] 194. La donación del Espíritu de la Verdad . Comisión de intermedios
+[214] 195. Después de Pentecostés . Comisión de intermedios
+[215] 196. La fe de Jesús . Comisión de intermedios

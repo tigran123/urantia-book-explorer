@@ -1,0 +1,2431 @@
+[0] Urantia-kirja: Sisällysluettelo
+[1] Urantia-kirja
+[2] Etusivu Hakemisto
+[3] Kirjan osat
+[4] Lukujen otsikot
+[5] Sisällysluettelo
+[6] Sisällysluettelo
+[7] I OSA.
+[8] Keskusuniversumi ja superuniversumit
+[9] 0. Esipuhe
+[10] I. Jumaluus ja jumalallisuus
+[11] II. Jumala
+[12] III. Ensimmäinen Lähde ja Keskus
+[13] Seitsemän Absoluuttia
+[14] Todellisuus
+[15] MINÄ OLEN -käsite
+[16] IV. Universumitodellisuus
+[17] Paratiisi
+[18] V. Persoonalliset todellisuuskohteet
+[19] VI. Energia ja malli
+[20] VII. Korkein Olento
+[21] VIII. Seitsenkertainen Jumala
+[22] IX. Perimmäinen Jumala
+[23] X. Absoluuttinen Jumala
+[24] XI. Kolme Absoluuttia
+[25] XII. Kolminaisuudet
+[26] Tunnustuksenosoitus
+[27] 1. Universaalinen Isä
+[28] 1. Isän nimi
+[29] 2. Jumala on todellinen
+[30] 3. Jumala on universaalinen henki
+[31] 4. Jumalan mysteeri
+[32] 5. Universaalisen Isän persoonallisuus
+[33] 6. Persoonallisuus maailmankaikkeudessa
+[34] 7. Persoonallisuuskäsitteen hengellinen arvo
+[35] 2. Jumalan olemus
+[36] 1. Jumalan infiniittisyys
+[37] 2. Isän ikuinen täydellisyys
+[38] 3. Oikeudenmukaisuus ja vanhurskaus
+[39] 4. Jumalallinen armo
+[40] 5. Jumalan rakkaus
+[41] 6. Jumalan hyvyys
+[42] 7. Jumalallinen totuus ja kauneus
+[43] 3. Jumalan attribuutit
+[44] 1. Jumalan kaikkiallisuus
+[45] 2. Jumalan infiniittinen voima
+[46] 3. Jumalan universaalinen tietävyys
+[47] 4. Jumalan äärettömyys
+[48] 5. Isä hallitsee ylimpänä
+[49] Väistämättömyydet
+[50] 6. Isän ensimmäisyys
+[51] Siunaus
+[52] 4. Jumalan suhde maailmankaikkeuteen
+[53] 1. Isän asenne maailmankaikkeuteen
+[54] Kaitselmus
+[55] 2. Jumala ja luonto
+[56] 3. Jumalan muuttumaton luonne
+[57] 4. Jumalan tajuaminen
+[58] 5. Erheelliset käsitykset Jumalasta
+[59] 5. Jumalan suhde yksilöön
+[60] 1. Tie Jumalan luo
+[61] 2. Jumalan läsnäolo
+[62] 3. Oikea palvonta
+[63] 4. Uskonnon Jumala
+[64] 5. Tietoisuus Jumalasta
+[65] 6. Persoonallisuuden Jumala
+[66] 6. Iankaikkinen Poika
+[67] 1. Iankaikkisen Pojan identiteetti
+[68] 2. Iankaikkisen Pojan olemus
+[69] 3. Isän rakkauden osoittaminen
+[70] 4. Iankaikkisen Pojan attribuutit
+[71] Kaikkivaltius, kaikkiallisuus, kaikkitietävyys
+[72] 5. Iankaikkista Poikaa koskevat rajoitukset
+[73] 6. Henkimieli
+[74] 7. Iankaikkisen Pojan persoonallisuus
+[75] 8. Iankaikkisen Pojan käsittäminen
+[76] 7. Iankaikkisen Pojan suhde maailmankaikkeuteen
+[77] 1. Henkigravitaation virtapiiri
+[78] 2. Iankaikkisen Pojan hallinto
+[79] 3. Iankaikkisen Pojan suhde yksilöön
+[80] 4. Jumalalliset täydellistämissuunnitelmat
+[81] 5. Lahjoittautumisen henki
+[82] Iankaikkisen Pojan lahjoittautumiset
+[83] Alkuperäisen Mikaelin lahjoittautumiset
+[84] 6. Jumalan Paratiisin-Pojat
+[85] 7. Korkein Isää koskeva ilmoitus
+[86] 8. Ääretön Henki
+[87] 1. Toiminnan Jumala
+[88] 2. Äärettömän Hengen olemus
+[89] 3. Hengen suhde Isään ja Poikaan
+[90] 4. Jumalallisen huolenpidon henki
+[91] Luovat Tyttäret
+[92] 5. Jumalan läsnäolo
+[93] 6. Äärettömän Hengen persoonallisuus
+[94] 9. Äärettömän Hengen suhde maailmankaikkeuteen
+[95] 1. Kolmannen Lähteen ja Keskuksen attribuutit
+[96] 2. Kaikkialla oleva Henki
+[97] 3. Universaalinen Säätelijä
+[98] 4. Absoluuttinen mieli
+[99] 5. Mielen antaminen
+[100] 6. Mieligravitaation virtapiiri
+[101] 7. Universumiheijasteisuus
+[102] 8. Äärettömän Hengen persoonallisuudet
+[103] Kolmannen Lähde-Keskuksen toiminnallinen perhe
+[104] 10. Paratiisin-Kolminaisuus
+[105] 1. Ensimmäisen Lähteen ja Keskuksen minuuden jakaminen
+[106] 2. Jumaluuden personoituminen
+[107] 3. Jumaluuden kolme persoonaa
+[108] 4. Jumaluuden kolminaisuusunioni
+[109] 5. Kolminaisuuden toiminnot
+[110] Finiittinen, absoniittinen ja absoluuttinen asenne
+[111] 6. Kolminaisuuden Stationaariset Pojat
+[112] Oikeus, todistusaineisto ja tuomio
+[113] 7. Korkeimmuuden harjoittama ylivalvonta
+[114] 8. Finiittisen tuolla puolen vaikuttava kolminaisuus
+[115] Kuolevaisen määränpäätä koskevat rajoitukset
+[116] 11. Ikuinen Paratiisin Saari
+[117] 1. Jumalallinen asuinpaikka
+[118] 2. Ikuisen Saaren olemus
+[119] 3. Ylä-Paratiisi
+[120] 4. Perifeerinen Paratiisi
+[121] 5. Ala-Paratiisi
+[122] 6. Avaruuden respiraatio
+[123] Läpäisemätön avaruus
+[124] 7. Paratiisin avaruustoiminnot
+[125] Väliavaruuden vyöhykkeet
+[126] 8. Paratiisin gravitaatio
+[127] Vahvuus, energia ja voima
+[128] 9. Paratiisin ainutlaatuisuus
+[129] 12. Universumien universumi
+[130] 1. Kokonaisuniversumin avaruustasot
+[131] 2. Kvalifioimattoman Absoluutin vaikutuspiirit
+[132] 3. Universaalinen gravitaatio
+[133] 4. Avaruus ja liike
+[134] 5. Avaruus ja aika
+[135] 6. Universaalinen ylivalvonta
+[136] 7. Osa ja kokonaisuus
+[137] 8. Aine, mieli ja henki
+[138] 9. Persoonalliset realiteetit
+[139] 13. Paratiisin pyhät sfäärit
+[140] 1. Isän seitsemän pyhää maailmaa
+[141] (1) Divinington
+[142] (2) Sonarington
+[143] (3) Spiritington
+[144] (4) Vicegerington
+[145] (5) Solitarington
+[146] (6) Serafington
+[147] (7) Ascendington
+[148] 2. Isän maailmojen sisäiset suhteet
+[149] 3. Iankaikkisen Pojan pyhät maailmat
+[150] 4. Äärettömän Hengen maailmat
+[151] Seitsemän Valtiashengen toimeenpanoasuinsijat
+[152] 14. Keskus- ja jumalallinen universumi
+[153] 1. Paratiisi — Havonan järjestelmä
+[154] Paratiisi-Havonan päivä
+[155] Pimeät vetovoimakappaleet
+[156] 2. Havonan koostumus
+[157] 3. Havonan maailmat
+[158] 4. Keskusuniversumin luodut olennot
+[159] Syntyperäiset Havonan asukkaat
+[160] 5. Elämä Havonassa
+[161] Yksitoikkoisuus ja uuden kokeminen
+[162] 6. Keskusuniversumin tarkoitus
+[163] 15. Seitsemän superuniversumia
+[164] 1. Superuniversumien avaruustaso
+[165] 2. Superuniversumien organisaatio
+[166] 3. Orvontonin superuniversumi
+[167] 4. Tähtisumut — universumien esivanhemmat
+[168] 5. Taivaankappaleiden alkuperä
+[169] 6. Avaruuden sfäärit
+[170] 7. Arkkitehtoniset sfäärit
+[171] Superuniversumin ajanlasku
+[172] 8. Energian kontrolli ja säätely
+[173] 9. Superuniversumien virtapiirit
+[174] Paikallisuniversumin virtapiirit
+[175] 10. Superuniversumien hallitsijat
+[176] 11. Neuvotteleva edustajakokous
+[177] 12. Korkeimmat tuomioistuimet
+[178] 13. Sektorihallitukset
+[179] 14. Seitsemän superuniversumin tarkoitukset
+[180] 16. Seitsemän Valtiashenkeä
+[181] 1. Suhde kolmiyhteiseen Jumaluuteen
+[182] 2. Suhde Äärettömään Henkeen
+[183] 3. Valtiashenkien identiteetti ja erilaisuus
+[184] 4. Valtiashenkien ominaisuudet ja toiminnat
+[185] 5. Suhde luotuihin
+[186] 6. Kosminen mieli
+[187] Kausaatio, velvollisuus ja palvonta
+[188] 7. Moraali, hyve ja persoonallisuus
+[189] 8. Urantia-persoonallisuus
+[190] 9. Ihmisen tietoisuuden reaalisuus
+[191] 17. Korkeimpien Henkien seitsemän ryhmää
+[192] 1. Seitsemän Korkeinta Toimeenpanijaa
+[193] Kuolevaisten kolminaistamat pojat
+[194] 2. Majeston — Heijastustoiminnan Päällikkö
+[195] 3. Heijastavat Henget
+[196] 4. Heijastusavustajat
+[197] 5. Kehien seitsemän Henkeä
+[198] 6. Paikallisuniversumien Luovat Henget
+[199] 7. Mielenauttajahenget
+[200] 8. Korkeimpien Henkien toiminnot
+[201] 18. Korkeimmat Kolminaisuus-persoonallisuudet
+[202] 1. Korkeimmuuden Kolminaistetut Salaisuudet
+[203] 2. Päivien Ikuiset
+[204] 3. Päivien Muinaiset
+[205] 4. Päivien Täydelliset
+[206] 5. Päivien Äskettäiset
+[207] 6. Päivien Yhdistyneet
+[208] 7. Päivien Uskolliset
+[209] 19. Rinnasteiset kolminaisuusperäiset olennot
+[210] 1. Kolminaisuuden Opettaja-Pojat
+[211] 2. Viisauden Täydellistäjät
+[212] 3. Jumalalliset Neuvonantajat
+[213] 4. Universaaliset Sensorit
+[214] Kolminaisuuden Stationaariset Pojat
+[215] 5. Inspiroidut Kolminaisuushenget
+[216] 6. Havonan Syntyperäisasukkaat
+[217] 7. Paratiisin Kansalaiset
+[218] 20. Jumalan Paratiisin-Pojat
+[219] 1. Taivaasta laskeutuvat Jumalan Pojat
+[220] 2. Hallinnolliset Pojat
+[221] 3. Oikeudelliset toimet
+[222] 4. Hallinnolliset tehtäväkäynnit
+[223] 5. Jumalan Paratiisin-Poikien lahjoittautuminen
+[224] 6. Lahjoittautumiset kuolevaisen hahmossa
+[225] 7. Kolminaisuuden Opettaja-Pojat
+[226] 8. Daynaalien paikallisuniversumipalvelu
+[227] 9. Daynaalien planetaarinen palvelu
+[228] 10. Paratiisin-Poikien yhteispalvelu
+[229] 21. Paratiisin Luoja-Pojat
+[230] Alkuperäinen Mikael
+[231] 1. Luoja-Poikien alkuperä ja olemus
+[232] 2. Paikallisuniversumien Luojat
+[233] 3. Paikallisuniversumisuvereenisuus
+[234] 4. Mikaelien lahjoittautumiset
+[235] 5. Mestari-Poikien suhde universumiin
+[236] 6. Mestari-Mikaelien tulevaisuus
+[237] 22. Kolminaistetut Jumalan Pojat
+[238] 1. Kolminaisuuden syleilemät Pojat
+[239] Perillepääsyn Kolminaistetut Pojat
+[240] Valikoidut Kolminaistetut Pojat
+[241] Täydellisyyden Kolminaistetut Pojat
+[242] 2. Voimalliset Sanansaattajat
+[243] 3. Korkea-arvoiset
+[244] 4. Nimettömät ja Numerottomat
+[245] 5. Kolminaistetut Suojelijat
+[246] 6. Kolminaistetut Lähettiläät
+[247] 7. Kolminaistamisen tekniikka
+[248] Ylösnousemuksellisten kolminaistamat Pojat
+[249] Paratiisi-Havonan kolminaistamat Pojat
+[250] Tulevien aikojen kolminaistetut Pojat
+[251] 8. Luotujen kolminaistamat Pojat
+[252] 9. Taivaalliset Vartijat
+[253] 10. Ylhäisten Poikien Avustajat
+[254] 23. Yksinäiset Sanansaattajat
+[255] 1. Yksinäisten Sanansaattajien olemus ja alkuperä
+[256] 2. Yksinäisten Sanansaattajien tehtävät
+[257] 3. Yksinäisten Sanansaattajien aikaanja avaruuteen liittyvät palvelukset
+[258] Serafien ja muiden olentojen kulkunopeuksia
+[259] 4. Yksinäisten Sanansaattajien erityistoiminta
+[260] Kolminaistetut tulevaisuuden Pojat
+[261] 24. Äärettömän Hengen korkeammat persoonallisuudet
+[262] 1. Universumien Virtapiirienvalvojat
+[263] 2. Väestönlaskennan Johtajat
+[264] 3. Äärettömän Hengen henkilökohtaiset avustajat
+[265] 4. Apulaistarkastajat
+[266] 5. Valtuutetut Vartiomiehet
+[267] 6. Kandidaattien Opastajat
+[268] Grandfanda, ensimmäinen taivasmatkalainen
+[269] 7. Mistä Kandidaattien Opastajat ovat peräisin?
+[270] 25. Avaruuden sanansaattajajoukot
+[271] 1. Havonan Servitaalit
+[272] 2. Universaaliset Sovittelijat
+[273] 3. Sovittelijoiden laajalle ulottuva palvelu
+[274] 4. Tekniset Neuvojat
+[275] 5. Paratiisin Arkistojen Hoitajat
+[276] 6. Taivaalliset Kirjurit
+[277] 7. Morontiakumppanit
+[278] 8. Paratiisikumppanit
+[279] 26. Keskusuniversumin hoivaavat henget
+[280] 1. Hoivaavat Henget
+[281] Keskusuniversumin hoivaavat henget
+[282] Superuniversumien hoivaavat henget
+[283] Paikallisuniversumien hoivaavat henget
+[284] 2. Voimalliset Supernafit
+[285] 3. Kolmannen asteen Supernafit
+[286] (1) Sopusoinnunvalvojat
+[287] (2) Pääkirjaajat
+[288] (3) Kaukotiedottajat
+[289] (4) Viestinviejät
+[290] (5) Tietoaineiston koordinoijat
+[291] (6) Kuljetuspersoonallisuudet
+[292] (7) Reservijoukot
+[293] 4. Toisen asteen Supernafit
+[294] Pyhiinvaeltajan Havonaan-saapuminen
+[295] 5. Pyhiinvaeltajien Auttajat
+[296] 6. Korkeimmuuden Oppaat
+[297] 7. Kolminaisuuden Oppaat
+[298] 8. Pojan Löytäjät
+[299] Jumaluuden löytäminen epäonnistuu
+[300] 9. Isän Oppaat
+[301] 10. Neuvonantajat ja Neuvojat
+[302] Tappion kärsineille ehdokkaille osoitettava tehtävä
+[303] 11. Levon Täydentäjät
+[304] Luotujen kolminaistamat pojat
+[305] 27. Ensi asteen Supernafien toiminta
+[306] 1. Levon Alkuunpanijat
+[307] Levon luonne
+[308] 2. Valtuutuspäälliköt
+[309] 3. Etiikantulkitsijat
+[310] 4. Käytöksenohjaajat
+[311] 5. Tiedonvarjelijat
+[312] 6. Filosofian Mestarit
+[313] 7. Palvonnanohjaajat
+[314] 28. Superuniversumien hoivaavat henget
+[315] 1. Tertiafit
+[316] 2. Omniafit
+[317] 3. Sekonafit
+[318] 4. Ensimmäisen asteen Sekonafit
+[319] (1) Myötätoimijan Ääni
+[320] (2) Seitsemän Valtiashengen Ääni
+[321] (3) Luoja-Poikien Ääni
+[322] (4) Enkelijoukkojen Ääni
+[323] (5) Kaukoviestintälähetysten Vastaanottajat
+[324] (6) Kuljetuspersoonallisuudet
+[325] (7) Varajoukko
+[326] 5. Toisen asteen Sekonafit
+[327] (1) Viisauden Ääni
+[328] (2) Filosofian Sielu
+[329] (3) Sielujen Liitto
+[330] (4) Neuvon Sydän
+[331] (5) Olemassaolon Ilo
+[332] (6) Palvelun Tyydytys
+[333] (7) Henkientunnistaja
+[334] 6. Kolmannen asteen Sekonafit
+[335] (1) Syntyperien Merkitys
+[336] (2) Armon Muisti
+[337] (3) Ajan Tärkeys
+[338] (4) Luottamuksen Juhlallisuus
+[339] (5) Palvelun Pyhyys
+[340] (6) ja (7) Suuruuden Salaisuus ja Hyvyyden Sielu
+[341] 7. Sekonafien antama hoiva
+[342] 29. Universumivoiman Ohjaajat
+[343] 1. Seitsemän Korkeinta Voimanohjaajaa
+[344] 2. Korkeimmat Voimakeskukset
+[345] (1) Korkeimmat Keskusvalvojat
+[346] (2) Havonan Keskukset
+[347] (3) Superuniversumien Keskukset
+[348] (4) Paikallisuniversumien Keskukset
+[349] (5) Konstellaatioiden Keskukset
+[350] (6) Järjestelmien Keskukset
+[351] (7) Luokittelemattomat Keskukset
+[352] 3. Voimakeskusten toimipiiri
+[353] 4. Fyysiset Päävalvojat
+[354] (1) Voiman Apulaisohjaajat
+[355] (2) Mekaaniset Valvojat
+[356] (3) Energianmuuntajat
+[357] (4) Energianvälittäjät
+[358] (5) Ensiasteiset Yhdistäjät
+[359] (6) Toisasteiset Erottajat
+[360] (7) Frandalankit 
+[361] Kronoldekit
+[362] 5. Vahvuuden Pääorganisoijat
+[363] Ensiasteiset Vahvuuden Pääorganisoijat
+[364] Liitännäiset Vahvuuden Pääorganisoijat
+[365] 30. Suuruniversumin persoonallisuudet
+[366] 1. Paratiisin käyttämä elävien olentojen luokittelu
+[367] I Kolmiyhteisalkuiset olennot
+[368] II Kahdesta polveutuvat olennot
+[369] III Yhdestä polveutuvat olennot
+[370] IV Olevaistetut transsendentaaliset olennot
+[371] V Jumaluuden fragmentoidut entiteetit
+[372] VI Superpersoonalliset olennot
+[373] VII Luokittelemattomat ja esittelemättä jäävät olentoluokat
+[374] 2. Uversan persoonallisuusrekisteri
+[375] I Paratiisin Jumaluudet
+[376] II Korkeimmat Henget
+[377] III Kolminaisuusalkuiset olennot
+[378] IV Jumalan Pojat
+[379] V Äärettömän Hengen persoonallisuudet
+[380] VI Universumivoiman Ohjaajat
+[381] VII Vakinaisten kansalaisten yhteisöt
+[382] Monikoosteiset persoonallisuusryhmät
+[383] 3. Hyväntahdon siirtokunnat
+[384] (1) Tähtientutkijat
+[385] (2) Taivaalliset taidetyöntekijät
+[386] (3) Vaihtelunohjaajat
+[387] (4) Jatkokoulun opettajat
+[388] (5) Erilaiset reservijoukot
+[389] (6) Vierailevat opiskelijat
+[390] (7) Ylösnousemuspyhiinvaeltajat
+[391] 4. Ylösnousemuskuolevaiset
+[392] (1) Planetaariset kuolevaiset
+[393] (2) Nukkuvat eloonjääneet
+[394] (3) Mansionmaailman opiskelijat
+[395] (4) Morontiaedistyjät
+[396] (5) Superuniversumien suojatit
+[397] (6) Havonan pyhiinvaeltajat
+[398] (7) Paratiisiin-saapujat
+[399] 31. Lopullisuuden Saavuttajakunta
+[400] 1. Havonan syntyperäisasukkaat
+[401] 2. Gravitaatiosanansaattajat
+[402] 3. Kunnialla kruunatut kuolevaiset
+[403] 4. Adoptoidut serafit
+[404] 5. Kunnialla kruunatut Aineelliset Pojat
+[405] 6. Kunnialla kruunatut keskiväliolennot
+[406] 7. Valon evankelistat
+[407] 8. Transsendentaalit
+[408] 9. Kokonaisuniversumin Arkkitehdit
+[409] 10. Löytöretki perimmäisyyteen
+[410] II OSA.
+[411] Paikallisuniversumi
+[412] 32. Paikallisuniversumien kehitys
+[413] 1. Universumien fyysinen ilmaantuminen
+[414] 2. Universumin organisointi
+[415] 3. Evoluution idea
+[416] 4. Jumalan suhde paikallisuniversumiin
+[417] 5. Ikuinen ja jumalallinen tarkoitus
+[418] 33. Paikallisuniversumin hallinto
+[419] 1. Nebadonin Mikael
+[420] 2. Nebadonin hallitsija
+[421] 3. Universumin Poika ja Henki
+[422] 4. Gabriel — toimeenpanopäällikkö
+[423] 5. Kolminaisuuden suurlähettiläät
+[424] 6. Yleishallinto
+[425] Paikallisuniversumin aika
+[426] 7. Nebadonin oikeusistuimet
+[427] 8. Lainsäädäntä- ja toimeenpanoelimet
+[428] 34. Paikallisuniversumin Äiti-Henki
+[429] 1. Luovan Hengen personoituminen
+[430] 2. Jumalallisen Hoivaajan olemus
+[431] 3. Poika ja Henki ajallisuudessa ja avaruudessa
+[432] 4. Paikallisuniversumin virtapiirit
+[433] 5. Hengen hoiva
+[434] 6. Ihmisessä oleva henki
+[435] Ihmisen kaksinainen olemus
+[436] 7. Henki ja lihallisuus
+[437] ”Tämä on se tie.”
+[438] 35. Jumalan paikallisuniversumipojat
+[439] 1. Isä-Melkisedek
+[440] 2. Melkisedek-Pojat
+[441] 3. Melkisedekien maailmat
+[442] 4. Melkisedekien erityistyö
+[443] Melkisedekien ruumiillistumiset
+[444] 5. Vorondadek-Pojat
+[445] 6. Konstellaation-Isät
+[446] 7. Vorondadekien maailmat
+[447] 8. Lanonandek-Pojat
+[448] Ensiasteiset Lanonandekit
+[449] Toisasteiset Lanonandekit
+[450] Kolmannen asteen Lanonandekit
+[451] 9. Lanonandek-hallitsijat
+[452] 10. Lanonandekien maailmat
+[453] 36. Elämänkantajat
+[454] 1. Elämänkantajain alkuperä ja olemus
+[455] 2. Elämänkantajien maailmat
+[456] 3. Elämän juurruttaminen
+[457] 4. Melkisedek-Elämänkantajat
+[458] Midsoniitit
+[459] Finaliittien Salvington-maailmat
+[460] 5. Seitsemän Mielenauttajahenkeä
+[461] (1) Intuition henki
+[462] (2) Ymmärryksen henki
+[463] (3) Rohkeuden henki
+[464] (4) Tiedon henki
+[465] (5) Neuvon henki
+[466] (6) Palvonnan henki
+[467] (7) Viisauden henki
+[468] 6. Elävät voimat
+[469] 37. Paikallisuniversumin persoonallisuudet
+[470] 1. Universumiauttajat
+[471] 2. Loistavat Iltatähdet
+[472] Luodut Iltatähdet
+[473] Ylösnousemukselliset Iltatähdet
+[474] Iltatähtien maailmat
+[475] 3. Arkkienkelit
+[476] Arkkienkelten maailmat
+[477] 4. Korkeimmat Avustajat
+[478] 5. Pääkomissionaarit
+[479] Rotukomissionaarit
+[480] Nebadonin Täydellisyyden Joukkokunta
+[481] Henkeen fuusioituneiden kuolevaisten maailmat
+[482] 6. Taivaalliset valvojat
+[483] Nebadonin koulutusjärjestelmä
+[484] 7. Mansiomaailman opettajat
+[485] 8. Tehtävään määrättyjen Korkeampien Henkien yhteisö
+[486] Yksinäiset Sanansaattajat
+[487] Universumin Virtapiirienvalvoja — Andovontia
+[488] Väestönlaskennan Johtaja — Salsatia
+[489] Apulaistarkastaja
+[490] Valtuutetut Vartiomiehet
+[491] Universaaliset Sovittelijat
+[492] Tekniset Neuvojat
+[493] Taivaalliset Kirjurit
+[494] Morontiaseuralaiset
+[495] 9. Paikallisuniversumin vakinaiset kansalaiset
+[496] (1) Susatia
+[497] (2) Univitatia
+[498] (3) Aineelliset Pojat
+[499] (4) Keskiväliolennot
+[500] Abandonterit
+[501] 10. Paikallisuniversumin muita olentoryhmiä
+[502] Spironga
+[503] Spornagia
+[504] Hyväntahdon siirtokunnat
+[505] 38. Paikallisuniversumin hoivaavat henget
+[506] 1. Serafien alkuperä
+[507] 2. Enkelien olemus
+[508] 3. Esittelemättä jäävät enkelit
+[509] 4. Serafien maailmat
+[510] 5. Serafien koulutus
+[511] 6. Serafien organisaatio
+[512] 7. Kerubit ja sanobit
+[513] 8. Kerubien ja sanobien kehitys
+[514] (1) Etenemisehdokkaat
+[515] (2) Keskivaiheen kerubit
+[516] (3) Morontiakerubit
+[517] 9. Keskiväliolennot
+[518] (1) Ensiasteiset keskiväliolennot
+[519] (2) Toisasteiset keskiväliolennot
+[520] 39. Serafien armeijakunnat
+[521] 1. Korkeimmat serafit
+[522] (1) Poika-Henki -hoivaajat
+[523] Lahjoittautumisen avustajat
+[524] (2) Oikeusistuinten neuvojat
+[525] (3) Universumiin tutustuttajat
+[526] (4) Opetusneuvojat
+[527] (5) Tehtävienjaon johtajat
+[528] (6) Kirjurit
+[529] (7) Kiinnittämättömät hoivaajat
+[530] 2. Korkeammat serafit
+[531] (1) Tietojenkeruuyksikkö
+[532] (2) Armon ääni
+[533] (3) Hengen koordinoijat
+[534] (4) Apulaisopettajat
+[535] (5) Kuljettajat
+[536] Serafien kuljetustekniikka
+[537] (6) Kirjurit
+[538] Kaukoviestittäjät
+[539] (7) Reservit
+[540] 3. Valvojaserafit
+[541] (1) Valvovat apulaiset
+[542] (2) Lain ennalta-arvijoijat
+[543] (3) Sosiaaliset arkkitehdit
+[544] (4) Eettiset herkistäjät
+[545] (5) Kuljettajat
+[546] (6) Kirjurit
+[547] (7) Reservit
+[548] 4. Hallintoserafit
+[549] (1) Hallinnolliset avustajat
+[550] (2) Oikeuden opastajat
+[551] (3) Kosmisen kansalaisuuden tulkitsijat
+[552] (4) Moraalisuuden voimistajat
+[553] (5) Kuljettajat
+[554] (6) Kirjurit
+[555] (7) Reservit
+[556] 5. Planetaariset auttajat
+[557] (1) Puutarhan äänet
+[558] (2) Veljeyden henget
+[559] (3) Rauhan sielut
+[560] (4) Luottamuksen henget
+[561] (5) Kuljettajat
+[562] Serafikuljetuksen lähtövalmistelut
+[563] (6) Kirjurit
+[564] (7) Reservit
+[565] 6. Siirtymähoivaajat
+[566] 7. Tulevaisuuden serafit
+[567] 8. Serafien määränpää
+[568] 9. Täyttymyksen Serafikunta
+[569] 40. Ylösnousemukselliset Jumalan pojat
+[570] 1. Evolutionaariset serafit
+[571] 2. Ylösnousevat Aineelliset Pojat
+[572] 3. Taivaaseen otetut keskiväliolennot
+[573] 4. Personoidut Suuntaajat
+[574] 5. Ajallisuuden ja avaruuden kuolevaiset
+[575] Kuolevaiset, joissa Suuntaaja asuu väliaikaisesti
+[576] Kuolevaiset, jotka eivät ole Suuntaajaan fuusioituvia
+[577] Suuntaajaanfuusioitumispotentiaalin kuolevaiset
+[578] Numeroimattomat sarjat
+[579] 6. Jumalan uskonpojat
+[580] 7. Isään fuusioituneet kuolevaiset
+[581] 8. Poikaan fuusioituneet kuolevaiset
+[582] 9. Henkeen fuusioituneet kuolevaiset
+[583] Muistiaineiston uudelleenrakentamisen tekniikka
+[584] 10. Ylösnousemuksen määränpäät
+[585] 41. Paikallisuniversumin fyysiset aspektit
+[586] 1. Nebadonin voimakeskukset
+[587] 2. Satanian fyysiset valvojat
+[588] 3. Tähtikumppanimme
+[589] 4. Aurinkojen tiheys
+[590] 5. Aurinkosäteily
+[591] 6. Kalsium — avaruuden vaeltaja
+[592] 7. Aurinkoenergian lähteet
+[593] 8. Aurinkoenergian reaktiot
+[594] 9. Aurinkojen stabiliteetti
+[595] 10. Asuttujen maailmojen alkuperä
+[596] 42. Energia — mieli ja aine
+[597] 1. Paratiisin vahvuudet ja energiat
+[598] 2. Universaaliset ei-hengelliset energiajärjestelmät (Fyysiset Energiat)
+[599] (1) Avaruuden voimavaraus
+[600] (2) Alkuvahvuus
+[601] (3) Emergentit energiat
+[602] a. Valtaenergia
+[603] b. Gravitaatioenergia
+[604] (4) Universumivoima
+[605] (5) Havonan energia
+[606] (6) Transsendentaalinen energia
+[607] (7) Monota
+[608] 3. Aineen luokittelu
+[609] 4. Energian ja aineen transmutaatiot
+[610] 5. Aaltoenergian ilmenemät
+[611] 6. Ultimatonit, elektronit ja atomit
+[612] 7. Atominen aine
+[613] 8. Atomin koossapysyvyys
+[614] 9. Luonnonfilosofia
+[615] 10. Universaaliset ei-hengelliset energiajärjestelmät (aineelliset mielijärjestelmät)
+[616] (1) Auttajahenkiä edeltävät mielet
+[617] (2) Auttajahengelliset mielet
+[618] (3) Kehittyvät morontiamielet
+[619] Kosminen mieli
+[620] 11. Maailmankaikkeuden mekanismit
+[621] 12. Hahmo ja muoto — mielen hallitsevuus
+[622] 43. Konstellaatiot
+[623] 1. Konstellaation päämaja
+[624] 2. Konstellaation hallitus
+[625] 3. Norlatiadekin Kaikkein Korkeimmat
+[626] 4. Kokousvuori — Päivien Uskollinen
+[627] 5. Edentian Isät Luciferin kapinan jälkeen
+[628] 6. Jumalan puutarhat
+[629] 7. Univitatia
+[630] 8. Edentian koulutusmaailmat
+[631] 9. Edentian kansalaisuus
+[632] 44. Taivaalliset taidetyöntekijät
+[633] 1. Taivaalliset muusikot
+[634] 2. Taivaalliset toisintajat
+[635] 3. Jumalalliset rakentajat
+[636] 4. Ajatusten muistiinmerkitsijät
+[637] 5. Energiankäsittelijät
+[638] 6. Muotoilijat ja kaunistajat
+[639] 7. Harmoniatyöntekijät
+[640] 8. Kuolevaisten pyrkimykset ja morontiasaavutukset
+[641] 45. Paikallisjärjestelmän hallinto
+[642] 1. Siirtymäkulttuurin maailmat
+[643] (1) Finaliittimaailma
+[644] (2) Morontiamaailma
+[645] (3) Enkelimaailma
+[646] (4) Ylienkelien maailma
+[647] (5) Poikien maailma
+[648] (6) Hengen maailma
+[649] (7) Isän maailma
+[650] 2. Järjestelmän hallitsija
+[651] 3. Järjestelmän hallitus
+[652] 4. Neljäkolmatta neuvonantajaa
+[653] 5. Aineelliset Pojat
+[654] 6. Aatamien taivasmatkalaisille antama koulutus
+[655] Vanhempana toimimisen kokemus
+[656] Satanian lastenkoehoitola
+[657] 7. Melkisedekien koulut
+[658] 46. Paikallisjärjestelmän päämaja
+[659] 1. Jerusemin fyysiset aspektit
+[660] 2. Jerusemin fyysiset ominaispiirteet
+[661] 3. Jerusemin kaukoviestilähetykset
+[662] 4. Asuin- ja hallintoalueet
+[663] 5. Jerusemin ympyrät
+[664] (1) Jumalan Poikien ympyrät
+[665] (2) Enkeleiden ympyrät
+[666] (3) Universumiauttajien ympyrät
+[667] (4) Fyysisten Päävalvojien ympyrät
+[668] (5) Ylösnousemuskuolevaisten ympyrät
+[669] (6) Hyväntahdon siirtokuntien ympyrät
+[670] (7) Finaliittien ympyrät
+[671] 6. Toimeenpano- ja hallintoneliöt
+[672] 7. Suorakulmiot — Spornagia
+[673] 8. Jerusemin kolmiot
+[674] 47. Seitsemän mansiomaailmaa
+[675] 1. Finaliittien maailma
+[676] Tarpeellinen vanhemmuuden kokemus
+[677] 2. Lastenkoehoitola
+[678] 3. Ensimmäinen mansiomaailma
+[679] Morontiaseuralaiset
+[680] 4. Toinen mansiomaailma
+[681] 5. Kolmas mansiomaailma
+[682] 6. Neljäs mansiomaailma
+[683] 7. Viides mansiomaailma
+[684] 8. Kuudes mansiomaailma
+[685] Suuntaajafuusio
+[686] 9. Seitsemäs mansiomaailma
+[687] 10. Jerusemin kansalaisuus
+[688] 48. Morontiaelämä
+[689] 1. Morontiamateriaalit
+[690] 2. Morontian Voimanvalvojat
+[691] (1) Virtapiiriensäätelijät
+[692] (2) Järjestelmän koordinoijat
+[693] (3) Planeettakohtaiset vartijat
+[694] (4) Yhdistetyt kontrolloijat
+[695] (5) Yhteydenvakauttajat
+[696] (6) Valikoivat lajittelijat
+[697] (7) Rekisterinpitäjäkumppanit
+[698] 3. Morontiaseuralaiset
+[699] (1) Pyhiinvaeltajien suojelijat
+[700] (2) Pyhiinvaeltajien vastaanottajat ja vapaat liittyjät
+[701] (3) Taivaallisten vierailijoiden isännät
+[702] (4) Koordinoijat ja yhteyksien ohjaajat
+[703] (5) Tulkit ja kääntäjät
+[704] (6) Tutkimusretkien ja virkistäytymisen valvojat
+[705] (7) Alueiden ja rakennusten hoitajat
+[706] 4. Vaihtelunohjaajat
+[707] Taivaallinen huumori
+[708] Kuolevaisten huumori
+[709] 5. Mansiomaailmojen Opettajat
+[710] 6. Morontiamaailmojen serafit — Siirtymävaiheen hoivaajat
+[711] (1) Serafievankelistat
+[712] Psalmin 23 alkuperä
+[713] (2) Rotujentulkitsijat
+[714] (3) Mielensuunnittelijat
+[715] (4) Morontianeuvonantajat
+[716] Motan stereoskooppinen vaikutus
+[717] (5) Teknikot
+[718] (6) Kirjuri-opettajat
+[719] Totuus ja fakta
+[720] (7) Hoivaavat reservit
+[721] Menestyminen, epäonnistuminen ja ego
+[722] 7. Morontiamota
+[723] 8. Morontiaetenijät
+[724] 49. Asutut maailmat
+[725] 1. Planetaarinen elollisuus
+[726] 2. Planeettakohtaiset fyysiset tyypit
+[727] (1) Ilmakehätyypit
+[728] (2) Elementtityypit
+[729] (3) Gravitaatiotyypit
+[730] (4) Lämpötilatyypit
+[731] (5) Sähkötyypit
+[732] (6) Energianottotyypit
+[733] (7) Nimeämättömät tyypit
+[734] 3. Hengittämättömien maailmat
+[735] 4. Evolutionaariset tahdolliset luodut
+[736] 5. Kuolevaisten planetaariset sarjat
+[737] (1) Mukautuminen planeettaympäristöön
+[738] Tabamantian tarkastamat kokeelliset sarjat
+[739] (2) Aivotyyppien mukaiset sarjat
+[740] (3) Hengen vastaanottamisen mukaiset sarjat
+[741] (4) Planetaaristen kuolevaisten aikakaudet
+[742] (5) Luotujen samanlaisuuden mukaiset sarjat
+[743] (6) Suuntaajaanfuusioitumisen mukaiset sarjat
+[744] (7) Menetelmät vapautua maisesta elämästä
+[745] 6. Maan päällä vietetystä elämästä vapautuminen
+[746] (1) Tuomiokautiseen luokkaan kuuluvat
+[747] (2) Yksilökohtaisen ylösnousemuksen piiriin kuuluvat
+[748] (3) Koeajasta riippuvaiset ylösnousemusyhteisöt
+[749] (4) Toisasteiset modifioidut ylösnousemusjärjestelmät
+[750] (5) Ensiasteinen modifioitu ylösnousemusjärjestelmä
+[751] 50. Planeettaprinssit
+[752] 1. Prinssien tehtävä
+[753] 2. Planeetan hallinto
+[754] 3. Prinssin ruumiillinen esikunta
+[755] 4. Planeetan päämaja ja koulut
+[756] 5. Edistyvä sivilisaatio
+[757] 6. Planetaarinen kulttuuri
+[758] 7. Eristämisen ansiot
+[759] Agondonterit
+[760] Tabamantia on agondonteri
+[761] 51. Planetaariset Aatamit
+[762] 1. Jumalan Aineellisten Poikien alkuperä ja olemus
+[763] 2. Planetaaristen Aatamien siirtäminen paikasta toiseen
+[764] 3. Aatamien tehtävät
+[765] 4. Evolutionaariset kuusi rotua
+[766] 5. Rotujen sekoittuminen — Aatamin verenperintö
+[767] 6. Eedenin hallintojärjestelmä
+[768] 7. Yhteishallinto
+[769] 52. Planetaariset kuolevaisten aikakaudet
+[770] 1. Alkukantainen ihminen
+[771] 2. Planeettaprinssin jälkeinen ihminen
+[772] 3. Aatamin jälkeinen ihminen
+[773] 4. Hallinnollisen Pojan jälkeinen ihminen
+[774] 5. Lahjoittautuneen Pojan jälkeinen ihminen
+[775] 6. Lahjoittautumisen jälkeinen aikakausi Urantialla
+[776] 7. Opettaja-Pojan jälkeinen ihminen
+[777] 53. Luciferin kapina
+[778] 1. Kapinan johtajat
+[779] 2. Kapinan syyt
+[780] 3. Luciferin manifesti
+[781] 4. Kapinan puhkeaminen
+[782] 5. Selkkauksen luonne
+[783] 6. Lojaali serafikomentaja
+[784] 7. Kapinan historia
+[785] 8. Ihmisen Poika Urantialla
+[786] 9. Kapinan tämänhetkinen tila
+[787] 54. Luciferin kapinaan liittyvät ongelmat
+[788] 1. Oikea ja väärä vapaus
+[789] 2. Vapauden anastus
+[790] 3. Oikeudenmukaisuuden aikaviive
+[791] 4. Armeliaisuudesta johtuva viive
+[792] 5. Viivytykseen kätkeytyvä viisaus
+[793] Kaksitoista syytä
+[794] 6. Rakkauden riemuvoitto
+[795] 55. Valon ja elämän sfäärit
+[796] 1. Morontiatemppeli
+[797] 2. Kuolema ja taivaaseenotto
+[798] 3. Kultaiset aikakaudet
+[799] 4. Hallinnolliset uudelleenjärjestelyt
+[800] Planeetan seitsemän vaihetta
+[801] Keskiväliolentojen vapauttaminen tehtävistään
+[802] Aatamin poistuminen
+[803] 5. Aineellisen kehityksen lakikorkeus
+[804] 6. Yksittäinen kuolevainen
+[805] 7. Ensimmäinen eli planetaarinen vaihe
+[806] 8. Toinen eli järjestelmävaihe
+[807] 9. Kolmas eli konstellaatiovaihe
+[808] 10. Neljäs eli paikallisuniversumivaihe
+[809] 11. Pien- ja suursektorivaiheet
+[810] 12. Seitsemäs eli superuniversumivaihe
+[811] Korkeimmuuden Kvalifioimattomat Valvojat
+[812] 56. Universaalinen ykseys
+[813] 1. Fyysinen koordinaatio
+[814] 2. Älyllinen ykseys
+[815] 3. Hengellinen yhdistyminen
+[816] 4. Persoonallisuuden yhdistyminen
+[817] 5. Jumaluuden ykseys
+[818] 6. Evolutionaarisen Jumaluuden yhdistyminen
+[819] 7. Universaaliset evoluution seurausilmiöt
+[820] 8. Korkein Yhdistäjä
+[821] 9. Universaalisen Absoluutin ykseys
+[822] 10. Totuus, kauneus ja hyvyys
+[823] III OSA.
+[824] Urantian historia
+[825] 57. Urantian alkuperä
+[826] 1. Andronoverin tähtisumu
+[827] 2. Ensimmäinen tähtisumuvaihe
+[828] 3. Toinen tähtisumuvaihe
+[829] 4. Kolmas ja neljäs vaihe
+[830] Auringon alkuperä
+[831] 5. Monmatian — Urantian aurinkokunnan — synty
+[832] Vastakkainen liikesuunta
+[833] 6. Aurinkokuntavaihe
+[834] Planeettojen muodostumisvaihe
+[835] Vuoksi-ilmiön aiheuttama kitka
+[836] Vuoksi-gravitaatioräjähdys
+[837] 7. Meteoriajanjakso
+[838] Vulkaaninen aikakausi
+[839] Planeetan alkuvaiheen ilmakehä
+[840] 8. Maankuoren asettuminen
+[841] Maanjäristysten aikakausi
+[842] Maailman valtameri ja ensimmäinen manner
+[843] 58. Elämän juurruttaminen Urantialle
+[844] 1. Fyysisen elämän perusedellytykset
+[845] 2. Urantian ilmakehä
+[846] 3. Avaruusympäristö
+[847] 4. Elämän aamunkoiton aikakausi
+[848] 5. Mantereiden liukuminen
+[849] 6. Siirtymäkausi
+[850] 7. Geologinen historiankirja
+[851] 59. Elämän merellisen muodon aikakausi Urantialla
+[852] 1. Matalien merien varhainen merieliöstö
+[853] Trilobiittien aikakausi
+[854] 2. Ensimmäinen mantereenlaajuisten tulvien vaihe
+[855] Selkärangattomien eläinten aikakausi
+[856] 3. Toinen suuri tulvien vaihe
+[857] Korallikausi
+[858] Lonkerojalkaisten aikakausi
+[859] 4. Suuri maankohoamisen vaihe
+[860] Maalla elävän kasvikunnan ajanjakso
+[861] Kalojen aikakausi
+[862] 5. Maankuoren siirrosvaihe
+[863] Saniaismetsien hiiltymisjakso
+[864] Sammakoiden aikakausi
+[865] 6. Ilmastollinen siirtymävaihe
+[866] Siemenkasvien ajanjakso
+[867] Biologisten koettelemusten aikakausi
+[868] 60. Urantia maaeliöstön varhaiskaudella
+[869] 1. Matelijoiden varhaiskausi
+[870] 2. Myöhempi matelijoiden aikakausi
+[871] 3. Liitukausi
+[872] Kukkakasvien ajanjakso
+[873] Lintujen aikakausi
+[874] 4. Liitukauden loppu
+[875] 61. Nisäkkäiden aikakausi Urantialla
+[876] 1. Mannerten uusi kuivanmaan kausi
+[877] Varhaisnisäkkäiden aikakausi
+[878] 2. Viimeisin tulvehtimisvaihe
+[879] Pitemmälle edistyneiden nisäkkäiden aikakausi
+[880] 3. Nykyisten vuorten muodostumisvaihe
+[881] Elefantin ja hevosen aikakausi
+[882] 4. Viimeisin mannerten kohoamisvaihe
+[883] Viimeinen suuri nisäkkäiden vaelluskausi
+[884] 5. Ensimmäinen jääkausi
+[885] 6. Alkukantainen ihminen jääkaudella
+[886] 7. Jääkauden jatkuminen
+[887] 62. Alkuihmisen kantarodut
+[888] 1. Varhaiset puoliapinalajit
+[889] 2. Ihmisen kantanisäkkäät
+[890] 3. Välinisäkkäät
+[891] Ihmisapinaheimojen alkuperä
+[892] 4. Kädelliset
+[893] 5. Ensimmäiset ihmisolennot
+[894] 6. Ihmismielen evoluutio
+[895] 7. Urantia tunnustetaan asutuksi maailmaksi
+[896] 63. Ensimmäinen ihmisperhe
+[897] 1. Andon ja Fonta
+[898] 2. Kaksosten pakomatka
+[899] 3. Andonin perhe
+[900] 4. Andonilaisklaanit
+[901] 5. Andoniittien hajaantuminen
+[902] 6. Onagar — ensimmäinen totuuden opettaja
+[903] 7. Andonin ja Fontan eloonjääminen
+[904] 64. Evolutionaariset värilliset rodut
+[905] 1. Andonilaiset kanta-asukkaat
+[906] 2. Foxhallin kansat
+[907] 3. Badonanin heimot
+[908] 4. Neandertal-rodut
+[909] 5. Värillisten rotujen synty
+[910] 6. Urantian kuusi sangik-rotua
+[911] (1) Punainen ihminen
+[912] (2) Oranssinvärinen ihminen
+[913] (3) Keltainen ihminen
+[914] (4) Vihreä ihminen
+[915] (5) Sininen ihminen
+[916] (6) Indigonvärinen rotu
+[917] Kuuden rodun tarkoitus
+[918] 7. Värillisten rotujen levittäytyminen
+[919] 65. Evoluution valvonta
+[920] 1. Elämänkantajien tehtävät
+[921] (1) Sähkökemian fyysinen taso
+[922] (2) Kvasimorontiaalinen olemassaolo
+[923] (3) Edistynyttä olotilaa edustava puolihengellinen taso
+[924] 2. Evoluution sisältämät näköalat
+[925] 3. Evoluution vaaliminen
+[926] 4. Uusien urien aukominen Urantialla
+[927] 5. Elollisuuden kehityksen kohtaamat hankaluudet
+[928] 6. Elollisuuden kehittämisen menetelmät
+[929] 7. Mielen kehitystasot
+[930] Mekaaninen, ei-opetettavissa oleva mieli
+[931] Ei-mekaaninen, opetettavissa oleva mieli
+[932] 8. Evoluutio ajan ja avaruuden näkökulmasta
+[933] 66. Urantian Planeettaprinssi
+[934] 1. Prinssi Caligastia
+[935] 2. Prinssin esikunta
+[936] 3. Dalamatia — Prinssin kaupunki
+[937] 4. Caligastian sadan alkuajat
+[938] 5. Caligastian sadan organisaatio
+[939] (1) Ravintoasiain ja aineellisen hyvinvoinnin neuvosto
+[940] (2) Eläintenkesytyksen ja -hyötykäytön lautakunta
+[941] (3) Petoeläinten nujertamisen neuvojat
+[942] (4) Tiedon levittämisen ja säilyttämisen opettajakunta
+[943] (5) Teollisuus- ja kauppakomissio
+[944] (6) Ilmoitususkonnon kollegio
+[945] (7) Terveyden- ja elämänvaalijat
+[946] (8) Planeetan taide- ja tiedeneuvosto
+[947] (9) Edistyneiden heimosuhteiden johtokunta
+[948] (10) Heimokoordinoinnin ja rotuyhteistyön korkein oikeus
+[949] 6. Prinssin hallituskausi
+[950] 7. Elämä Dalamatiassa
+[951] 8. Caligastian aiheuttamat onnettomuudet
+[952] 67. Planeetan kapina
+[953] 1. Caligastian petos
+[954] 2. Kapinan puhkeaminen
+[955] 3. Seitsemän ratkaisevaa vuotta
+[956] 4. Caligastian sata kapinan jälkeen
+[957] 5. Kapinan välittömät seuraukset
+[958] 6. Järkkymätön Van
+[959] 7. Synnin etäisvaikutukset
+[960] 8. Kapinan ihmissankari
+[961] 68. Sivilisaation sarastus
+[962] 1. Varjeleva sosiaalistuminen
+[963] 2. Sosiaaliseen edistymiseen vaikuttavia tekijöitä
+[964] 3. Aaveidenpelon sosiaalistava vaikutus
+[965] 4. Tapasäännösten kehitys
+[966] 5. Maankäyttötavat — toimeentulokeinot
+[967] (1) Keräilyvaihe
+[968] (2) Metsästysvaihe
+[969] (3) Paimentolaisvaihe
+[970] (4) Maanviljelyvaihe
+[971] 6. Kulttuurin kehitys
+[972] Maan ja väestön suhdeluku
+[973] 69. Ihmisen perusinstituutiot
+[974] 1. Ihmisen perusinstituutiot
+[975] (1) Toimeentuloinstituutiot
+[976] (2) Suvun jatkumisen varmistavat instituutiot
+[977] (3) Halujen tyydytämiseen tähtäävät instituutiot
+[978] 2. Teollisuuden sarastus
+[979] 3. Työvoiman erikoistuminen
+[980] 4. Tavaranvaihdon alkuvaiheet
+[981] 5. Pääoman syntyvaiheet
+[982] 6. Tulen suhde sivilisaatioon
+[983] 7. Eläinten hyötykäyttö
+[984] 8. Orjuus sivilisaatioon vaikuttavana tekijänä
+[985] 9. Yksityisomaisuus
+[986] 70. Ihmisperäisen hallitusjärjestelmän kehitys
+[987] 1. Sodan syntyhistoria
+[988] 2. Sodan yhteiskunnallinen arvo
+[989] Nykyindustrialismi vastaan militarismi
+[990] 3. Ihmisen ensimmäiset yhteenliittymät
+[991] 4. Sukukunnat ja heimot
+[992] 5. Hallitusjärjestelmän alkuvaiheet
+[993] 6. Monarkkinen hallitusmuoto
+[994] 7. Alkuaikojen klubit ja salaseurat
+[995] 8. Yhteiskuntaluokat
+[996] 9. Ihmisoikeudet
+[997] 10. Oikeuden kehitys
+[998] 11. Lait ja oikeusistuimet
+[999] 12. Hallintovallan jako
+[1000] 71. Valtion kehittyminen
+[1001] 1. Alkioasteinen valtio
+[1002] 2. Edustuksellisen hallitustavan kehitys
+[1003] 3. Valtiollisuuden ihanteet
+[1004] 4. Edistyvä sivilisaatio
+[1005] 5. Kilpailun kehitys
+[1006] 6. Taloudellisen voiton tavoittelu
+[1007] 7. Opetus
+[1008] 8. Valtiomuodostuman luonne
+[1009] 72. Erään naapuriplaneetan hallitusjärjestelmä
+[1010] 1. Mannerkansakunta
+[1011] 2. Poliittinen järjestelmä
+[1012] 3. Kotielämä
+[1013] 4. Opetusjärjestelmä
+[1014] 5. Tuotantotoiminnan organisaatio
+[1015] 6. Vanhuusvakuutus
+[1016] 7. Verotus
+[1017] 8. Erikoiskorkeakoulut
+[1018] 9. Yleisen äänioikeuden rakenne
+[1019] 10. Menettely rikollisuuden suhteen
+[1020] 11. Sotilaallinen valmius
+[1021] 12. Muut kansakunnat
+[1022] 73. Eedenin Puutarha
+[1023] Tabamantian katsastuskäynti
+[1024] 1. Nodiitit ja amadoniitit
+[1025] 2. Puutarhan suunnittelu
+[1026] 3. Puutarhan sijaintipaikka
+[1027] 4. Puutarhan perustaminen
+[1028] 5. Puutarhakoti
+[1029] 6. Elämänpuu
+[1030] 7. Eedenin kohtalo
+[1031] 74. Aatami ja Eeva
+[1032] 1. Aatami ja Eeva Jerusemissa
+[1033] 2. Aatamin ja Eevan saapuminen
+[1034] 3. Aatami ja Eeva tutustuvat planeettaan
+[1035] 4. Ensimmäinen mullistus
+[1036] 5. Aatamin hallinto
+[1037] 6. Aatamin ja Eevan kotielämä
+[1038] 7. Elämä Puutarhassa
+[1039] 8. Luomistaru
+[1040] 75. Aatami ja Eeva rikkovat sopimuksensa
+[1041] 1. Urantian ongelma
+[1042] 2. Caligastian salajuoni
+[1043] 3. Eeva joutuu kiusaukseen
+[1044] 4. Rikkomuksen tajuaminen
+[1045] 5. Rikkomuksen jälkivaikutukset
+[1046] 6. Aatami ja Eeva lähtevät puutarhasta
+[1047] 7. Aatamin ja Eevan arvonalennus
+[1048] 8. Niin kutsuttu syntiinlankeemus
+[1049] 76. Toinen Puutarha
+[1050] 1. Eedeniläiset saapuvat Mesopotamiaan
+[1051] 2. Kain ja Aabel
+[1052] 3. Elämä Mesopotamiassa
+[1053] Seetiläispapisto
+[1054] 4. Violetti rotu
+[1055] 5. Aatamin ja Eevan kuolema
+[1056] Mikaelin viesti
+[1057] 6. Aatamin ja Eevan eloonjääminen
+[1058] 77. Keskiväliolennot
+[1059] 1. Ensiasteiset keskiväliolennot
+[1060] 2. Nodiittirotu
+[1061] 3. Baabelin torni
+[1062] 4. Nodilaiset sivilisaation keskukset
+[1063] 5. Aataminpoika ja Ratta
+[1064] 6. Toisasteiset keskiväliolennot
+[1065] 7. Kapinalliset keskiväliolennot
+[1066] 8. Yhdistyneet keskiväliolennot
+[1067] 9. Urantian vakinaiset kansalaiset
+[1068] 78. Violetti rotu Aatamin aikojen jälkeen
+[1069] 1. Rotujen ja kulttuurien levinneisyys
+[1070] 2. Toisen Puutarhan adamiitit
+[1071] 3. Adamiittien ensimmäiset levittäytymiset
+[1072] 4. Andiitit
+[1073] 5. Andiittien vaellukset
+[1074] 6. Andiittien viimeiset hajaantumiset
+[1075] 7. Mesopotamian tulvat
+[1076] Nooan tarina
+[1077] 8. Sumerilaiset — andiiteista viimeiset
+[1078] 79. Andiittien leviäminen itämaihin
+[1079] 1. Turkestanin andiitit
+[1080] 2. Andiitit valtaavat Intian
+[1081] 3. Dravidain Intia
+[1082] 4. Arjalaiset tunkeutuvat Intiaan
+[1083] 5. Punainen ihminen ja keltainen ihminen
+[1084] 6. Kiinalaisen sivilisaation aamunkoitto
+[1085] 7. Andiitit saapuvat Kiinaan
+[1086] 8. Myöhempi kiinalainen sivistys
+[1087] 80. Andiittien leviäminen länsimaihin
+[1088] 1. Adamiitit saapuvat Eurooppaan
+[1089] 2. Ilmastolliset ja geologiset muutokset
+[1090] Välimeren tulvehtiminen
+[1091] 3. Cro-Magnonin sininen ihminen
+[1092] 4. Andiitit tunkeutuvat Eurooppaan
+[1093] 5. Andiitit valloittavat pohjois-Euroopan
+[1094] 6. Andiitit Niilin varsilla
+[1095] 7. Välimeren saarten andiitit
+[1096] 8. Tonavan andoniitit
+[1097] 9. Kolme valkoista rotua
+[1098] 81. Nykysivilisaation kehittyminen
+[1099] 1. Sivilisaation kehto
+[1100] 2. Sivilisaation työvälineet
+[1101] (1) Tulen kesyttäminen
+[1102] (2) Eläinten kesyttäminen
+[1103] (3) Vangiksiotettujen orjuuttaminen
+[1104] (4) Yksityisomaisuus
+[1105] 3. Kaupungit, käsiteollisuus ja kauppa
+[1106] 4. Sekoittumarodut
+[1107] (1) Kaukasidinen
+[1108] (2) Mongolidinen
+[1109] (3) Negridinen
+[1110] 5. Kulttuuriyhteiskunta
+[1111] Valta ja oikeus
+[1112] 6. Sivilisaation ylläpitäminen
+[1113] (1) Luonnonolot
+[1114] (2) Reaalipääoma
+[1115] (3) Tieteellinen tieto
+[1116] (4) Inhimilliset voimavarat
+[1117] (5) Aineellisten voimavarojen merkitys
+[1118] (6) Kielen merkitys
+[1119] (7) Mekaanisten laitteiden merkitys
+[1120] (8) Soihdunkantajien luonne
+[1121] (9) Rodun omaksumat ihanteet
+[1122] (10) Asiantuntijoiden koordinointi
+[1123] (11) Työhönsijoittamiskeinot
+[1124] (12) Yhteistyöhalukkuus
+[1125] (13) Pystyvä ja viisas johtajuus
+[1126] (14) Yhteiskunnalliset muutokset
+[1127] (15) Luhistumisen ehkäiseminen
+[1128] 82. Avioliiton kehitys
+[1129] 1. Pariutumisvaisto
+[1130] 2. Rajoittavat tabut
+[1131] 3. Vanhimmat avioliittoa koskevat tapasäännöt
+[1132] 4. Avioliitto omaisuutta koskevien tapasääntöjen kohteena
+[1133] 5. Endogamia ja eksogamia
+[1134] 6. Rotusekoitukset
+[1135] 83. Avioliittoinstituutio
+[1136] 1. Avioliitto yhteiskunnallisena instituutiona
+[1137] 2. Seurustelu ja kihlautuminen
+[1138] 3. Ostaminen ja myötäjäiset
+[1139] 4. Häämenot
+[1140] 5. Moniavioisuus
+[1141] 6. Varsinainen yksiavioisuus — pariavioliitto
+[1142] 7. Aviosuhteen purkaminen
+[1143] 8. Avioliiton ihannointi
+[1144] 84. Avioliitto ja perhe-elämä
+[1145] 1. Alkukantaiset pariliitot
+[1146] 2. Alkuaikojen äitivaltainen perhe
+[1147] 3. Isävaltainen perhe
+[1148] 4. Naisen asema alkuaikojen yhteiskunnassa
+[1149] 5. Nainen kehittyvien tapasääntöjen kohteena
+[1150] 6. Miehen ja naisen välinen kumppanuus
+[1151] 7. Perhe-elämän ihanteet
+[1152] 8. Halujen tyydyttämiseen sisältyvät vaarat
+[1153] 85. Palvonnan alkujuuret
+[1154] 1. Kivien- ja mäkienpalvonta
+[1155] 2. Kasvien- ja puidenpalvonta
+[1156] 3. Eläintenpalvonta
+[1157] 4. Luonnon elementtien palvonta
+[1158] 5. Taivaankappaleiden palvonta
+[1159] 6. Ihmisenpalvonta
+[1160] 7. Palvonnan ja viisauden auttajat
+[1161] 86. Uskonnon varhaiskehitys
+[1162] 1. Sattuma: hyvä onni ja huono onni
+[1163] 2. Sattuman personoiminen
+[1164] 3. Kuolema — selittämätön
+[1165] 4. Eloonjäämisen käsite
+[1166] 5. Aave-sielun käsite
+[1167] 6. Aavehenkiympäristö
+[1168] 7. Alkukantaisen uskonnon tehtävä
+[1169] 87. Aavekultit
+[1170] 1. Aaveidenpelko
+[1171] 2. Vainajahenkien lepyttely
+[1172] 3. Esi-isienpalvonta
+[1173] 4. Hyvät ja pahat henkiaaveet
+[1174] 5. Edistyvä aavekultti
+[1175] 6. Pakottaminen ja poismanaaminen
+[1176] 7. Kultismin luonne
+[1177] 88. Fetissit, taikakalut ja magia
+[1178] 1. Usko fetisseihin
+[1179] 2. Fetissin kehittyminen
+[1180] Kuvat ja epäjumalain kuvat
+[1181] ”Pyhät kirjat”
+[1182] 3. Totemismi
+[1183] 4. Magia
+[1184] 5. Maagiset taikakalut
+[1185] 6. Magian harjoittaminen
+[1186] 89. Synti, uhri ja sovitus
+[1187] 1. Tabu
+[1188] 2. Syntikäsite
+[1189] 3. Kieltäymys ja nöyrtyminen
+[1190] Pidättymiskultti
+[1191] 4. Uhraamisen alkujuuret
+[1192] 5. Uhrit ja kannibalismi
+[1193] 6. Ihmisuhriajatuksen kehittyminen
+[1194] 7. Ihmisuhrin muunnelmia
+[1195] Temppelihaureus
+[1196] 8. Lunastus ja liittosopimukset
+[1197] 9. Uhrit ja sakramentit
+[1198] 10. Synnin anteeksianto
+[1199] 90. Shamanismi — poppamiehet ja papit
+[1200] 1. Ensimmäiset shamaanit — poppamiehet
+[1201] 2. Shamanistiset toiminnot
+[1202] 3. Shamanismin teoria sairaudesta ja kuolemasta
+[1203] 4. Shamaanien harjoittama lääkintätoimi
+[1204] 5. Papit ja rituaalit
+[1205] 91. Rukoilun kehityshistoria
+[1206] 1. Alkukantainen rukous
+[1207] 2. Rukoilun kehittyminen
+[1208] Rukoilu vastaan magia
+[1209] 3. Rukous ja toinen minä
+[1210] 4. Eettinen rukoilu
+[1211] 5. Rukouksen sosiaaliset heijastusvaikutukset
+[1212] 6. Rukouksen vaikutuspiiri
+[1213] 7. Mystiikka, hurmio ja henkeytyminen
+[1214] 8. Rukoileminen henkilökohtaisena kokemuksena
+[1215] 9. Tuloksellisen rukoilun ehdot
+[1216] 92. Uskonnon myöhempi kehitys
+[1217] 1. Uskonnon evolutionaarinen luonne
+[1218] 2. Uskonto ja tapasäännöt
+[1219] 3. Kehitysuskonnon luonne
+[1220] 4. Lahjaksi annettu ilmoitus
+[1221] (1) Dalamatian opetukset
+[1222] (2) Eedenin opetukset
+[1223] (3) Saalemin Melkisedek
+[1224] (4) Jeesus Nasaretilainen
+[1225] (5) Urantia-kirjan luvut
+[1226] 5. Suuret uskonnolliset johtajat
+[1227] 6. Monikoosteiset uskonnot
+[1228] Yksitoista edelleen vaikuttavaa uskontoa
+[1229] 7. Uskonnon edelleenkehittyminen
+[1230] 93. Makiventa Melkisedek
+[1231] 1. Makiventan inkarnoituminen
+[1232] 2. Saalemin viisas
+[1233] 3. Melkisedekin opetukset
+[1234] 4. Saalemin uskonto
+[1235] Uskontunnustus
+[1236] Seitsemän käskyä
+[1237] 5. Abrahamin valitseminen
+[1238] 6. Melkisedekin liittosopimus Abrahamin kanssa
+[1239] 7. Melkisedekin lähetyssaarnaajat
+[1240] 8. Melkisedekin lähtö
+[1241] 9. Melkisedekin lähdön jälkeen
+[1242] 10. Makiventa Melkisedekin nykyinen asema
+[1243] 94. Melkisedekin opetusten vaikutus itämailla
+[1244] 1. Saalemin opetukset vedalaisessa Intiassa
+[1245] Rigveda
+[1246] 2. Brahmalaisuus
+[1247] Jälleensyntymisoppi
+[1248] 3. Brahmalainen filosofia
+[1249] 4. Hindulainen uskonto
+[1250] 5. Kiinassa käyty kamppailu totuuden puolesta
+[1251] 6. Lao-tse ja Konfutse
+[1252] 7. Gautama Siddhartha
+[1253] 8. Buddhalainen usko
+[1254] Gautaman evankeliumi
+[1255] Moraalikäskyt
+[1256] 9. Buddhalaisuuden leviäminen
+[1257] 10. Tiibetin uskonto
+[1258] 11. Buddhalainen filosofia
+[1259] 12. Buddhalaisuuden jumalakäsitys
+[1260] 95. Melkisedekin opetusten vaikutus Levantissa
+[1261] 1. Saalemin uskonto Mesopotamiassa
+[1262] 2. Egyptin varhaisuskonto
+[1263] 3. Moraalikäsitysten kehitys
+[1264] 4. Amenemopen opetukset
+[1265] 5. Ainutlaatuinen Ikhnaton
+[1266] 6. Saalemin opit Iranissa
+[1267] 7. Saalemin opetukset Arabiassa
+[1268] 96. Jahve — heprealaisten Jumala
+[1269] 1. Seemiläisten keskuudessa esiintyneet jumaluuskäsitykset
+[1270] 2. Seemiläiset kansat
+[1271] 3. Verraton Mooses
+[1272] 4. Julistustyö Jahven puolesta
+[1273] 5. Mooseksen opetukset
+[1274] Materialistinen kaitselmus
+[1275] 6. Mooseksen kuoleman jälkeen vallinnut jumalakäsitys
+[1276] 7. Psalmit ja Jobin kirja
+[1277] 97. Jumalakäsityksen kehitys heprealaisten keskuudessa
+[1278] 1. Samuel — heprealaisprofeetoista ensimmäinen
+[1279] 2. Elia ja Elisa
+[1280] 3. Jahve ja Baal
+[1281] 4. Aamos ja Hoosea
+[1282] 5. Ensimmäinen Jesaja
+[1283] Miika ja Obadja
+[1284] 6. Peloton Jeremia
+[1285] 7. Toinen Jesaja
+[1286] 8. Pyhä ja epäpyhä historiankirjoitus
+[1287] 9. Heprealaisten historiaa
+[1288] Efraim ja Juuda
+[1289] Saul ja Daavid
+[1290] Salomo ja verotus
+[1291] Israel ja Juuda
+[1292] Israelin kuningaskunnan tuho
+[1293] Juudan kuningaskunnan loppu
+[1294] Babylonian vankeus
+[1295] 10. Heprealainen uskonto
+[1296] 98. Melkisedekin opetusten vaikutus länsimaissa
+[1297] 1. Saalemin uskonto kreikkalaisten keskuudessa
+[1298] 2. Kreikkalainen filosofinen ajattelu
+[1299] 3. Melkisedekin opetukset Roomassa
+[1300] 4. Mysteerikultit
+[1301] Fryygialainen Kybele ja Attis -kultti
+[1302] Egyptiläinen Osiris ja Isis -kultti
+[1303] Iranilainen Mitra-kultti
+[1304] 5. Mitrakultti
+[1305] 6. Mitralaisuus ja kristinusko
+[1306] 7. Kristinusko
+[1307] 99. Uskontoon liittyvät yhteiskunnalliset kysymykset
+[1308] 1. Uskonto ja yhteiskunnallinen uudistustyö
+[1309] 2. Institutionaalisen uskonnon heikkous
+[1310] 3. Uskonto ja uskonnonharjoittaja
+[1311] 4. Siirtymävaiheen vaikeudet
+[1312] 5. Uskonnon sosiaaliset aspektit
+[1313] 6. Institutionaalinen uskonto
+[1314] 7. Uskonnon anti
+[1315] 100. Uskonto ihmisen kokemuksessa
+[1316] 1. Uskonnollinen kasvu
+[1317] 2. Hengellinen kasvu
+[1318] 3. Käsitykset korkeimmasta arvosta
+[1319] 4. Kasvun ongelmat
+[1320] 5. Kääntymys ja mystiikka
+[1321] 6. Uskonnollisen elämän tunnusmerkit
+[1322] 7. Uskonnollisen elämäntavan korkein ilmenemä
+[1323] 101. Uskonnon todellinen luonne
+[1324] 1. Aito uskonto
+[1325] 2. Uskonnon tosiasia
+[1326] 3. Uskonnon tunnusmerkit
+[1327] Kaksitoista hengellisen uskon havainnollistusta
+[1328] 4. Ilmoitusta koskevat rajoitukset
+[1329] 5. Ilmoituksen avartama uskonto
+[1330] 6. Edistyvä uskonnollinen kokemus
+[1331] Seitsemän näkökohtaa pelastumisesta
+[1332] 7. Omakohtainen uskontofilosofia
+[1333] 8. Usko ja uskomus
+[1334] 9. Uskonto ja moraali
+[1335] 10. Uskonto ihmisen vapauttajana
+[1336] 102. Uskonnollisen uskon perustukset
+[1337] 1. Uskon tuottamat vakuuttuneisuudet
+[1338] 2. Uskonto ja reaalisuus
+[1339] 3. Tieto, viisaus ja ymmärrys
+[1340] 4. Kokemuksen tosiasia
+[1341] 5. Tavoitteellisen potentiaalin ylivalta
+[1342] 6. Uskonnollisen uskon varmuus
+[1343] 7. Jumalallisen epäilyksettömyys
+[1344] 8. Uskonnon todisteet
+[1345] 103. Uskonnollisen kokemuksen todellisuus
+[1346] 1. Uskonnonfilosofia
+[1347] 2. Uskonto ja yksilö
+[1348] 3. Uskonto ja ihmissuku
+[1349] 4. Hengellinen uskonyhteys
+[1350] 5. Ihanteiden alkuperä
+[1351] 6. Filosofinen koordinaatio
+[1352] 7. Tiede ja uskonto
+[1353] 8. Filosofia ja uskonto
+[1354] 9. Uskonnon sisin olemus
+[1355] 104. Kolminaisuuskäsityksen kasvu
+[1356] 1. Urantialaiset kolminaisuuskäsitykset
+[1357] 2. Kolminaisuuden ykseys ja Jumaluuden monikollisuus
+[1358] 3. Kolminaisuudet ja kolmiyhteydet
+[1359] 4. Seitsemän kolmiyhteyttä
+[1360] 5. Kolmiudet
+[1361] 105. Jumaluus ja todellisuus
+[1362] 1. Filosofinen ”MINÄ OLEN” -käsite
+[1363] 2. ”MINÄ OLEN” kolmiyhteisenä ja seitsenkertaisena
+[1364] 3. Infiniittisyyden seitsemän Absoluuttia
+[1365] 4. Ykseys, kaksinaisuus ja kolmiyhteys
+[1366] 5. Finiittisen todellisuuden esiintuonti
+[1367] 6. Finiittisen todellisuuden seurausilmiöt
+[1368] 7. Transsendentaalien olevaistuminen
+[1369] 106. Todellisuuden universumitasot
+[1370] 1. Ensiasteinen finiittisten funktionaalien yhteenliittymä
+[1371] Seitsenkertainen Jumala
+[1372] 2. Toisasteinen, korkeinta finiittistä edustava integraatio
+[1373] Korkein Olento
+[1374] 3. Transsendentaalinen todellisuusyhteenliittymä
+[1375] Perimmäinen Kolminaisuus
+[1376] 4. Perimmäinen, neljännen asteen integroituma
+[1377] Perimmäinen Jumaluus
+[1378] 5. Ko-absoluuttinen eli viidennen vaiheen yhteenliittymä
+[1379] Absoluuttinen Kolminaisuus
+[1380] 6. Absoluuttinen eli kuudennen vaiheen integroituma
+[1381] Infiniittinen kosmos
+[1382] 7. Päämäärän lopullisuus
+[1383] 8. Kolminaisuuksien kolminaisuus
+[1384] (1) Kolmen Kolminaisuuden taso
+[1385] (2) Kokemuksellisen Jumaluuden taso
+[1386] (3) MINÄ OLEN -taso
+[1387] 9. Eksistentiaalinen infiniittinen yhdistyminen
+[1388] 107. Ajatuksensuuntaajien alkuperä ja olemus
+[1389] 1. Ajatuksensuuntaajien alkuperä
+[1390] 2. Suuntaajien luokitus
+[1391] 3. Suuntaajien Diviningtonin koti
+[1392] 4. Suuntaajien olemus ja läsnäolo
+[1393] 5. Suuntaajien mielellisyys
+[1394] 6. Puhtaasti hengiksi ymmärretyt suuntaajat
+[1395] 7. Suuntaajat ja persoonallisuus
+[1396] 108. Ajatuksensuuntaajien tehtävä ja toiminta
+[1397] 1. Valinta ja tehtäväänosoittaminen
+[1398] 2. Suuntaajan ihmismielessäasumisen edellytykset
+[1399] Urantialla
+[1400] Muissa maailmoissa
+[1401] 3. Organisaatio ja hallinto
+[1402] Tabamantian kunnianosoitus
+[1403] 4. Suhde muihin hengellisiin influensseihin
+[1404] 5. Suuntaajan tehtävä
+[1405] 6. Jumala ihmisessä
+[1406] 109. Suuntaajien suhde universumin luotuihin
+[1407] 1. Suuntaajien kehittyminen
+[1408] 2. Omatoimiset Suuntaajat
+[1409] 3. Suuntaajien suhde eri kuolevaistyyppeihin
+[1410] 4. Suuntaajat ja ihmispersoonallisuus
+[1411] 5. Suuntaajan ihmismielessäasumista haittaavat tekijät
+[1412] 6. Todellisten arvojen häviämättömyys
+[1413] Jeesuksen Suuntaaja
+[1414] 7. Personoitujen Suuntaajien kohtalo
+[1415] Kaikkipersoonaisia olentoja
+[1416] 110. Suuntaajien suhde yksittäisiin kuolevaisiin
+[1417] 1. Asuminen kuolevaisen mielessä
+[1418] 2. Suuntaajat ja ihmistahto
+[1419] 3. Yhteistyö Suuntaajan kanssa
+[1420] 4. Suuntaajan työskentely mielessä
+[1421] 5. Erheellisiä käsityksiä Suuntaajan opastuksesta
+[1422] 6. Seitsemän psyykkistä kehää
+[1423] 7. Kuolemattomuuden saavuttaminen
+[1424] Suuntaajan vetoomus sielulle
+[1425] 111. Suuntaaja ja sielu
+[1426] 1. Valinnat tehdään mielen areenalla
+[1427] 2. Sielun olemus
+[1428] 3. Kehittyvä sielu
+[1429] 4. Sisäinen elämä
+[1430] 5. Valinnan pyhittäminen
+[1431] 6. Ihmisen paradoksi
+[1432] 7. Suuntaajan ongelma
+[1433] Kohtalonsuojelijan lausunto
+[1434] 112. Persoonallisuuden eloonjääminen
+[1435] Neljätoista seikkaa persoonallisuudesta
+[1436] 1. Persoonallisuus ja todellisuus
+[1437] 2. Minä
+[1438] 3. Kuolemaksi kutsuttu ilmiö
+[1439] 4. Suuntaajat kuoleman jälkeen
+[1440] 5. Ihmisminän eloonjääminen
+[1441] 6. Morontiaminä
+[1442] 7. Suuntaajafuusio
+[1443] 113. Kohtalonsuojelijaserafit
+[1444] 1. Suojelusenkelit
+[1445] 2. Kohtalonsuojelijat
+[1446] 3. Suhde muihin henki-influensseihin
+[1447] 4. Serafien toimipiirit
+[1448] 5. Kuolevaisiin kohdistuva serafihoiva
+[1449] 6. Suojelusenkelit kuoleman jälkeen
+[1450] 7. Serafit ja ylösnousemuksellisena elettävä elämänvaihe
+[1451] 114. Serafien planetaarinen hallitus
+[1452] 1. Urantian hallitsijanvalta
+[1453] 2. Planetaaristen valvojain lautakunta
+[1454] 3. Residentti kenraalikuvernööri
+[1455] 4. Kaikkein Korkein tarkkailija
+[1456] Kaikkein Korkeimpien sijaishallitsijakaudet
+[1457] 5. Planeetan hallitus
+[1458] 6. Planetaariseen valvontaan kuuluvat mestariserafit
+[1459] (1) Aikakauteen sidotut enkelit
+[1460] (2) Edistymisen enkelit
+[1461] (3) Uskonnonvarjelijat
+[1462] (4) Kansakuntana elämisen enkelit
+[1463] (5) Rotujen enkelit
+[1464] (6) Tulevien aikojen enkelit
+[1465] (7) Valistuksen enkelit
+[1466] (8) Terveyden enkelit
+[1467] (9) Kodin serafit
+[1468] (10) Elinkeinoelämän enkelit
+[1469] (11) Vapaa-ajanvieton enkelit
+[1470] (12) Enkelit yli-ministeriö
+[1471] 7. Kohtalon varajoukko
+[1472] 115. Korkein Olento
+[1473] 1. Käsitepuitteiden suhteellisuus
+[1474] 2. Korkeimmuuden absluuttinen perusta
+[1475] 3. Alkuperäinen, aktuaalinen ja potentiaalinen
+[1476] 4. Korkeimman todellisuuden lähteet
+[1477] 5. Korkeimman suhde Paratiisin-Kolminaisuuteen
+[1478] 6. Korkeimman suhde kolmiuksiin
+[1479] 7. Korkeimman olemus
+[1480] 116. Kaikkivaltias Korkein
+[1481] 1. Korkein mieli
+[1482] Kosminen mieli
+[1483] 2. Kaikkivaltias ja Seitsenkertainen Jumala
+[1484] 3. Kaikkivaltias ja Paratiisin-Jumaluus
+[1485] 4. Kaikkivaltias ja Korkeimmat Luojat
+[1486] 5. Kaikkivaltias ja Seitsenkertaiset Valvojat
+[1487] Tasapaino-ongelma
+[1488] 6. Hengen valta-asema
+[1489] 7. Suuruniversumi on elävä organismi
+[1490] 117. Korkein Jumala
+[1491] 1. Korkeimman Olennon olemus
+[1492] 2. Evolutionaarisen kasvun lähde
+[1493] Luotujen kolminaistamat pojat ja kasvu
+[1494] 3. Korkeimman merkitys universumien luoduille
+[1495] 4. Finiittinen Jumala
+[1496] Kosminen moraalisuus — korkein velvollisuus
+[1497] 5. Luomistuloksen ylisielu
+[1498] Finaliittitranssendaatio
+[1499] Inhimillisen kasvun seurausilmiöt
+[1500] 6. Korkeimman tavoitteleminen
+[1501] 7. Korkeimman tulevaisuus
+[1502] 118. Korkein ja Perimmäinen — ajallisuus ja avaruus
+[1503] 1. Ajallisuus ja ikuisuus
+[1504] Kokemukselliset (subjektiiviset) aikayksiköt
+[1505] 2. Omnipresenssi ja ubikviteetti
+[1506] 3. Ajallis-avaruudelliset yhteydet
+[1507] Totuus ja fakta
+[1508] Avaruus ja hahmo
+[1509] 4. Ensisijainen ja toissijainen kausaatio
+[1510] 5. Kaikkivoipaisuus ja mahdollisenmyötäisyys
+[1511] 6. Kaikkivoipaisuus ja kaikentekevyys
+[1512] 7. Kaikentietävyys ja predestinaatio
+[1513] 8. Valvonta ja ylivalvonta
+[1514] Aikatekijä edistymisen säätelijänä
+[1515] 9. Maailmankaikkeuden mekanismit
+[1516] 10. Kaitselmustoiminnot
+[1517] 119. Kristus Mikaelin lahjoittautumiset
+[1518] 1. Ensimmäinen lahjoittautuminen
+[1519] 2. Toinen lahjoittautuminen
+[1520] 3. Kolmas lahjoittautuminen
+[1521] 4. Neljäs lahjoittautuminen
+[1522] 5. Viides lahjoittautuminen
+[1523] 6. Kuudes lahjoittautuminen
+[1524] 7. Seitsemäs ja viimeinen lahjoittautuminen
+[1525] 8. Mikaelin asema lahjoittautumisten jälkeen
+[1526] IV OSA.
+[1527] Jeesuksen elämä ja opetukset
+[1528] 120. Mikaelin lahjoittautuminen Urantialla
+[1529] 1. Seitsemäs lahjoittautumistoimeksianto
+[1530] 2. Lahjoittautumista koskevat rajoitukset
+[1531] 3. Muita ohjeita ja neuvoja
+[1532] 4. Ruumiillistus — kahdesta tehdään yksi
+[1533] 121. Mikaelin lahjoittautumisen aikaiset olot
+[1534] 1. Länsimaat ensimmäisellä vuosisadalla jKr
+[1535] 2. Juutalaiset
+[1536] 3. Tilanne ei-juutalaisten keskuudessa
+[1537] 4. Ei-juutalainen filosofia
+[1538] (1) Epikurolainen
+[1539] (2) Stoalainen
+[1540] (3) Kyyninen
+[1541] (4) Skeptinen
+[1542] 5. Ei-juutalaiset uskonnot
+[1543] Mysteeriuskonnot
+[1544] 6. Heprealainen uskonto
+[1545] 7. Juutalaiset ja ei-juutalaiset
+[1546] 8. Aikaisemmin laaditut kirjalliset esitykset
+[1547] (1) Markuksen evankeliumi
+[1548] (2) Matteuksen evankeliumi
+[1549] (3) Luukkaan evankeliumi
+[1550] (4) Johanneksen evankeliumi
+[1551] Tunnustuksenosoitus
+[1552] 122. Jeesuksen syntymä ja vauvaikä
+[1553] 1. Joosef ja Maria
+[1554] 2. Gabriel ilmestyy Elisabetille
+[1555] 3. Gabrielin ilmoitus Marialle
+[1556] 4. Joosefin uni
+[1557] ”Daavidin huone”
+[1558] 5. Jeesuksen maiset vanhemmat
+[1559] 6. Nasaretin-koti
+[1560] 7. Matka Beetlehemiin
+[1561] 8. Jeesuksen syntymä
+[1562] Legenda paimenista
+[1563] Kolme Uurin pappia
+[1564] ”Beetlehemin tähti”
+[1565] 9. Jeesus viedään temppeliin
+[1566] 10. Herodes ryhtyy toimenpiteisiin
+[1567] Pako Egyptiin
+[1568] 123. Jeesuksen varhaislapsuus
+[1569] Olo Egyptissä
+[1570] 1. Paluu Nasaretiin
+[1571] Jeesuksen neljäs elinvuosi
+[1572] 2. Viides vuosi (2 eKr)
+[1573] Lastenkasvatus
+[1574] 3. Kuudennen vuoden tapahtumat (1 eKr)
+[1575] 4. Seitsemäs vuosi (1 jKr)
+[1576] Aineellisen elämän vahinkoja
+[1577] 5. Kouluvuodet Nasaretissa
+[1578] 6. Hänen kahdeksas vuotensa (2 jKr)
+[1579] 124. Jeesuksen myöhempi lapsuusikä
+[1580] 1. Jeesuksen yhdeksäs vuosi (3 jKr)
+[1581] Piirustus lattiassa
+[1582] Galilean ilmasto
+[1583] 2. Kymmenes vuosi (4 jKr)
+[1584] Jaakob, kivenhakkaajan poika
+[1585] 3. Yhdestoista vuosi (5 jKr)
+[1586] Skytopoliin välikohtaus
+[1587] 4. Kahdestoista vuosi (6 jKr)
+[1588] Henkilökohtainen moraali ja ryhmälojaalisuus
+[1589] 5. Hänen kolmastoista vuotensa (7 jKr)
+[1590] 6. Matka Jerusalemiin
+[1591] Maria, Martta ja Lasarus
+[1592] 125. Jeesus Jerusalemissa
+[1593] 1. Jeesus tutustuu temppeliin
+[1594] 2. Jeesus ja pääsiäinen
+[1595] 3. Joosefin ja Marian lähtö
+[1596] 4. Ensimmäinen ja toinen päivä temppelissä
+[1597] 5. Kolmas päivä temppelissä
+[1598] 6. Neljäs päivä temppelissä
+[1599] 126. Kaksi ratkaisevan tärkeää vuotta
+[1600] 1. Hänen neljästoista vuotensa (8 jKr)
+[1601] 2. Joosefin kuolema
+[1602] 3. Viidestoista vuosi (9 jKr)
+[1603] ”Isä meidän” -rukouksen alkuperä
+[1604] ”Ihmisen Poika”
+[1605] Kuka on Messias?
+[1606] 4. Ensimmäinen saarna synagogassa
+[1607] 5. Kamppailu rahahuolien kanssa
+[1608] 127. Nuoruusvuodet
+[1609] 1. Kuudestoista vuosi (10 jKr)
+[1610] 2. Seitsemästoista vuosi (11 jKr)
+[1611] Selootti-välikohtaus
+[1612] 3. Kahdeksastoista vuosi (12 jKr)
+[1613] Jaakobin mukana pääsiäisjuhlilla
+[1614] Elisabetin ja Johanneksen vierailu
+[1615] Aamoksen kuolema
+[1616] 4. Yhdeksästoista vuosi (13 jKr)
+[1617] Lastenkasvatusta
+[1618] 5. Esran tytär Rebekka
+[1619] 6. Hänen kahdeskymmenes vuotensa (14 jKr)
+[1620] Pääsiäisvierailu Jerusalemiin
+[1621] 128. Jeesuksen varhaismiehuus
+[1622] 1. Kahdeskymmenesyhdes vuosi (15 jKr)
+[1623] Jumalallisuuden tiedostaminen laajenee
+[1624] Joosefin kanssa pääsiäisjuhlilla
+[1625] 2. Kahdeskymmeneskahdes vuosi (16 jKr)
+[1626] Seppänä Sepforiissa
+[1627] 3. Kahdeskymmeneskolmas vuosi (17 jKr)
+[1628] Simonin mukana pääsiäisjuhlilla
+[1629] Jeesus tapaa Stefanuksen
+[1630] 4. Damaskuksen välinäytös
+[1631] 5. Kahdeskymmenesneljäs vuosi (18 jKr)
+[1632] Aleksandrialaisten ehdotus
+[1633] 6. Kahdeskymmenesviides vuosi (19 jKr)
+[1634] Juudan mukana pääsiäisjuhlilla
+[1635] ”Joosua-setä, kerro meille tarina”
+[1636] 7. Kahdeskymmeneskuudes vuosi (20 jKr)
+[1637] Jaakobin avioituminen
+[1638] Mirjamin avioituminen
+[1639] Jaakob Joosefin perheen päämiehenä
+[1640] 129. Jeesuksen aikuisiän loppupuoli
+[1641] 1. Kahdeskymmenesseitsemäs vuosi (21 jKr)
+[1642] Sebedeus Kapernaumilainen
+[1643] Jeesus veneenrakentajana
+[1644] 2. Kahdeskymmeneskahdeksas vuosi (22 jKr)
+[1645] Jeesus käy Jerusalemissa
+[1646] Tapaaminen Gonodin ja Ganidin kanssa
+[1647] 3. Kahdeskymmenesyhdeksäs vuosi (23 jKr)
+[1648] Rooman-matkan tarkoitus
+[1649] 4. Jeesus ihmisenä
+[1650] 130. Matkalla Roomaan
+[1651] 1. Joppassa — keskustelu Joonasta
+[1652] Keskustelu hyvästä ja pahasta
+[1653] 2. Kesareassa
+[1654] Kauppias Mongoliasta
+[1655] Kreikkalainen työläinen ja roomalainen esimies
+[1656] Jumalan tahto ja ihmisen tahto
+[1657] 3. Aleksandriassa
+[1658] 4. Luento todellisuudesta
+[1659] 5. Kreetan saarella
+[1660] 6. Nuori pelokas mies
+[1661] 7. Karthagossa — luento ajasta ja avaruudesta
+[1662] 8. Matkalla Napoliin ja Roomaan
+[1663] Esra, uskostaan luopunut juutalainen
+[1664] 131. Maailman uskonnot
+[1665] 1. Kyyninen koulukunta
+[1666] 2. Juudaismi
+[1667] 3. Buddhalaisuus
+[1668] 4. Hindulaisuus
+[1669] 5. Zarathustralaisuus
+[1670] 6. Sudualaisuus (jainismi)
+[1671] 7. Shinto
+[1672] 8. Taolaisuus
+[1673] 9. Konfutselaisuus
+[1674] 10. ”Meidän uskontomme”
+[1675] 132. Roomassa vietetty aika
+[1676] Vaikutus 32:een uskonnolliseen johtajaan
+[1677] 1. Todelliset arvot
+[1678] 2. Hyvä ja paha
+[1679] 3. Totuus ja usko
+[1680] 4. Henkilökohtainen hoiva
+[1681] Roomalainen senaattori
+[1682] Roomalainen sotilas
+[1683] Forumilla esiintyvä puhuja
+[1684] Köyhä mies, jota syyteiin väärin perustein
+[1685] 5. Jeesuksen neuvot rikkaalle miehelle
+[1686] 6. Sosiaalinen hoiva
+[1687] 7. Retkiä rooman ympäristöön
+[1688] Ajattelematon pakana
+[1689] ”Luokaamme me, sinä ja minä, uusi uskonto”
+[1690] 133. Paluu Roomasta
+[1691] Intian kastijärjestelmä
+[1692] 1. Armo ja oikeudenmukaisuus
+[1693] 2. Laivaannousu Tarentumissa
+[1694] Vaimoaan pahoinpitelevä mies
+[1695] 3. Korintissa
+[1696] Synagogan esimies Crispus
+[1697] Kauppias Justus
+[1698] Kaksi yleistä naista
+[1699] 4. Henkilökohtainen työ Korintissa
+[1700] Mylläri
+[1701] Roomalainen sadanpäällikkö
+[1702] Mitralaiskultin johtaja
+[1703] Epikurolaisopettaja
+[1704] Kreikkalainen urakoitsija
+[1705] Roomalainen tuomari
+[1706] Kreikkalainen majatalon emäntä
+[1707] Kiinalainen kauppias
+[1708] Britanniasta saapunut matkamies
+[1709] Kotoaan karannut poika
+[1710] Tuomittu rikollinen
+[1711] 5. Ateenassa — luento tieteestä
+[1712] 6. Efesoksessa — luento sielusta
+[1713] 7. Kyproksella-oleskelu — luento mielestä
+[1714] 8. Antiokiassa
+[1715] 9. Kaksoisvirranmaassa
+[1716] 134. Siirtymäkauden vuodet
+[1717] 1. Kolmaskymmenes vuosi (24 jKr)
+[1718] Paluu Nasaretiin
+[1719] Simonin avioituminen; Juudan avioituminen
+[1720] 2. Karavaanimatka Kaspianmerelle
+[1721] 3. Urmia-luennot
+[1722] 4. Suvereenisuus — jumalallinen ja ihmisperäinen
+[1723] 5. Poliittinen suvereenisuus
+[1724] 6. Laillisuus, vapaus ja suvereenisuus
+[1725] 7. Kolmaskymmenesyhdes vuosi (25 jKr)
+[1726] Vaeltelua yksikseen
+[1727] 8. Oleskelu Hermonvuorella
+[1728] Luciferin kapinan loppu
+[1729] Nebadonin hallitsijanvalta
+[1730] 9. Odotuksen aika
+[1731] Käynti Johanneksen kanssa Jerusalemissa
+[1732] Työskentelyä Sebedeuksen veneveistämöllä
+[1733] 135. Johannes Kastaja
+[1734] 1. Johanneksesta tulee nasiiri
+[1735] 2. Sakariaan kuolema
+[1736] 3. Lammaspaimenen elämää
+[1737] 4. Elisabetin kuolema
+[1738] 5. Jumalan valtakunta
+[1739] 6. Johannes ryhtyy saarnaamaan
+[1740] 7. Johannes taivaltaa pohjoiseen
+[1741] 8. Jeesuksen ja Johanneksen kohtaaminen
+[1742] Jeesuksen kaste
+[1743] 9. Neljäkymmentä saarnapäivää
+[1744] 10. Johannes taivaltaa etelään
+[1745] 11. Johannes vankilassa
+[1746] 12. Johannes Kastajan kuolema
+[1747] 136. Kaste ja ne neljäkymmentä päivää
+[1748] 1. Käsitykset odotetusta Messiaasta
+[1749] 2. Jeesuksen kaste
+[1750] 3. Ne neljäkymmentä päivää
+[1751] Neuvonpito Gabrielin kanssa
+[1752] Universumitäysivaltaisuuden saavuttaminen
+[1753] 4. Suunnitelmat julkista toimintaa varten
+[1754] Isän tapa
+[1755] 5. Ensimmäinen suuri päätös
+[1756] Personoidun Suuntaajan komentajan asema
+[1757] Suuntaajan riippumattomuus ajasta
+[1758] 6. Toinen päätös
+[1759] Normaalin olemassaolon mukainen menettely
+[1760] 7. Kolmas päätös
+[1761] Luonnonlakien noudattaminen
+[1762] 8. Neljäs päätös
+[1763] Pahalle tehtävistä myönnytyksistä kieltäytyminen
+[1764] 9. Viides päätös
+[1765] Daavidin valtaistuimelle noususta kieltäytyminen
+[1766] 10. Kuudes päätös
+[1767] ”Olen alamainen sille, mikä on Isäni tahto.”
+[1768] 137. Odottelua Galileassa
+[1769] 1. Ensimmäisten neljän apostolin valitseminen
+[1770] Andreas ja Pietari
+[1771] Jaakob ja Johannes
+[1772] 2. Filippuksen ja Natanaelin valitseminen
+[1773] 3. Kapernaumissa-käynti
+[1774] 4. Kaanan häät
+[1775] 5. Jeesus palaa Kapernaumiin
+[1776] 6. Sapattipäivän tapahtumat
+[1777] 7. Neljä kuukautta harjoitusta
+[1778] 8. Saarna valtakunnasta
+[1779] 138. Valtakunnan sanansaattajain kouluttaminen
+[1780] 1. Lopulliset ohjeet
+[1781] 2. Kuuden apostolin valitseminen
+[1782] 3. Matteuksen ja Simonin kutsuminen
+[1783] Ei vanhurskaita vaan syntisiä
+[1784] 4. Kaksosten kutsuminen
+[1785] 5. Tuomaksen ja Juudaksen kutsuminen
+[1786] 6. Viikko teho-opetusta
+[1787] 7. Taas uusi pettymys
+[1788] 8. Kahdentoista apostolin ensimmäinen tehtävä
+[1789] 9. Viiden kuukauden koettelu
+[1790] 10. Kahdentoista apostolin organisaatio
+[1791] 139. Kaksitoista apostolia
+[1792] 1. Andreas, ensiksi valittu
+[1793] 2. Simon Pietari
+[1794] 3. Jaakob Sebedeus
+[1795] 4. Johannes Sebedeus
+[1796] 5. Filippus Utelias
+[1797] 6. Rehellinen Natanael
+[1798] 7. Matteus Leevi
+[1799] 8. Tuomas Didymus
+[1800] 9. ja 10.Jaakob ja Juudas Alfeus
+[1801] 11. Simon Selootti
+[1802] 12. Juudas Iskariot
+[1803] 140. Kahdentoista apostolin virkaanasettaminen
+[1804] 1. Alustavat ohjeet
+[1805] 2. Virkaanasettaminen
+[1806] 3. Virkaanasettajaissaarna
+[1807] ”Vuorisaarna”
+[1808] 4. Olette maan suola
+[1809] 5. Isällinen ja veljellinen rakkaus
+[1810] Autuaita ovat hengeltään köyhät — nöyrät..
+[1811] Autuaita ovat vanhurskautta. isoavat ja janoavat.
+[1812] Autuaita ovat sävyisät..
+[1813] Autuaita ovat puhdassydämiset..
+[1814] Autuaita ovat murheelliset..
+[1815] Autuaita ovat armeliaat..
+[1816] Autuaita ovat rauhantekijät..
+[1817] Autuaita ovat vainotut..
+[1818] 6. Virkaanasettajaispäivän ilta
+[1819] ”Minä katson teon taakse..”
+[1820] Avioerosta
+[1821] Oikeudenmukaisuus ja armo
+[1822] ”Heidän on hyvä olla. Älä häiritse heitä.”
+[1823] 7. Virkaanasettajaisten jälkeinen viikko
+[1824] 8. Torstai-iltapäivä järvellä
+[1825] (1) Isän tahdon täyttäminen
+[1826] (2) Poliittinen asennoituminen
+[1827] (3) Sosiaalinen asennoituminen
+[1828] (4) Taloudellinen asennoituminen
+[1829] (5) Omakohtainen uskonto
+[1830] 9. Vihkimispäivä
+[1831] 10. Vihkimisen jälkeinen ilta
+[1832] 141. Julkisen toiminnan alku
+[1833] 1. Lähtö Galileasta
+[1834] 2. Jumalan laki ja Isän tahto
+[1835] 3. Oleskelu Amathuksessa
+[1836] Jeesuksen persoonallisuus
+[1837] Jeesuksen ulkoinen olemus
+[1838] 4. Opetus Isästä
+[1839] Sairaiden hoivaaminen
+[1840] 5. Hengellinen yhtenäisyys
+[1841] 6. Viimeinen viikko Amathuksessa
+[1842] Persialainen Teherma
+[1843] 7. Jordanin vastarannan Betaniassa
+[1844] Opetus valtakunnasta
+[1845] Pelastus uskon avulla; vapaus totuuden kautta
+[1846] 8. Toiminta Jerikossa
+[1847] 9. Lähtö Jerusalemiin
+[1848] 142. Pääsiäinen Jerusalemissa
+[1849] Käynti Hannaksen luona
+[1850] 1. Opetusta temppelissä
+[1851] 2. Jumalan viha
+[1852] Jaakob Kreetalta
+[1853] 3. Jumalakäsitys
+[1854] Kuusi heprealaista käsitystä Jumalasta
+[1855] Aiemmat kymmenen käskyä
+[1856] 4. Flavius ja Kreikan kulttuuri
+[1857] 5. Luento vakuuttuneisuudesta
+[1858] 6. Keskustelu Nikodemuksen kanssa
+[1859] 7. Oppitunti perheestä
+[1860] 8. Etelä-Juudeassa
+[1861] Getsemanepuiston leiri
+[1862] 143. Matka Samarian halki
+[1863] 1. Sananjulistusta Arkelaiksessa
+[1864] ”He väheksyvät sanomaamme”
+[1865] ”Muistutatteko te surkimuksia?”
+[1866] 2. Oppitunti itsehillinnästä
+[1867] 3. Ajanviettoa ja rentoutumista
+[1868] Kolme päivää Sartabavuorella
+[1869] 4. Juutalaiset ja samarialaiset
+[1870] 5. Syykarilaisnainen
+[1871] 6. Samarian uskonnollinen herääminen
+[1872] Leirissä Gerissimvuorella
+[1873] 7. Opetukset rukoilemisesta ja palvonnasta
+[1874] 144. Gilboalla ja Dekapoliissa
+[1875] 1. Gilboan leiri
+[1876] 2. Luento rukouksesta
+[1877] 3. Uskovan rukous
+[1878] 4. Lisää rukoilemisesta
+[1879] 5. Muita rukouskaavoja
+[1880] Seitsemän muiden maailmojen rukousta
+[1881] 6. Neuvottelu Johanneksen apostolien kanssa
+[1882] 7. Dekapoliin kaupungeissa
+[1883] 8. Leirissä Pellan lähistöllä
+[1884] ”...kertokaa Johannekselle, ettei häntä ole unohdettu.”
+[1885] 9. Johannes Kastajan kuolema
+[1886] 145. Neljä vaiheikasta päivää Kapernaumissa
+[1887] Keskustelu Ruutin kanssa
+[1888] 1. Kalansaalis
+[1889] 2. Iltapäivä synagogassa
+[1890] Uskonto on henkilökohtainen kokemus
+[1891] Nuori epileptikko
+[1892] Simon Pietarin anoppi
+[1893] 3. Parantaminen auringonlaskun aikaan
+[1894] 4. Saman päivän iltana
+[1895] 5. Varhain sunnuntaiaamuna
+[1896] 146. Ensimmäinen Galilean-saarnamatka
+[1897] 1. Sananjulistusta Rimmonissa
+[1898] 2. Jotapatassa
+[1899] Rukoilu, kiittäminen ja palvonta
+[1900] Oikeudenmukaisuus ja armo
+[1901] Rukoilu ja henkilökohtainen ponnistelu
+[1902] Eettinen rukoiulu
+[1903] 3. Pysähdys Raamassa
+[1904] Uskonto, tiede ja filosofia
+[1905] Totuuden vakuuttavuus
+[1906] Käynti Sebulonissa
+[1907] 4. Jireonissa esitetty evankeliumi
+[1908] Työskentelyä kaivoksissa
+[1909] Spitaalisen miehen parantaminen
+[1910] 5. Toistamiseen Kaanassa
+[1911] Jalosukuinen Titus
+[1912] 6. Nain ja lesken poika
+[1913] 7. Eendorissa
+[1914] 147. Pistäytyminen Jerusalemissa
+[1915] 1. Sadanpäämiehen palvelija
+[1916] 2. Matka Jerusalemiin
+[1917] Ero Johanneksen apostoleista
+[1918] 3. Beethesdan lammen äärellä
+[1919] 4. Elämänohje
+[1920] Natanaelin kysymys kultaisesta säännöstä
+[1921] 5. Käynti fariseus Simonin luona
+[1922] Vertaus rahanlainaajasta
+[1923] Yhteiskunnallinen asema ja edistyminen
+[1924] 6. Paluu Kapernaumiin
+[1925] Kuusi urkkijaa
+[1926] ”Sapatti tehtiin ihmistä varten..”
+[1927] 7. Jälleen Kapernaumissa
+[1928] 8. Hengellisen hyvyyden juhla
+[1929] 148. Evankelistojen koulutusta Beetsaidassa
+[1930] 1. Uusi profeettakoulu
+[1931] 2. Beetsaidan sairaala
+[1932] 3. Isän asioiden toimittaminen
+[1933] 4. Pahuus, synti ja paatuneisuus
+[1934] 5. Kärsimisen tarkoitus
+[1935] 6. Kärsimisen väärinkäsittäminen — Luento Jobista
+[1936] 7. Mies, jonka käsi oli kuivettunut
+[1937] 8. Viimeinen Beetsaidassa vietetty viikko
+[1938] Kirmeth Bagdadista
+[1939] 9. Halvaantuneen parantaminen
+[1940] Kolmen urkkijan kaste
+[1941] 149. Toinen saarnamatka
+[1942] Daavidin viestinvälitysjärjestö
+[1943] 1. Jeesuksen laajalle kiirinyt maine
+[1944] Paranemisilmiöt
+[1945] 2. Kansan suhtautuminen
+[1946] Varhaiskristillisyyden kaksi virhettä
+[1947] Jeesuksen parantajanmaine
+[1948] Naisten tasa-arvon tunnustaminen
+[1949] Hänen persoonallisuutensa lumoavuus
+[1950] 3. Uskonnollisten johtajien vihamielisyys
+[1951] 4. Saarnamatkan edistyminen
+[1952] Näkemyksiä suuttumuksesta
+[1953] Tasapainoisesta luonteesta
+[1954] 5. Oppitunti tyytyväisyydestä
+[1955] 6. ”Herran pelko”
+[1956] 7. Paluu Beetsaidaan
+[1957] 150. Kolmas saarnamatka
+[1958] 1. Naisten evankelistaryhmä
+[1959] 2. Pysähdys Magdalassa
+[1960] 3. Sapatti Tiberiaassa
+[1961] Luento ”Magiasta ja taikauskosta”
+[1962] 4. Apostolit lähetetään taipaleelle kaksittain
+[1963] 5. Mitä minun tulee tehdä pelastuakseni?
+[1964] 6. Iltaoppitunnit
+[1965] 7. Nasaretissa-oleskelu
+[1966] 8. Sapattipalvelus
+[1967] 9. Nasaret hylkää Jeesuksen
+[1968] 151. Odottelua ja opetusta järvenrannalla
+[1969] 1. Kylväjävertaus
+[1970] 2. Vertauksen tulkinta
+[1971] 3. Lisää vertauksista
+[1972] 4. Lisää järvenrannalla esitettyjä vertauksia
+[1973] 5. Käynti Heresassa
+[1974] Myrsky järvellä
+[1975] 6. Heresan mielipuoli
+[1976] 152. Kapernaumin kriisiin johtaneet tapahtumat
+[1977] Veronica Filippuksen Kesareasta
+[1978] 1. Jairuksen talossa
+[1979] 2. Viidentuhannen henkilön ruokkiminen
+[1980] 3. Kuninkaantekijäiset
+[1981] 4. Simon Pietarin öinen näky
+[1982] 5. Jälleen Beetsaidassa
+[1983] 6. Gennesaretissa
+[1984] Lisää kylväjävertauksesta
+[1985] 7. Jerusalemissa
+[1986] 153. Kapernaumin kriisi
+[1987] 1. Näyttämön valmistaminen
+[1988] 2. Käänteentekevä saarna
+[1989] ”Minä olen elämän leipä”
+[1990] 3. Jälkikokous
+[1991] 4. Viimeiset synagogassa lausutut sanat
+[1992] Poika, joka oli pahan hengen vallassa
+[1993] ”Kuinka voi Saatana ajaa ulos Saatanan?”
+[1994] 5. Lauantai-ilta
+[1995] Varaukselliset seuraajat kaikkoavat
+[1996] 154. Viimeiset Kapernaumissa vietetyt päivät
+[1997] 1. Neuvonpitojen viikko
+[1998] 2. Lepoviikko
+[1999] Synagogien sulkeminen
+[2000] 3. Toinen Tiberiaassa käyty neuvottelu
+[2001] 4. Lauantai-ilta Kapernaumissa
+[2002] ”Mihin ryhdymme Jeesuksen suhteen?”
+[2003] 5. Vaiheikas sunnuntaiaamu
+[2004] 6. Jeesuksen perhe saapuu
+[2005] 7. Pikainen pako
+[2006] 155. Pakomatka pohjois-Galilean halki
+[2007] 1. Miksi pakanat pauhaavat?
+[2008] 2. Evankelistat Horasinissa
+[2009] 3. Filippuksen Kesareassa
+[2010] Totuus ja uskonkappale
+[2011] Uskonnollisten traditioiden alkuperä
+[2012] 4. Matkalla Foinikiaan
+[2013] 5. Luento aidosta uskonnosta
+[2014] 6. Toinen luento uskonnosta
+[2015] 156. Oleskelu Tyyrossa ja Siidonissa
+[2016] 1. Syyrialaisnainen
+[2017] 2. Opetusta Siidonissa
+[2018] ”Tämä maailma on vain silta..”
+[2019] 3. Matka merenrannikkoa pohjoiseen
+[2020] 4. Tyyrossa
+[2021] 5. Jeesus opettaa Tyyrossa
+[2022] Vertaus hupsusta kirvesmiehestä
+[2023] Kiusaus ja ihmisluonto
+[2024] Aineellisen menestymisen perusehdot
+[2025] Hengellinen eläminen ja itsekunnioitus
+[2026] Ihanteet ja ideat
+[2027] Tahdikkuus, luomoavuus ja viisaus
+[2028] 6. Paluu Foinikiasta
+[2029] Juutalaisjohtajien suhtautuminen
+[2030] 157. Filippuksen Kesareassa
+[2031] Jeesus koettaa tavata perhettään
+[2032] 1. Temppeliveronkantaja
+[2033] ”Kala, jolla on sekeli suussaan.”
+[2034] 2. Juliaksen Beetsaidassa
+[2035] 3. Pietarin tunnustus
+[2036] ”Keneksi ihmiset minua sanovat?”
+[2037] 4. Keskustelu valtakunnasta
+[2038] 5. Uusi käsitys
+[2039] 6. Seuraavana iltapäivänä
+[2040] Jeesuksen elämän neljä vaihetta
+[2041] Uusia kaihtelemattomia toteamuksia
+[2042] 7. Andreaksen neuvonpito
+[2043] 158. Kirkastusvuori
+[2044] 1. Kirkastus
+[2045] 2. Laskeutuminen vuorelta
+[2046] 3. Kirkastuksen merkitys
+[2047] 4. Kaatumatautinen poika
+[2048] Jaakob Saafedilainen
+[2049] 5. Jeesus parantaa pojan
+[2050] ”Herra, minä uskon.. auta epäuskoani.”
+[2051] 6. Celsuksen puutarhassa
+[2052] 7. Pietarin vastalause
+[2053] 8. Pietarin talossa
+[2054] 159. Kiertomatka Dekapoliissa
+[2055] 1. Saarna anteeksiantamisesta
+[2056] ”Monestiko saa veljeni tehdä syntiä minua vastaan?”
+[2057] Vertaus varainhoitajain tilien tarkastuksesta
+[2058] Henkilökohtaiseksi tuomariksi ryhtymisen vaarat
+[2059] 2. Outo saarnamies
+[2060] 3. Opastusta opettajille ja uskoville
+[2061] 4. Keskustelu Natanaelin kanssa
+[2062] ”Mikä on totuus kirjoituksista?”
+[2063] 5. Jeesuksen uskonnon positiivinen luonne
+[2064] ”...kantaa kuormaa toisenkin virstan.”
+[2065] 6. Paluu Magadaniin
+[2066] 160. Rodan Aleksandrialainen
+[2067] 1. Rodanin kreikkalainen filosofia
+[2068] Elämään kolme suurta liikkeelle panevaa voimaa
+[2069] Ongelmien ratkaiseminen ja palvova mietiskely
+[2070] Ennakkoluuloisuus ja totuuden tunnistaminen
+[2071] 2. Elämisen taito
+[2072] Ystävyyden sosiaalistava arvo
+[2073] Avioliiton suuriarvoisuus
+[2074] 3. Kypsyyden houkuttimet
+[2075] 4. Kypsyydestä kertova tasapainoisuus
+[2076] Ajallisen elämän perusedellytykset
+[2077] Aineellisen menestymisen tekijät
+[2078] Epäonnistumisen merkitys
+[2079] 5. Ihanneuskonto
+[2080] Mitä on uskonto?
+[2081] Jumalan idea ja Jumalan ihanne
+[2082] Isä on lopullinen arvo
+[2083] ”Mutta olemmeko valmiit maksamaan maksun..?”
+[2084] 161. Jatkokeskustelut Rodanin kanssa
+[2085] 1. Onko Jumala persoonallinen?
+[2086] Natanaelin viisi väittämää
+[2087] 2. Jeesuksen jumalallinen olemus
+[2088] Natanaelin ja Tuomaan luento
+[2089] 3. Jeesuksen inhimillinen ja jumalallinen mieli
+[2090] Keskiväliolentojen näkemykset
+[2091] 162. Lehtimajanjuhla
+[2092] ”Mestari,.. käske taivasta syöksemään tulen..”
+[2093] 1. Jerusalemin-vierailun vaarat
+[2094] 2. Ensimmäinen temppelipuhe
+[2095] Sanhedrinin virkamies Eber
+[2096] 3. Aviorikoksesta yllätetty nainen
+[2097] 4. Lehtimajanjuhla
+[2098] 5. Saarna maailman valosta
+[2099] 6. Puhe elämän vedestä
+[2100] 7. Puhe hengellisestä vapaudesta
+[2101] 8. Keskustelu martan ja marian kanssa
+[2102] 9. Abnerin luona Beetlehemissä
+[2103] 163. Seitsemänkymmenen opettajan virkaanasettajaiset Magadanissa
+[2104] 1. Seitsemänkymmenen virkaanasettaminen
+[2105] Eloa on paljon, mutta työmiehiä on vähän
+[2106] 2. Rikas nuorukainen ja muita henkilöitä
+[2107] Varallisuus ja varallisuuden rakastaminen
+[2108] 3. Keskustelu varallisuudesta
+[2109] Vertaus viinitarhan työmiehistä
+[2110] 4. Jäähyväiset seitsemällekymmenelle
+[2111] Jeesuksen ohjeet
+[2112] Pietarin virkaanasettajaispuhe
+[2113] 5. Leiri siirretään Pellaan
+[2114] 6. Seitsemänkymmenen paluu
+[2115] 7. Valmistelut viimeistä lähetysretkeä varten
+[2116] 164. Temppelin vihkimisen muistojuhla
+[2117] 1. Kertomus laupiaasta samarialaisesta
+[2118] 2. Jerusalemissa
+[2119] 3. Sokean kerjäläisen parantaminen
+[2120] 4. Joosia sanhedrinin kuultavana
+[2121] 5. Opetusta Salomon pylväikössä
+[2122] 165. Perean-lähetysretki alkaa
+[2123] 1. Pellan leirillä
+[2124] 2. Saarna hyvästä paimenesta
+[2125] 3. Sapattisaarna Pellassa
+[2126] ”Kavahtakaa fariseusten hapatusta..”
+[2127] ”...jopa päänne hiuksetkin ovat luetut”
+[2128] 4. Perinnön jakaminen
+[2129] Vertaus typerästä rikkaasta miehestä
+[2130] ”Missä aarteesi on, siellä on myös sydämesi.”
+[2131] ”Mitä hyötyä on voittaa omakseen koko maailma..?”
+[2132] 5. Apostoleille pidetyt puheet varallisuudesta
+[2133] ”Katsokaa liljoja, kuinka ne kasvavat..”
+[2134] 6. Vastaus Pietarin kysymykseen
+[2135] 166. Viimeinen käynti pohjois-Pereassa
+[2136] 1. Fariseukset Ragabassa
+[2137] Seremoniallinen käsienpesu
+[2138] 2. Kymmenen lepratautista
+[2139] 3. Saarna Gerasassa
+[2140] Suora ja kaita tie
+[2141] Monet ensimmäiset tulevat olemaan viimeisiä
+[2142] ”Minä seison ovella ja kolkutan..”
+[2143] 4. Opetus onnettomuuksista
+[2144] 5. Filadelfian seurakunta
+[2145] Abner myöhempi toiminta ja kuolema
+[2146] 167. Käynti Filadelfiassa
+[2147] 1. Aamiainen fariseusten seurassa
+[2148] Uskovan parantaminen
+[2149] ”...älkää istuutuko kunniapaikalle..”
+[2150] 2. Vertaus suurista illallisista
+[2151] 3. Nainen, jota vaivasi voimattomuuden henki
+[2152] 4. Viesti Betaniasta
+[2153] 5. Matkalla Betaniaan
+[2154] Fariseus ja publikaani
+[2155] Opetus avioliitosta
+[2156] 6. Pikkulasten siunaaminen
+[2157] Kauneus palvontaa edistävänä tekijänä
+[2158] 7. Keskustelu enkeleistä
+[2159] 168. Lasaruksen kuolleistaherättäminen
+[2160] ”Minä olen kuolleistaherääminen ja elämä..”
+[2161] 1. Lasaruksen haudalla
+[2162] 2. Lasaruksen kuolleistaherääminen
+[2163] 3. Sanhedrinin kokous
+[2164] ”On parempi, että yksi mies kuolee..”
+[2165] 4. Vastaus rukoukseen
+[2166] 5. Miten Lasaruksen kävi
+[2167] 169. Viimeinen opetuskerta Pellassa
+[2168] Sanhedrinin syytteet Jeesusta vastaan
+[2169] 1. Vertaus hukkaan joutuneesta pojasta
+[2170] 2. Vertaus nokkelasta taloudenhoitajasta
+[2171] 3. Rikas mies ja kerjäläinen
+[2172] 4. Isä ja hänen valtakuntansa
+[2173] Jeesus {i{i{oli elävä}i}i} Jumalan julkituonti
+[2174] Elohim ja Jahve
+[2175] 170. Taivaan valtakunta
+[2176] 1. Käsityksiä taivaan valtakunnasta
+[2177] 2. Jeesuksen käsitys valtakunnasta
+[2178] Synti ja anteeksiantamus
+[2179] 3. Suhteessa vanhurskauteen
+[2180] 4. Jeesuksen opetus valtakunnasta
+[2181] 5. Myöhempiä ideoita valtakunnasta
+[2182] Sosiaalinen veljeskunta ja hengellinen veljeskunta
+[2183] Uusi ja suurempi Johannes Kastaja
+[2184] Kristinusko ja Jeesusevankeliumi
+[2185] 171. Matkalla Jerusalemiin
+[2186] ”...lupaa minulle, että pojillani on kunniasija..”
+[2187] 1. Pellasta-lähtö
+[2188] Daavid Sebedeuksen elämän myöhemmät vaiheet
+[2189] Antiokia ja Filadelfia
+[2190] 2. Kustannusten laskemisesta
+[2191] 3. Perean-kiertomatka
+[2192] Jäähyväiset Abnerille
+[2193] 4. Jeesus opettaa Liviaassa
+[2194] Pietari, Simon ja sata miekkaa
+[2195] Ystävällismielisten fariseusten varoitus
+[2196] 5. Jerikon sokea mies
+[2197] 6. Vierailu Sakkeuksen luokse
+[2198] 7. ”Kun Jeesus kulki ohi”
+[2199] 8. Vertaus leivisköistä
+[2200] Natanaelin tulkinta vertauksesta
+[2201] 172. Jerusalemiin-meno
+[2202] 1. Sapatti Betaniassa
+[2203] Maria voitelee Jeesuksen jalat
+[2204] Jeesus nuhtelee Juudasta
+[2205] 2. Sunnuntaiaamu apostolien seurassa
+[2206] 3. Lähtö Jerusalemiin
+[2207] 4. Seurustelua temppelin liepeillä
+[2208] Lesken ropo
+[2209] 5. Apostolien suhtautuminen
+[2210] 173. Maanantai Jerusalemissa
+[2211] 1. Temppelin puhdistaminen
+[2212] 2. Mestarin auktoriteetti asetetaan kyseenalaiseksi
+[2213] ”Johanneksen kaste, mistä se oli?”
+[2214] 3. Vertaus kahdesta pojasta
+[2215] 4. Vertaus poissa olevasta isännästä
+[2216] Kivi, jonka rakentajat hylkäsivät
+[2217] 5. Vertaus hääjuhlasta
+[2218] ”Hävittäkää tämä temppeli, ja.. nostan sen ylös.”
+[2219] 174. Tiistaiaamu temppelissä
+[2220] Henkilökohtaiset tervehdykset apostoleille
+[2221] 1. Jumalallinen anteeksiantamus
+[2222] 2. Juutalaisten vallanpitäjien esittämiä kysymyksiä
+[2223] Onko laillista meidän maksaa veroa keisarille?
+[2224] 3. Saddukeukset ja kuolleistaherääminen
+[2225] 4. Suuri käsky
+[2226] Vapahtaja, kenen poika hän on?
+[2227] 5. Tiedonjanoiset kreikkalaiset
+[2228] ”...ellei vehnänjyvä putoa maahan ja kuole..”
+[2229] ”...jos minut.. elämässänne nostetaan korkealle..”
+[2230] 175. Viimeinen temppelipuhe
+[2231] 1. Puhe
+[2232] ”Sukupolvi sukupolven jälkeen olemme lähettäneet profeettojamme..”
+[2233] ”...joka haluaisi olla suurin joukossanne..”
+[2234] ”Voi teitä, kirjanoppineet ja fariseukset, ulkokullatut!”
+[2235] ”...te puhdistatte kupin ja vadin ulkopuolen..”
+[2236] ”Ja nyt lausun teille jäähyväiset.”
+[2237] 2. Yksittäisten juutalaisten asema
+[2238] 3. Sanhedrinin kohtalokas kokous
+[2239] 4. Tilanne Jerusalemissa
+[2240] Juudaksen lopullinen päätös
+[2241] 176. Tiistai-ilta Öljymäellä
+[2242] 1. Jerusalemin hävitys
+[2243] 2. Mestarin toinen tuleminen
+[2244] Matteuksen evankeliumin kertomus
+[2245] 3. Myöhemmin leirissä käyty keskustelu
+[2246] Vertaus talenteista
+[2247] ”Jatkakaa työtänne, kunnes minä tulen.”
+[2248] Näkokohtia elävän totuuden kasvusta
+[2249] 4. Mikaelin paluu
+[2250] 177. Keskiviikko — lepopäivä
+[2251] 1. Yhdessä Jumalan kanssa vietetty päivä
+[2252] Johannes Markus ja lounaskori
+[2253] 2. Lapsuudenaikaista kotielämää
+[2254] 3. Päivä leirillä
+[2255] 4. Juudas ja pääpapit
+[2256] 5. Viimeinen seurustelutuokio
+[2257] Varokaa luottamasta kansanjoukkojen tukeen
+[2258] 178. Viimeinen leirillä vietetty päivä
+[2259] 1. Puhe poikaudesta ja kansalaisuudesta
+[2260] Opetelkaa olemaan uskolliset menestyksen aikoina
+[2261] Älkää houkutelko enkeleitä, joiden valvonnassa olette
+[2262] 2. Keskipäivän ateriahetken jälkeen
+[2263] Daavid saa Juudakselta ”rahapussin”
+[2264] Järjestelyt Viimeistä ehtoollista varten
+[2265] 3. Matkalla ehtoolliselle
+[2266] 179. Viimeinen ehtoollinen
+[2267] 1. Etusijan tavoittelua
+[2268] 2. Ehtoollinen alkaa
+[2269] 3. Apostolien jalkojen peseminen
+[2270] 4. Viimeiset sanat kavaltajalle
+[2271] 5. Muistoehtoollisen asettaminen
+[2272] 180. Jäähyväispuhe
+[2273] 1. Uusi käsky
+[2274] ”...rakastakaa kuten minä olen rakastanut teitä.”
+[2275] 2. Viinipuu ja sen oksat
+[2276] 3. Maailman vihamielisyys
+[2277] ”Älköön sydämenne joutuko vaivaan.”
+[2278] ”Mestari, näytä meille Isä..”
+[2279] 4. Luvattu auttaja
+[2280] 5. Totuuden Henki
+[2281] Näkökohtia kultaisesta säännöstä
+[2282] 6. Lähdön välttämättömyys
+[2283] 181. Viimeiset kehotukset ja varoitukset
+[2284] 1. Viimeiset lohdutuksen sanat
+[2285] ”Annan kaiken, minkä tahdotte vastaanottaa.”
+[2286] ”Älköön sydämenne olko levoton.”
+[2287] 2. Henkilökohtaiset jäähyväiskehotukset
+[2288] 182. Getsemanessa
+[2289] 1. Viimeinen yhteisrukous
+[2290] Jeesus laajensi Isän nimen julkitulemista
+[2291] 2. Viimeinen kavallusta edeltänyt tunti
+[2292] Juoksulähetti lähetetään Abnerin luo
+[2293] Daavid Sebedeuksen jäähyväiset
+[2294] 3. Yksikseen getsemanessa
+[2295] Henki on altis, mutta liha on heikko
+[2296] 183. Jeesus kavalletaan ja pidätetään
+[2297] 1. Isän tahto
+[2298] 2. Juudaksen puuhat kaupungissa
+[2299] 3. Mestari pidätetään
+[2300] 4. Oliivinpuristamolla käyty keskustelu
+[2301] 5. Matkalla ylipapin palatsiin
+[2302] 184. Sanhedrinin oikeusistuimen edessä
+[2303] 1. Hannaan suorittama kuulustelu
+[2304] 2. Mitä Pietari teki pihalla
+[2305] 3. Sanhedristien oikeusistuimen edessä
+[2306] 4. Nöyryytyksen tunti
+[2307] Jumalalle uusi ilmoitus ihmisestä
+[2308] 5. Oikeusistuimen toinen kokous
+[2309] 185. Oikeuskäsittely Pilatuksen edessä
+[2310] 1. Pontius Pilatus
+[2311] 2. Jeesus astuu Pilatuksen eteen
+[2312] Sanhedristituomioistuimen kirjalliset syytökset
+[2313] 3. Pilatuksen toimeenpanema yksityinen kuulustelu
+[2314] 4. Jeesus Herodeksen edessä
+[2315] 5. Jeesus palaa Pilatuksen luokse
+[2316] 6. Pilatuksen viimeinen vetoomus
+[2317] Jeesusta ruoskitaan
+[2318] ”Katsokaa ihmistä!”
+[2319] 7. Viimeinen keskustelu Pilatuksen kanssa
+[2320] 8. Pilatuksen traaginen antautuminen
+[2321] 186. Hetkeä ennen ristiinnaulitsemista
+[2322] Jeesuksen perheen jäsenet Betaniassa
+[2323] 1. Juudas Iskariot tiensä päässä
+[2324] Kolmekymmentä hopearahaa
+[2325] 2. Mestarin suhtautuminen
+[2326] ”Pilatus tuomiolla Jeesuksen edessä”
+[2327] ”Katsokaa Jumalaa ja ihmistä!”
+[2328] 3. Luotettava Daavid Sebedeus
+[2329] 4. Ristiinnaulitsemisen valmistelu
+[2330] 5. Jeesuksen kuoleman ja pääsiäisen välinen yhteys
+[2331] 187. Ristiinnaulitseminen
+[2332] 1. Meno Golgatalle
+[2333] ”Jerusalemin tyttäret, älkää minun takiani itkekö..”
+[2334] Simon Kyreneestä
+[2335] 2. Ristiinnaulitseminen
+[2336] 3. Ristilläolon näkijät
+[2337] 4. Ristillä riippuva varas
+[2338] Jeesus antaa Johannekselle tehtävän
+[2339] 5. Viimeinen tunti ristillä
+[2340] 6. Ristilläolon jälkeen
+[2341] 188. Haudassaolon aika
+[2342] Joosef ja Nikodemus Pilatuksen edessä
+[2343] 1. Jeesuksen hautaus
+[2344] 2. Haudan vartiointi
+[2345] 3. Sapatinpäivän tapahtumat
+[2346] Mitä Jeesus antoi Isänsä haltuun?
+[2347] Jeesuksen persoonallisuuden status
+[2348] 4. Ristinkuoleman merkitys
+[2349] 5. Ristin antamat opetukset
+[2350] 189. Kuolleistanousu
+[2351] 1. Morontiasiirtymävaihe
+[2352] 2. Jeesuksen aineellinen ruumis
+[2353] 3. Tuomiokautinen kuolleistanousu
+[2354] Personoidun Suuntaajan lähtö
+[2355] 4. Hautakammio havaitaan tyhjäksi
+[2356] Viisi naista
+[2357] Jeesus ilmestyy Maria Magdalenalle
+[2358] 5. Pietari ja Johannes haudalla
+[2359] Toinen ilmestyminen — Maria Magdalenalle
+[2360] 190. Jeesuksen morontiailmestymiset
+[2361] 1. Kuolleistanousun airuet
+[2362] 2. Jeesuksen ilmestyminen Betaniassa
+[2363] Jeesus ilmestyy veljelleen Jaakobille
+[2364] Jeesus ilmestyy maisen perheensä jäsenille
+[2365] 3. Joosefin kodissa
+[2366] 4. Ilmestyminen kreikkalaisille
+[2367] 5. Kävelymatka kahden veljeksen kanssa
+[2368] 191. Ilmestymiset apostoleille ja muille johtohenkilöille
+[2369] Yksittäisten apostolien asennoituminen
+[2370] 1. Ilmestyminen Pietarille
+[2371] 2. Ensimmäinen ilmestyminen apostoleille
+[2372] 3. Morontialuotujen seurassa
+[2373] Morontiaetenemisen vaiheet
+[2374] 4. Kymmenes ilmestyminen (Filadelfiassa)
+[2375] 5. Toinen ilmestyminen apostoleille
+[2376] ”Siunattuja ovat tulevina aikoina ne, jotka..”
+[2377] 6. Ilmestyminen Aleksandriassa
+[2378] 192. Ilmestymiset Galileassa
+[2379] 1. Ilmestyminen järven rannalla
+[2380] ”Pojat, saitteko ollenkaan saalista?”
+[2381] 2. Apostolien kanssa kaksittain käydyt keskustelut
+[2382] 3. Virkaanasettajaisvuorella
+[2383] 4. Kokoontuminen järven rannalla
+[2384] 193. Viimeiset ilmestymiset ja taivaaseenastuminen
+[2385] Kuudestoista ilmestyminen
+[2386] 1. Ilmestyminen Syykarissa
+[2387] 2. Ilmestyminen Foinikiassa
+[2388] 3. Viimeinen ilmestyminen Jerusalemissa
+[2389] 4. Syyt Juudaksen suistumiseen
+[2390] 5. Mestarin taivaaseenastuminen
+[2391] 6. Pietari kutsuu koolle kokouksen
+[2392] 194. Totuuden Hengen lahjoittaminen
+[2393] Uusi evankeliumi Jeesuks{i{i{esta}i}i}
+[2394] 1. Helluntaisaarna
+[2395] 2. Helluntain merkitys
+[2396] Totuuden Hengen tehtävä
+[2397] Ihmisen kolminkertainen henkivarustus
+[2398] Seitsemän korkeampaa hengellistä tekijää
+[2399] 3. Mitä Helluntaina tapahtui
+[2400] 4. Kristillisen kirkon alkuvaiheet
+[2401] 195. Helluntain jälkeen
+[2402] Syyt kristinuskon voittokulkuun lännessä
+[2403] Varhaiskristilliset kompromissit
+[2404] 1. Kreikkalaisten vaikutus
+[2405] 2. Roomalainen vaikutus
+[2406] 3. Rooman valtakunnan alaisuudessa
+[2407] 4. Euroopan pimeät vuosisadat
+[2408] 5. Nykyajan ongelma
+[2409] 6. Materialismi
+[2410] 7. Materialismin haavoittuvuus
+[2411] 8. Sekulaari totalitarianismi
+[2412] 9. Kristinuskon ongelma
+[2413] 10. Tulevaisuus
+[2414] 196. Jeesuksen usko
+[2415] Jeesuksen elävä usko Jumalaan
+[2416] ”Etsikää ensin taivaan valtakuntaa.”
+[2417] ”Miksi sanot minua hyväksi?”
+[2418] Mitä rukous merkitsi Jeesukselle
+[2419] Jeesuksen lapsenusko Jumalaan
+[2420] 1. Jeesus ihmisenä
+[2421] 2. Jeesuksen uskonto
+[2422] Uskonto Jeesuksesta
+[2423] Uskonto henkilökohtaisena kokemuksena
+[2424] 3. Uskonnon korkeimmuus
+[2425] Tosiasia, idea ja suhde
+[2426] Järki, viisaus ja usko
+[2427] Aineellinen olevainen, merkitys ja arvo
+[2428] Ellei ihmisessä asuisi jumalallista rakastajaa..
+[2429] Moraali ja uskonto
+[2430] Isä on elävää rakkautta..

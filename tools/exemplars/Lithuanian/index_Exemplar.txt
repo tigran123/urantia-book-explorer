@@ -1,0 +1,43 @@
+﻿[0] Urantijos Knyga: Pagrindinis puslapis
+[1] Urantijos Knyga
+[2] {img_1}
+[3] ® URANTIA ir yra užregistruoti URANTIJOS Fondo prekybiniai ženklai, paslaugų ženklai ir kolektyvinės narystės ženklai
+[4] URANTIA FOUNDATION
+[5] CHICAGO, ILLINOIS
+[6] 2004 Lithuanian Translation
+[7] Pimasis leidimas 2004
+[8] Knygos dalyss
+[9] Dokumentų pavadinimai
+[10] Knygos turinys
+[11] TIN: UF-LIT-001-2004-1
+[12] Urantijos Fondas
+[13] 533 West Diversey Parkway
+[14] Chicago, IL 60614 U.S.A.
+[15] Tel.nr.: +1 773 525-3319
+[16] Fakso nr.: +1 773 525-7739
+[17] Interneto svetainė: http://www.urantia.org
+[18] E-paštas: urantia@urantia.org
+[19] {i{i{popierinis viršelis}i}i} (14,5 cm x 22 cm)
+[20] © 2004 Urantijos Fondas
+[21] Lxvi 2097 p. 27cm
+[22] BP6051955 230 55-10554
+[23] ISBN: 0-911560-02-5
+[24] ISBN: 978-0-942430-43-1
+[25] Kongreso bibliotekos klasifikacija peržiūrėta 1975
+[26] Teksto pakeitimai (tipografiniai, skyrybos, ir kai kurių žodžių) buvo padaryti kai kuriuose leidimuose, išvardintuose aukščiau. Dėl išsamesnės informacijos kreipkitės į URANTIJOS Fondą
+[27] © 2004 URANTIA Foundation Visas teises, įskaitant vertimo, saugo Berno konvencija, Visuotinė autorinių teisių konvencija ir kitos autorinių teisių tarptautinės konvencijos. Prašytume dėl leidimo versti ar dau- ginti medžiagą iš Urantijos Knygos bet kokiomis priemonėmis (įskaitant elektronines, mechanines, ar kitokias – kaip antai, fotokopijavimo, įrašymo, ar bet kokią informacijos saugojimo ir atgaminimo sistemą) susisiekti su Urantijos Fondu. Paprašius, galima gauti Urantijos Fondo Autorinių teisių ir prekyženklių dabartinės politikos dokumentų kopijas.
+[28] Visas teises, įskaitant vertimo, saugo Berno konvencija, Visuotinė autorinių teisių konvencija ir kitos autorinių teisių tarptautinės konvencijos.
+[29] Prašytume dėl leidimo versti ar dauginti medžiagą iš Urantijos Knygos bet kokiomis priemonėmis (įskaitant elektronines, mechanines, ar kitokias – kaip antai, fotokopijavimo, įrašymo, ar bet kokią informacijos saugojimo ir atgaminimo sistemą) susisiekti su Urantijos Fondu. Paprašius, galima gauti Urantijos Fondo Autorinių teisių ir prekyženklių dabartinės politikos dokumentų kopijas.
+[30] Interneto svetainė: http://www.urantia.org
+[31] E-paštas: urantia@urantia.org
+[32] URANTIJOS Fondas turi atstovus Argentinoje, Belgijoje, Brazilijoje, Bulgarijoje, Ekvadore, Estijoje, Graikijoje, Indonezijoje, Kolumbijoje, Korėjoje, Lietuvoje, Meksikoje, Norvegijoje, Peru, Senegale, Švedijoje, Urugvajuje, Velse. Jeigu jūs prašote informacijos apie studijų grupes, apie tai, kur galite įsigyti {i{i{Urantijos Knygą}i}i} ar sužinoti atstovo telefono numerį, tuomet prašytume susisiekti su artimiausiu Urantijos Fondo skyriumi ar su pagrindine įstaiga Čikagoje, Ilinojaus valstijoje.
+[33] Urantijos Fondo skyrių ir atstovų sąrašai gali būti netikslūs. Prašytume aplankyti Urantijos Fondo svetainę internete tam, kad gautumėte pačią naujausią informaciją dėl ryšių.
+[34] PIRMINIS URANTIJOS KNYGOS
+[35] LEIDĖJAS NUO 1955
+[36] Atspausdinta Kanadoje/Printed in Canada
+[37] Kongreso bibliotekos katalogo kortelės informacija
+[38] “URANTIA”,“URANTIAN,” ir koncentrinių apskritimų simbolis {img_3} yra įregistruoti URANTIJOS Fondo prekyženkliai, paslaugų ženklai, ir kolektyvinės narystės ženklai.
+[39] Informacija
+[40] URANTIJOS Fondas turi atstovus Argentinoje, Belgijoje, Brazilijoje, Bulgarijoje, Ekvadore, Estijoje, Graikijoje, Indonezijoje, Kolumbijoje, Korėjoje, Lietuvoje, Meksikoje, Norvegijoje, Peru, Senegale, Švedijoje, Urugvajuje, Velse. Jeigu jūs prašote informacijos apie studijų grupes, apie tai, kur galite įsigyti {i{i{Urantijos Knygą}i}i} ar sužinoti atstovo telefono numerį, tuo- met prašytume susisiekti su artimiausiu Urantijos Fondo skyriumi ar su pagrindine įstaiga Čikagoje, Ilinojaus valstijoje.
+[41] Urantijos Fondo skyrių ir atstovų sąrašai gali būti netikslūs. Prašytume aplankyti Urantijos Fondo svetainę internete tam, kad gautumėte pačią naujausią informaciją dėl ryšių.
+[42] Urantijos Knyga yra vertimas iš anglų kalbos; {i{i{The Urantia Book}i}i} išleidė Urantijos Fondas anglų kalbe 1955 m. Šitas yra Urantijos Knygos antrasis leidimas, kuo peržiūrė 2009 m. Iš esmės yra anglų kalbos versijos turinio tikras vertimas. Vis dėlto yra Urantijos Knyga žmogiškos pastangos padarinys, ir todėl netobulas, ir taip abejo atveju turėtų kreiptis į anglų kalbos tekstą. Urantijos Fondas gali nulemti šį vertimą tobulinti ir pagerinti su vėlesnį leidimą.

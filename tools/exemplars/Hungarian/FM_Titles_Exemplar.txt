@@ -1,0 +1,216 @@
+[0] Az Urantia könyv: Az írások címjegyzéke
+[1] Az Urantia könyv
+[2] Főoldal
+[3] A könyv részei
+[4] Az írások címjegyzéke
+[5] A könyv tartalomjegyzéke
+[6] Az írások címjegyzéke
+[7] I. rész:
+[8] A központi világegyetem és a felsőbb-világegyetemek
+[9] Írás . Cím . Szerző
+[10] 000. Előszó . Isteni Tanácsos
+[11] 001. Az Egyetemes Atya . Isteni Tanácsos
+[12] 002. Az Isten természete . Isteni Tanácsos
+[13] 003. Az Isten sajátosságai . Isteni Tanácsos
+[14] 004. Isten viszonya a világegyetemhez . Isteni Tanácsos
+[15] 005. Isten viszonya az egyénhez . Isteni Tanácsos
+[16] 006. Az Örökkévaló Fiú . Isteni Tanácsos
+[17] 007. Az Örökkévaló Fiú viszonya a világegyetemhez . Isteni Tanácsos
+[18] 008. A Végtelen Szellem . Isteni Tanácsos
+[19] 009. A Végtelen Szellem viszonya a világegyetemhez . Isteni Tanácsos
+[20] 010. A paradicsomi Háromság . Világegyetemi Ítélő
+[21] 011. A Paradicsom Örök Szigete . Bölcsesség-tökéletesítő
+[22] 012. A világegyetemek mindensége . Bölcsesség-tökéletesítő
+[23] 013. A Paradicsom szent szférái . Bölcsesség-tökéletesítő
+[24] 014. A központi és isteni világegyetem . Bölcsesség-tökéletesítő
+[25] 015. A hét felsőbb-világegyetem . Világegyetemi Ítélő
+[26] 016. A hét Tökéletes Szellem . Világegyetemi Ítélő
+[27] 017. A hét legfelsőbb szellem-csoport . Isteni Tanácsos
+[28] 018. A Legfelsőbb Háromsági Személyiségek . Isteni Tanácsos
+[29] 019. A mellérendelt háromsági-származású lények . Isteni Tanácsos
+[30] 020. A paradicsomi Istenfiak . Bölcsesség-tökéletesítő
+[31] 021. A paradicsomi Teremtő Fiak . Bölcsesség-tökéletesítő
+[32] 022. Az Isten Háromságot-elért Fiai . Fenséges Hírvivő
+[33] 023. A Független Hírvivők . Isteni Tanácsos
+[34] 024. A végtelen Szellem felsőbb személyiségei . Isteni Tanácsos
+[35] 025. A tér hírvivő seregei . Nagytekintélyű
+[36] 026. A központi világegyetem segédkező szellemei . Bölcsesség-tökéletesítő
+[37] 027. Az elsőrendű szupernáfok segédkezése . Bölcsesség-tökéletesítő
+[38] 028. A felsőbb-világegyetemek segédkező szellemei . Fenséges Hírvivő
+[39] 029. A Világegyetemi Erőtér-irányítók . Világegyetemi Ítélő
+[40] 030. A nagy világegyetem személyiségei . Fenséges Hírvivő
+[41] 031. A végleges testületek . Isteni Tanácsos és Egy Ismeretlen Nevű és Származású
+[42] II. rész:
+[43] A helyi világegyetem
+[44] Írás . Cím . Szerző
+[45] 032. A helyi világegyetemek kialakulása . Fenséges Hírvivő
+[46] 033. A helyi világegyetem igazgatása . Főangyalok Vezetője
+[47] 034. A helyi világegyetemi Anyaszellem . Fenséges Hírvivő
+[48] 035. A helyi világegyetemi Istenfiak . Főangyalok Vezetője
+[49] 036. Az Élethordozók . Vorondadek Fiú
+[50] 037. A helyi világegyetem személyiségei . Ragyogó Estcsillag
+[51] 038. A helyi világegyetem segédkező szellemei . Melkizedek
+[52] 039. A szeráfseregek . Melkizedek
+[53] 040. A felemelkedő Istenfiak . Fenséges Hírvivő
+[54] 041. A helyi világegyetem fizikai sajátosságai . Főangyal
+[55] 042. Energia — elme és anyag . Fenséges Hírvivő
+[56] 043. A csillagvilágok . Malavatia Melkizedek
+[57] 044. Az égi mesterek . Főangyal
+[58] 045. A helyi csillagrendszer igazgatása . Melkizedek
+[59] 046. A helyi csillagrendszer központja . Főangyal
+[60] 047. A hét lakóvilág . Ragyogó Estcsillag
+[61] 048. A morontia élet . Főangyal
+[62] 049. A lakott világok . Melkizedek
+[63] 050. A Bolygóhercegek . Másodrendű Lanonandek
+[64] 051. A Bolygók Ádámjai . Másodrendű Lanonandek
+[65] 052. A bolygók halandói korszakai . Fenséges Hírvivő
+[66] 053. A Lucifer-féle lázadás . Manovandet Melkizedek
+[67] 054. A Lucifer-féle lázadásból eredő problémák . Fenséges Hírvivő
+[68] 055. A fény és élet világai . Fenséges Hírvivő
+[69] 056. Az egyetemes egység . Fenséges Hírvivő és Makiventa Melkizedek
+[70] III. rész:
+[71] Az Urantia története
+[72] Írás . Cím . Szerző
+[73] 057. Az Urantia keletkezése . Élethordozó
+[74] 058. Élet létesítése az Urantián . Élethordozó
+[75] 059. A tengervízi élet az Urantián . Élethordozó
+[76] 060. Az Urantia a korai szárazföldi élet időszakában . Élethordozó
+[77] 061. Az emlősök kora az Urantián . Élethordozó
+[78] 062. Az emberi kor hajnalának ősi fajai . Élethordozó
+[79] 063. Az első embercsalád . Élethordozó
+[80] 064. A színes evolúciós emberfajták . Élethordozó
+[81] 065. Az evolúció felügyelete . Élethordozó
+[82] 066. Az Urantia Bolygóhercege . Melkizedek
+[83] 067. A lázadás a bolygón . Melkizedek
+[84] 068. A polgárosodás hajnala . Melkizedek
+[85] 069. A kezdetleges emberi intézmények . Melkizedek
+[86] 070. Az emberi közösségek kormányzásának fejlődése . Melkizedek
+[87] 071. Az állam fejlődése . Melkizedek
+[88] 072. Egy szomszédos bolygó kormányzati berendezkedése . Melkizedek
+[89] 073. Az Édenkert . Szolonia
+[90] 074. Ádám és Éva . Szolonia
+[91] 075. Ádám és Éva vétke . Szolonia
+[92] 076. A második kert . Szolonia
+[93] 077. A köztes teremtmények . Főangyal
+[94] 078. Az ibolyaszín emberfajta az Ádám utáni időkben . Főangyal
+[95] 079. Az andita terjeszkedés keleten . Főangyal
+[96] 080. Az andita terjeszkedés nyugaton . Főangyal
+[97] 081. A mai polgárosodott viszonyok kialakulása . Főangyal
+[98] 082. A házasság fejlődése . Szeráf Vezető
+[99] 083. A házasság intézménye . Szeráf Vezető
+[100] 084. Házasság és családi élet . Szeráf Vezető
+[101] 085. Az istenimádás gyökerei . Ragyogó Estcsillag
+[102] 086. A vallás fejlődésének korai szakasza . Ragyogó Estcsillag
+[103] 087. A kísértettiszteletek . Ragyogó Estcsillag
+[104] 088. Bűvtárgyak, szerencsetárgyak és varázslás . Ragyogó Estcsillag
+[105] 089. Bűn, áldozás és vezeklés . Ragyogó Estcsillag
+[106] 090. Sámánizmus — javasok és papok . Melkizedek
+[107] 091. Az ima fejlődése . Közteslények Vezetője
+[108] 092. A vallás fejlődésének későbbi szakasza . Melkizedek
+[109] 093. Makiventa Melkizedek . Melkizedek
+[110] 094. A Melkizedek tanítások keleten . Melkizedek
+[111] 095. A Melkizedek tanítások a Levantéban . Melkizedek
+[112] 096. Jahve — a héberek Istene . Melkizedek
+[113] 097. Az istenkép fejlődése a héber népek körében . Melkizedek
+[114] 098. A Melkizedek tanítások nyugaton . Melkizedek
+[115] 099. A vallás társadalmi problémái . Melkizedek
+[116] 100. Az ember által megtapasztalható vallás . Melkizedek
+[117] 101. A vallás valódi természete . Melkizedek
+[118] 102. A vallásos hit alapjai . Melkizedek
+[119] 103. A vallásos tapasztalás valósága . Melkizedek
+[120] 104. A háromság fogalmának kiteljesedése . Melkizedek
+[121] 105. Istenség és valóság . Melkizedek
+[122] 106. Világegyetemi valóságszintek . Melkizedek
+[123] 107. A Gondolatigazítók eredete és természete . Független Hírvivő
+[124] 108. A Gondolatigazítók küldetése és segédkezése . Független Hírvivő
+[125] 109. Az Igazítók viszonya a világegyetemi teremtményekhez . Független Hírvivő
+[126] 110. Az Igazítók viszonya a halandó egyénekhez . Független Hírvivő
+[127] 111. Az Igazító és a lélek . Független Hírvivő
+[128] 112. A személyiség továbbélése . Független Hírvivő
+[129] 113. A szeráfi végzet-őrangyalok . Szeráf Vezető
+[130] 114. A bolygók szeráfi kormányzása . Szeráf Vezető
+[131] 115. A Legfelsőbb Lény . Fenséges Hírvivő
+[132] 116. A Mindenható Legfelsőbb . Fenséges Hírvivő
+[133] 117. A Legfelsőbb Isten . Fenséges Hírvivő
+[134] 118. Legfelsőbb és Végleges — idő és tér . Fenséges Hírvivő
+[135] 119. Krisztus Mihály alászállásai . Estcsillagok Vezetője
+[136] IV. rész:
+[137] Jézus élete és tanításai
+[138] Írás . Cím . Szerző
+[139] 120. Mihály megtestesülése az Urantián . Mantutia Melkizedek
+[140] 121. Mihály alászállásának kora . Közteslény bizottság
+[141] 122. Jézus megszületése és kisgyermekkora . Közteslény bizottság
+[142] 123. Jézus zsengekora . Közteslény bizottság
+[143] 124. Jézus kései gyermekkora . Közteslény bizottság
+[144] 125. Jézus Jeruzsálemben . Közteslény bizottság
+[145] 126. A két legválságosabb év . Közteslény bizottság
+[146] 127. A kamaszkori évek . Közteslény bizottság
+[147] 128. Jézus korai felnőttkora . Közteslény bizottság
+[148] 129. Jézus későbbi felnőttkori élete . Közteslény bizottság
+[149] 130. Úton Rómába . Közteslény bizottság
+[150] 131. A világ vallásai . Közteslény bizottság
+[151] 132. Időzés Rómában . Közteslény bizottság
+[152] 133. Visszatérés Rómából . Közteslény bizottság
+[153] 134. Az átmeneti évek . Közteslény bizottság
+[154] 135. Keresztelő János . Közteslény bizottság
+[155] 136. A keresztelés és a negyven nap . Közteslény bizottság
+[156] 137. Időzés Galileában . Közteslény bizottság
+[157] 138. Az Ország hírnökeinek felkészítése . Közteslény bizottság
+[158] 139. A tizenkét apostol . Közteslény bizottság
+[159] 140. A tizenkettek felavatása . Közteslény bizottság
+[160] 141. A nyilvános működés elkezdése . Közteslény bizottság
+[161] 142. A páska-ünnep Jeruzsálemben . Közteslény bizottság
+[162] 143. Utazás Szamarián át . Közteslény bizottság
+[163] 144. Gilboában és a Tízvárosban . Közteslény bizottság
+[164] 145. Négy eseménydús nap Kapernaumban . Közteslény bizottság
+[165] 146. Az első tanhirdető vándorút Galileában . Közteslény bizottság
+[166] 147. Rövid látogatás Jeruzsálemben . Közteslény bizottság
+[167] 148. A vándor hitszónokok tanítása Betszaidában . Közteslény bizottság
+[168] 149. A második tanhirdető vándorút . Közteslény bizottság
+[169] 150. A harmadik tanhirdető vándorút . Közteslény bizottság
+[170] 151. Időzés és tanítás a parton . Közteslény bizottság
+[171] 152. A kapernaumi válsághoz vezető események . Közteslény bizottság
+[172] 153. A kapernaumi válság . Közteslény bizottság
+[173] 154. Az utolsó napok Kapernaumban . Közteslény bizottság
+[174] 155. Menekülés Észak-Galileán át . Közteslény bizottság
+[175] 156. Időzés Tiruszban és Szidonban . Közteslény bizottság
+[176] 157. Cezárea-Filippiben . Közteslény bizottság
+[177] 158. Az átlényegülés hegye . Közteslény bizottság
+[178] 159. A tízvárosi vándorút . Közteslény bizottság
+[179] 160. Alexandriai Rodan . Közteslény bizottság
+[180] 161. További viták Rodannal . Közteslény bizottság
+[181] 162. A sátoros ünnepen . Közteslény bizottság
+[182] 163. A hetvenek felavatása Magadánban . Közteslény bizottság
+[183] 164. A templomszentelés ünnepén . Közteslény bizottság
+[184] 165. A pereai küldetés kezdete . Közteslény bizottság
+[185] 166. Az utolsó látogatás Észak-Pereában . Közteslény bizottság
+[186] 167. Látogatás Filadelfiában . Közteslény bizottság
+[187] 168. Lázár feltámasztása . Közteslény bizottság
+[188] 169. Az utolsó tanítás Pellában . Közteslény bizottság
+[189] 170. A mennyország . Közteslény bizottság
+[190] 171. Úton Jeruzsálembe . Közteslény bizottság
+[191] 172. Bevonulás Jeruzsálembe . Közteslény bizottság
+[192] 173. A hétfői nap Jeruzsálemben . Közteslény bizottság
+[193] 174. A keddi reggel a templomban . Közteslény bizottság
+[194] 175. Az utolsó templomi beszéd . Közteslény bizottság
+[195] 176. Kedd este az Olajfák hegyén . Közteslény bizottság
+[196] 177. Szerda, a pihenés napja . Közteslény bizottság
+[197] 178. Az utolsó nap a táborban . Közteslény bizottság
+[198] 179. Az Utolsó Estebéd . Közteslény bizottság
+[199] 180. A búcsúbeszéd . Közteslény bizottság
+[200] 181. Az utolsó intelmek és figyelmeztetések . Közteslény bizottság
+[201] 182. A Getszemániban . Közteslény bizottság
+[202] 183. Jézus elárulása és elfogása . Közteslény bizottság
+[203] 184. A Szanhedrin bírósága előtt . Közteslény bizottság
+[204] 185. A Pilátus előtti per . Közteslény bizottság
+[205] 186. Röviddel a keresztre feszítés előtt . Közteslény bizottság
+[206] 187. A keresztre feszítés . Közteslény bizottság
+[207] 188. A sírban töltött idő . Közteslény bizottság
+[208] 189. A feltámadás . Közteslény bizottság
+[209] 190. Jézus morontia jelenései . Közteslény bizottság
+[210] 191. Jelenések az apostolok és más vezetők előtt . Közteslény bizottság
+[211] 192. Jelenések Galileában . Közteslény bizottság
+[212] 193. Az utolsó jelenések és a mennybemenetel . Közteslény bizottság
+[213] 194. Az Igazság Szellemének adományozása . Közteslény bizottság
+[214] 195. Pünkösd után . Közteslény bizottság
+[215] 196. Jézus hite . Közteslény bizottság

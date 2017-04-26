@@ -1,0 +1,24 @@
+﻿[0] Az Urantia könyv - A könyv tartalomjegyzéke
+[1] Az Urantia könyv
+[2] {img_1}
+[3] ® Bejegyzett védjegye az Urantia Alapítvány
+[4] URANTIA FOUNDATION
+[5] CHICAGO ILLINOIS
+[6] 2010 Hungarian translation
+[7] Első kiadás 2010 Magyar fordítás
+[8] A könyv részei
+[9] Az írások címjegyzéke
+[10] A könyv tartalomjegyzéke
+[11] TIN: UF-HUN-001-2010-1
+[12] Copyright 2010 Urantia Foundation
+[13] Minden jog fenntartva.
+[14] A kiadó írásbeli engedélye nélkül e könyv sem részben, sem egészében nem másolható, nem készíthető róla fordítás, a tartalma nem rögzíthető semmilyen módon és semmilyen formában (beleértve az elektronikus, a mechanikus és az egyéb eljárásokat, mint például fénymásolás, képfelvétel vagy bármilyen adattároló és visszakereső rendszer). A megkeresés címzettjeként az ,Urantia Foundation’ jelölendő meg. Kiadja az ,Urantia Foundation’.
+[15] 533 Diversey Parkway
+]16] Chicago, Illinois 60614, USA
+[17] Tel. +1 (773) 525-3319
+[18] Fax +1 (773) 525-7739
+[19] Website: www.urantia.org
+[20] Email: urantia@urantia.org
+[21] Az “URANTIA” és a <img width="23" height="21" src="urantia_logo3.gif"/> az ,Urantia Foundation’ termék, szolgáltatás és közösségi védjegye.
+[22] {i{i{Az Urantia könyv}i}i} az ,Urantia Foundation’ által 1955-ben {i{i{The Urantia Book}i}i} címen kiadott mű fordítása. {i{i{Az Urantia könyv}i}i} ezen első kiadása az angol nyelvű szöveg lényegében szabatos fordítása. {i{i{Az Urantia könyv}i}i} azonban emberi alkotás, és mint ilyen, nem tökéletes; szövegértelmezési kérdésekben az angol szöveg a mérvadó. Az ,Urantia Foundation’ fenntartja magának a jogot e fordítás pontosított, javított kiadásának megjelentetésére.
+[23] ISBN: 978-1-883395-11-7

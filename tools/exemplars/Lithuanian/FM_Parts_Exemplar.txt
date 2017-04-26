@@ -1,0 +1,20 @@
+[0] Urantijos knyga: Knygos dalys
+[1] Urantijos knyga
+[2] Pagrindinis puslapis
+[3] Knygos dalys
+[4] Dokumentų pavadinimai
+[5] Knygos turinys
+[6] Knygos dalys
+[7] I DALIS
+[8] Centrinė visata ir supervisatos
+[9] Parengta Supervisatos Asmenybių Uversos Korpuso, veikiančio įgaliojus Orvontono Dienų Seniesiems
+[10] II DALIS
+[11] Vietinė visata
+[12] Parengta Vietinės Visatos Asmenybių Nebadono Korpuso, veikiančio įgaliojus Salvingtono Gabrieliui
+[13] III DALIS
+[14] Urantijos istorija
+[15] Šiuos dokumentus parengė Vietinės Visatos Asmenybių Korpusas, veikiantis Salvingtono Gabrielio įgaliojimu
+[16] IV DALIS
+[17] Jėzuas gyvenimas ir mokymai
+[18] Šitą dokumentų grupę parengė Urantijos tarpinių būtybių komisija iš dvylikos narių, veikusi apreiškimo vadovo Melkizedeko priežiūroje.
+[19] Šito pasakojimo pagrindą pateikė viena iš antrinių tarpinių būtybių, kuri kažkada buvo paskirta Apaštalo Andriejaus viršžmogiškajai apsaugai.

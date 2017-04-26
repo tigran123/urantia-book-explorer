@@ -1,0 +1,25 @@
+﻿[0] Urantia-kirja: Etusivu Hakemisto
+[1] Urantia-kirja
+[2] {img_1}
+[3] ® ovat Urantia Foundationin rekisteröimiä merkkejä
+[4] URANTIA FOUNDATION
+[5] CHICAGO ILLINOIS
+[6] 2010 Finnish Translation
+[7] Suomen Käännös
+[8] Kirjan osat
+[9] Lukujen otsikot
+[10] Sisällysluettelo
+[11] TIN: UF-FIN-001-1993-1
+[12] Urantia-kirja © 1993 Urantia Foundation
+[13] Urantia Foundation
+[14] 533 West Diversey Parkway
+[15] Chicago, IL 60614 EE.UU.A
+[16] Puhelin: 1+(773) 525-3319
+[17] Fax: 1 +(773) 525-7739
+[18] Website: http://www.urantia.org
+[19] Email: urantia@urantia.org
+[20] Tekijänoikeudet © 1993 Urantia Foundation suomenkielinen laitos
+[21] Kaikki oikeudet pidätetään mukaan luettuna käännösoikeus Yhdysvalloissa, Suomessa ja muissa Kansainvälisen tekijänoikeussopimuksen allekirjoittajavaltioissa. Teoksen osittainenkin jäljentäminen, kääntäminen tai lainaaminen on kiellettyä tapahtuipa se missä muodossa tahansa, kuten elektronisesti, valokopioimalla tai jollakin muulla kirjallisen tiedon taltiointikeinolla, ellei tähän ole saatu tekijänoikeuksien haltijan kirjallista lupaa. Tätä tarkoittavat pyynnöt tulee osoittaa julkaisijalle.
+[22] ”URANTIA” ja tunnus {img_3} ovat Urantia Foundationin rekisteröimiä merkkejä.
+[23] {i{i{Urantia-kirja}i}i} on suomenkielinen käännös vuonna 1955 englanniksi julkaistusta teoksesta {i{i{The Urantia Book.}i}i} Tämä on viides, vuonna 2009 tarkistettu {i{i{Urantia-kirjan}i}i} laitos ja on mahdollisimman tarkka käännös alkuperäisen teoksen asiasisällöstä. Koska {i{i{Urantia-kirja}i}i} on inhimillisen toiminnan tulos ja siitä syystä epätäydellinen, tulisi mahdolliset epäselvyydet ratkaista turvautumalla englanninkieliseen laitokseen. Julkaisija, Urantia-säätiö, saattaa päättää parannella ja täsmentää tätä käännöstä sen myöhemmissä laitoksissa.
+[24] {i{i{Urantia-kirja}i}i} on v. 2010 mennessä julkaistu seuraavilla kielillä: englanti, ranska, suomi, espanja, hollanti, venäjä, korea, liettua, italia, portugali, saksa, ruotsi, unkari ja romania.
