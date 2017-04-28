@@ -15,28 +15,11 @@ if (isset($text)) {
    $search_range = isset($_GET['search_range']) ?  $_GET['search_range'] : 0;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
    $time_start = microtime(true);
-   switch ($search_part) {
-      case 0:
-         $i_min = 0;
-         $i_max = 196;
-         break;
-      case 1:
-         $i_min = 0;
-         $i_max = 31;
-         break;
-      case 2:
-         $i_min = 32;
-         $i_max = 56;
-         break;
-      case 3:
-         $i_min = 57;
-         $i_max = 119;
-         break;
-      case 4:
-         $i_min = 120;
-         $i_max = 196;
-         break;
-   }
+
+   $set_vars = init_vars($search_part);
+   $i_min = $set_vars['i_min'];
+   $i_max = $set_vars['i_max'];
+
    $sign_before   = '[.,;“"«„!?(—–-]?\s?'; //здесь —, – и - это разные тире (emdash, endash, hyphen)
    $link_mask     = '~~##~~';
    $link_mask_re  = '(?:<\*{3}\d+?>)?';
