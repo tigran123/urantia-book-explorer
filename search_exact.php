@@ -16,9 +16,7 @@ if (isset($text)) {
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
    $time_start = microtime(true);
 
-   $set_vars = init_vars($search_part);
-   $i_min = $set_vars['i_min'];
-   $i_max = $set_vars['i_max'];
+   list($i_min, $i_max) = init_vars($search_part);
 
    $sign_before   = '[.,;“"«„!?(—–-]?\s?';    //здесь —, – и - это разные тире (emdash, endash, hyphen)
    $link_mask     = '~~##~~';                 //Это строка-подмена вместо следующего регулярного выражения
