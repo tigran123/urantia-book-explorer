@@ -95,8 +95,8 @@ echo "<div id='tabs'>
   <option value=4>$PART_IV</option>
 </select>
 <select id='search_mode' title='$SEARCH_MODE'>
-  <option value='exact'>$EXACT</option>
   <option value='all'>$ALL_WORDS</option>
+  <option value='exact'>$EXACT</option>
   <option value='any'>$ANY_WORD</option>
 </select>
 <select id='search_range' title='$SEARCH_RANGE'>
