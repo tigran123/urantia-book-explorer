@@ -60,10 +60,10 @@ echo "<div id='tabs'>
 <table>
 <th colspan=4 title='$HELP_TIP'>$HELP<hr></th>
 <tr><td class='key'>F1</td><td>$CALL_HELP</td><td class='key'>Ctrl + 0</td><td>$SHOW_HIDE_TOC</td></tr>
-<tr><td class='key'>Ctrl + X</td><td>$CLEAR_SEARCH_STRING_HELP</td><td class='key'>Ctrl + 1/2/3</td><td>$SHOW_HIDE_COL123</td></tr>
-<tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_CONTROL_PANEL</td><td class='key'>Ctrl + Shift 1/2/3</td><td>$SELECT_TEXT123</td></tr>
-<tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 4</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
-<tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_NOTES</td></tr>
+<tr><td class='key'>Ctrl + X</td><td>$CLEAR_SEARCH_STRING_HELP</td><td class='key'>Ctrl + 1/2/3/4</td><td>$SHOW_HIDE_COL1234</td></tr>
+<tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_CONTROL_PANEL</td><td class='key'>Ctrl + Shift 1/2/3/4</td><td>$SELECT_TEXT1234</td></tr>
+<tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
+<tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 6</td><td>$SHOW_HIDE_NOTES</td></tr>
 <tr><td class='key'>Ctrl + M</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
 </table>
@@ -77,8 +77,9 @@ echo "<div id='tabs'>
 <button class='buttons coltxtsw' type='button' id='col1rad' title='$SELECT_TEXT1'><span class='uxtra'>1</span></button>
 <button class='buttons coltxtsw' type='button' id='col2rad' title='$SELECT_TEXT2'><span class='uxtra'>2</span></button>
 <button class='buttons coltxtsw' type='button' id='col3rad' title='$SELECT_TEXT3'><span class='uxtra'>3</span></button>
-<button class='buttons colsw' type='button' id='col4rad' title='$SHOW_HIDE_SEARCH_RESULTS_HELP'><span class='ui-icon ui-icon-search'></span></button>
-<button class='buttons colsw' type='button' id='col5rad' title='$SHOW_HIDE_NOTES_HELP'><span class='ui-icon ui-icon-flag'></span></button>
+<button class='buttons coltxtsw' type='button' id='col4rad' title='$SELECT_TEXT4'><span class='uxtra'>4</span></button>
+<button class='buttons colsw' type='button' id='col5rad' title='$SHOW_HIDE_SEARCH_RESULTS_HELP'><span class='ui-icon ui-icon-search'></span></button>
+<button class='buttons colsw' type='button' id='col6rad' title='$SHOW_HIDE_NOTES_HELP'><span class='ui-icon ui-icon-flag'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_height' title='$MAX_HEIGHT'><span class='ui-icon ui-icon-arrowthick-2-n-s'></span></button>
 <button class='buttons colsize_controls' type='button' id='max_width' title='$MAX_WIDTH'><span class='ui-icon ui-icon-arrowthick-2-e-w'></span></button>
 <button class='buttons' type='button' id='help_button' title='$HELP_TOOLTIP'><span class='ui-icon ui-icon-help'></span></button>
@@ -164,15 +165,29 @@ echo "<div id='tabs'>
     </a>
     <div class='coltitle' id='col3title'></div>
   </th>
-  <th class='col4 headers' id='col4hdr' title='$PRESS_CTRL_4'>
-    <span class='coltitle' id='col4title'>$SEARCH_RESULTS <span id='search_total'></span></span>
+  <th class='col4 headers txthdr' id='col4hdr' title='$PRESS_CTRL_4'>
+    <span class='uxtra'>4</span>
+    <a href='javascript:void(0)' class='colupdown' name='down' title='$SCROLL_DOWN'>
+       <span class='ui-icon ui-icon-circle-arrow-s'></span>
+    </a>
+    <select class='colmod' id='col4mod' title='$SELECT_TEXT'>$text_options</select>
+    <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
+       <span class='ui-icon ui-icon-circle-arrow-n'></span>
+    <a>
     <a href='javascript:void(0)' class='colclose' id='col4close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
+    <div class='coltitle' id='col4title'></div>
   </th>
   <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
-    <span class='coltitle' id='col5title'>$NOTES <span id='notes_total'></span></span>
+    <span class='coltitle' id='col5title'>$SEARCH_RESULTS <span id='search_total'></span></span>
     <a href='javascript:void(0)' class='colclose' id='col5close' title='$CLOSE_WINDOW'>
+       <span class='ui-icon ui-icon-closethick'></span>
+    </a>
+  </th>
+  <th class='col6 headers' id='col6hdr' title='$PRESS_CTRL_6'>
+    <span class='coltitle' id='col6title'>$NOTES <span id='notes_total'></span></span>
+    <a href='javascript:void(0)' class='colclose' id='col6close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
   </th>
@@ -181,12 +196,14 @@ echo "<div id='tabs'>
     <div class='toc_container hidden data' id='col1toc'></div>
     <div class='toc_container hidden data' id='col2toc'></div>
     <div class='toc_container hidden data' id='col3toc'></div>
+    <div class='toc_container hidden data' id='col4toc'></div>
   </td>
   <td class='col1' valign='top'><div class='coltxt data' id='col1txt'></div></td>
   <td class='col2' valign='top'><div class='coltxt data' id='col2txt'></div></td>
   <td class='col3' valign='top'><div class='coltxt data' id='col3txt'></div></td>
-  <td class='col4' valign='top'><div class='data' id='search_results'></div></td>
-  <td class='col5' valign='top'><div class='data' id='notes'></div></td>
+  <td class='col4' valign='top'><div class='coltxt data' id='col4txt'></div></td>
+  <td class='col5' valign='top'><div class='data' id='search_results'></div></td>
+  <td class='col6' valign='top'><div class='data' id='notes'></div></td>
 </tr>
 </table>
 </div> <!-- tab_home -->
