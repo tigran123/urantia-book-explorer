@@ -50,7 +50,6 @@ $('.colmod').selectmenu({
      $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
         var toc = $(this).find('.toc');
         toc.bonsai();
-        console.log("col=" + col);
         $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
         document.cookie = col + 'mod=' + mod_idx + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
         if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
