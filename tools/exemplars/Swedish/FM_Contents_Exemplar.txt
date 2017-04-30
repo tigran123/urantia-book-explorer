@@ -1644,7 +1644,7 @@
 [1643] Jesus som båtbyggare
 [1644] 2. Det tjugoåttonde året (22 e.Kr.)
 [1645] Jesus besöker Jerusalem
-[1646] {n{n{ Mötet med Gonod och Ganid
+[1646] Mötet med Gonod och Ganid
 [1647] 3. Det tjugonionde året (23 e.Kr.)
 [1648] Syftet med resan till Rom
 [1649] 4. Människan Jesus
