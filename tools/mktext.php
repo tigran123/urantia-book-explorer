@@ -45,7 +45,9 @@ foreach ($languages as $lang => $id) {
           if (isset($line_data[1])) {
              if (isset($pmetrics[$linenum])) {
                 list($sec, $par, $type) = $pmetrics[$linenum];
-                if ($type == 'TEXT')
+                if ($type == 'TEXTP')
+                   $text = '<p><a class="U'.$i.'_'.$sec.'_'.$par.'" href=".U'.$i.'_'.$sec.'_'.$par.'"><sup>'.$i.':'.$sec.'.'.$par.'</sup></a> ¶ ' . $line_data[1];
+                elseif ($type == 'TEXT')
                    $text = '<p><a class="U'.$i.'_'.$sec.'_'.$par.'" href=".U'.$i.'_'.$sec.'_'.$par.'"><sup>'.$i.':'.$sec.'.'.$par.'</sup></a> ' . $line_data[1];
                 elseif ($type == 'HEADER')
                    $text = '<h4><a class="U'.$i.'_'.$sec.'_'.$par.'" href=".U'.$i.'_'.$sec.'_'.$par.'">'.rtrim($line_data[1]).'</a></h4>'.PHP_EOL;
