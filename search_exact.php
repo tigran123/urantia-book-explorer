@@ -1,5 +1,5 @@
 <?php
-include('search.php');
+require('search.php');
 ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
