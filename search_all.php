@@ -15,15 +15,7 @@ if (isset($text)) {
    $search_range = isset($_GET['search_range']) ?  $_GET['search_range'] : 0;
    $search_part = isset($_GET['search_part']) ?  $_GET['search_part'] : 0;
    $time_start = microtime(true);
-
    list($i_min, $i_max) = init_vars($search_part);
-
-   $sign_before   = '[.,;“"«„!?(—–-]?\s?'; //здесь —, – и - это разные тире (emdash, endash, hyphen)
-   $link_mask     = '~~##~~';
-   $link_mask_re  = '(?:<\*{3}\d+?>)?';
-   $sign_after    = '\s?'.$link_mask.'[.,;’”"»“!?)—–-]*?\s?';
-   $_em           = '(?:<\/em>)?'.$link_mask;
-
    $text = trim(preg_replace(['/[\\\\<>()\[\]]/u', '/([*+])+/u'],['', '$1'], $text));//Чистим текст запроса от лишнего
    if ($text == ''||$text == '*'||$text == '+') end_search(0, 0, '');                //Завершаем поиск, если строка поиска пустая или только * или +
    $text = preg_replace('/(?<=\s|^)\W+(?=\s|$)\s?|[^\s\w\*\+]/u', '', $text);        //Убираем любые символы, кроме пробела и (* или +) в слове
