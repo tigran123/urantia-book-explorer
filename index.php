@@ -38,6 +38,21 @@ $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=2 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Русский: UF 1997-1.9</option>".
 "<option value=3 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Български: UF 2013-1.0</option>".
 "<option value=4 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Deutsch: UF 2015-1</option>".
+"<option value=6 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Nederlandse: UF 1997-1</option>".
+"<option value=7 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Eesti: UF 2010-1</option>".
+"<option value=8 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Suomi: UF 1993-1</option>".
+"<option value=9 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Français: UF 2014-2</option>".
+"<option value=10 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Ελληνική: UF 2012-1</option>".
+"<option value=11 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Magyar: UF 2010-1</option>".
+"<option value=12 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Italiano: UF 2006-1</option>".
+"<option value=13 title='&#169;&nbsp;Urantia&nbsp;Foundation'>한국어: UF 2016-1</option>".
+"<option value=14 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Lietuvių: UF 2004-1</option>".
+"<option value=15 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Polski: UF 2010-2</option>".
+"<option value=16 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Português: UF 2003-1</option>".
+"<option value=17 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Română: UF 2004-1</option>".
+"<option value=18 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Español (Américas): UF 1993-24</option>".
+"<option value=19 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Español (Europea): UF 2009-1</option>".
+"<option value=20 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Svenska: UF 2010-1</option>".
                "</optgroup>".
                 "<optgroup label='$DRAFTS'>".
 "<option value=5 title='&#169;&nbsp;Urantia&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Русский: USGNY 2017-1</option>".
