@@ -21,7 +21,7 @@ else {
    setcookie('lang', $lang, time() + 3600*24*365*100); // expire in 100 years
 }
 
-$tooltips = 1;
+$tooltips = 0;
 if (isset($_COOKIE['tooltips']))
    $tooltips = $_COOKIE['tooltips'];
 
