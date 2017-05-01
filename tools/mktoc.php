@@ -1,5 +1,6 @@
 <?php
 ini_set('memory_limit','300M');
+setlocale(LC_ALL, 'en_GB.UTF-8');
 
 $languages = ['English' => 0,
               'Russian' => 2,
@@ -91,20 +92,20 @@ function parse_titles($lang, $i) {
    $line = $lines[$i + $offset];
    $line = preg_replace('/{x{x{[^}]*}x}x}/u', '', rtrim($line));
    preg_match('/\[\d+\]\s(?:제 )?(?:\d{1,3})?(?: 편)?(?:\.\s)?(.*) \. (.*)/u', $line, $matches); /* Korean has a special format */
-   return [$matches[1], $matches[2]];
+   return [mb_strtoupper($matches[1]), $matches[2]];
 }
 
 function parse_parts($lang) {
    $partsfile = "exemplars/".$lang."/FM_Parts_Exemplar.txt";
    $lines = file($partsfile);
-   return [extract_text($lines[8]), extract_text($lines[9]), 
-           extract_text($lines[11]), extract_text($lines[12]),
-           extract_text($lines[14]), extract_text($lines[15]),
-           extract_text($lines[17]), extract_text($lines[18]), extract_text($lines[19])];
+   return [mb_strtoupper(extract_text($lines[8])), extract_text($lines[9]), 
+           mb_strtoupper(extract_text($lines[11])), extract_text($lines[12]),
+           mb_strtoupper(extract_text($lines[14])), extract_text($lines[15]),
+           mb_strtoupper(extract_text($lines[17])), extract_text($lines[18]), extract_text($lines[19])];
 }
 
 function extract_text($text) {
    $text = explode("] ", rtrim($text), 2);
-   return $text[1]; 
+   return $text[1];
 }
 ?>
