@@ -34,8 +34,8 @@ function end_search($par_count, $match_count, $matches) {
 function text_replace($matches) {
    $m1 = $matches[1];
    $m2 = isset($matches[2]) ?  $matches[2] : '';
-   if (stristr($m1,'</em>') != false && stristr($m1,'<em>') == false)
-      return '</em><mark><em>'.$m1.'</mark>'.$m2;
+   if (stristr($m1,'</i>') != false && stristr($m1,'<i>') == false)
+      return '</i><mark><i>'.$m1.'</mark>'.$m2;
    else
       return '<mark>'.$m1.'</mark>'.$m2;
 }
