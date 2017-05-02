@@ -1,7 +1,7 @@
 <?php
 $ORIGINALS = 'ORIGINAL TEXTS';
 $TRANSLATIONS = 'TRANSLATIONS';
-$DRAFTS = 'DRAFTS OR INCOMPLETE';
+$DRAFTS = 'WORK IN PROGRESS';
 $SOURCE_CODE = 'Source Code';
 $SOURCE_CODE_TEXT = 'This site\'s source code is freely available in the <a href="https://github.com/tigran123/urantia-book-explorer">github repository</a> and everyone is welcome to join in the development of the Urantia Book Explorer.';
 $TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';

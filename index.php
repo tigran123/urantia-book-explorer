@@ -36,13 +36,11 @@ $text_options = "<optgroup label='$ORIGINALS'>".
                "</optgroup>".
                 "<optgroup label='$TRANSLATIONS'>".
 "<option value=2 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Русский: UF 1997-1.9</option>".
-"<option value=3 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Български: UF 2013-1.0</option>".
 "<option value=4 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Deutsch: UF 2015-1</option>".
 "<option value=6 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Nederlands: UF 1997-1</option>".
 "<option value=7 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Eesti: UF 2010-1</option>".
 "<option value=8 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Suomi: UF 1993-1</option>".
 "<option value=9 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Français: UF 2014-2</option>".
-"<option value=10 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Ελληνική: UF 2012-1</option>".
 "<option value=11 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Magyar: UF 2010-1</option>".
 "<option value=12 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Italiano: UF 2006-1</option>".
 "<option value=13 title='&#169;&nbsp;Urantia&nbsp;Foundation'>한국어: UF 2016-1</option>".
@@ -56,6 +54,8 @@ $text_options = "<optgroup label='$ORIGINALS'>".
                "</optgroup>".
                 "<optgroup label='$DRAFTS'>".
 "<option value=5 title='&#169;&nbsp;Urantia&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Русский: USGNY 2017-1</option>".
+"<option value=10 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Ελληνική: UF 2012-1</option>".
+"<option value=3 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Български: UF 2013-1.0</option>".
                "</optgroup>";
 
 echo $htmlhead;
