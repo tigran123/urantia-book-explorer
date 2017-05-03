@@ -51,6 +51,7 @@ $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=18 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Español (Américas): UF 1993-24</option>".
 "<option value=19 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Español (Europea): UF 2009-1</option>".
 "<option value=20 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Svenska: UF 2010-1</option>".
+"<option value=22 title='&#169;&nbsp;Urantia&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Türk: USGNY 2012-1</option>".
                "</optgroup>".
                 "<optgroup label='$DRAFTS'>".
 "<option value=5 title='&#169;&nbsp;Urantia&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Русский: USGNY 2017-1</option>".
