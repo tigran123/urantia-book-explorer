@@ -7,8 +7,10 @@ else {
    $country = trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
 
    switch($country) {
-      case 'RU':
       case 'UA':
+         $lang = 'ua';
+         break;
+      case 'RU':
       case 'BY':
       case 'AM':
       case 'KZ':

@@ -1,7 +1,7 @@
 <?php
 require 'header.php';
 
-$site_langs = ['en' => 'English', 'ru' => 'русский'];
+$site_langs = ['en' => 'English', 'ru' => 'русский', 'ua' => 'український'];
 $site_lang_selector = "<select id='language' title='$SELECT_SITE_LANGUAGE'>";
 foreach($site_langs as $key => $value) {
    if ($lang == $key) $site_lang_selector .= "<option selected value='$key'>$value</option>";
