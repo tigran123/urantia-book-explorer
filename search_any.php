@@ -48,7 +48,7 @@ if (isset($text)) {
             $ref_a_total = preg_match_all('/<a\shref.*?a>|<a\sclass.*?a>|<figure.*?figure>|<sup.*?sup>/u', $line, $all_ref);  //Запоминаем все ссылки из текста
             for ($r = 0; $r < $ref_a_total; $r++)
                $mask[] = '<***'.$r.'>';                                          //Уникальная маска для каждой ссылки
-            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u'], '', $line);    //Убираем заголовки, номера абзацев
+            $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<\/?b>/u'], '', $line);    //Убираем заголовки, номера абзацев
             if ($ref_a_total) $line = str_replace($all_ref[0], $mask, $line);    //Убираем ссылки
             $p_count = 0;
             foreach ($pattern_ar as $pattern) {
