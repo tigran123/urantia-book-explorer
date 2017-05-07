@@ -36,6 +36,7 @@ $text_options = "<optgroup label='$ORIGINALS'>".
                "</optgroup>".
                 "<optgroup label='$TRANSLATIONS'>".
 "<option value=2 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Русский: UF 4-е изд.</option>".
+"<option value=23 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Русский: UF 5-е изд.</option>".
 "<option value=4 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Deutsch: UF 2015-1</option>".
 "<option value=6 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Nederlands: UF 1997-1</option>".
 "<option value=7 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Eesti: UF 2010-1</option>".
