@@ -10,7 +10,7 @@ foreach($text_sizes as $key) {
 $text_size_selector .= "</select>";
 
 $site_langs = ['en' => 'English', 'ru' => 'русский', 'ua' => 'український'];
-$site_lang_selector = "<label for='language'>$SITE_LANGUAGE</label> <select id='language'";
+$site_lang_selector = "<label for='language'>$SITE_LANGUAGE</label> <select id='language'>";
 foreach($site_langs as $key => $value) {
    if ($lang == $key) $site_lang_selector .= "<option selected value='$key'>$value</option>";
    else $site_lang_selector .= "<option value='$key'>$value</option>";
