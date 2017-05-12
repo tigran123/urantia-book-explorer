@@ -207,7 +207,7 @@ $('#themes').selectmenu({
      document.cookie = 'theme=' + ui.item.value + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
      location.reload();
   },
-  width: 200
+  width: 150
 });
 
 $('#toc_expand_collapse').click(function(event) {
