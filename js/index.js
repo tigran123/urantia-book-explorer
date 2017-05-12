@@ -89,6 +89,8 @@ $('.coltxt').each(function() {
    });
 });
 
+$('.coltxt,#search_results,#notes').css('font-size', getCookie('ts'));
+
 $('#search_part').selectmenu({change: function() { $('#search_text').focus(); }, width: 120});
 $('#search_mode').selectmenu({change: function() { $('#search_text').focus(); }, width: 140});
 $('#search_range').selectmenu({change: function() { $('#search_text').focus(); }, width: 180});
@@ -183,6 +185,14 @@ $('.colupdown').click(function() {
 });
 
 $('.colclose').click(function() { toggle_active_column($(this).attr('id').replace('close','')); });
+
+$('#ts').selectmenu({
+  change: function(event, ui) {
+     document.cookie = 'ts=' + ui.item.value + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+     location.reload();
+  },
+  width: 80 
+});
 
 $('#language').selectmenu({
   change: function(event, ui) {

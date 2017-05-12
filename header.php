@@ -1,5 +1,10 @@
 <?php
 
+if (isset($_COOKIE['ts']))
+   $ts = $_COOKIE['ts'];
+else
+   $ts = '16px';
+
 if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
 else {

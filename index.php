@@ -1,8 +1,16 @@
 <?php
 require 'header.php';
 
+$text_size_selector = "<label for='ts'>$TEXT_SIZE</label> <select id='ts'";
+$text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '18px', '19px', '20px', '21px', '22px', '24px'];
+foreach($text_sizes as $key) {
+   if ($ts == $key) $text_size_selector .= "<option selected value='$key'>$key</option>";
+   else $text_size_selector .= "<option value='$key'>$key</option>";
+}
+$text_size_selector .= "</select>";
+
 $site_langs = ['en' => 'English', 'ru' => 'русский', 'ua' => 'український'];
-$site_lang_selector = "<select id='language' title='$SELECT_SITE_LANGUAGE'>";
+$site_lang_selector = "<label for='language'>$SITE_LANGUAGE</label> <select id='language'";
 foreach($site_langs as $key => $value) {
    if ($lang == $key) $site_lang_selector .= "<option selected value='$key'>$value</option>";
    else $site_lang_selector .= "<option value='$key'>$value</option>";
@@ -15,7 +23,7 @@ $themes = ['ui-lightness' => 'UI Lightness', 'base' => 'Base', 'black-tie' => 'B
            'pepper-grinder' => 'Pepper Grinder', 'redmond' => 'Redmond', 'smoothness' => 'Smoothness',
            'south-street' => 'South Street', 'start' => 'Start', 'sunny' => 'Sunny'];
 
-$themes_selector = "<select id='themes' title='$SELECT_SITE_THEME'>";
+$themes_selector = "<label for='themes'>$SITE_THEME</label> <select id='themes'>";
 foreach($themes as $key => $value) {
    if ($theme == $key) $themes_selector .= "<option selected value='$key'>$value</option>";
    else $themes_selector .= "<option value='$key'>$value</option>";
@@ -236,7 +244,7 @@ echo "<div id='tabs'>
 <div id='tab_settings'>
 <fieldset>
 <legend>$SITE_SETTINGS</legend>
-<div>$site_lang_selector $tooltips_checkbox $animations_checkbox $themes_selector</div>
+<div>$text_size_selector $site_lang_selector $tooltips_checkbox $animations_checkbox $themes_selector</div>
 </fieldset>
 </div>
 
