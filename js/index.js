@@ -1,4 +1,6 @@
-var active_column = 'col1';
+var active_column = getCookie('active_column');
+if (active_column == undefined) active_column = 'col1';
+
 var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 
 $('.buttons').button();
@@ -32,6 +34,7 @@ $('.coltxtsw').on('click', function() {
    $('.' + col).removeClass('hidden');
    document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    active_column = col;
+   document.cookie = 'active_column=' + col + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    var mod_idx = $('#' + col + 'mod').val();
    load_notes(mod_idx);
    $('#' + col + 'toc').removeClass('hidden');
