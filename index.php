@@ -2,7 +2,7 @@
 require 'header.php';
 
 $text_size_selector = "<label for='ts'>$TEXT_SIZE</label> <select id='ts'";
-$text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '18px', '19px', '20px', '21px', '22px', '24px'];
+$text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '17px', '18px', '19px', '20px', '21px', '22px', '24px'];
 foreach($text_sizes as $key) {
    if ($ts == $key) $text_size_selector .= "<option selected value='$key'>$key</option>";
    else $text_size_selector .= "<option value='$key'>$key</option>";
