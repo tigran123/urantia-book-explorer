@@ -116,10 +116,9 @@ $('#clear').click(function(event) { $('#search_text').val('').focus(); });
 
 $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
   e.preventDefault();
-  var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
   var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
-  if (fnpat.exec(href)) $('#notes').scrollTo(href, delay);
+  if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
   else {
      var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
      var $coltxt = $('#' + active_column + 'txt');
@@ -131,18 +130,18 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
            var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
            $('#' + active_column + 'title').html(title);
            colpaper_map[active_column] = paper;
-           $coltxt.scrollTo(href, delay);
+           $coltxt.scrollTo(href, get_delay());
            $marks.each(function() { $coltxt.mark($(this).text(), mark_opts); });
         });
      } else {
-        $coltxt.scrollTo(href, delay);
+        $coltxt.scrollTo(href, get_delay());
         $marks.each(function(idx, el) { $coltxt.mark($(this).text(), mark_opts); });
      }
      var colclass = $('.' + active_column);
      if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
          colclass.removeClass('hidden');
          $('#max_width').click();
-         $('#search_results').scrollTo(href, delay);
+         $('#search_results').scrollTo(href, get_delay());
      }
   }
   $('#search_text').focus();
@@ -150,10 +149,9 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
 
 $('.coltxt').on('click', 'a', function(e) {
   e.preventDefault();
-  var delay = $('#animations').is(':checked') ? 606 : 0;
   var href = $(this).attr('href');
   var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
-  if (fnpat.exec(href)) $('#notes').scrollTo(href, delay);
+  if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
   else {
      var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
      var this_column = e.delegateTarget;
@@ -166,22 +164,21 @@ $('.coltxt').on('click', 'a', function(e) {
                 var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
                 $('#' + col + 'title').html(title);
                 colpaper_map[col] = paper;
-                $coltxt.scrollTo(href, delay);
+                $coltxt.scrollTo(href, get_delay());
             });
          } else {
-            $coltxt.scrollTo(href, delay);
+            $coltxt.scrollTo(href, get_delay());
          }
      });
-     $(this_column).scrollTo(href, delay);
+     $(this_column).scrollTo(href, get_delay());
   }
   $('#search_text').focus();
 });
 
 $('.colupdown').click(function() {
   var coltxt = '#' + $(this).parent().attr('id').replace('hdr','txt');
-  var delay = $('#animations').is(':checked') ? 606 : 0;
   offset = $(this).attr('name') == 'up' ? 0 : $(coltxt)[0].scrollHeight;
-  $(coltxt).scrollTo(offset, delay);
+  $(coltxt).scrollTo(offset, get_delay());
 });
 
 $('.colclose').click(function() { toggle_active_column($(this).attr('id').replace('close','')); });
@@ -273,16 +270,15 @@ $('#search').click(function(event) {
              ref[3] = 0; /* section title */
        }
        var href = '.U' + paper + '_' + ref[2] + '_' + ref[3];
-       var delay = $('#animations').is(':checked') ? 606 : 0;
        var $coltxt = $('#' + active_column + 'txt');
        if (colpaper_map[active_column] != paper) {
          $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
             var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
             $('#' + active_column + 'title').html(title);
             colpaper_map[active_column] = paper;
-            $coltxt.scrollTo(href, delay);
+            $coltxt.scrollTo(href, get_delay());
          });
-       } else $coltxt.scrollTo(href, delay);
+       } else $coltxt.scrollTo(href, get_delay());
     } else {
        var search_part = '&search_part=' + $('#search_part').val();
        var search_range = '&search_range=' + $('#search_range').val();
@@ -403,4 +399,8 @@ function load_notes(mod_idx) {
          $('#notes_total').html('(' + n + ')');
       }
    });
+}
+
+function get_delay() {
+  return $('#animations').is(':checked') ? 606 : 0;
 }
