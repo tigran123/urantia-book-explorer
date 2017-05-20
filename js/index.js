@@ -262,10 +262,16 @@ $('#search').click(function(event) {
     var text = $('<div/>').html(html).text(); /* strip html tags, if any */
     if (!text) return;
     var mod_idx = $('#' + active_column + 'mod').val();
-    var srt = /(\d{1,3}):(\d{1,2}).(\d{1,3})/; /* SRT ref 'Paper:Section.Paragraph' */
+    var srt = /(\d{1,3}):(\d{1,2}).?(\d{1,3})?/; /* SRT ref 'Paper:Section.Paragraph' */
     var ref = srt.exec(text);
     if (ref) {
        var paper = ref[1];
+       if (ref[3] == undefined) {
+          if (ref[2] == 0)
+             ref[3] = 1; /* beginning of the whole paper */
+          else
+             ref[3] = 0; /* section title */
+       }
        var href = '.U' + paper + '_' + ref[2] + '_' + ref[3];
        var delay = $('#animations').is(':checked') ? 606 : 0;
        var $coltxt = $('#' + active_column + 'txt');
