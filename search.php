@@ -39,4 +39,18 @@ function text_replace($matches) {
    else
       return '<mark>'.$m1.'</mark>'.$m2;
 }
+
+//заменяем символы маски на регэкс
+function mask2regexp($text) {
+   $search = ["/\*/u",                                   //Заменяем символ * (любые символы) на спецстроку
+              "/\+/u"];                                  //Заменяем символ + (любые символы, как минимум один) на спецстроку
+   $replace = ['\\w*',
+               '\\w+'];
+   return preg_replace($search, $replace, $text);
+}
+
+//изменяем строку если нужно в нижний регистр
+function str_i($text, $ic) {
+   return ($ic) ? strtolower($text) : $text;
+}
 ?>
