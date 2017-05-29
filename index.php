@@ -160,7 +160,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colclose' id='col1close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
-    <div class='coltitle' id='col1title'></div>
+    <div class='coltitle coltxttitle' id='col1title'></div>
   </th>
   <th class='col2 headers txthdr' id='col2hdr' title='$PRESS_CTRL_2'>
     <span class='uxtra'>2</span>
@@ -174,7 +174,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colclose' id='col2close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
-    <div class='coltitle' id='col2title'></div>
+    <div class='coltitle coltxttitle' id='col2title'></div>
   </th>
   <th class='col3 headers txthdr' id='col3hdr' title='$PRESS_CTRL_3'>
     <span class='uxtra'>3</span>
@@ -188,7 +188,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colclose' id='col3close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
-    <div class='coltitle' id='col3title'></div>
+    <div class='coltitle coltxttitle' id='col3title'></div>
   </th>
   <th class='col4 headers txthdr' id='col4hdr' title='$PRESS_CTRL_4'>
     <span class='uxtra'>4</span>
@@ -202,7 +202,7 @@ echo "<div id='tabs'>
     <a href='javascript:void(0)' class='colclose' id='col4close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
-    <div class='coltitle' id='col4title'></div>
+    <div class='coltitle coltxttitle' id='col4title'></div>
   </th>
   <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
     <span class='coltitle' id='col5title'>$SEARCH_RESULTS <span id='search_total'></span></span>

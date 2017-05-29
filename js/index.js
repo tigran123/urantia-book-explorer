@@ -74,7 +74,7 @@ $('.colmod').selectmenu({
    $(this).val(mod_idx).selectmenu('refresh');
 });
 
-$('.coltitle').click(function(e) { $('#' + e.currentTarget.id.replace('title','rad')).click(); });
+$('.coltxttitle').click(function(e) { $('#' + e.currentTarget.id.replace('title','rad')).click(); });
 
 $('.coltxt').each(function() {
    var col = $(this).attr('id').replace('txt', '');
