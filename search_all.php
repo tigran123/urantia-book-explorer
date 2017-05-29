@@ -150,7 +150,6 @@ if (isset($text)) {
                $word_mark[$word2_p] = $word2;
             }
             if (count($word_mark) == 0 && count($dist_ar) != 0) continue; //А если ничего так и не нашли - идем к следующему абзацу
-            //Не нашел первое sex в 69:5.10 по sex /[1,3] society
 
             //2. Заполняем из остальных слов запроса, найденных в абзаце 
             foreach ($finded_words as $word) {
