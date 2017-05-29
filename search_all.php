@@ -24,7 +24,7 @@ if (isset($text)) {
 
    $text = trim(preg_replace(['/[\\\\<>()\[\]]/u', '/([*+])+/u'],['', '$1'], $text));//Чистим текст запроса от лишнего
    if (($text == ''||$text == '*'||$text == '+') && empty($words_dist_req[0]) == true ) end_search(0, 0, '');                //Завершаем поиск, если строка поиска пустая или только * или +
-   $text = preg_replace('/(?<=\s|^)\W+(?=\s|$)\s?|[^\s\w\*\+\-]/u', '', $text);      //Убираем любые символы, кроме пробела и (* или +) в слове
+   $text = preg_replace('/(?<=\s|^)\W+(?=\s|$)\s?|[^\s\w\*\+\-]/u', '', $text);      //Убираем любые символы, кроме пробела, *, + или - в слове
    if (trim($text) == false && empty($words_dist_req) == true ) end_search(0, 0, '');
    //в поиске реализованы спецсимволы-маски:
    //* - любое количество букв (от нуля и больше)
@@ -42,16 +42,16 @@ if (isset($text)) {
       $words_dist_req['Word2_AsRegex'][$key] = 0; //Флаг - искать слово2 как регэкс (1) или просто (0)
       if (strpos($word1,"*") !== false || strpos($word1,"+") !== false) {
          $words_dist_req[1][$key] = mask2regexp($word1);
-         $words_dist_req['Word1_AsRegex'][$key] = 1; 
+         $words_dist_req['Word1_AsRegex'][$key] = 1;
       }
       if (strpos($word2,"*") !== false || strpos($word2,"+") !== false) {
          $words_dist_req[6][$key] = mask2regexp($word2);
          $words_dist_req['Word2_AsRegex'][$key] = 1;
       }
-      $distants      = $words_dist_req[5][$key];
+      $distances      = $words_dist_req[5][$key];
       //Дистанция - От и До
-      $words_dist_req[3][$key] = $distants != null ?  $distants : $words_dist_req[3][$key];
-      $words_dist_req[4][$key] = $distants != null ?  $distants : $words_dist_req[4][$key];
+      $words_dist_req[3][$key] = $distances != null ?  $distances : $words_dist_req[3][$key];
+      $words_dist_req[4][$key] = $distances != null ?  $distances : $words_dist_req[4][$key];
       //признак - ищем в пределах абзаца (0) или строки (1)
       $words_dist_req['InSentence'][$key] = strlen($words_dist_req[2][$key]) == 1 ?  0 : 1;
       //признак - ищем без учета последовательности (0) или с последовательностью (1)
@@ -85,12 +85,12 @@ if (isset($text)) {
                $mask[] = '<***'.$r.'>';                                          //Уникальная маска для каждой ссылки
             $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<\/?b>/u'], '', $line);    //Убираем заголовки, номера абзацев, жирные буквы
             if ($ref_a_total) $line = str_replace($all_ref[0], $mask, $line);    //Убираем ссылки
-            $VseSlova = [];
+            $finded_words = [];
             foreach ($pattern_ar as $pattern) {                                  //а попадают ли слова в абзац?
                if (preg_match_all('/\\b' .$pattern. '\\b/u'.$i_mode, str_i($line,$ic), $slova) == 0) continue 2; //Если слово из запроса не найдено, то ищем следующий абзац
-               $VseSlova = array_merge($VseSlova,$slova[0]);                                             
+               $finded_words = array_merge($finded_words,$slova[0]);                                             
             }
-            $VseSlova = array_unique($VseSlova);
+            $finded_words = array_unique($finded_words);
 
             //Преобразуем абзац в массив слов
             $line1 = $line;
@@ -99,21 +99,21 @@ if (isset($text)) {
 
 // Планируемые выражения дистанции между словами в поисковой строке:
 // /[N,M] - в пределах абзаца (укороченно /N = /[N,N])
-// //[N,M]- в пределах строки
+// //[N,M]- в пределах предложения
 // @[N,M] - в пределах абзаца, с учетом последовательности
-// @@[N,M]- в пределах строки, с учетом последовательности
+// @@[N,M]- в пределах предложения, с учетом последовательности
             //Массивы - позиции исследуемых слов word1 и word2 в абзаце
             $keys1 = [];
             $keys2 = [];
             foreach ($words_dist_req[0] as $key => $words_dist) {
                $word1              = $words_dist_req[1][$key];
-               $word2              = $words_dist_req[6][$key]; //$dest = "BAD ";
-               $distants_from      = $words_dist_req[3][$key];
-               $distants_to        = $words_dist_req[4][$key];
+               $word2              = $words_dist_req[6][$key];
+               $distances_from      = $words_dist_req[3][$key];
+               $distances_to        = $words_dist_req[4][$key];
                $search_inSentence  = $words_dist_req['InSentence'][$key];
                $distant_with_order = $words_dist_req['WithOrder'][$key];
                
-               //Определяем, а есть ли вообще слова word1 и word2 в абзаце 
+               //Определяем, а есть ли вообще слова word1 и word2 в абзаце
                if (preg_match_all('/\\b' .$word1. '\\b/u'.$i_mode, str_i($line1,$ic), $re_words1) == 0) continue 2;
                $re_words1 = array_unique($re_words1[0]);
                if (preg_match_all('/\\b' .$word2. '\\b/u'.$i_mode, str_i($line1,$ic), $re_words2) == 0) continue 2;
@@ -130,10 +130,10 @@ if (isset($text)) {
             foreach ($keys1 as $key1) {
                foreach ($keys2 as $key2) {
                   if ($distant_with_order == 1) {
-                     if (($key2-$key1) >= $distants_from && ($key2-$key1) <= $distants_to) $dist_ar[] = [$key1, $key2];  //если не нашли по расстоянию - ищем в следующем абзаце
+                     if (($key2-$key1) >= $distances_from && ($key2-$key1) <= $distances_to) $dist_ar[] = [$key1, $key2];  //если не нашли по расстоянию - ищем в следующем абзаце
                   }
                   else {
-                     if (abs($key2-$key1) >= $distants_from && abs($key2-$key1) <= $distants_to) $dist_ar[] = [$key1, $key2]; //если не нашли по расстоянию - ищем в следующем абзаце
+                     if (abs($key2-$key1) >= $distances_from && abs($key2-$key1) <= $distances_to) $dist_ar[] = [$key1, $key2]; //если не нашли по расстоянию - ищем в следующем абзаце
                   }
                }
             }
@@ -149,11 +149,11 @@ if (isset($text)) {
                $word_mark[$word1_p] = $word1;
                $word_mark[$word2_p] = $word2;
             }
-            if (count($word_mark) == 0 && count($dist_ar) == 0) continue; //А если ничего так и не нашли - идем к следующему абзацу
+            if (count($word_mark) == 0 && count($dist_ar) != 0) continue; //А если ничего так и не нашли - идем к следующему абзацу
             //Не нашел первое sex в 69:5.10 по sex /[1,3] society
 
             //2. Заполняем из остальных слов запроса, найденных в абзаце 
-            foreach ($VseSlova as $word) {
+            foreach ($finded_words as $word) {
                $keys = array_keys($words_ar1[0] , $word); //Делаем выборку номеров слов по искомому первому //или попробовать array_merge()
                foreach ($keys as $key) {
                   $word_p             = $words_ar[0][$key][1];//Позиция по номеру слова
