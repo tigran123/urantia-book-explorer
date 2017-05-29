@@ -32,10 +32,4 @@ The application is released under GPL license, however we make use of the follow
 
 * Various translations of the Urantia Book, Copyright (C) Urantia Society of Greater New York and used by permission
 
-When deploying the application you should not copy the files mentioned in `exclude.txt` to the server:
-
-```
-$ rsync --exclude-from=exclude.txt --delete -ahv . tigran123@quantuminfodynamics.com:public_html/ubex/
-```
-
 The application relies on PHP version >= 5.6.27 on the server.
