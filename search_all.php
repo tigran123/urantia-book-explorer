@@ -88,7 +88,7 @@ if (isset($text)) {
             $finded_words = [];
             foreach ($pattern_ar as $pattern) {                                  //а попадают ли слова в абзац?
                if (preg_match_all('/\\b' .$pattern. '\\b/u'.$i_mode, str_i($line,$ic), $slova) == 0) continue 2; //Если слово из запроса не найдено, то ищем следующий абзац
-               $finded_words = array_merge($finded_words,$slova[0]);                                             
+               $finded_words = array_merge($finded_words,$slova[0]);
             }
             $finded_words = array_unique($finded_words);
 
@@ -112,7 +112,7 @@ if (isset($text)) {
                $distances_to        = $words_dist_req[4][$key];
                $search_inSentence  = $words_dist_req['InSentence'][$key];
                $distant_with_order = $words_dist_req['WithOrder'][$key];
-               
+
                //Определяем, а есть ли вообще слова word1 и word2 в абзаце
                if (preg_match_all('/\\b' .$word1. '\\b/u'.$i_mode, str_i($line1,$ic), $re_words1) == 0) continue 2;
                $re_words1 = array_unique($re_words1[0]);
@@ -151,7 +151,7 @@ if (isset($text)) {
             }
             if (count($word_mark) == 0 && count($dist_ar) != 0) continue; //А если ничего так и не нашли - идем к следующему абзацу
 
-            //2. Заполняем из остальных слов запроса, найденных в абзаце 
+            //2. Заполняем из остальных слов запроса, найденных в абзаце
             foreach ($finded_words as $word) {
                $keys = array_keys($words_ar1[0] , $word); //Делаем выборку номеров слов по искомому первому //или попробовать array_merge()
                foreach ($keys as $key) {
