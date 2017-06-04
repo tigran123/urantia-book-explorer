@@ -1,12 +1,5 @@
 <?php
 
-if (isset($_COOKIE['ts']))
-   $ts = $_COOKIE['ts'];
-else {
-   $ts = '16px';
-   setcookie('ts', $ts, time() + 3600*24*365*100); // expire in 100 years
-}
-
 if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
 else {

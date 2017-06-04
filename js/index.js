@@ -92,8 +92,6 @@ $('.coltxt').each(function() {
    });
 });
 
-$('.coltxt,#search_results,#notes').css('font-size', getCookie('ts'));
-
 $('#search_part').selectmenu({change: function() { $('#search_text').focus(); }, width: 120});
 $('#search_mode').selectmenu({change: function() { $('#search_text').focus(); }, width: 140});
 $('#search_range').selectmenu({change: function() { $('#search_text').focus(); }, width: 180});
@@ -186,13 +184,23 @@ $('.colupdown').click(function() {
 
 $('.colclose').click(function() { toggle_active_column($(this).attr('id').replace('close','')); });
 
+var ts = localStorage.getItem("ts");
+if (ts == undefined) {
+   ts = '16px';
+   localStorage.setItem("ts", ts);
+}
+$('.coltxt,#search_results,#notes').css('font-size', ts);
+
 $('#ts').selectmenu({
   change: function(event, ui) {
-     document.cookie = 'ts=' + ui.item.value + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
-     location.reload();
+     var ts = ui.item.value;
+     localStorage.setItem("ts", ts);
+     $('.coltxt,#search_results,#notes').css('font-size', ts);
   },
   width: 80 
 });
+
+$('#ts').val(ts).selectmenu('refresh');
 
 $('#language').selectmenu({
   change: function(event, ui) {
