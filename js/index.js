@@ -1,5 +1,9 @@
-var active_column = getCookie('active_column');
-if (active_column == undefined) active_column = 'col1';
+var active_column = localStorage.getItem("active_column");
+if (active_column == undefined) {
+   active_column = 'col1';
+   localStorage.setItem("active_column", active_column);
+}
+$('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
 
 var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 
@@ -14,8 +18,6 @@ $('#tabs').tabs().on('click', 'a', function(e) {
          location.href = e.target.href;
    }
 });
-
-$('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
 
 $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
@@ -34,7 +36,7 @@ $('.coltxtsw').on('click', function() {
    $('.' + col).removeClass('hidden');
    document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
    active_column = col;
-   document.cookie = 'active_column=' + col + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+   localStorage.setItem("active_column", active_column);
    var mod_idx = $('#' + col + 'mod').val();
    load_notes(mod_idx);
    $('#' + col + 'toc').removeClass('hidden');
