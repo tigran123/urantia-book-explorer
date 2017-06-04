@@ -23,9 +23,9 @@ $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).toggleClass('hidden');
    if ($('#' + col + 'hdr').hasClass('hidden'))
-      document.cookie = col + '=0; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+      localStorage.setItem(col, 0);
    else
-      document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+      localStorage.setItem(col, 1);
    $('#max_width').click();
 });
 
@@ -34,7 +34,7 @@ $('.coltxtsw').on('click', function() {
    if (col == active_column) return;
    $('#' + active_column + 'toc').addClass('hidden');
    $('.' + col).removeClass('hidden');
-   document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+   localStorage.setItem(col, 1);
    active_column = col;
    localStorage.setItem("active_column", active_column);
    var mod_idx = $('#' + col + 'mod').val();
@@ -263,7 +263,11 @@ $('.colsize_controls').click();
 
 $('.headers').each(function() {
    var col = $(this).attr('id').replace('hdr','');
-   var visible = getCookie(col);
+   var visible = localStorage.getItem(col);
+   if (visible == undefined) {
+      visible = 1;
+      localStorage.setItem(col, visible);
+   }
    if (+visible === 0) toggle_active_column(col);
 });
 
@@ -394,13 +398,13 @@ function getCookie(name) {
 function toggle_active_column(col) {
    $('.' + col).toggleClass('hidden');
    if ($('#' + col + 'hdr').hasClass('hidden')) {
-      document.cookie = col + '=0; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+      localStorage.setItem(col, 0);
       if (active_column == col) {
          var newcol = $('.txthdr').not('.hidden').first().attr('id');
          if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
       }
    } else
-      document.cookie = col + '=1; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+      localStorage.setItem(col, 1);
    $('#max_width').click();
 }
 
