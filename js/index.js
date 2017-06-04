@@ -56,15 +56,15 @@ $('.colmod').selectmenu({
         var toc = $(this).find('.toc');
         toc.bonsai();
         $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
-        document.cookie = col + 'mod=' + mod_idx + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+        localStorage.setItem(col + 'mod', mod_idx);
         if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
      });
   },
   width: 228
 }).each(function() {
    var cnum = $(this).attr('id').replace(/col([0-9][0-9]*)mod/,'$1');
-   var mod_idx = getCookie('col' + cnum + 'mod');
-   if (mod_idx === undefined) {
+   var mod_idx = localStorage.getItem('col' + cnum + 'mod');
+   if (mod_idx == undefined) {
       switch(+cnum) {
          case 1: mod_idx = 1; break;
          case 2: mod_idx = 4; break;
