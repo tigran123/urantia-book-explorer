@@ -23,15 +23,15 @@ if (isset($text)) {
    $text = str_replace($words_dist_req[0], '', trim($text));                     //Очищаем их из основного запроса
 
    $text = trim(preg_replace(['/[\\\\<>()\[\]]/u', '/([*+])+/u'],['', '$1'], $text));//Чистим текст запроса от лишнего
-   if (($text == ''||$text == '*'||$text == '+') && empty($words_dist_req[0]) == true ) end_search(0, 0, '');                //Завершаем поиск, если строка поиска пустая или только * или +
+   if (($text == ''||$text == '*'||$text == '+') && empty($words_dist_req[0]) == true ) end_search(0, 0, '', $text);                //Завершаем поиск, если строка поиска пустая или только * или +
    $text = preg_replace('/(?<=\s|^)\W+(?=\s|$)\s?|[^\s\w\*\+\-\?]/u', '', $text);    //Убираем любые символы, кроме пробела, *, +, - или ? в слове
-   if (trim($text) == false && empty($words_dist_req) == true ) end_search(0, 0, '');
+   if (trim($text) == false && empty($words_dist_req) == true ) end_search(0, 0, '', $text);
    //в поиске реализованы спецсимволы-маски:
    //* - любое количество букв (от нуля и больше)
    //+ - любое количество букв (от единицы и больше)
    //цифры ищутся только по тексту (номер параграфа исключается)
-   $text = mask2regexp(trim($text));
-   $pattern_ar          = preg_split('/\s+/',trim($text));                       //Создаем из строки поиска массив из слов
+   $pat = mask2regexp(trim($text));
+   $pattern_ar          = preg_split('/\s+/',trim($pat));                       //Создаем из строки поиска массив из слов
    if (is_array($pattern_ar) == false) $pattern_ar = [];
 
    //Подготавливаем массив слов из запроса по расстоянию
@@ -178,6 +178,6 @@ if (isset($text)) {
    $matches[] = sprintf("%.4f s", microtime(true) - $time_start);
 }
 
-end_search($par_count, $match_count, $matches);
+end_search($par_count, $match_count, $matches, $text);
 
 ?>

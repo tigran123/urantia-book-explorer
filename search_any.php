@@ -17,9 +17,9 @@ if (isset($text)) {
    $time_start = microtime(true);
    list($i_min, $i_max) = init_vars($search_part);
    $text = trim(preg_replace(['/[\\\\<>()\[\]]/u', '/([*+])+/u'],['', '$1'], $text));//Чистим текст запроса от лишнего
-   if ($text == ''||$text == '*'||$text == '+') end_search(0, 0, '');                //Завершаем поиск, если строка поиска пустая или только * или +
+   if ($text == ''||$text == '*'||$text == '+') end_search(0, 0, '', $text);         //Завершаем поиск, если строка поиска пустая или только * или +
    $text = preg_replace('/(?<=\s|^)\W+(?=\s|$)\s?|[^\s\w\*\+\-\?]/u', '', $text);    //Убираем любые символы, кроме пробела, *, +, - или ? в слове
-   if (trim($text) == false ) end_search(0, 0, '');
+   if (trim($text) == false) end_search(0, 0, '', $text);
    //в поиске реализованы спецсимволы-маски:
    //* - любое количество букв (от нуля и больше)
    //+ - любое количество букв (от единицы и больше)
@@ -67,6 +67,6 @@ if (isset($text)) {
    $matches[] = sprintf("%.4f s", microtime(true) - $time_start);
 }
 
-end_search($par_count, $match_count, $matches);
+end_search($par_count, $match_count, $matches, $text);
 
 ?>

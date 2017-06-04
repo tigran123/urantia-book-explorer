@@ -307,7 +307,7 @@ $('#search').click(function(event) {
           var json = JSON.parse(data);
           $('#search_results').html(json.matches);
           $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')');
-          $('#search_text').removeClass('loading').prop('disabled', false).focus();
+          $('#search_text').removeClass('loading').prop('disabled', false).val(json.text).focus();
           $('#search').button('enable');
           $('#' + active_column + 'txt').unmark();
        }, dataType: "html"});

@@ -23,8 +23,8 @@ function init_vars($search_part) {
 }
 
 //завершаем скрипт
-function end_search($par_count, $match_count, $matches) {
-   $json = ['par_count' => $par_count, 'match_count' => $match_count, 'matches' => $matches];
+function end_search($par_count, $match_count, $matches, $text) {
+   $json = ['par_count' => $par_count, 'match_count' => $match_count, 'matches' => $matches, 'text' => $text];
    echo json_encode($json);
    flush();
    exit;

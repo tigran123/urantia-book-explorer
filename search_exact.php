@@ -25,7 +25,7 @@ if (isset($text)) {
    $_i           = '(?:<\/i>)?'.$link_mask;
 
    $text = trim(preg_replace(['/[<>()\[\]]|\\\\(?!d)/u', '/([*+])+/u'],['', '$1'], $text));//Чистим текст запроса от лишнего
-   if ($text == ''||$text == '*'||$text == '+') end_search(0, 0, '');                //Завершаем поиск, если строка поиска пустая или только * или +
+   if ($text == ''||$text == '*'||$text == '+') end_search(0, 0, '', $text);                //Завершаем поиск, если строка поиска пустая или только * или +
    //end_search(0,0,htmlentities($text)); 
    //в поиске реализованы спецсимволы-маски:
    //* - любое количество букв (от нуля и больше)
@@ -114,6 +114,6 @@ if (isset($text)) {
    $matches[] = sprintf("%.4f s", microtime(true) - $time_start);
 }
 
-end_search($par_count, $match_count, $matches);
+end_search($par_count, $match_count, $matches, $text);
 
 ?>
