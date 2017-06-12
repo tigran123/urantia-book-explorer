@@ -24,7 +24,7 @@ if (isset($text)) {
 
    $text = trim(preg_replace(['/[\\\\<>()\[\]]/u', '/([*+])+/u'],['', '$1'], $text));//Чистим текст запроса от лишнего
    if (($text == ''||$text == '*'||$text == '+') && empty($words_dist_req[0]) == true ) end_search(0, 0, '', $text);                //Завершаем поиск, если строка поиска пустая или только * или +
-   $text = preg_replace('/(?<=\s|^)\W+(?=\s|$)\s?|[^\s\w\*\+\-\?]/u', '', $text);    //Убираем любые символы, кроме пробела, *, +, - или ? в слове
+   $text = preg_replace('/(?<=\s|^)[^\s\w\*\+]+(?=\s|$)\s?|[^\s\w\*\+\-\?]/u', '', $text);    //Убираем любые символы, кроме пробела, *, +, - или ? в слове
    if (trim($text) == false && empty($words_dist_req) == true ) end_search(0, 0, '', $text);
    //
    // В поиске реализованы спецсимволы-маски:
@@ -94,7 +94,7 @@ if (isset($text)) {
          foreach($lines as $line) {
             preg_match('/^<p>(.*?a>)/u', $line, $ref);
             $mask = [];
-            $ref_a_total = preg_match_all('/<a\shref.*?a>|<a\sclass.*?a>|<figure.*?figure>|<sup.*?sup>|<\/?em>/u', $line, $all_ref);  //Запоминаем все ссылки из текста
+            $ref_a_total = preg_match_all('/<a\shref.*?a>|<a\sclass.*?a>|<figure.*?figure>|<sup.*?sup>/u', $line, $all_ref);  //Запоминаем все ссылки из текста
             for ($r = 0; $r < $ref_a_total; $r++)
                $mask[] = '<***'.$r.'>';                                          //Уникальная маска для каждой ссылки
             $line = preg_replace(['/^<h4>.*\\\\n/m','/^.*?a>/u','/<\/?b>/u'], '', $line);    //Убираем заголовки, номера абзацев, жирные буквы
@@ -102,9 +102,10 @@ if (isset($text)) {
             $finded_words = [];
             foreach ($pattern_ar as $pattern) {                                  //а попадают ли слова в абзац?
                if (strpos($pattern, '-') === 0) {                                //Это слово-исключение, т.к. начинается с минуса -. Т.е. его не должно быть в тексте
-                  if (preg_match_all('/\\b' .substr($pattern, 1). '\\b/u'.$i_mode, str_i($line,$ic), $words_for_pattern) != 0) continue 2; //Если слово из запроса найдено, то ищем следующий абзац
+                  if (preg_match_all('/\\b' .substr($pattern, 1). '(?!\w)/u'.$i_mode, str_i($line,$ic), $words_for_pattern) != 0) continue 2; //Если слово из запроса найдено, то ищем следующий абзац
                } else {
-                  if (preg_match_all('/\\b' .$pattern. '\\b/u'.$i_mode, str_i($line,$ic), $words_for_pattern) == 0) continue 2; //Если слово из запроса не найдено, то ищем следующий абзац
+                  $res_search = preg_match_all('/\\b' .$pattern. '(?!\w)/u'.$i_mode, str_i($line,$ic), $words_for_pattern);
+                  if ($res_search == 0) continue 2; //Если слово из запроса не найдено, то ищем следующий абзац
                }
                $finded_words = array_merge($finded_words,$words_for_pattern[0]);
             }
@@ -112,8 +113,10 @@ if (isset($text)) {
 
             //Преобразуем абзац в массив слов
             $line1 = $line;
-            preg_match_all('/\w+-?\w*\b(?!>)/u', str_i($line1,$ic), $words_ar1);         //Создаем массив из слов. Массив вспомогательный. Нужен для нахождения номера по порядку слова в абзаце
-            preg_match_all('/\w+-?\w*\b(?!>)/u', $line1, $words_ar, PREG_OFFSET_CAPTURE);//Создаем массив из подмассивов: слово и его начальная позиция в предложении
+            preg_match_all('/\w+-?\w*\b-?(?!>)/u', str_i($line1,$ic), $words_ar1);         //Создаем массив из слов. Массив вспомогательный. Нужен для нахождения номера по порядку слова в абзаце
+            preg_match_all('/\w+-?\w*\b-?(?!>)/u', $line1, $words_ar, PREG_OFFSET_CAPTURE);//Создаем массив из подмассивов: слово и его начальная позиция в предложении
+            //"\b-?"  - добавил возможность находить слова с "-" в конце, например, one- или two-
+            //"(?!>)" - проверяем последний символ, не конец ли это тэга?
 
             //Массивы - позиции исследуемых слов word1 и word2 в абзаце
             $keys1 = [];
@@ -127,9 +130,9 @@ if (isset($text)) {
                $distant_with_order = $words_dist_req['WithOrder'][$key];
 
                //Определяем, а есть ли вообще слова word1 и word2 в абзаце
-               if (preg_match_all('/\\b' .$word1. '\\b/u'.$i_mode, str_i($line1,$ic), $re_words1) == 0) continue 2;
+               if (preg_match_all('/\\b' .$word1. '(?!\w)/u'.$i_mode, str_i($line1,$ic), $re_words1) == 0) continue 2;
                $re_words1 = array_unique($re_words1[0]);
-               if (preg_match_all('/\\b' .$word2. '\\b/u'.$i_mode, str_i($line1,$ic), $re_words2) == 0) continue 2;
+               if (preg_match_all('/\\b' .$word2. '(?!\w)/u'.$i_mode, str_i($line1,$ic), $re_words2) == 0) continue 2;
                $re_words2 = array_unique($re_words2[0]);
                foreach ($re_words1 as $word1) {
                   $keys1 = array_merge($keys1, array_keys($words_ar1[0] , $word1)); //Делаем выборку номеров слов по искомому первому //или попробовать array_merge()
