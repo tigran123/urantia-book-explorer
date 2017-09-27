@@ -91,8 +91,8 @@ echo "<div id='tabs'>
 <th colspan=4 title='$HELP_TIP'><hr>$HELP_SEARCH</th>
 <tr><td class='key'>*</td><td>$ANY_SYMBOLS0</td><td class='key'>+</td><td>$ANY_SYMBOLS1</td></tr>
 <tr><td class='key'>?</td><td>$ANY_SYMBOL</td><td class='key'>-$WORD</td><td>$MINUS_SYMBOL</td></tr>
-<tr><td class='key'>$WORD1 /[N,M] $WORD2</td><td>$DIST_WO_ORDER</td><td class='key'>/N = /[N,N]</td><td>$DIST_SHORT</td></tr>
-<tr><td class='key'>$WORD1 @[N,M] $WORD2</td><td>$DIST_W_ORDER</td><td class='key'>@N = @[N,N]</td><td>$DIST_SHORT</td></tr>
+<tr><td class='key'>$WORD1 /[N,M] $WORD2</td><td>$DIST_WO_ORDER</td><td class='key'>/N</td><td>$DIST_WO_SHORT</td></tr>
+<tr><td class='key'>$WORD1 @[N,M] $WORD2</td><td>$DIST_W_ORDER</td><td class='key'>@N</td><td>$DIST_W_SHORT</td></tr>
 </table>
 </div>
 
