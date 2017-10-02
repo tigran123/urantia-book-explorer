@@ -89,10 +89,14 @@ echo "<div id='tabs'>
 <tr><td class='key'>Ctrl + M</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
 <th colspan=4 title='$HELP_TIP'><hr>$HELP_SEARCH</th>
-<tr><td class='key'>*</td><td>$ANY_SYMBOLS0</td><td class='key'>+</td><td>$ANY_SYMBOLS1</td></tr>
-<tr><td class='key'>?</td><td>$ANY_SYMBOL</td><td class='key'>-$WORD</td><td>$MINUS_SYMBOL</td></tr>
-<tr><td class='key'>$WORD1 /[N,M] $WORD2</td><td>$DIST_WO_ORDER</td><td class='key'>/N</td><td>$DIST_WO_SHORT</td></tr>
-<tr><td class='key'>$WORD1 @[N,M] $WORD2</td><td>$DIST_W_ORDER</td><td class='key'>@N</td><td>$DIST_W_SHORT</td></tr>
+<tr><td class='key'>*</td><td colspan=3>$ANY_SYMBOLS0</td></tr>
+<tr><td class='key'>+</td><td colspan=3>$ANY_SYMBOLS1</td></tr>
+<tr><td class='key'>?</td><td colspan=3>$ANY_SYMBOL</td></tr>
+<tr><td class='key'>-$WORD</td><td colspan=3>$MINUS_SYMBOL</td></tr>
+<tr><td class='key'>$WORD1 /[N,M] $WORD2</td><td colspan=3>$DIST_WO_ORDER</td></tr>
+<tr><td class='key'>/N</td><td colspan=3>$DIST_WO_SHORT</td></tr>
+<tr><td class='key'>$WORD1 @[N,M] $WORD2</td><td colspan=3>$DIST_W_ORDER</td></tr>
+<tr><td class='key'>@N</td><td colspan=3>$DIST_W_SHORT</td></tr>
 </table>
 </div>
 
