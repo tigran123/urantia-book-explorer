@@ -83,11 +83,12 @@ echo "<div id='tabs'>
 <th colspan=4 title='$HELP_TIP'>$HELP<hr></th>
 <tr><td class='key'>F1</td><td>$CALL_HELP</td><td class='key'>Ctrl + 0</td><td>$SHOW_HIDE_TOC</td></tr>
 <tr><td class='key'>Ctrl + X</td><td>$CLEAR_SEARCH_STRING_HELP</td><td class='key'>Ctrl + 1/2/3/4</td><td>$SHOW_HIDE_COL1234</td></tr>
-<tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_CONTROL_PANEL</td><td class='key'>Ctrl + Shift 1/2/3/4</td><td>$SELECT_TEXT1234</td></tr>
+<tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_SEARCH_PANEL</td><td class='key'>Ctrl + Shift 1/2/3/4</td><td>$SELECT_TEXT1234</td></tr>
 <tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
 <tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 6</td><td>$SHOW_HIDE_NOTES</td></tr>
 <tr><td class='key'>Ctrl + M</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
+<tr><td class='key'>Ctrl + E</td><td>$SHOW_HIDE_EXPLORER_PANEL</td></tr>
 <th colspan=4 title='$HELP_TIP'><hr>$HELP_SEARCH</th>
 <tr><td class='key'>*</td><td colspan=3>$ANY_SYMBOLS0</td></tr>
 <tr><td class='key'>+</td><td colspan=3>$ANY_SYMBOLS1</td></tr>
@@ -101,7 +102,7 @@ echo "<div id='tabs'>
 </div>
 
 <div class='container' id='controls'>
-<div>
+<div id='explorer_control'>
 <fieldset>
 <legend>$EXPLORER_PANEL</legend>
 <button class='buttons colsw' type='button' id='col0rad' title='$SHOW_HIDE_TOC_HELP'><span class='ui-icon ui-icon-bookmark'></span></button>
@@ -116,7 +117,7 @@ echo "<div id='tabs'>
 <button class='buttons' type='button' id='help_button' title='$HELP_TOOLTIP'><span class='ui-icon ui-icon-help'></span></button>
 </fieldset>
 </div>
-<div>
+<div id='search_control'>
 <fieldset>
 <legend>$SEARCH_PANEL</legend>
 <select id='search_part' title='$SELECT_PARTS'>

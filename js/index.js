@@ -309,7 +309,7 @@ $('#search').click(function(event) {
 
 $(document).keydown(function(event) {
    var key = event.which, ctrl = event.ctrlKey, shift = event.shiftKey;
-   //console.log("key=" + key);
+   console.log("key=" + key);
    if (key == 112) { /* F1 */
       event.preventDefault();
       $('#help_button').click();
@@ -359,9 +359,15 @@ $(document).keydown(function(event) {
    } else if (ctrl && key == 77) { /* Ctrl + M */
       event.preventDefault();
       $('#max_height').click();
+   } else if (ctrl && key == 69) { /* Ctrl + E */
+      event.preventDefault();
+      console.log("Hiding explorer control");
+      $('#explorer_control').toggleClass('hidden');
+      $('#max_height').click();
    } else if (ctrl && key == 83) { /* Ctrl + S */
       event.preventDefault();
-      $('#controls').toggleClass('hidden');
+      console.log("Hiding search control");
+      $('#search_control').toggleClass('hidden');
       $('#max_height').click();
    } else if (ctrl && key == 88) { /* Ctrl + X */
       event.preventDefault();
