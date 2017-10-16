@@ -10,9 +10,6 @@ var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 $('.buttons').button();
 $('#tabs').tabs().on('click', 'a', function(e) {
    switch(e.target.id) {
-      case 'home':
-         $('#search_text').focus();
-         break;
       case 'forum':
       case 'quiz':
          location.href = e.target.href;
@@ -114,7 +111,7 @@ $('#animations').change(function() {
 });
 
 $('#help').draggable();
-$('#help_button').click(function(event) { $('#help').toggleClass('hidden'); $('#search_text').focus();});
+$('#help_button').click(function(event) { $('#help').toggleClass('hidden'); });
 $('#clear').click(function(event) { $('#search_text').val('').focus(); });
 
 $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
@@ -147,7 +144,6 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
          $('#search_results').scrollTo(href, get_delay());
      }
   }
-  $('#search_text').focus();
 });
 
 $('.coltxt').on('click', 'a', function(e) {
@@ -175,7 +171,6 @@ $('.coltxt').on('click', 'a', function(e) {
      });
      $(this_column).scrollTo(href, get_delay());
   }
-  $('#search_text').focus();
 });
 
 $('.colupdown').click(function() {
@@ -223,7 +218,6 @@ $('#themes').selectmenu({
 $('#toc_expand_collapse').click(function(event) {
     var toc_id = $('#' + active_column + 'toc').find('.toc');
     $(toc_id).find('li.expanded').length != 0 ? $(toc_id).bonsai('collapseAll') : $(toc_id).bonsai('expandAll');
-    $('#search_text').focus();
 });
 
 var ic = 1;
@@ -238,7 +232,6 @@ $('#max_height').click(function(event) {
     var ctl_height = $('#panels td').offset().top + 27;
     var data_height = $(window).height() - ctl_height;
     $('.data').height(data_height);
-    $('#search_text').focus();
 });
 
 $('#max_width').click(function(event) {
@@ -256,7 +249,6 @@ $('#max_width').click(function(event) {
        $visible.width(column_width);
        $('.toc_container,#col0hdr').width(toc_column_width);
     }
-    $('#search_text').focus();
 });
 
 $('.colsize_controls').click();
@@ -308,7 +300,7 @@ $('#search').click(function(event) {
           $('#search_results').html(json.matches);
           $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')');
           //$('#search_text').removeClass('loading').prop('disabled', false).val(json.text).focus();
-          $('#search_text').removeClass('loading').prop('disabled', false).focus();
+          $('#search_text').removeClass('loading').prop('disabled', false);
           $('#search').button('enable');
           $('#' + active_column + 'txt').unmark();
        }, dataType: "html"});
