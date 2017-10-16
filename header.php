@@ -20,7 +20,8 @@ else {
          $lang = 'en';
          break;
    }
-   setcookie('lang', $lang, time() + 3600*24*365*100); // expire in 100 years
+   $expire = (int)(time() + 3600*24*365*100); // expire in 100 years
+   setcookie('lang', $lang, $expire);
 }
 
 $tooltips = 0;
