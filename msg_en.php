@@ -56,6 +56,7 @@ $SHOW_HIDE_SEARCH_RESULTS = 'Show/hide the Search Results column';
 $SHOW_HIDE_SEARCH_RESULTS_HELP = 'Show/hide the Search Results column (Ctrl + 5)';
 $HELP = 'HELP';
 $HELP_SEARCH = 'SEARCH REQUESTS';
+$HELP_GOTO = 'Go to paper N, section L, paragraph M';
 $WORD = 'Word';
 $WORD1 = 'Word1';
 $WORD2 = 'Word2';

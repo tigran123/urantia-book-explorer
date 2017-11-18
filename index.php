@@ -90,6 +90,7 @@ echo "<div id='tabs'>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
 <tr><td class='key'>Ctrl + E</td><td>$SHOW_HIDE_EXPLORER_PANEL</td></tr>
 <th colspan=4 title='$HELP_TIP'><hr>$HELP_SEARCH</th>
+<tr><td class='key'>N:M.L</td><td colspan=3>$HELP_GOTO</td></tr>
 <tr><td class='key'>*</td><td colspan=3>$ANY_SYMBOLS0</td></tr>
 <tr><td class='key'>+</td><td colspan=3>$ANY_SYMBOLS1</td></tr>
 <tr><td class='key'>?</td><td colspan=3>$ANY_SYMBOL</td></tr>
