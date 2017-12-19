@@ -71,7 +71,7 @@ echo "<div id='tabs'>
    <ul id='tabs_top'>
       <li><a href='#tab_home' title='$HOME_HELP' id='home'><span class='ui-icon ui-icon-home'></span> $HOME</a></li>
       <li><a href='http://cosmic-citizenship.appspot.com/quiz/tpplIrLnZOgwcG4Ufu21-DQ' title='$QUIZ_HELP' id='quiz'><span class='ui-icon ui-icon-script'></span> $QUIZ</a></li>
-      <li><a href='forum/' title='$FORUM_HELP' id='forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li>
+      <li><a href='https://github.com/tigran123/urantia-book-explorer/issues/' title='$FORUM_HELP' id='forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li>
 <!-- <li><a href='#tab_user' title='$USER_HELP'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li> -->
       <li><a href='#tab_settings' title='$SETTINGS_HELP'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
       <li><a href='#tab_contact' title='$CONTACT_HELP'><span class='ui-icon ui-icon-comment'></span> $CONTACT</a></li>
