@@ -9,5 +9,6 @@ tools/
 README.md
 text*.zip
 tutorial/
+research/
 sd
 manual/
