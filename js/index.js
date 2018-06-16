@@ -3,6 +3,20 @@ if (active_column == undefined) active_column = 'col1';
 
 var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 
+$(".scrollable").scrollSync(); // Параллельная прокрутка
+
+if (!$('#scrollsync').is(':checked')) $('.coltxt').removeClass('scrollable');
+
+// Включение/Отключение Пар. прокрутки
+$('#scrollsync').change(function() {
+   document.cookie = 'scrollsync=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+   if ($(this).is(':checked')) {// Проверка состояния флажка (сработает если установлен)
+      $('.coltxt').addClass('scrollable');// Добавляем класс если нету
+   } else {// Сработает если не установлен
+      $('.coltxt').removeClass('scrollable');// Удаляем классы из строк колонок
+   }
+});
+
 $('.buttons').button();
 $('#tabs').tabs().on('click', 'a', function(e) {
    switch(e.target.id) {

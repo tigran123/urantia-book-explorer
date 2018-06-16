@@ -95,4 +95,6 @@ $PRESS_CTRL_5 = 'Press Ctrl-5 to toggle this column ON and OFF';
 $PRESS_CTRL_6 = 'Press Ctrl-6 to toggle this column ON and OFF';
 $NOTES = 'NOTES';
 $SEARCH_RESULTS = 'SEARCH RESULTS';
+$SCROLLSYNC = 'Enable scroll sync';
+$SCROLLSYNC_NAME = 'Scroll sync';
 ?>
