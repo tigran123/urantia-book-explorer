@@ -36,6 +36,10 @@ $theme = 'cupertino';
 if (isset($_COOKIE['theme']))
    $theme = $_COOKIE['theme'];
 
+$scrollsync = 1;// сохраняет значение флажка по дефолту вкл
+if (isset($_COOKIE['scrollsync']))// если переменная инициализированна в куки файлах то:
+   $scrollsync = $_COOKIE['scrollsync'];// считать значение и записать его в переменную
+
 require 'msg_' . $lang . '.php';
 
 $htmlhead = "<!DOCTYPE html>
@@ -50,6 +54,7 @@ $htmlhead = "<!DOCTYPE html>
 <link id='stylesheet' rel='stylesheet' href='jquery/jquery-ui-themes-1.12.1/themes/$theme/jquery-ui.min.css'>
 <link rel='stylesheet' type='text/css' href='jquery/jquery.bonsai.css' />
 <link rel='stylesheet' type='text/css' href='css/ubex.css' />
+<script src='https://code.jquery.com/jquery-1.11.3.min.js' type='text/javascript'></script>
 </head><body>";
 
 $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
@@ -57,6 +62,7 @@ $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery.scrollTo-2.1.2/jquery.scrollTo.min.js'></script>
 <script src='jquery/jquery.bonsai.js'></script>
 <script src='jquery/jquery.mark.min.js' charset='UTF-8'></script>
+<script src='jquery/jquery.scrollSync.js'></script> <!-- Подключаем файл с кодом-->
 <script src='js/index.js'></script>
 </body></html>";
 

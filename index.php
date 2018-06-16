@@ -35,6 +35,11 @@ $animations_checkbox = "<label title='$ENABLE_WIDGET_ANIMATIONS' for='animations
 if ($animations == 1) $animations_checkbox .= "<input id='animations' type='checkbox' value='1' checked>";
 else $animations_checkbox .= "<input id='animations' type='checkbox' value='1'>";
 
+// Флажок для Пар.прокрутки
+$scrollsync_checkbox = "<label title='$SCROLLSYNC' for='scrollsync'>$SCROLLSYNC_NAME</label>";
+if ($scrollsync == 1) $scrollsync_checkbox .= "<input id='scrollsync' type='checkbox' value='1' checked>";
+else $scrollsync_checkbox .= "<input id='scrollsync' type='checkbox' value='1'>";
+
 $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=1 title='Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk'>English: British Study Edition</option>".
 "<option value=0 title='The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain'>English: SRT (American)</option>".
@@ -231,10 +236,10 @@ echo "<div id='tabs'>
     <div class='toc_container hidden data' id='col3toc'></div>
     <div class='toc_container hidden data' id='col4toc'></div>
   </td>
-  <td class='col1' valign='top'><div class='coltxt data' id='col1txt'></div></td>
-  <td class='col2' valign='top'><div class='coltxt data' id='col2txt'></div></td>
-  <td class='col3' valign='top'><div class='coltxt data' id='col3txt'></div></td>
-  <td class='col4' valign='top'><div class='coltxt data' id='col4txt'></div></td>
+  <td class='col1' valign='top'><div class='coltxt data scrollable' id='col1txt'></div></td>
+  <td class='col2' valign='top'><div class='coltxt data scrollable' id='col2txt'></div></td>
+  <td class='col3' valign='top'><div class='coltxt data scrollable' id='col3txt'></div></td>
+  <td class='col4' valign='top'><div class='coltxt data scrollable' id='col4txt'></div></td>
   <td class='col5' valign='top'><div class='data' id='search_results'></div></td>
   <td class='col6' valign='top'><div class='data' id='notes'></div></td>
 </tr>
@@ -252,7 +257,7 @@ echo "<div id='tabs'>
 <div id='tab_settings'>
 <fieldset>
 <legend>$SITE_SETTINGS</legend>
-<div>$text_size_selector $site_lang_selector $tooltips_checkbox $animations_checkbox $themes_selector</div>
+<div>$text_size_selector $site_lang_selector $tooltips_checkbox $animations_checkbox $scrollsync_checkbox $themes_selector </div>
 </fieldset>
 </div>
 
