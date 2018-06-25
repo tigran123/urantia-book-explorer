@@ -16,6 +16,13 @@ $('#tabs').tabs().on('click', 'a', function(e) {
    }
 });
 
+$('.cookieBubble').cookieBubble({
+    cookieMaxAge:7, 
+    iconColor:'#ffa500', 
+    buttonColor: '#000',
+    buttonRadius:'3px'
+});
+
 $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
    $('.' + col).toggleClass('hidden');

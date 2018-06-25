@@ -45,18 +45,30 @@ $htmlhead = "<!DOCTYPE html>
 <meta name='description' content='$DESCRIPTION'>
 <meta name='rating' content='general'>
 <meta name='author' content='$AUTHOR'>
-<link rel='shortcut icon' href='img/favicon.ico'> 
+<link rel='shortcut icon' href='img/favicon.ico'>
 <title>$TITLE</title>
 <link id='stylesheet' rel='stylesheet' href='jquery/jquery-ui-themes-1.12.1/themes/$theme/jquery-ui.min.css'>
 <link rel='stylesheet' type='text/css' href='jquery/jquery.bonsai.css' />
+<link rel='stylesheet' type='text/css' href='css/cookieBubble.min.css' />
 <link rel='stylesheet' type='text/css' href='css/ubex.css' />
-</head><body>";
+</head><body>
+<div class='cookieBubble'>
+   <div class='cb-wrapper'>
+     <div class='cb-row'>
+       <div class='cb-message'>
+         <span>We use cookies to personalize your experience. By continuing to visit this website you agree to our use of cookies.</span>
+          <a href='javascript:void(0)' class='gotit-btn'>GOT IT, I AGREE!</a>
+       </div>
+     </div>
+   </div>
+</div>";
 
 $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery-ui-1.12.1/jquery-ui.min.js'></script>
 <script src='jquery/jquery.scrollTo-2.1.2/jquery.scrollTo.min.js'></script>
 <script src='jquery/jquery.bonsai.js'></script>
 <script src='jquery/jquery.mark.min.js' charset='UTF-8'></script>
+<script src='jquery/cookieBubble.min.js'></script>
 <script src='js/index.js'></script>
 </body></html>";
 
