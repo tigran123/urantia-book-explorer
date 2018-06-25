@@ -316,7 +316,7 @@ $('#search').click(function(event) {
 
 $(document).keydown(function(event) {
    var key = event.which, ctrl = event.ctrlKey, shift = event.shiftKey;
-   console.log("key=" + key);
+   //console.log("key=" + key);
    if (key == 112) { /* F1 */
       event.preventDefault();
       $('#help_button').click();
