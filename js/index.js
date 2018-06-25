@@ -17,8 +17,8 @@ $('#tabs').tabs().on('click', 'a', function(e) {
 });
 
 $('.cookieBubble').cookieBubble({
-    cookieMaxAge:7, 
-    iconColor:'#ffa500', 
+    cookieMaxAge:7777,
+    iconColor:'#ffa500',
     buttonColor: '#000',
     buttonRadius:'3px'
 });
@@ -201,7 +201,7 @@ $('#ts').selectmenu({
      localStorage.setItem("ts", ts);
      $('.coltxt,#search_results,#notes').css('font-size', ts);
   },
-  width: 80 
+  width: 80
 });
 
 $('#ts').val(ts).selectmenu('refresh');
