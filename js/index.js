@@ -11,7 +11,6 @@ $('.buttons').button();
 $('#tabs').tabs().on('click', 'a', function(e) {
    switch(e.target.id) {
       case 'forum':
-      case 'quiz':
          location.href = e.target.href;
    }
 });
