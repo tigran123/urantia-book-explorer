@@ -36,6 +36,10 @@ $theme = 'cupertino';
 if (isset($_COOKIE['theme']))
    $theme = $_COOKIE['theme'];
 
+   $scrollsync = 1;
+if (isset($_COOKIE['scrollsync']))
+   $scrollsync = $_COOKIE['scrollsync'];
+
 require 'msg_' . $lang . '.php';
 
 $htmlhead = "<!DOCTYPE html>
@@ -69,6 +73,7 @@ $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery.bonsai.js'></script>
 <script src='jquery/jquery.mark.min.js' charset='UTF-8'></script>
 <script src='jquery/cookieBubble.min.js'></script>
+<script src='jquery/jquery.scrollSync.js'></script>
 <script src='js/index.js'></script>
 </body></html>";
 
