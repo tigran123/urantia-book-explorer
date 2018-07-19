@@ -27,17 +27,17 @@ foreach($themes as $key => $value) {
 }
 $themes_selector .= "</select>";
 
-$tooltips_checkbox = "<label title='$TOOLTIP_ON_TOOLTIPS' for='tooltips'>$TOOLTIPS</label>";
-if ($tooltips == 1) $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1' checked>";
-else $tooltips_checkbox .= "<input id='tooltips' type='checkbox' value='1'>";
+$tooltips_checkbox = "<BR><input id='tooltips' type='checkbox' value='1'".($tooltips == 1 ? " checked" : "").">";
+$tooltips_checkbox .= "<label title='$TOOLTIP_ON_TOOLTIPS' for='tooltips'>$TOOLTIPS</label><BR>";
 
-$animations_checkbox = "<label title='$ENABLE_WIDGET_ANIMATIONS' for='animations'>$ANIMATIONS</label>";
-if ($animations == 1) $animations_checkbox .= "<input id='animations' type='checkbox' value='1' checked>";
-else $animations_checkbox .= "<input id='animations' type='checkbox' value='1'>";
+$animations_checkbox = "<input id='animations' type='checkbox' value='1'".($animations == 1 ? " checked" : "").">";
+$animations_checkbox .= "<label title='$ENABLE_WIDGET_ANIMATIONS' for='animations'>$ANIMATIONS</label><BR>";
 
-$scrollsync_checkbox = "<label title='$TOOLTIP_SCROLLSYNC' for='scrollsync'>$SCROLLSYNC</label>";
-if ($scrollsync == 1) $scrollsync_checkbox .= "<input id='scrollsync' type='checkbox' value='1' checked>";
-else $scrollsync_checkbox .= "<input id='scrollsync' type='checkbox' value='1'>";
+$scrollsync_checkbox = "<input id='scrollsync' type='checkbox' value='1'".($scrollsync == 1 ? " checked" : "").">";
+$scrollsync_checkbox .= "<label title='$TOOLTIP_SCROLLSYNC' for='scrollsync'>$SCROLLSYNC</label><BR>";
+
+$shortcontext_checkbox = "<input id='shortcontext' type='checkbox' value='1'".($shortcontext == 1 ? " checked" : "").">";
+$shortcontext_checkbox .= "<label title='$TOOLTIP_SHORTCONTEXT' for='scrollsync'>$SHORTCONTEXT</label><BR>";
 
 $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=1 title='Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk'>English: British Study Edition</option>".
@@ -255,7 +255,7 @@ echo "<div id='tabs'>
 <div id='tab_settings'>
 <fieldset>
 <legend>$SITE_SETTINGS</legend>
-<div>$text_size_selector $site_lang_selector $tooltips_checkbox $animations_checkbox $scrollsync_checkbox $themes_selector</div>
+<div>$text_size_selector $site_lang_selector $themes_selector $tooltips_checkbox $animations_checkbox $scrollsync_checkbox $shortcontext_checkbox</div>
 </fieldset>
 </div>
 
