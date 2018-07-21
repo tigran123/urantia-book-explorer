@@ -37,13 +37,13 @@ function output_line($line) {
    if (isset($_COOKIE['shortcontext']))
       $shortcontext = $_COOKIE['shortcontext'];
    if ($shortcontext == 1) {
-      preg_match_all('/\\b(\\w.{0,40})(<mark>.*<\/mark>)(.{0,40})(?:\\b|$)(.?)/u',$line,$shortline,PREG_SET_ORDER); 
+      preg_match_all('/(?:\\b|^)(.{0,40})(<mark>.*<\/mark>)(.{0,40})(?:\\b|$)(.?)/u',$line,$shortline,PREG_SET_ORDER); 
       $start_line=$shortline[0][1];
       $end_line=$shortline[0][3];
       $finish_symb=$shortline[0][4];
       $startdots=" ... ";
       $enddots=" ... ";
-      if ($start_line == null || strpos($line,$start_line) == 1 ) $startdots=" ";
+      if (trim($start_line) == null || strpos($line,$start_line) == 1 ) $startdots=" ";
       if ($end_line == null || $finish_symb == null ) $enddots="";
       $outputline[] = $startdots;
       $outputline[] = $shortline[0][1].$shortline[0][2].$shortline[0][3];
