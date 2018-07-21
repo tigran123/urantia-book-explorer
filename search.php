@@ -37,7 +37,7 @@ function output_line($line) {
    if (isset($_COOKIE['shortcontext']))
       $shortcontext = $_COOKIE['shortcontext'];
    if ($shortcontext == 1) {
-      preg_match_all('/(?:\\b|^)(.{0,40})(<mark>.*<\/mark>)(.{0,40})(?:\\b|$)(.?)/u',$line,$shortline,PREG_SET_ORDER); 
+      preg_match_all('/(?:\\b|^)(.{0,40})(<mark>.*<\/mark>)(.{0,40})(?:\\b|$)(.?)/u',$line,$shortline,PREG_SET_ORDER);
       $start_line=$shortline[0][1];
       $end_line=$shortline[0][3];
       $finish_symb=$shortline[0][4];
