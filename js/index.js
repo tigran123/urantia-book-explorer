@@ -130,6 +130,10 @@ $('#animations').change(function() {
    document.cookie = 'animations=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
 });
 
+$('#shortcontext').change(function() {
+  document.cookie = 'shortcontext=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+});
+
 $('#help').draggable();
 $('#help_button').click(function(event) { $('#help').toggleClass('hidden'); });
 $('#clear').click(function(event) { $('#search_text').val('').focus(); });
