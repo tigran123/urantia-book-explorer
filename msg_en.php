@@ -1,7 +1,6 @@
 <?php
 $ORIGINALS = 'ORIGINAL TEXTS';
 $TRANSLATIONS = 'TRANSLATIONS';
-$DRAFTS = 'WORK IN PROGRESS';
 $SOURCE_CODE = 'Source Code';
 $SOURCE_CODE_TEXT = 'This site\'s source code is freely available in the <a href="https://github.com/tigran123/urantia-book-explorer">github repository</a> and everyone is welcome to join in the development of the Urantia Book Explorer.';
 $TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';
@@ -39,7 +38,6 @@ $USER = 'USER';
 $USER_HELP = 'Login with username and password';
 $USER_CONTROLS = 'USER CONTROLS';
 $TOOLTIPS = 'Tooltips';
-$DRAFTS_HELP = 'Tick this to show work in progress texts';
 $TOOLTIP_ON_TOOLTIPS = 'Tooltips are little windows with help like this one';
 $HELP_TIP = 'Drag this window using the mouse';
 $SHOW_HIDE_SEARCH_PANEL = 'Show/hide the Search Control Panel';
