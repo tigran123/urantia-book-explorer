@@ -63,8 +63,6 @@ $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=19 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Español (Europea): UF 2009-1</option>".
 "<option value=20 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Svenska: UF 2010-1</option>".
 "<option value=22 title='&#169;&nbsp;Urantia&nbsp;Society&nbsp;of&nbsp;Greater&nbsp;New&nbsp;York'>Türk: USGNY 2012-1</option>".
-               "</optgroup>".
-                "<optgroup label='$DRAFTS'>".
 "<option value=10 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Ελληνική: UF 2012-1</option>".
 "<option value=3 title='&#169;&nbsp;Urantia&nbsp;Foundation'>Български: UF 2013-1.0</option>".
                "</optgroup>";
@@ -276,6 +274,6 @@ echo "<div id='tabs'>
 
 </div>"; /* tabs div */
 
-//include 'statcounter.html';
+include 'statcounter.html';
 echo $htmlfoot;
 ?>
