@@ -40,7 +40,7 @@ $theme = 'cupertino';
 if (isset($_COOKIE['theme']))
    $theme = $_COOKIE['theme'];
 
-   $scrollsync = 1;
+$scrollsync = 0;
 if (isset($_COOKIE['scrollsync']))
    $scrollsync = $_COOKIE['scrollsync'];
 
