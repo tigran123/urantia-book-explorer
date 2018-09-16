@@ -144,29 +144,34 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
   var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
   if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
   else {
-     var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
-     var $coltxt = $('#' + active_column + 'txt');
-     var $marks = $(this).parent().find('mark');
-     var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
-     if (colpaper_map[active_column] != paper) { /* need to load a different paper */
-        var mod_idx = $('#' + active_column + 'mod').val();
+    var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
+    var $marks = $(this).parent().find('mark');
+    var mark_opts = {"accuracy": "exact", "separateWordSearch": false, "acrossElements": true};
+
+    $('.coltxt').each(function() {
+      var сol = $(this).attr('id').replace('txt','');
+      var $coltxt = $('#' + сol + 'txt');//active_column
+      if ((!$('#scrollsync').is(':checked')) & (active_column != сol)) return;
+      if (colpaper_map[сol] != paper) { /* need to load a different paper */
+        var mod_idx = $('#' + сol + 'mod').val();
         $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
-           var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
-           $('#' + active_column + 'title').html(title);
-           colpaper_map[active_column] = paper;
-           $coltxt.scrollTo(href, get_delay());
-           $marks.each(function() { $coltxt.mark($(this).text(), mark_opts); });
+          var title = $('#' + сol + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
+          $('#' + сol + 'title').html(title);
+          colpaper_map[сol] = paper;
+          $coltxt.scrollTo(href, get_delay());
+          $marks.each(function() { $coltxt.mark($(this).text(), mark_opts); });
         });
-     } else {
+      } else {
         $coltxt.scrollTo(href, get_delay());
         $marks.each(function(idx, el) { $coltxt.mark($(this).text(), mark_opts); });
-     }
-     var colclass = $('.' + active_column);
-     if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
-         colclass.removeClass('hidden');
-         $('#max_width').click();
-         $('#search_results').scrollTo(href, get_delay());
-     }
+      }
+    });
+    var colclass = $('.' + active_column);
+    if (colclass.hasClass('hidden')) { /* unhide the active text column, if necessary */
+      colclass.removeClass('hidden');
+      $('#max_width').click();
+      $('#search_results').scrollTo(href, get_delay());
+    }
   }
 });
 
