@@ -6,7 +6,7 @@ $SOURCE_CODE_TEXT = 'Первинні матеріали сайту знаход
 $TOGGLE_TOOLTIPS = 'Вкл/Відкл. авто-підказку';
 $CLOSE_WINDOW = 'Сховати цей стовбчик';
 $CONTACT_DETAILS = 'Контактні дані';
-$CONTACT_TEXT = 'Ви можете зв’язатися з автором сайту таким чином <ol><li>email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';
+$CONTACT_TEXT = 'Ви можете зв’язатися з автором сайту таким чином <ol><li>email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li><li><a href="https://www.researchgate.net/profile/Tigran_Aivazian">ResearchGate</a></li></ol>';
 $IGNORE_CASE = 'Розрізняти прописні і рядкові літери під час пошуку (Ctrl + A)';
 $IGNORE_CASE_HELP = 'Пошук відбувається відповідно до прописних і рядкових літер, уведених в пошуковий рядок';
 $LOCK_COLUMNS = 'Зафіксувати ширину і висоту стовбців';

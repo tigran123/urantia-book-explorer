@@ -6,7 +6,7 @@ $SOURCE_CODE_TEXT = 'This site\'s source code is freely available in the <a href
 $TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';
 $CLOSE_WINDOW = 'Close this column';
 $CONTACT_DETAILS = 'Contact Details';
-$CONTACT_TEXT = 'You may contact this site\'s author in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';
+$CONTACT_TEXT = 'You may contact this site\'s author in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li><li><a href="https://www.researchgate.net/profile/Tigran_Aivazian">ResearchGate</a></li></ol>';
 $IGNORE_CASE = 'Toggle case-sensitivity of the search (Ctrl + A)';
 $IGNORE_CASE_HELP = 'Toggle case-sensitivity of the search';
 $LOCK_COLUMNS = 'Lock column heights and widths';
