@@ -3,7 +3,6 @@ require('search.php');
 ini_set('memory_limit','300M');
 header("Content-Type: text/html; charset=utf-8");
 
-$pattern_ar = '';
 $matches = [];
 $par_count = 0;
 $match_count = 0;
@@ -74,7 +73,7 @@ if (isset($text)) {
                ')('.$sign_after.$_i.')',
                $link_mask_re];
    $pattern = '/' . str_replace($search, $replace, $pattern) . '/u'; 
-   if (is_array($pattern_ar) == false) $pattern_ar[] = $pattern;
+   $pattern_ar[] = $pattern;
    $i_mode = ($ic) ? 'i' : '';
    if ($search_range > 0) {
       $replace = '<mark>$1</mark>';
