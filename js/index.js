@@ -449,3 +449,37 @@ function load_notes(mod_idx) {
 function get_delay() {
   return $('#animations').is(':checked') ? 606 : 0;
 }
+
+function ready() {
+   var href = window.location.pathname.replace(/\//,'');
+   var regex = /U(\d{1,3})_(\d{1,2})_(\d{1,3})_?\d*/;
+   var ref = regex.exec(href);
+   if (ref) {
+      var paper = ref[1];
+      if (ref[3] == undefined) {
+         if (ref[2] == 0)
+            ref[3] = 1; /* beginning of the whole paper */
+         else
+            ref[3] = 0; /* section title */
+      }
+      var href = '.U' + paper + '_' + ref[2] + '_' + ref[3];
+
+      $('.coltxt').each(function() {
+         var col = $(this).attr('id').replace('txt','');
+         var mod_idx = $('#' + col + 'mod').val();
+         var $coltxt = $('#' + col + 'txt');
+         if (colpaper_map[col] != paper) { /* need to load a different paper */
+            $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+                var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
+                $('#' + col + 'title').html(title);
+                colpaper_map[col] = paper;
+                $coltxt.scrollTo(href, get_delay());
+            });
+         } else {
+            $coltxt.scrollTo(href, get_delay());
+         }
+      });
+   }
+}
+
+document.addEventListener("DOMContentLoaded", ready);
