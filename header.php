@@ -62,12 +62,12 @@ $htmlhead = "<!DOCTYPE html>
 </head><body>
 <div class='cookieBubble'>
    <div class='cb-wrapper'>
-     <div class='cb-row'>
-       <div class='cb-message'>
-         <span>We use cookies to personalize your experience. By continuing to visit this website you agree to our use of cookies.</span>
-          <a href='javascript:void(0)' class='gotit-btn'>GOT IT, I AGREE!</a>
-       </div>
-     </div>
+      <div class='cb-row'>
+         <div class='cb-message'>
+            <span>We use cookies to personalize your experience. By continuing to visit this website you agree to our use of cookies.</span>
+            <a href='javascript:void(0)' class='gotit-btn'>GOT IT, I AGREE!</a>
+         </div>
+      </div>
    </div>
 </div>";
 
