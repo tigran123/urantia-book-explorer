@@ -22,14 +22,13 @@ $('#scrollsync').change(function() {
 });
 
 $('.buttons').button();
-/*
-$('#tabs').tabs().on('click', 'a', function(e) {
+
+$('#tabs').tabs() /* .on('click', 'a', function(e) {
    switch(e.target.id) {
       case 'forum':
          location.href = e.target.href;
    }
-});
-*/
+}); */
 
 $('.cookieBubble').cookieBubble({
    cookieMaxAge:7777,
