@@ -75,6 +75,7 @@ echo "<div id='tabs'>
       <li><a href='https://github.com/tigran123/urantia-book-explorer/issues/' title='$FORUM_HELP' id='forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li>
 <!-- <li><a href='#tab_user' title='$USER_HELP'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li> -->
       <li><a href='#tab_settings' title='$SETTINGS_HELP'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
+      <li><a href='books-" . $lang . ".html' title='$BOOKS_HELP'><span class='ui-icon ui-icon-info'></span> $BOOKS</a></li>
       <li><a href='#tab_contact' title='$CONTACT_HELP'><span class='ui-icon ui-icon-comment'></span> $CONTACT</a></li>
    </ul>
 
