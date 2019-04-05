@@ -319,8 +319,11 @@ $('#search').click(function(event) {
    if (!availableHistory.includes(text)) {
       availableHistory.unshift(text);
       availableHistory = availableHistory.slice(0, 40); //Ограничиваю 40-ка последними значениями
-      localStorage.setObj('_searches',availableHistory);
+   } else {
+      var itemIndex = availableHistory.indexOf(text);
+      availableHistory.unshift(availableHistory.splice(itemIndex, 1)[0]);
    }
+   localStorage.setObj('_searches',availableHistory);
    availableHistory = getSearchHistory();
    $('#combobox').empty();
    availableHistory.map(function(value){$(new Option(value)).appendTo($('#combobox'));});
