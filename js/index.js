@@ -607,7 +607,7 @@ $.widget('custom.combobox', {
    _removeIfInvalid: function(event, ui) {
 
       // Selected an item, nothing to do
-      if (ui.item) {
+      if (ui.item || (ui.item === null)) {
       return;
       }
 
