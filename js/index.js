@@ -554,7 +554,6 @@ $.widget('custom.combobox', {
          });
       },
 
-      autocompletechange: '_removeIfInvalid'
       });
    },
 
@@ -602,41 +601,6 @@ $.widget('custom.combobox', {
             option: this
          };
       }) );
-   },
-
-   _removeIfInvalid: function(event, ui) {
-
-      // Selected an item, nothing to do
-      if (ui.item || (ui.item === null)) {
-      return;
-      }
-
-      // Search for a match (case-insensitive)
-      var value = this.input.val(),
-      valueLowerCase = value.toLowerCase(),
-      valid = false;
-      this.element.children('option').each(function() {
-      if ($(this).text().toLowerCase() === valueLowerCase ) {
-         this.selected = valid = true;
-         return false;
-      }
-      });
-
-      // Found a match, nothing to do
-      if (valid) {
-      return;
-      }
-
-      // Remove invalid value
-      this.input
-      .val('')
-      .attr('title', value + " didn't match any item")
-      .tooltip('open');
-      this.element.val('');
-      this._delay(function() {
-      this.input.tooltip('close').attr('title','');
-      }, 2500 );
-      this.input.autocomplete('instance').term = '';
    },
 
    _destroy: function() {
