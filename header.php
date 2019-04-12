@@ -4,7 +4,7 @@ if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
 else {
    $ip = get_client_ip();
-   $country = trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
+   $country = $ip=='127.0.0.1' ? 'EN' : trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
 
    switch($country) {
       case 'UA':
@@ -78,6 +78,7 @@ $htmlfoot = "<script src='jquery/jquery-3.1.1.min.js'></script>
 <script src='jquery/jquery.mark.min.js' charset='UTF-8'></script>
 <script src='jquery/cookieBubble.min.js'></script>
 <script src='jquery/jquery.scrollSync.js'></script>
+<script type='text/javascript'>var INPUT_SEARCH_STRING = '".$INPUT_SEARCH_STRING."';</script>
 <script src='js/index.js'></script>
 </body></html>";
 
