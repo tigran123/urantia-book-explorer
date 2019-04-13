@@ -6,6 +6,7 @@ logs/
 TODO
 tools/
 .git/
+books/
 README.md
 text*.zip
 tutorial/
