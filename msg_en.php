@@ -111,4 +111,5 @@ $TOOLTIP_SCROLLSYNC = 'Enable scroll synchronization of parallel text columns';
 $SCROLLSYNC = 'Scroll sync';
 $TOOLTIP_SHORTCONTEXT = 'Enable short context in search results instead of a full paragraph';
 $SHORTCONTEXT = 'Short context of search results';
+$GOOGLE_TAB_ID = '655353357';
 ?>
