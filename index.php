@@ -271,6 +271,8 @@ echo "<div id='tabs'>
 <td>$CONTACT_TEXT</td>
 </tr>
 </table>
+<br>
+<iframe width='100%' height='2000' frameborder='0' src='https://docs.google.com/spreadsheets/d/e/2PACX-1vRqSS9XGv-t84ZTBW7eRJdvmZejnd6w9mp_E3Mtjcm4zIlPIv2rwlZtiG5YtS7VHGn4COMkY5Gm0ymA/pubhtml?gid=$GOOGLE_TAB_ID&amp;single=true&amp;chrome=false&amp;swidget=false&amp;headers=false'></iframe>
 </div>
 
 </div>"; /* tabs div */
