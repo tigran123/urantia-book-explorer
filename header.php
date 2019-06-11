@@ -101,7 +101,6 @@ function is_private_ip($ip) {
    else if ($i[0] == 192 && $i[1] == 168)
        return true;
 
-   error_log($ip."NOT a private IP!");
    return false;
 }
 ?>
