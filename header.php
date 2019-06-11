@@ -4,7 +4,7 @@ if (isset($_COOKIE['lang']))
    $lang = $_COOKIE['lang'];
 else {
    $ip = get_client_ip();
-   $country = $ip=='127.0.0.1' ? 'EN' : trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
+   $country = is_private_ip($ip) ? 'EN' : trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
 
    switch($country) {
       case 'UA':
@@ -89,5 +89,19 @@ function get_client_ip() {
       return $_SERVER['HTTP_X_FORWARDED_FOR'];
    else
       return $_SERVER['REMOTE_ADDR'];
+}
+
+function is_private_ip($ip) {
+   $i = explode('.', $ip);
+
+   if ($i[0] == 10 || $i[0] == 127)
+       return true;
+   else if ($i[0] == 172 && $i[1] > 15 && $i[1] < 32)
+       return true;
+   else if ($i[0] == 192 && $i[1] == 168)
+       return true;
+
+   error_log($ip."NOT a private IP!");
+   return false;
 }
 ?>
