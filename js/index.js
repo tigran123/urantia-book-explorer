@@ -60,6 +60,8 @@ $('.coltxtsw').on('click', function() {
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
+   $('.coltxtsw').removeAttr('style');
+   $(this).css('border', 'solid darkblue 2px');
    $('#max_width').click();
 });
 
