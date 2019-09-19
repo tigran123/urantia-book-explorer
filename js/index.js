@@ -52,6 +52,7 @@ $('.coltxtsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
    if (col == active_column) return;
    $('#' + active_column + 'toc').addClass('hidden');
+   $('#' + active_column + 'rad').removeAttr('style');
    $('.' + col).removeClass('hidden');
    localStorage.setItem(col, 1);
    active_column = col;
@@ -61,7 +62,6 @@ $('.coltxtsw').on('click', function() {
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
-   $('.coltxtsw').removeAttr('style');
    $(this).css('border', 'solid darkblue 2px');
    $('#max_width').click();
 });
