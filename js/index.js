@@ -4,6 +4,7 @@ if (active_column == undefined) {
    localStorage.setItem("active_column", active_column);
 }
 $('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
+$('#' + active_column + 'rad').css('border', 'solid darkblue 2px');
 
 var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 
