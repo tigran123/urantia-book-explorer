@@ -1,12 +1,14 @@
 <?php
 $ORIGINALS = 'ORIGINAL TEXTS';
 $TRANSLATIONS = 'TRANSLATIONS';
+$ANNOTATIONS = 'Annotations';
+$ANNOTATIONS_TEXT = 'There is a group of people studying the Urantia Papers sharing their annotations using <a href="https://hypothes.is">Hypothes.is</a> engine. To join this group please click <a href="https://hypothes.is/groups/QK41oRDi/urantia-papers-students"><b>HERE</b></a>. You can also create your own group and have private annotations.';
 $SOURCE_CODE = 'Source Code';
-$SOURCE_CODE_TEXT = 'This site\'s source code is freely available in the <a href="https://github.com/tigran123/urantia-book-explorer">github repository</a> and everyone is welcome to join in the development of the Urantia Book Explorer.';
+$SOURCE_CODE_TEXT = 'This site\'s source code is freely available in the <b><a href="https://github.com/tigran123/urantia-book-explorer">github repository</a></b> and everyone is welcome to join in the development of the Urantia Book Explorer.';
 $TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';
 $CLOSE_WINDOW = 'Close this column';
 $CONTACT_DETAILS = 'Contact Details';
-$CONTACT_TEXT = 'You may contact this site\'s author in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li><li><a href="https://www.researchgate.net/profile/Tigran_Aivazian">ResearchGate</a></li></ol>';
+$CONTACT_TEXT = 'You may contact this site\'s author in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li><li><b><a href="https://www.researchgate.net/profile/Tigran_Aivazian">ResearchGate</a></b></li></ol>';
 $IGNORE_CASE = 'Toggle case-sensitivity of the search (Ctrl + A)';
 $IGNORE_CASE_HELP = 'Toggle case-sensitivity of the search';
 $LOCK_COLUMNS = 'Lock column heights and widths';

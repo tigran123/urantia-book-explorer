@@ -260,6 +260,11 @@ echo "<div id='tabs'>
 
 <div class='container' id='tab_contact'>
 <table>
+<th><h2 style='text-transform:uppercase;'>$ANNOTATIONS</h2></th>
+<tr><td>$ANNOTATIONS_TEXT</td></tr>
+</table>
+
+<table>
 <th><h2 style='text-transform:uppercase;'>$SOURCE_CODE</h2></th>
 <tr><td>$SOURCE_CODE_TEXT</td></tr>
 </table>
