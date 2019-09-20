@@ -4,6 +4,7 @@ if (active_column == undefined) {
    localStorage.setItem("active_column", active_column);
 }
 $('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
+$('#' + active_column + 'rad').css('border', 'solid darkblue 2px');
 
 var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 
@@ -51,6 +52,7 @@ $('.coltxtsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
    if (col == active_column) return;
    $('#' + active_column + 'toc').addClass('hidden');
+   $('#' + active_column + 'rad').removeAttr('style');
    $('.' + col).removeClass('hidden');
    localStorage.setItem(col, 1);
    active_column = col;
@@ -60,6 +62,7 @@ $('.coltxtsw').on('click', function() {
    $('#' + col + 'toc').removeClass('hidden');
    $('.txthdr').css('border', 'solid darkgrey 2px');
    $('#' + col + 'hdr').css('border', 'solid darkblue 2px');
+   $(this).css('border', 'solid darkblue 2px');
    $('#max_width').click();
 });
 
