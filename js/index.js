@@ -24,7 +24,14 @@ $('#scrollsync').change(function() {
 
 $('.buttons').button();
 
-$('#tabs').tabs() /* .on('click', 'a', function(e) {
+function SetURLHash(hash){
+   var scrollTop = $(window).scrollTop(); // save current scroll position
+   hash = hash == 'tab_home' ? '' : hash;
+   location.hash=hash;//#tab_home
+   $(window).scrollTop(scrollTop); // keep scroll at current position
+};
+
+$('#tabs').tabs({activate: function(event, ui) {SetURLHash(ui.newPanel.attr('id'))}}) /* .on('click', 'a', function(e) {
    switch(e.target.id) {
       case 'forum':
          location.href = e.target.href;
