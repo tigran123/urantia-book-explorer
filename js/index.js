@@ -54,6 +54,7 @@ $('.coltxtsw').on('click', function() {
    $('#' + active_column + 'toc').addClass('hidden');
    $('#' + active_column + 'rad').removeAttr('style');
    $('.' + col).removeClass('hidden');
+   $('.colclose').removeClass('hidden');
    localStorage.setItem(col, 1);
    active_column = col;
    localStorage.setItem("active_column", active_column);
@@ -468,6 +469,9 @@ function toggle_active_column(col) {
       }
    } else
       localStorage.setItem(col, 1);
+   if ($('.headers').not('.hidden').length == 1) {
+      $('.colclose').addClass('hidden');
+   }
    $('#max_width').click();
 }
 
