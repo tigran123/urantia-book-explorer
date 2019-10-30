@@ -4,7 +4,7 @@ if (active_column == undefined) {
    localStorage.setItem("active_column", active_column);
 }
 $('#' + active_column + 'hdr').css('border', 'solid darkblue 2px');
-$('#' + active_column + 'rad').css('border', 'solid darkblue 2px');
+coltxtsw(active_column).css('border', 'solid darkblue 2px');
 
 var colpaper_map = {'col1': 0, 'col2': 0, 'col3': 0, 'col4': 0};
 
@@ -40,7 +40,12 @@ $('.cookieBubble').cookieBubble({
 
 $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
+   if (($('.headers').not('.hidden').length == 1) & (col == $('.headers').not('.hidden').attr('id').replace('hdr',''))) return;  // 20191029 Al Не даем закрыться последней колонке
    $('.' + col).toggleClass('hidden');
+   if ($('.headers').not('.hidden').length == 1)
+      $('.colclose').addClass('hidden');
+   else
+      $('.colclose').removeClass('hidden');
    if ($('#' + col + 'hdr').hasClass('hidden'))
       localStorage.setItem(col, 0);
    else
@@ -48,11 +53,13 @@ $('.colsw').on('click', function() {
    $('#max_width').click();
 });
 
+function coltxtsw(name) { return $('#' + name + 'rad'); }
+
 $('.coltxtsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
    if (col == active_column) return;
    $('#' + active_column + 'toc').addClass('hidden');
-   $('#' + active_column + 'rad').removeAttr('style');
+   coltxtsw(active_column).removeAttr('style');
    $('.' + col).removeClass('hidden');
    $('.colclose').removeClass('hidden');
    localStorage.setItem(col, 1);
@@ -98,7 +105,7 @@ $('.colmod').selectmenu({
    $(this).val(mod_idx).selectmenu('refresh');
 });
 
-$('.coltxttitle').click(function(e) { $('#' + e.currentTarget.id.replace('title','rad')).click(); });
+$('.coltxttitle').click(function(e) { coltxtsw(e.currentTarget.id.replace('title','')).click(); });
 
 $('.coltxt').each(function() {
    var col = $(this).attr('id').replace('txt', '');
@@ -465,7 +472,12 @@ function toggle_active_column(col) {
       localStorage.setItem(col, 0);
       if (active_column == col) {
          var newcol = $('.txthdr').not('.hidden').first().attr('id');
-         if (newcol != undefined) $('#' + newcol.replace('hdr','rad')).click();
+         if (newcol != undefined) {
+            coltxtsw(newcol.replace('hdr','')).click();
+         } else {
+            coltxtsw(active_column).removeAttr('style');
+            active_column = undefined;
+         };
       }
    } else
       localStorage.setItem(col, 1);
