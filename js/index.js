@@ -40,17 +40,7 @@ $('.cookieBubble').cookieBubble({
 
 $('.colsw').on('click', function() {
    var col = $(this).attr('id').replace('rad','');
-   if (($('.headers').not('.hidden').length == 1) & (col == $('.headers').not('.hidden').attr('id').replace('hdr',''))) return;  // 20191029 Al Не даем закрыться последней колонке
-   $('.' + col).toggleClass('hidden');
-   if ($('.headers').not('.hidden').length == 1)
-      $('.colclose').addClass('hidden');
-   else
-      $('.colclose').removeClass('hidden');
-   if ($('#' + col + 'hdr').hasClass('hidden'))
-      localStorage.setItem(col, 0);
-   else
-      localStorage.setItem(col, 1);
-   $('#max_width').click();
+   toggle_active_column(col);
 });
 
 function coltxtsw(name) { return $('#' + name + 'rad'); }
@@ -467,6 +457,7 @@ function getCookie(name) {
 }
 
 function toggle_active_column(col) {
+   if (($('.headers').not('.hidden').length == 1) & (col == $('.headers').not('.hidden').attr('id').replace('hdr',''))) return;  // 20191029 Al Не даем закрыться последней колонке
    $('.' + col).toggleClass('hidden');
    if ($('#' + col + 'hdr').hasClass('hidden')) {
       localStorage.setItem(col, 0);
@@ -481,9 +472,10 @@ function toggle_active_column(col) {
       }
    } else
       localStorage.setItem(col, 1);
-   if ($('.headers').not('.hidden').length == 1) {
+   if ($('.headers').not('.hidden').length == 1)
       $('.colclose').addClass('hidden');
-   }
+   else
+      $('.colclose').removeClass('hidden');
    $('#max_width').click();
 }
 
