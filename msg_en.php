@@ -1,8 +1,6 @@
 <?php
 $ORIGINALS = 'ORIGINAL TEXTS';
 $TRANSLATIONS = 'TRANSLATIONS';
-$ANNOTATIONS = 'Annotations';
-$ANNOTATIONS_TEXT = 'There is a group of people studying the Urantia Papers sharing their annotations using <a href="https://hypothes.is">Hypothes.is</a> engine. To join this group please click <a href="https://hypothes.is/groups/QK41oRDi/urantia-papers-students"><b>HERE</b></a>. You can also create your own group and have private annotations.';
 $SOURCE_CODE = 'Source Code';
 $SOURCE_CODE_TEXT = 'This site\'s source code is freely available in the <b><a href="https://github.com/tigran123/urantia-book-explorer">github repository</a></b> and everyone is welcome to join in the development of the Urantia Book Explorer.';
 $TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';
