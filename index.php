@@ -98,10 +98,10 @@ echo "<div id='tabs'>
 <tr><td class='key'>+</td><td colspan=3>$ANY_SYMBOLS1</td></tr>
 <tr><td class='key'>?</td><td colspan=3>$ANY_SYMBOL</td></tr>
 <tr><td class='key'>-$WORD</td><td colspan=3>$MINUS_SYMBOL</td></tr>
-<tr><td class='key'>$WORD1 /[N,M] $WORD2</td><td colspan=3>$DIST_WO_ORDER</td></tr>
-<tr><td class='key'>/N</td><td colspan=3>$DIST_WO_SHORT</td></tr>
-<tr><td class='key'>$WORD1 @[N,M] $WORD2</td><td colspan=3>$DIST_W_ORDER</td></tr>
-<tr><td class='key'>@N</td><td colspan=3>$DIST_W_SHORT</td></tr>
+<tr><td class='key'>$WORD1 &lt;N,M&gt; $WORD2</td><td colspan=3>$DIST_WO_ORDER</td></tr>
+<tr><td class='key'>&lt;N&gt;</td><td colspan=3>$DIST_WO_SHORT</td></tr>
+<tr><td class='key'>$WORD1 &gt;N,M&gt; $WORD2</td><td colspan=3>$DIST_W_ORDER</td></tr>
+<tr><td class='key'>&gt;N&gt;</td><td colspan=3>$DIST_W_SHORT</td></tr>
 </table>
 </div>
 
