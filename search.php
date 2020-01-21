@@ -83,7 +83,8 @@ function search($search_in_toc=0) {
 }
 
 function make_search($func_name="search") {
-   global $search_range;
+   global $search_range, $time_start, $matches;
+
    switch ($search_range) {
       case "0":
          $func_name();   // поиск по тексту
