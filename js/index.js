@@ -543,18 +543,21 @@ function ContentLoaded() {
          var l = parseInt(params.get("l")); // text (mod_idx)
          ic    = parseInt(params.get("i")); // ic
          var t = decodeURIComponent(params.get("t"));// search_text
-         p = (p>=0 && p<5 ? p : 0);
-         m = ( m == ('all'||'exact'||'any') ? m : 'all');
-         r = (r>=0 && r<3 ? r : 0);
-         ic = (ic == (0 || 1) ? ic : 1);
+
+         //Валидация значений
+         p = p>=0 && p<5 ? p : 0;
+         m = m == 'all' || m == 'exact' || m == 'any' ? m : 'all';
+         r = r>=0 && r<3 ? r : 0;
+         ic = ic == 0 || ic == 1 ? ic : 1;
+         l = $('#col1mod option[value=' + l + ']').length == 1 ? l : 1;     //Пусть l=23. Тогда $('#col1mod option[value=23]').length вернет 1, если в списке есть текст с таким номером. Иначе при любом другом варианте установим первый текст.
+
          $('#ic_lab').html(ic ? 'a = A' : 'a &#8800; A');
-         if ($('.col5').hasClass('hidden')) toggle_active_column('col5');        //включаем колонку результатов, если была выключена
+         if ($('.col5').hasClass('hidden')) toggle_active_column('col5');   //включаем колонку результатов, если была выключена
 
-         var col_with_t = $('.txthdr').not('.hidden').has('.colmod').has('option[value="'+l+'"]:selected').first().attr('id');   //колонка с нужным нам текстом
-         var col_hidd = $('.txthdr.hidden').first().attr('id');                  //первая спрятанная
-         var col = (col_with_t || col_hidd || 'col1hdr').replace('hdr','');      //если колонки с текстом нет, берем первую спрятанную, иначе - первую
+         var col_with_t = $('.txthdr').not('.hidden').has('.colmod').has('option[value="'+l+'"]:selected').first().attr('id'); //колонка с нужным нам текстом
+         var col_hidd = $('.txthdr.hidden').first().attr('id');             //первая спрятанная
+         var col = (col_with_t || col_hidd || 'col1hdr').replace('hdr',''); //если колонки с текстом нет, берем первую спрятанную, иначе - первую
 
-         l = ($('#' + col + 'mod option[value='+l+']').length == 1 ? l : 1);
          $('#' + col + 'mod').val(l).selectmenu('refresh');
          var mod_idx = l;
          var paper = colpaper_map[col];
