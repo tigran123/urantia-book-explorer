@@ -274,8 +274,8 @@ $('#toc_expand_collapse').click(function(event) {
 var ic = 1;
 
 $('#ic').click(function(event) {
-   $('#ic_lab').html(ic ? 'a &#8800; A' : 'a = A');
    ic = 1 - ic;
+   $('#ic_lab').html(ic ? 'a = A' : 'a &#8800; A');
    $('#search_text').focus();
 });
 
@@ -352,16 +352,26 @@ $('#search').click(function(event) {
          });
       } else $coltxt.scrollTo(href, get_delay());
    } else {
+      var encode_text = encodeURIComponent(text);
       var search_part = '&search_part=' + $('#search_part').val();
       var search_range = '&search_range=' + $('#search_range').val();
       var search_mode = $('#search_mode').val();
-      var search_req = "search_" + search_mode + ".php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
+      var search_req = "search_" + search_mode + ".php" + "?text=" + encode_text + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
       $('#search_text').addClass('loading').prop('disabled', true);
       $('#search').button('disable');
+      var _link = '' + location.pathname
+      + '?p=' + $('#search_part').val()        //в какой части ищем
+      + '&m=' + search_mode                    //режим (все слова, точный, любое слово)
+      + '&r=' + $('#search_range').val()       //где ищем (текст, заголовки)
+      + '&l=' + mod_idx                        //номер текста (mod_idx)
+      + '&i=' + ic                             //регистрозависимость
+      + '&t=' + encode_text;                   //текст, который ищем
+      window.history.pushState('', '', _link);
       $.ajax({url: search_req, dataType: 'json', success: function(data) {
          var json = JSON.parse(data);
          $('#search_results').html(json.matches);
-         $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')');
+         $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')<span class="ui-icon 	ui-icon-extlink"></span>');
+         $('#col5title').wrap('<a href="'+_link+'"></a>');
          //$('#search_text').removeClass('loading').prop('disabled', false).val(json.text).focus();
          $('#search_text').removeClass('loading').prop('disabled', false);
          $('#search').button('enable');
@@ -523,6 +533,52 @@ function ContentLoaded() {
             $coltxt.scrollTo(href, get_delay());
          }
       });
+   }
+   else{
+      var queryString = window.location.search;
+      if (queryString != '') {
+         let params = new URLSearchParams(queryString);
+         var p = parseInt(params.get("p")); // search_part
+         var m = params.get("m");           // search_mode
+         var r = parseInt(params.get("r")); // search_range
+         var l = parseInt(params.get("l")); // text (mod_idx)
+         ic    = parseInt(params.get("i")); // ic
+         var t = decodeURIComponent(params.get("t"));// search_text
+
+         //Валидация значений
+         p = p>=0 && p<5 ? p : 0;
+         m = m == 'all' || m == 'exact' || m == 'any' ? m : 'all';
+         r = r>=0 && r<3 ? r : 0;
+         ic = ic == 0 || ic == 1 ? ic : 1;
+         l = $('#col1mod option[value=' + l + ']').length == 1 ? l : 1;     //Пусть l=23. Тогда $('#col1mod option[value=23]').length вернет 1, если в списке есть текст с таким номером. Иначе при любом другом варианте установим первый текст.
+
+         $('#ic_lab').html(ic ? 'a = A' : 'a &#8800; A');
+         if ($('.col5').hasClass('hidden')) toggle_active_column('col5');   //включаем колонку результатов, если была выключена
+
+         var col_with_t = $('.txthdr').not('.hidden').has('.colmod').has('option[value="'+l+'"]:selected').first().attr('id'); //колонка с нужным нам текстом
+         var col_hidd = $('.txthdr.hidden').first().attr('id');             //первая спрятанная
+         var col = (col_with_t || col_hidd || 'col1hdr').replace('hdr',''); //если колонки с текстом нет, берем первую спрятанную, иначе - первую
+
+         $('#' + col + 'mod').val(l).selectmenu('refresh');
+         var mod_idx = l;
+         var paper = colpaper_map[col];
+         coltxtsw(col).click();
+         $('#' + col + 'txt').load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
+         load_notes(mod_idx);
+         $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
+            var toc = $(this).find('.toc');
+            toc.bonsai();
+            $('#' + col + 'title').html(toc.find('.U' + paper + '_0_1').html());
+            localStorage.setItem(col + 'mod', mod_idx);
+            if (!$('#tooltips').is(':checked')) { $(document).tooltip('option', 'disabled', true); }
+         });
+
+         $('#search_part').val(p).selectmenu('refresh');
+         $('#search_mode').val(m).selectmenu('refresh');
+         $('#search_range').val(r).selectmenu('refresh');
+         $('#search_text').val(t);
+         $('#search').click();
+      }
    }
 }
 
