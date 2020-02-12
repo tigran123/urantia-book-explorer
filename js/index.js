@@ -352,19 +352,20 @@ $('#search').click(function(event) {
          });
       } else $coltxt.scrollTo(href, get_delay());
    } else {
+      var encode_text = encodeURIComponent(text);
       var search_part = '&search_part=' + $('#search_part').val();
       var search_range = '&search_range=' + $('#search_range').val();
       var search_mode = $('#search_mode').val();
-      var search_req = "search_" + search_mode + ".php" + "?text=" + encodeURIComponent(text) + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
+      var search_req = "search_" + search_mode + ".php" + "?text=" + encode_text + "&mod_idx=" + mod_idx + "&ic=" + ic + search_part + search_range;
       $('#search_text').addClass('loading').prop('disabled', true);
       $('#search').button('disable');
-      var _link = ''+location.pathname
-      +'?p='+$('#search_part').val()        //в какой части ищем
-      +'&m='+search_mode                    //режим (все слова, точный, любое слово)
-      +'&r='+$('#search_range').val()       //где ищем (текст, заголовки)
-      +'&l='+mod_idx                        //номер текста (mod_idx)
-      +'&i='+ic                             //регистрозависимость
-      +'&t='+encodeURIComponent(text);      //текст, который ищем
+      var _link = '' + location.pathname
+      + '?p=' + $('#search_part').val()        //в какой части ищем
+      + '&m=' + search_mode                    //режим (все слова, точный, любое слово)
+      + '&r=' + $('#search_range').val()       //где ищем (текст, заголовки)
+      + '&l=' + mod_idx                        //номер текста (mod_idx)
+      + '&i=' + ic                             //регистрозависимость
+      + '&t=' + encode_text;                   //текст, который ищем
       window.history.pushState('', '', _link);
       $.ajax({url: search_req, dataType: 'json', success: function(data) {
          var json = JSON.parse(data);
