@@ -1,3 +1,4 @@
+error_log
 exclude.txt
 .gitignore
 .htaccess
