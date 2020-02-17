@@ -22,7 +22,7 @@ if (isset($text)) {
    $pattern = '/(\\b' . preg_replace(['/\*/u', '/\+/u', '/\?/u', '/\s+/u'],
                                        ['[\\w\\-]*', '[\\w\\-]+', '\\w', '(?!\\w)|\\b'],
                                        trim($text)) . '(?!\w))/u';   //Заменяем * и + на спецстроку, пробел на ИЛИ. Задней границей слова является "(?!\\w)"
-   if (is_array($pattern_ar) == false) $pattern_ar[] = $pattern;
+   if (is_array($pattern_ar) == false) $pattern_ar = []; $pattern_ar[] = $pattern;
    //Очищаем массив от пустых значений
    foreach ($pattern_ar as $key => $pattern) {
       if ($pattern=='') unset($pattern_ar[$key]);
