@@ -23,6 +23,7 @@ function search_all($search_in_toc=0) {
       } else {
          $filename = sprintf($textdir . "/p%03d.html", $i);
       }
+      if (! is_file($filename)) continue;
       $lines = file($filename);
       foreach($lines as $line) {
          if ($search_in_toc == 1) {
@@ -107,10 +108,25 @@ function search_all($search_in_toc=0) {
             $word2_o = $words_ar[0][$word2_i][0];
             $word1_p = $words_ar[0][$word1_i][1];//Позиция первой буквы слова в предложении по номеру слова
             $word2_p = $words_ar[0][$word2_i][1];
-            $w1_shift= strpos($word1_o,$word1); //Смещение поизиции, если искомое слово - часть слова в предложении
-            $w2_shift= strpos($word2_o,$word2);
+            foreach ($re_words1 as $word1) {
+               $w1_shift= strpos($word1_o,$word1); //Смещение поизиции, если искомое слово - часть слова в предложении
+               if ($w1_shift !== false) {
+                  break;
+               } else {
+                  $w1_shift = 0;
+               }
+            }
+            foreach ($re_words2 as $word2) {
+               $w2_shift= strpos($word2_o,$word2);
+               if ($w2_shift !== false) {
+                  break;
+               } else {
+                  $w2_shift = 0;
+               }
+            }
             $word_mark[$word1_p+$w1_shift] = $word1;
             $word_mark[$word2_p+$w2_shift] = $word2;
+
          }
          if (count($word_mark) == 0 && count($dist_ar) != 0) continue; //А если ничего так и не нашли - идем к следующему абзацу
 
@@ -147,14 +163,14 @@ function text_replace_all($matches) {
 }
 
 if (isset($text)) {
-   $re = '/\(?((?:[\w*+]+-?)+)\s+(\|?(?:\<|\>))(?:(\d+),(\d+)|(\d+))\>\|?\s+((?:[\w*+]+-?)+)\)?/u';//Выделение запроса о расстоянии между словами
-      //      (______1_______)   (______2_____)   (_3_) (_4_) (_5_)         (_______6______)
-      //Слово1_______|                  |           |     |     |                   |                  Может быть составным, разделенным дефисами
-      //Тип расстояния__________________|           |     |     |                   |
-      //расстояние 1________________________________|     |     |                   |
-      //расстояние 2______________________________________|     |                   |
-      //расстояние сокращенное__________________________________|                   |
-      //Слово2______________________________________________________________________|
+   $re = '/\(?((?:[\w*+?]+-?)+)\s+(\|?(?:\<|\>))(?:(\d+),(\d+)|(\d+))\>\|?\s+((?:[\w*+?]+-?)+)\)?/u';//Выделение запроса о расстоянии между словами
+      //      (_______1_______)   (______2_____)   (_3_) (_4_) (_5_)         (_______6_______)
+      //Слово1________|                  |           |     |     |                   |                  Может быть составным, разделенным дефисами
+      //Тип расстояния___________________|           |     |     |                   |
+      //расстояние 1_________________________________|     |     |                   |
+      //расстояние 2_______________________________________|     |                   |
+      //расстояние сокращенное___________________________________|                   |
+      //Слово2_______________________________________________________________________|
    preg_match_all($re, $text, $words_dist_req, PREG_PATTERN_ORDER, 0);                                 //Запоминаем запросы о расстоянии
    $text = str_replace($words_dist_req[0], '', trim($text));                                           //Очищаем их из основного запроса
 
@@ -190,11 +206,11 @@ if (isset($text)) {
       $word2 = $words_dist_req[6][$key];
       $words_dist_req['Word1_AsRegex'][$key] = 0; //Флаг - искать слово1 как регэкс (1) или просто (0)
       $words_dist_req['Word2_AsRegex'][$key] = 0; //Флаг - искать слово2 как регэкс (1) или просто (0)
-      if (strpos($word1,"*") !== false || strpos($word1,"+") !== false) {
+      if (strpos($word1,"*") !== false || strpos($word1,"+") !== false || strpos($word1,"?") !== false) {
          $words_dist_req[1][$key] = mask2regexp($word1);
          $words_dist_req['Word1_AsRegex'][$key] = 1;
       }
-      if (strpos($word2,"*") !== false || strpos($word2,"+") !== false) {
+      if (strpos($word2,"*") !== false || strpos($word2,"+") !== false || strpos($word2,"?") !== false) {
          $words_dist_req[6][$key] = mask2regexp($word2);
          $words_dist_req['Word2_AsRegex'][$key] = 1;
       }
