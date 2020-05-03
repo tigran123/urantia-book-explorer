@@ -120,7 +120,7 @@ function output_line($line, $full_context) {
    if ($shortcontext != 0 && $full_context == 0) {
       $startdots  = " ... ";
       $enddots    = " ... ";
-      if ($shortcontext == 2) {
+      if ($shortcontext == 1) {
          //Ограничиваем контекст результата одним предложением
          preg_match_all('/(\.?”?)([^\.\n]*?)(<mark>.*<\/mark>)([^\.\n]*\.\”?)(.?)/u',$line,$shortline,PREG_SET_ORDER);
          $start_symb = $shortline[0][1];

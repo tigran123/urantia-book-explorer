@@ -24,7 +24,7 @@ else {
    setcookie('lang', $lang, $expire);
 }
 
-$shortcontext = 1;
+$shortcontext = 0;
 if (isset($_COOKIE['shortcontext']))
    $shortcontext = $_COOKIE['shortcontext'];
 
