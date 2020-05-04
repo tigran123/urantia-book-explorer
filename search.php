@@ -125,14 +125,16 @@ function output_line($line, $full_context) {
          $startdots_  = "";
          $enddots_    = "";
          $res_line    = "";
+         //https://regex101.com/r/jbZ7vT/5/
          $cont_count  = preg_match_all('/([\.?!]?[”)]?(?:<[^>]*?>)?)([^\.\n!?]*?)(<mark>.*?<\/mark>)([^\.\n!?]*(?:[\.:!?]|$)[^\s\n]*)(.?)/u',$line,$shortline,PREG_SET_ORDER);
-         $last_count  = $cont_count-1;
-         for ($r = 0; $r < $cont_count; $r++) {
-            $start_symb = $shortline[$r][1];
-            $start_line = $shortline[$r][2];
-            $mark_line  = $shortline[$r][3];
-            $end_line   = $shortline[$r][4];
-            $finish_symb= $shortline[$r][5];
+         //                              (____________1____________)(_____2_____)(________3________)(_______________4_______________)(5_)
+         $last_count  = $cont_count-1;//              |                   |               |                         |                 |
+         for ($r = 0; $r < $cont_count; $r++) {//     |                   |               |                         |                 |
+            $start_symb = $shortline[$r][1];//________|                   |               |                         |                 |
+            $start_line = $shortline[$r][2];//____________________________|               |                         |                 |
+            $mark_line  = $shortline[$r][3];//____________________________________________|                         |                 |
+            $end_line   = $shortline[$r][4];//______________________________________________________________________|                 |
+            $finish_symb= $shortline[$r][5];//________________________________________________________________________________________|
             $startdots  = " ... ";
             $enddots    = " ... ... ... ";
             if ($start_symb == null ) $startdots="";
@@ -154,20 +156,16 @@ function output_line($line, $full_context) {
          $startdots_  = " ... ";
          $enddots_    = " ... ";
          $res_line    = "";
+         //https://regex101.com/r/LU3SBZ/6
          $cont_count  = preg_match_all('/(.?)([^\s\n]*?)([^>\/\.,–:;\s].{0,'.$l.'})?(<mark>.*?<\/mark>)(.{0,'.$l.'}[^<\/\.,–:;\s])?([^\s\n]*?)(?:[\s,:;]|$)(.?)/u',$line,$shortline,PREG_SET_ORDER);
-         //                              (1_)(____2____)(____________3____________) (_______4________)(____________5____________) (____6____)             (7_)
+         //                              (1_)(____2____)(____________3____________) (________4________)(____________5____________) (____6____)             (7_)
          $last_count = $cont_count-1;
          for ($r = 0; $r < $cont_count; $r++) {
-            $start_symb = $shortline[$r][1];//                                   |                      |                    |                  |
-            $start_line = $shortline[$r][2].$shortline[$r][3];//                 |                      |                    |                  |
-            $mark_line  = $shortline[$r][4];//___________________________________|                      |                    |                  |
-            $end_line   = $shortline[$r][5].$shortline[$r][6];//________________________________________|____________________|                  |
-            $finish_symb= $shortline[$r][7];//__________________________________________________________________________________________________|
-         // $start_symb = $shortline[0][1];//                                   |                      |                    |                  |
-         // $start_line = $shortline[0][2].$shortline[0][3];//                  |                      |                    |                  |
-         // $mark_line  = $shortline[0][4];//___________________________________|                      |                    |                  |
-         // $end_line   = $shortline[0][5].$shortline[0][6];//_________________________________________|____________________|                  |
-         // $finish_symb= $shortline[0][7];//__________________________________________________________________________________________________|
+            $start_symb = $shortline[$r][1];//                                               |                      |                    |                  |
+            $start_line = $shortline[$r][2].$shortline[$r][3];//                             |                      |                    |                  |
+            $mark_line  = $shortline[$r][4];//_______________________________________________|                      |                    |                  |
+            $end_line   = $shortline[$r][5].$shortline[$r][6];//____________________________________________________|____________________|                  |
+            $finish_symb= $shortline[$r][7];//______________________________________________________________________________________________________________|
 
             if ($finish_symb == null ) $enddots="";
             if (trim($start_line) == "") {
