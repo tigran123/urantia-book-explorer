@@ -122,36 +122,80 @@ function output_line($line, $full_context) {
       $enddots    = " ... ";
       if ($shortcontext == 1) {
          //Ограничиваем контекст результата одним предложением
-         preg_match_all('/(\.?”?)([^\.\n]*?)(<mark>.*<\/mark>)([^\.\n]*\.\”?)(.?)/u',$line,$shortline,PREG_SET_ORDER);
-         $start_symb = $shortline[0][1];
-         $start_line = $shortline[0][2];
-         $mark_line  = $shortline[0][3];
-         $end_line   = $shortline[0][4];
-         $finish_symb= $shortline[0][5];
-         if ($start_symb == null ) $startdots="";
-         if ($finish_symb == null ) $enddots="";
+         $startdots_  = "";
+         $enddots_    = "";
+         $res_line    = "";
+         $cont_count  = preg_match_all('/([\.?!]?[”)]?(?:<[^>]*?>)?)([^\.\n!?]*?)(<mark>.*?<\/mark>)([^\.\n!?]*(?:[\.:!?]|$)[^\s\n]*)(.?)/u',$line,$shortline,PREG_SET_ORDER);
+         $last_count  = $cont_count-1;
+         for ($r = 0; $r < $cont_count; $r++) {
+            $start_symb = $shortline[$r][1];
+            $start_line = $shortline[$r][2];
+            $mark_line  = $shortline[$r][3];
+            $end_line   = $shortline[$r][4];
+            $finish_symb= $shortline[$r][5];
+            $startdots  = " ... ";
+            $enddots    = " ... ... ... ";
+            if ($start_symb == null ) $startdots="";
+            if ($finish_symb == null ) $enddots="";
+            if ($r === 0 && $startdots != null) {
+               $startdots_= " ... ";
+            }
+            if ($r === $last_count && $enddots != null) {
+               $enddots_= " ... "; $enddots = "";
+            }
+            $m_line = $start_line.$mark_line.$end_line;
+            $res_line = $res_line.$m_line.$enddots.'&nbsp;';
+         }
+         $outputline[] = $startdots_;
+         $outputline[] = $res_line;
+         $outputline[] = $enddots_;
       } else {
          //Ограничиваем контекст результата L символами до и после найденного, так, чтобы начало и конец были красивыми (не знаки препинания, часть тэга и пр..)
+         $startdots_  = " ... ";
+         $enddots_    = " ... ";
+         $res_line    = "";
+         $cont_count  = preg_match_all('/(.?)([^\s\n]*?)([^>\/\.,–:;\s].{0,'.$l.'})?(<mark>.*?<\/mark>)(.{0,'.$l.'}[^<\/\.,–:;\s])?([^\s\n]*?)(?:[\s,:;]|$)(.?)/u',$line,$shortline,PREG_SET_ORDER);
+         //                              (1_)(____2____)(____________3____________) (_______4________)(____________5____________) (____6____)             (7_)
+         $last_count = $cont_count-1;
+         for ($r = 0; $r < $cont_count; $r++) {
+            $start_symb = $shortline[$r][1];//                                   |                      |                    |                  |
+            $start_line = $shortline[$r][2].$shortline[$r][3];//                 |                      |                    |                  |
+            $mark_line  = $shortline[$r][4];//___________________________________|                      |                    |                  |
+            $end_line   = $shortline[$r][5].$shortline[$r][6];//________________________________________|____________________|                  |
+            $finish_symb= $shortline[$r][7];//__________________________________________________________________________________________________|
+         // $start_symb = $shortline[0][1];//                                   |                      |                    |                  |
+         // $start_line = $shortline[0][2].$shortline[0][3];//                  |                      |                    |                  |
+         // $mark_line  = $shortline[0][4];//___________________________________|                      |                    |                  |
+         // $end_line   = $shortline[0][5].$shortline[0][6];//_________________________________________|____________________|                  |
+         // $finish_symb= $shortline[0][7];//__________________________________________________________________________________________________|
 
-         preg_match_all('/(.?)([^\s\n]*?)([^>\/\.,–:;\s].{0,'.$l.'})?(<mark>.*<\/mark>)(.{0,'.$l.'}[^<\/\.,–:;\s])?([^\s\n]*?)(?:[\s,:;]|$)(.?)/u',$line,$shortline,PREG_SET_ORDER);
-         //               (1_)(____2____)(____________3____________) (_______4________)(____________5____________) (____6____)             (7_)
-         $start_symb = $shortline[0][1];//                                   |                      |                    |                  |
-         $start_line = $shortline[0][2].$shortline[0][3];//                  |                      |                    |                  |
-         $mark_line  = $shortline[0][4];//___________________________________|                      |                    |                  |
-         $end_line   = $shortline[0][5].$shortline[0][6];//_________________________________________|____________________|                  |
-         $finish_symb= $shortline[0][7];//__________________________________________________________________________________________________|
+            if ($finish_symb == null ) $enddots="";
+            if (trim($start_line) == "") {
+               $startdots = (strpos($line,$mark_line) == 1 ) ? " ": " ... ";
+            }else{
+               $startdots = (strpos($line,$start_line) == 1 ) ? " ": " ... ";
+            }
+            if ($finish_symb == null ) $enddots="";
+            if ($r === 0) {
+               $startdots_= $startdots; $startdots = "";
+            }
+            if ($r === $last_count ) {
+               $enddots_= $enddots; $enddots = "";
+            }
+            $m_line = $start_line.$mark_line.$end_line;
+            if (strpos($m_line,'<i>') != 0 ) {
+               if (strpos($m_line,'</i>') == 0 ) {
+                  $m_line = $m_line.'</i>';
+               }
+            }
+            $res_line = $res_line.$startdots.$m_line.$enddots.'&nbsp;';
+        }
+        $outputline[] = $startdots_;
+        $outputline[] = $res_line;
+        $outputline[] = $enddots_;
 
-         if ($finish_symb == null ) $enddots="";
-         if (trim($start_line) == "") {
-            $startdots = (strpos($line,$mark_line) == 1 ) ? " ": " ... ";
-         }else{
-            $startdots = (strpos($line,$start_line) == 1 ) ? " ": " ... ";
-         }
-         if ($finish_symb == null ) $enddots="";
       }
-      $outputline[] = $startdots;
-      $outputline[] = $start_line.$mark_line.$end_line;
-      $outputline[] = $enddots;
+
    } else {
       $outputline[] = "";
       $outputline[] = $line;
@@ -160,7 +204,7 @@ function output_line($line, $full_context) {
    return $outputline;
 }
 
-//формируем разную строку замены в зависимости от того, попал ли в результат тэг </i>
+//формируем разную строку замены в зависимости от того, попал ли в результат тэг </?i>
 function text_replace($matches) {
    $m1 = $matches[1];
    $m2 = isset($matches[2]) ?  $matches[2] : '';
