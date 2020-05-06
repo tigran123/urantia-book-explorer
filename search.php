@@ -156,9 +156,9 @@ function output_line($line, $full_context) {
          $startdots_  = " ... ";
          $enddots_    = " ... ";
          $res_line    = "";
-         //https://regex101.com/r/LU3SBZ/6
-         $cont_count  = preg_match_all('/(.?)([^\s\n]*?)([^>\/\.,–:;\s].{0,'.$l.'})?(<mark>.*?<\/mark>)(.{0,'.$l.'}[^<\/\.,–:;\s])?([^\s\n]*?)(?:[\s,:;]|$)(.?)/u',$line,$shortline,PREG_SET_ORDER);
-         //                              (1_)(____2____)(____________3____________) (________4________)(____________5____________) (____6____)             (7_)
+         //https://regex101.com/r/LU3SBZ/7
+         $cont_count  = preg_match_all('/(.?)([^\s\n]*?)([^>\/\.,–:;\s].{0,'.$l.'})?(<mark>.*?<\/mark>)(.{0,'.$l.'}[^<\/\.,–:;\s])?([^\s\n]*?)(?:[\s,:;]|$)([^<\n]?)/u',$line,$shortline,PREG_SET_ORDER);
+         //                              (1_)(____2____)(____________3____________) (________4________)(____________5____________) (____6____)             (7______)
          $last_count = $cont_count-1;
          for ($r = 0; $r < $cont_count; $r++) {
             $start_symb = $shortline[$r][1];//                                               |                      |                    |                  |
@@ -166,7 +166,7 @@ function output_line($line, $full_context) {
             $mark_line  = $shortline[$r][4];//_______________________________________________|                      |                    |                  |
             $end_line   = $shortline[$r][5].$shortline[$r][6];//____________________________________________________|____________________|                  |
             $finish_symb= $shortline[$r][7];//______________________________________________________________________________________________________________|
-
+            $enddots    = " ... ";
             if ($finish_symb == null ) $enddots="";
             if (trim($start_line) == "") {
                $startdots = (strpos($line,$mark_line) == 1 ) ? " ": " ... ";
@@ -187,10 +187,10 @@ function output_line($line, $full_context) {
                }
             }
             $res_line = $res_line.$startdots.$m_line.$enddots.'&nbsp;';
-        }
-        $outputline[] = $startdots_;
-        $outputline[] = $res_line;
-        $outputline[] = $enddots_;
+         }
+         $outputline[] = $startdots_;
+         $outputline[] = $res_line;
+         $outputline[] = $enddots_;
 
       }
 

@@ -148,6 +148,12 @@ $('#tooltips').change(function() {
    }
 });
 
+$("#shortcontext_lenght").focusout(function(){
+   var value = parseInt($(this).val());
+   if (value > 100) $(this).val(100);
+   if (value < 0)   $(this).val(0);
+});
+
 $('#animations').change(function() {
    document.cookie = 'animations=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
 });
