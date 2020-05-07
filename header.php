@@ -24,9 +24,13 @@ else {
    setcookie('lang', $lang, $expire);
 }
 
-$shortcontext = 1;
+$shortcontext = 0;
 if (isset($_COOKIE['shortcontext']))
    $shortcontext = $_COOKIE['shortcontext'];
+
+$shortcontext_lenght = 40;
+   if (isset($_COOKIE['shortcontext_lenght']))
+      $shortcontext_lenght = $_COOKIE['shortcontext_lenght'];
 
 $tooltips = 0;
 if (isset($_COOKIE['tooltips']))

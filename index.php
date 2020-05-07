@@ -36,9 +36,14 @@ $animations_checkbox .= "<label title='$ENABLE_WIDGET_ANIMATIONS' for='animation
 $scrollsync_checkbox = "<input id='scrollsync' type='checkbox' value='1'".($scrollsync == 1 ? " checked" : "").">";
 $scrollsync_checkbox .= "<label title='$TOOLTIP_SCROLLSYNC' for='scrollsync'>$SCROLLSYNC</label><BR>";
 
-$shortcontext_checkbox = "<input id='shortcontext' type='checkbox' value='1'".($shortcontext == 1 ? " checked" : "").">";
-$shortcontext_checkbox .= "<label title='$TOOLTIP_SHORTCONTEXT' for='scrollsync'>$SHORTCONTEXT</label><BR>";
-
+$shortcontext_checkbox = "<input type='radio' name='shortcontext' id='shortcontext_par' value='0'".($shortcontext == 0 ? " checked" : "").">";
+$shortcontext_checkbox .= "<label title='$TOOLTIP_PAR_CONTEXT' for='shortcontext_par'>$PAR_CONTEXT</label>  ";
+$shortcontext_checkbox .= "<BR><input type='radio' name='shortcontext' id='shortcontext_sent' value='1'".($shortcontext == 1 ? " checked" : "").">";
+$shortcontext_checkbox .= "<label title='$TOOLTIP_SENT_CONTEXT' for='shortcontext_sent'>$SENT_CONTEXT</label>  ";
+$shortcontext_checkbox .= "<BR><input type='radio' name='shortcontext' id='shortcontext' value='2'".($shortcontext == 2 ? " checked" : "").">";
+$shortcontext_checkbox .= "<label title='$TOOLTIP_SHORTCONTEXT' for='shortcontext'>$SHORTCONTEXT</label>  ";
+$shortcontext_checkbox .= "<input id='shortcontext_lenght' type='number' min='0' max='100' value='$shortcontext_lenght'>";
+$shortcontext_checkbox .= "<BR>";
 $text_options = "<optgroup label='$ORIGINALS'>".
 "<option value=1 title='Ed.&nbsp;Tigran&nbsp;Aivazian,&nbsp;Bibles.org.uk'>English: British Study Edition</option>".
 "<option value=0 title='The English text of The&nbsp;Urantia&nbsp;Book is in the Public&nbsp;Domain'>English: SRT (American)</option>".

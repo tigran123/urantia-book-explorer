@@ -109,7 +109,11 @@ $NOTES = 'NOTES';
 $SEARCH_RESULTS = 'SEARCH RESULTS';
 $TOOLTIP_SCROLLSYNC = 'Enable scroll synchronization of parallel text columns';
 $SCROLLSYNC = 'Scroll sync';
-$TOOLTIP_SHORTCONTEXT = 'Enable short context in search results instead of a full paragraph';
-$SHORTCONTEXT = 'Short context of search results';
+$TOOLTIP_SHORTCONTEXT = 'Restrict search result context to given number of characters';
+$SHORTCONTEXT = 'Search results context length (characters)';
+$TOOLTIP_SENT_CONTEXT = 'Search results in the context of one sentence instead of a full paragraph';
+$SENT_CONTEXT = 'Sentence context for search results';
+$TOOLTIP_PAR_CONTEXT = 'Search results in the context of one paragraph';
+$PAR_CONTEXT = 'Paragraph context for search results';
 $GOOGLE_TAB_ID = '655353357';
 ?>
