@@ -90,7 +90,7 @@ echo "<div id='tabs'>
 <table>
 <th colspan=4 title='$HELP_TIP'>$HELP<hr></th>
 <tr><td class='key'>F1</td><td>$CALL_HELP</td><td class='key'>Ctrl + 0</td><td>$SHOW_HIDE_TOC</td></tr>
-<tr><td class='key'>Ctrl + X</td><td>$CLEAR_SEARCH_STRING_HELP</td><td class='key'>Ctrl + 1/2/3/4</td><td>$SHOW_HIDE_COL1234</td></tr>
+<tr><td class='key'>Ctrl + X</td><td>$SEARCH_SELECTION_HELP</td><td class='key'>Ctrl + 1/2/3/4</td><td>$SHOW_HIDE_COL1234</td></tr>
 <tr><td class='key'>Ctrl + S</td><td>$SHOW_HIDE_SEARCH_PANEL</td><td class='key'>Ctrl + Shift 1/2/3/4</td><td>$SELECT_TEXT1234</td></tr>
 <tr><td class='key'>Ctrl + O</td><td>$EXPAND_COLLAPSE</td><td class='key'>Ctrl + 5</td><td>$SHOW_HIDE_SEARCH_RESULTS</td></tr>
 <tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 6</td><td>$SHOW_HIDE_NOTES</td></tr>

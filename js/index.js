@@ -234,6 +234,12 @@ $('.coltxt').on('click', 'a', function(e) {
    }
 });
 
+var selection_column = '';
+
+$('.coltxt').bind('mouseup', function(e) {
+   selection_column = $(e.delegateTarget).attr('id').replace('txt','');
+});
+
 $('.colupdown').click(function() {
    var coltxt = '#' + $(this).parent().attr('id').replace('hdr','txt');
    offset = $(this).attr('name') == 'up' ? 0 : $(coltxt)[0].scrollHeight;
@@ -444,17 +450,20 @@ $(document).keydown(function(event) {
       $('#max_height').click();
    } else if (ctrl && key == 69) { /* Ctrl + E */
       event.preventDefault();
-      console.log("Hiding explorer control");
       $('#explorer_control').toggleClass('hidden');
       $('#max_height').click();
    } else if (ctrl && key == 83) { /* Ctrl + S */
       event.preventDefault();
-      console.log("Hiding search control");
       $('#search_control').toggleClass('hidden');
       $('#max_height').click();
    } else if (ctrl && key == 88) { /* Ctrl + X */
       event.preventDefault();
-      $('#clear').click();
+      seltext = window.getSelection().toString();
+      $('#search_text').val(seltext);
+      var saved_active_column = active_column;
+      active_column = selection_column;
+      $('#search').click();
+      active_column = saved_active_column;
    } else if (ctrl && key == 79) { /* Ctrl + O */
       event.preventDefault();
       $('#toc_expand_collapse').click();
