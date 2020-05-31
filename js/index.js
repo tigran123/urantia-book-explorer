@@ -462,8 +462,11 @@ $(document).keydown(function(event) {
       $('#search_text').val(seltext);
       var saved_active_column = active_column;
       active_column = selection_column;
+      var saved_search_mode = $('#search_mode').val();
+      $('#search_mode').val('exact').selectmenu('refresh');
       $('#search').click();
       active_column = saved_active_column;
+      $('#search_mode').val(saved_search_mode).selectmenu('refresh');
    } else if (ctrl && key == 79) { /* Ctrl + O */
       event.preventDefault();
       $('#toc_expand_collapse').click();
