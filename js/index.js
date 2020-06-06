@@ -368,6 +368,7 @@ $('#search').click(function(event) {
          });
       } else $coltxt.scrollTo(href, get_delay());
    } else {
+      if ($('.col5').hasClass('hidden')) toggle_active_column('col5');   //включаем колонку результатов, если была выключена
       var encode_text = encodeURIComponent(text);
       var search_part = '&search_part=' + $('#search_part').val();
       var search_range = '&search_range=' + $('#search_range').val();
