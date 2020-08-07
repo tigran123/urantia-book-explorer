@@ -57,6 +57,14 @@ legend { font-weight: bold; }
    position: relative;
 }
 
+.col0sw,#col0hdr:hover,#col0rad:hover { color: black; background: #d7e2e4 !important;}
+.col1sw,#col1hdr:hover,#col1rad:hover { color: black; background: #faecb4 !important;}
+.col2sw,#col2hdr:hover,#col2rad:hover { color: black; background: #bcfac9 !important;}
+.col3sw,#col3hdr:hover,#col3rad:hover { color: black; background: #f8d8c2 !important;}
+.col4sw,#col4hdr:hover,#col4rad:hover { color: black; background: #adf7f7 !important;}
+.col5sw,#col5hdr:hover,#col5rad:hover { color: black; background: #d2f5aa !important;}
+.col6sw,#col6hdr:hover,#col6rad:hover { color: black; background: #e9e96d !important;}
+
 .col0,#col0rad { color: black; background: #f4f4ed; }
 .col1,#col1rad { color: black; background: #fffae6; }
 .col2,#col2rad { color: black; background: #e6fdeb; }
@@ -97,7 +105,6 @@ legend { font-weight: bold; }
    font-family: 'Georgia', 'Arno Pro', 'Garamond Premier Pro', 'Minion Pro', 'GoudyOlSt BT';
 }
 
-a: { color: blue; }
 a:hover, a:focus { color: #018fe2; }
 a, a:hover, a:active, a:focus { text-decoration: none; }
 
