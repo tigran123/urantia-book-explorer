@@ -14,3 +14,5 @@ tutorial/
 research/
 sd
 manual/
+*.diff
+*.patch
