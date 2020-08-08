@@ -66,6 +66,22 @@ $('.coltxtsw').on('click', function() {
    $('#max_width').click();
 });
 
+$("#col0hdr").hover(function(){$("#col0rad").toggleClass("col0sw");});
+$("#col1hdr").hover(function(){$("#col1rad").toggleClass("col1sw");});
+$("#col2hdr").hover(function(){$("#col2rad").toggleClass("col2sw");});
+$("#col3hdr").hover(function(){$("#col3rad").toggleClass("col3sw");});
+$("#col4hdr").hover(function(){$("#col4rad").toggleClass("col4sw");});
+$("#col5hdr").hover(function(){$("#col5rad").toggleClass("col5sw");});
+$("#col6hdr").hover(function(){$("#col6rad").toggleClass("col6sw");});
+
+$("#col0rad").hover(function(){$("#col0hdr").toggleClass("col0sw");});
+$("#col1rad").hover(function(){$("#col1hdr").toggleClass("col1sw");});
+$("#col2rad").hover(function(){$("#col2hdr").toggleClass("col2sw");});
+$("#col3rad").hover(function(){$("#col3hdr").toggleClass("col3sw");});
+$("#col4rad").hover(function(){$("#col4hdr").toggleClass("col4sw");});
+$("#col5rad").hover(function(){$("#col5hdr").toggleClass("col5sw");});
+$("#col6rad").hover(function(){$("#col6hdr").toggleClass("col6sw");});
+
 $('.colmod').selectmenu({
    change: function(event, ui) {
       var col = $(this).attr('id').replace('mod', '');
