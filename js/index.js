@@ -190,6 +190,7 @@ function GetSearchOptionsQuerySrt(text){
 };
 
 function SetSearchOptions(queryString){
+   if (queryString == null) return;
    let params = new URLSearchParams(queryString);
    var p = parseInt(params.get("p")); // search_part
    var m = params.get("m");           // search_mode
@@ -661,6 +662,8 @@ function ContentLoaded() {
       if (queryString != '') {
          SetSearchOptions(queryString);
          $('#search').click();
+      }else{
+         SetSearchOptions($('#combobox').children(':selected').val());
       }
    }
 }
