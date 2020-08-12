@@ -145,8 +145,8 @@ function getSearchHistory(){
    var availableHistory = localStorage.getObj('_searches',[]);
    availableHistory = Array.isArray(availableHistory) == true ? availableHistory : [];
    availableHistory = availableHistory.map(function(value){
-      if (!Array.isArray(value)) { //для ранее сохраненных элементов истории возвращаем массив
-         return [value,''];
+      if (!Array.isArray(value)) { //для ранее сохраненных элементов истории возвращаем массив с предустановленной строкой параметров
+         return [value,'?p=0&m=all&r=0&i=1&t='+encodeURIComponent(value)];
       } else {
          return value;
       }
@@ -158,13 +158,7 @@ function UpdateSearchHistoryCombo(){
    var availableHistory = getSearchHistory();
    availableHistory = Array.isArray(availableHistory) == true ? availableHistory.reverse() : availableHistory;
    $('#combobox').empty();
-   availableHistory.map(function(value){
-      if (Array.isArray(value)) {
-         $(new Option(value[0],value[1])).appendTo($('#combobox'));  //для нового варианта истории
-      } else {
-         $(new Option(value)).appendTo($('#combobox'));              //для старого варианта истории
-      }
-   });
+   availableHistory.map(function(value){$(new Option(value[0],value[1])).appendTo($('#combobox'));});
 };
 
 UpdateSearchHistoryCombo();
