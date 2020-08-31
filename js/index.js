@@ -1,4 +1,5 @@
 var active_column = localStorage.getItem("active_column");
+var current_paragraph = localStorage.getItem("current_paragraph"); // TODO: 20200815 Al
 if (active_column == undefined) {
    active_column = 'col1';
    localStorage.setItem("active_column", active_column);
@@ -267,6 +268,8 @@ $('#clear').click(function(event) { $('#search_text').val('').focus(); });
 $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
    e.preventDefault();
    var href = $(this).attr('href');
+   current_paragraph = href;
+   localStorage.setItem("current_paragraph", current_paragraph);
    var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
    if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
    else {
@@ -304,6 +307,8 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
 $('.coltxt').on('click', 'a', function(e) {
    e.preventDefault();
    var href = $(this).attr('href');
+   current_paragraph = href;
+   localStorage.setItem("current_paragraph", current_paragraph);
    var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
    if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
    else {
@@ -656,8 +661,15 @@ function ContentLoaded() {
       if (queryString != '') {
          SetSearchOptions(queryString);
          $('#search').click();
-      }else{
+      }else{ //Пустая строка параметров URL
          SetSearchOptions($('#combobox').children(':selected').val());
+         if (current_paragraph != '') { // TODO: 20200816 Al Переделать текущий параграф на массив: Колонка:ТекПарагр.
+            $('.txthdr').not('.hidden').each(function() {
+               var col = $(this).attr('id').replace('hdr','');
+               var $coltxt = $('#' + col + 'txt');
+               $coltxt.scrollTo(current_paragraph, get_delay());
+            });
+         }
       }
    }
 }
