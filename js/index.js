@@ -647,7 +647,7 @@ function ContentLoaded() {
          SetSearchOptions(queryString);
          $('#search').click();
       }else{ //Пустая строка параметров URL
-         SetSearchOptions($('#combobox').children(':selected').val());
+         //SetSearchOptions($('#combobox').children(':selected').val());
          if (current_paragraph != '') { // TODO: 20200816 Al Переделать текущий параграф на массив: Колонка:ТекПарагр.
             $('.txthdr').not('.hidden').each(function() {
                var col = $(this).attr('id').replace('hdr','');
