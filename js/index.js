@@ -1,4 +1,5 @@
 var active_column = localStorage.getItem("active_column");
+var current_paragraph = localStorage.getItem("current_paragraph"); // TODO: 20200815 Al
 if (active_column == undefined) {
    active_column = 'col1';
    localStorage.setItem("active_column", active_column);
@@ -267,6 +268,8 @@ $('#clear').click(function(event) { $('#search_text').val('').focus(); });
 $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
    e.preventDefault();
    var href = $(this).attr('href');
+   current_paragraph = href;
+   localStorage.setItem("current_paragraph", current_paragraph);
    var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
    if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
    else {
@@ -301,28 +304,34 @@ $('.toc_container,#search_results,#notes').on('click', 'a', function(e) {
    }
 });
 
+function col_scrollTo_paragraph(col,href){
+   var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
+   var mod_idx = $('#' + col + 'mod').val();
+   var $coltxt = $('#' + col + 'txt');
+   if (colpaper_map[col] != paper) { /* need to load a different paper */
+      $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
+         var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
+         $('#' + col + 'title').html(title);
+         colpaper_map[col] = paper;
+         $coltxt.scrollTo(href, get_delay());
+      });
+   } else {
+      $coltxt.scrollTo(href, get_delay());
+   }
+};
+
 $('.coltxt').on('click', 'a', function(e) {
    e.preventDefault();
    var href = $(this).attr('href');
+   current_paragraph = href;
+   localStorage.setItem("current_paragraph", current_paragraph);
    var fnpat = /U\d{1,3}_\d{1,2}_\d{1,3}_\d+/;
    if (fnpat.exec(href)) $('#notes').scrollTo(href, get_delay());
    else {
-      var paper = href.replace(/.U([0-9][0-9]*)_.*_.*/,'$1');
       var this_column = e.delegateTarget;
       $('.coltxt').not(this_column).each(function() {
          var col = $(this).attr('id').replace('txt','');
-         var mod_idx = $('#' + col + 'mod').val();
-         var $coltxt = $('#' + col + 'txt');
-         if (colpaper_map[col] != paper) { /* need to load a different paper */
-            $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
-               var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
-               $('#' + col + 'title').html(title);
-               colpaper_map[col] = paper;
-               $coltxt.scrollTo(href, get_delay());
-            });
-         } else {
-            $coltxt.scrollTo(href, get_delay());
-         }
+         col_scrollTo_paragraph(col,href);
       });
       $(this_column).scrollTo(href, get_delay());
    }
@@ -456,15 +465,7 @@ $('#search').click(function(event) {
              ref[3] = 0; /* section title */
       }
       var href = '.U' + paper + '_' + ref[2] + '_' + ref[3];
-      var $coltxt = $('#' + active_column + 'txt');
-      if (colpaper_map[active_column] != paper) {
-         $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
-            var title = $('#' + active_column + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
-            $('#' + active_column + 'title').html(title);
-            colpaper_map[active_column] = paper;
-            $coltxt.scrollTo(href, get_delay());
-         });
-      } else $coltxt.scrollTo(href, get_delay());
+      col_scrollTo_paragraph(active_column,href);
    } else {
       if ($('.col5').hasClass('hidden')) toggle_active_column('col5');   //включаем колонку результатов, если была выключена
 
@@ -637,18 +638,7 @@ function ContentLoaded() {
       var href = '.U' + paper + '_' + ref[2] + '_' + ref[3];
       $('.txthdr').not('.hidden').each(function() {
          var col = $(this).attr('id').replace('hdr','');
-         var mod_idx = $('#' + col + 'mod').val();
-         var $coltxt = $('#' + col + 'txt');
-         if (colpaper_map[col] != paper) { /* need to load a different paper */
-            $coltxt.load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html', function() {
-               var title = $('#' + col + 'toc').find('.toc').find('.U' + paper + '_0_1').html();
-               $('#' + col + 'title').html(title);
-               colpaper_map[col] = paper;
-               $coltxt.scrollTo(href, get_delay());
-            });
-         } else {
-            $coltxt.scrollTo(href, get_delay());
-         }
+         col_scrollTo_paragraph(col,href);
       });
    }
    else{
@@ -656,8 +646,14 @@ function ContentLoaded() {
       if (queryString != '') {
          SetSearchOptions(queryString);
          $('#search').click();
-      }else{
-         SetSearchOptions($('#combobox').children(':selected').val());
+      }else{ //Пустая строка параметров URL
+         //SetSearchOptions($('#combobox').children(':selected').val());
+         if (current_paragraph != '') { // TODO: 20200816 Al Переделать текущий параграф на массив: Колонка:ТекПарагр.
+            $('.txthdr').not('.hidden').each(function() {
+               var col = $(this).attr('id').replace('hdr','');
+               col_scrollTo_paragraph(col,current_paragraph);
+            });
+         }
       }
    }
 }
