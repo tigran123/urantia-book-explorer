@@ -1,20 +1,12 @@
 # The Urantia Book Explorer Web Application
 
-NOTE: the default language for the application is Russian, but you can easily switch to English
-by going to the fifth tab that has a gear icon and the word "НАСТРОЙКИ" and then use the first
-selector to choose "English" instead of the default "русский".
+The Urantia Book Explorer (UBEX) has the following main features:
 
-The Urantia Book Explorer (UBEX) is expected to have the following features when completed:
+* Side-by-side comparison of ALL translations of the Urantia Book with the English text.
 
-* Side-by-side comparison of multiple (ultimately ALL) translations of the Urantia Book with the English text.
+* Very powerful Text Search Engine (with regular expressions etc)
 
-* Search Engine (with regular expressions etc)
-
-* Integrated Quiz (for testing your knowledge of the Urantia Book)
-
-* Built-in annotations (readonly)
-
-* User-defined annotations (read write)
+The detailed comparison with other similar application is available from the tab "CONTACT"
 
 The application uses the following JavaScript libraries (found in jquery/ subdirectory)
 
