@@ -202,7 +202,6 @@ function SetSearchOptions(queryString){
    l = $('#col1mod option[value=' + l + ']').length == 1 ? l : 1;     //Пусть l=23. Тогда $('#col1mod option[value=23]').length вернет 1, если в списке есть текст с таким номером. Иначе при любом другом варианте установим первый текст.
 
    $('#ic_lab').html(ic ? 'a = A' : 'a &#8800; A');
-   if ($('.col5').hasClass('hidden')) toggle_active_column('col5');   //включаем колонку результатов, если была выключена
 
    var col_with_t = $('.txthdr').not('.hidden').has('.colmod').has('option[value="'+l+'"]:selected').first().attr('id'); //колонка с нужным нам текстом
    var col_hidd = $('.txthdr.hidden').first().attr('id');             //первая спрятанная
