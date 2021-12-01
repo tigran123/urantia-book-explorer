@@ -1,12 +1,12 @@
 <?php
 $ORIGINALS = 'ТЕКСТИ ОРИГІНАЛУ';
 $TRANSLATIONS = 'ПЕРЕКЛАДИ';
-$SOURCE_CODE = 'Первинні матеріали сайту';
-$SOURCE_CODE_TEXT = 'Первинні матеріали сайту знаходяться у вільному безкоштовному доступі і розміщені в нашому <a href="https://github.com/tigran123/urantia-book-explorer">github-репозиторії</a>. Ми будемо щиро вдячні всім, хто зможе допомогти нам у розробці програми “Дослідник Книги Урантії”.';
+$SOURCE_CODE = 'Первинні матеріали';
+$SOURCE_CODE_TEXT = 'Первинні матеріали знаходяться у вільному безкоштовному доступі і розміщені в <a href="https://github.com/tigran123/urantia-book-explorer">github-репозиторії автора</a>. Ми будемо щиро вдячні всім, хто зможе допомогти нам у розробці програми “Дослідник Книги Урантії”.';
 $TOGGLE_TOOLTIPS = 'Вкл/Відкл. авто-підказку';
 $CLOSE_WINDOW = 'Сховати цей стовбчик';
 $CONTACT_DETAILS = 'Контактні дані';
-$CONTACT_TEXT = 'Ви можете зв’язатися з автором сайту таким чином <ol><li>email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li><li><a href="https://www.researchgate.net/profile/Tigran_Aivazian">ResearchGate</a></li></ol>';
+$ABOUT_TEXT = 'Ви можете зв’язатися з автором сайту таким чином <ol><li>email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';
 $IGNORE_CASE = 'Розрізняти прописні і рядкові літери під час пошуку (Ctrl + A)';
 $IGNORE_CASE_HELP = 'Пошук відбувається відповідно до прописних і рядкових літер, уведених в пошуковий рядок';
 $LOCK_COLUMNS = 'Зафіксувати ширину і висоту стовбців';
@@ -27,8 +27,8 @@ $FORUM = 'ФОРУМ';
 $FORUM_HELP = 'Перейти на форум користувачів';
 $BOOKS = 'КНИГИ';
 $BOOKS_HELP = 'Книги та статті';
-$CONTACT = 'КОНТАКТ';
-$CONTACT_HELP = 'Зворотній зв’язок з адміністрацією сайту';
+$ABOUT = 'ПРО ПРОГРАМУ';
+$ABOUT_HELP = 'Про програму';
 $SETTINGS = 'НАЛАШТУВАННЯ';
 $SETTINGS_HELP = 'Налаштування програми <b>“Дослідник Книги Урантії”</b>';
 $ENABLE_WIDGET_ANIMATIONS = 'Включити еффект анімації';

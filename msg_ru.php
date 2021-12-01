@@ -1,12 +1,12 @@
 <?php
 $ORIGINALS = 'ТЕКСТЫ ОРИГИНАЛА';
 $TRANSLATIONS = 'ПЕРЕВОДЫ';
-$SOURCE_CODE = 'Первоисходники сайта';
-$SOURCE_CODE_TEXT = 'Первоисходники сайта доступны бесплатно в нашей <a href="https://github.com/tigran123/urantia-book-explorer">гитхаб репозитории</a> и мы будем рады всем, кто захочет помочь в разработке программы Исследователь Книги Урантии.';
+$SOURCE_CODE = 'Первоисходники';
+$SOURCE_CODE_TEXT = 'Первоисходники программы <b>Исследователь Книги Урантии</b> доступны бесплатно в <b><a href="https://github.com/tigran123/urantia-book-explorer">гитхаб репозитории автора</a></b> и мы будем рады всем, кто захочет помочь в разработке программы.';
 $TOGGLE_TOOLTIPS = 'Вкл/Выкл. авто-подсказку';
 $CLOSE_WINDOW = 'Убрать данный столбец';
-$CONTACT_DETAILS = 'Контактные детали';
-$CONTACT_TEXT = 'Вы можете связаться с автором сайта следующим образом: <ol><li>Эл. почта: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Скайп: <b>tigran.aivazian</b></li><li><a href="https://www.researchgate.net/profile/Tigran_Aivazian">ResearchGate</a></li></ol>';
+$CONTACT_DETAILS = 'Контактные данные';
+$ABOUT_TEXT = 'Вы можете связаться с автором программы <b>Исследователь Книги Урантии</b> следующим образом: <ol><li>Эл. почта: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Скайп: <b>tigran.aivazian</b></li></ol>';
 $IGNORE_CASE = 'Различать заглавные и строчные буквы при поиске (Ctrl + A)';
 $IGNORE_CASE_HELP = 'Различать заглавные и строчные буквы при поиске';
 $LOCK_COLUMNS = 'Фиксировать ширину и высоту столбцов';
@@ -27,8 +27,8 @@ $FORUM = 'ФОРУМ';
 $FORUM_HELP = 'Посетить форум пользователей';
 $BOOKS = 'КНИГИ';
 $BOOKS_HELP = 'Книги и Статьи';
-$CONTACT = 'КОНТАКТ';
-$CONTACT_HELP = 'Обратная связь с администрацией сайта';
+$ABOUT = 'О ПРОГРАММЕ';
+$ABOUT_HELP = 'О программе';
 $SETTINGS = 'НАСТРОЙКИ';
 $SETTINGS_HELP = 'Настройки программы <b>Исследователь Книги Урантии</b>';
 $ENABLE_WIDGET_ANIMATIONS = 'Включить эффект анимации';

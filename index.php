@@ -82,7 +82,7 @@ echo "<div id='tabs'>
 <!-- <li><a href='#tab_user' title='$USER_HELP'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li> -->
       <li><a href='#tab_settings' title='$SETTINGS_HELP'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
       <li><a href='books-" . $lang . ".html' title='$BOOKS_HELP'><span class='ui-icon ui-icon-info'></span> $BOOKS</a></li>
-      <li><a href='#tab_contact' title='$CONTACT_HELP'><span class='ui-icon ui-icon-comment'></span> $CONTACT</a></li>
+      <li><a href='#tab_contact' title='$ABOUT_HELP'><span class='ui-icon ui-icon-comment'></span> $ABOUT</a></li>
    </ul>
 
 <div id='tab_home'>
@@ -274,7 +274,7 @@ echo "<div id='tabs'>
 <th colspan=2><h2 style='text-transform:uppercase;'>$CONTACT_DETAILS</h2></th>
 <tr>
 <td><img src='img/contact.png' height='100'></img></td>
-<td>$CONTACT_TEXT</td>
+<td>$ABOUT_TEXT</td>
 </tr>
 </table>
 <br>
