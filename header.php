@@ -98,7 +98,7 @@ function get_client_ip() {
 function is_private_ip($ip) {
    $i = explode('.', $ip);
 
-   if ($i[0] == 10 || $i[0] == 127)
+   if ($ip == '::1' || $i[0] == 10 || $i[0] == 127)
        return true;
    else if ($i[0] == 172 && $i[1] > 15 && $i[1] < 32)
        return true;
