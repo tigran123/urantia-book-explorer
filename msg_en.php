@@ -6,7 +6,7 @@ $SOURCE_CODE_TEXT = 'The source code of <b>The Urantia Book Explorer</b> is free
 $TOGGLE_TOOLTIPS = 'Toogle tooltips ON/OFF';
 $CLOSE_WINDOW = 'Close this column';
 $CONTACT_DETAILS = 'Contact details';
-$ABOUT_TEXT = 'You may contact the author of <b>The Urantia Book Explorer</b> application in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';
+$CONTACT_TEXT = 'You may contact the author of <b>The Urantia Book Explorer</b> application in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';
 $IGNORE_CASE = 'Toggle case-sensitivity of the search (Ctrl + A)';
 $IGNORE_CASE_HELP = 'Toggle case-sensitivity of the search';
 $LOCK_COLUMNS = 'Lock column heights and widths';

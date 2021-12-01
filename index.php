@@ -274,7 +274,7 @@ echo "<div id='tabs'>
 <th colspan=2><h2 style='text-transform:uppercase;'>$CONTACT_DETAILS</h2></th>
 <tr>
 <td><img src='img/contact.png' height='100'></img></td>
-<td>$ABOUT_TEXT</td>
+<td>$CONTACT_TEXT</td>
 </tr>
 </table>
 <br>
