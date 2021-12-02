@@ -273,10 +273,19 @@ echo "<div id='tabs'>
 <table>
 <th colspan=2><h2 style='text-transform:uppercase;'>$CONTACT_DETAILS</h2></th>
 <tr>
-<td><img src='img/contact.png' height='100'></img></td>
+<td>
+<img src='img/contact.png' height='100'>
+<form align='middle' action='https://www.paypal.com/donate' method='post' target='_top'>
+<input type='hidden' name='hosted_button_id' value='P9287GY73GT2Q' />
+<input type='image' src='https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif' border='0' name='submit' title='PayPal - The safer, easier way to pay online!' alt='Donate with PayPal button' />
+<img alt='' border='0' src='https://www.paypal.com/en_GB/i/scr/pixel.gif' width='1' height='1' />
+</form>
+</img>
+</td>
 <td>$CONTACT_TEXT</td>
 </tr>
 </table>
+
 <br>
 <iframe width='100%' height='2100' frameborder='0' src='https://docs.google.com/spreadsheets/d/e/2PACX-1vRqSS9XGv-t84ZTBW7eRJdvmZejnd6w9mp_E3Mtjcm4zIlPIv2rwlZtiG5YtS7VHGn4COMkY5Gm0ymA/pubhtml?gid=$GOOGLE_TAB_ID&amp;single=true&amp;chrome=false&amp;swidget=false&amp;headers=false'></iframe>
 </div>
