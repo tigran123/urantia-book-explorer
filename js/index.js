@@ -363,7 +363,7 @@ $('#ts').selectmenu({
       localStorage.setItem("ts", ts);
       $('.coltxt,#search_results,#notes').css('font-size', ts);
    },
-   width: 80
+   width: 90
 });
 
 $('#ts').val(ts).selectmenu('refresh');
