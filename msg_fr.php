@@ -2,7 +2,7 @@
 $ORIGINALS = 'TEXTES ORIGINAUX';
 $TRANSLATIONS = 'TRADUCTIONS';
 $SOURCE_CODE = 'Code source';
-$SOURCE_CODE_TEXT = 'Le code source de <b>The Urantia Book Explorer</b> est librement disponible ici <b><a href="https://github.com/tigran123/urantia-book-explorer">author’s github repository</a></b> et tout le monde est invité à participer au développement du programme.';
+$SOURCE_CODE_TEXT = 'Le code source de <b>The Urantia Book Explorer</b> est librement disponible ici <b><a href="https://github.com/tigran123/urantia-book-explorer">dépôt GitHub de l’auteur</a></b> et tout le monde est invité à participer au développement du programme.';
 $TOGGLE_TOOLTIPS = 'Activer/Désactiver les infobulles';
 $CLOSE_WINDOW = 'Fermer cette colonne';
 $CONTACT_DETAILS = 'Coordonnées de contact';
