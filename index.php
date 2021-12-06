@@ -7,7 +7,7 @@ foreach($text_sizes as $key) $text_size_selector .= "<option value='$key'>$key</
 $text_size_selector .= "</select>";
 
 $site_langs = ['en' => 'English', 'fr' => 'français', 'ru' => 'русский', 'ua' => 'український'];
-$site_lang_selector = "<label for='language'>$SITE_LANGUAGE</label> <select id='language'>";
+$site_lang_selector = "<label for='language'>$LANGUAGE</label> <select id='language'>";
 foreach($site_langs as $key => $value) {
    if ($lang == $key) $site_lang_selector .= "<option selected value='$key'>$value</option>";
    else $site_lang_selector .= "<option value='$key'>$value</option>";
@@ -20,7 +20,7 @@ $themes = ['ui-lightness' => 'UI Lightness', 'base' => 'Base', 'black-tie' => 'B
            'pepper-grinder' => 'Pepper Grinder', 'redmond' => 'Redmond', 'smoothness' => 'Smoothness',
            'south-street' => 'South Street', 'start' => 'Start', 'sunny' => 'Sunny'];
 
-$themes_selector = "<label for='themes'>$SITE_THEME</label> <select id='themes'>";
+$themes_selector = "<label for='themes'>$THEME</label> <select id='themes'>";
 foreach($themes as $key => $value) {
    if ($theme == $key) $themes_selector .= "<option selected value='$key'>$value</option>";
    else $themes_selector .= "<option value='$key'>$value</option>";
@@ -249,7 +249,7 @@ echo "<div id='tabs'>
 
 <div id='tab_settings'>
 <fieldset>
-<legend>$SITE_SETTINGS</legend>
+<legend>$SETTINGS</legend>
 <div>$text_size_selector $site_lang_selector $themes_selector $tooltips_checkbox $animations_checkbox $scrollsync_checkbox $shortcontext_checkbox</div>
 </fieldset>
 </div>
