@@ -6,7 +6,7 @@ $text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '17px', '18px', '
 foreach($text_sizes as $key) $text_size_selector .= "<option value='$key'>$key</option>";
 $text_size_selector .= "</select>";
 
-$site_langs = ['en' => 'English', 'ru' => 'русский', 'ua' => 'український'];
+$site_langs = ['en' => 'English', 'fr' => 'français', 'ru' => 'русский', 'ua' => 'український'];
 $site_lang_selector = "<label for='language'>$SITE_LANGUAGE</label> <select id='language'>";
 foreach($site_langs as $key => $value) {
    if ($lang == $key) $site_lang_selector .= "<option selected value='$key'>$value</option>";
@@ -78,8 +78,6 @@ echo $htmlhead;
 echo "<div id='tabs'>
    <ul id='tabs_top'>
       <li><a href='#tab_home' title='$HOME_HELP' id='home'><span class='ui-icon ui-icon-home'></span> $HOME</a></li>
-<!--      <li><a href='https://github.com/tigran123/urantia-book-explorer/issues/' title='$FORUM_HELP' id='forum'><span class='ui-icon ui-icon-person'></span> $FORUM</a></li> -->
-<!-- <li><a href='#tab_user' title='$USER_HELP'><span id='user_status' class='ui-icon ui-icon-locked'></span> $USER</a></li> -->
       <li><a href='#tab_settings' title='$SETTINGS_HELP'><span class='ui-icon ui-icon-gear'></span> $SETTINGS</a></li>
       <li><a href='books-" . $lang . ".html' title='$BOOKS_HELP'><span class='ui-icon ui-icon-info'></span> $BOOKS</a></li>
       <li><a href='#tab_contact' title='$ABOUT_HELP'><span class='ui-icon ui-icon-comment'></span> $ABOUT</a></li>
@@ -248,14 +246,6 @@ echo "<div id='tabs'>
 </tr>
 </table>
 </div> <!-- tab_home -->
-
-<!--
-<div id='tab_user'>
-<fieldset><legend>$USER_CONTROLS</legend>
-<label for='login'>$LOGIN</label> <input id='login' width=100px> <label for='password'>$PASSWORD</label> <input id='password'>
-</fieldset>
-</div>
--->
 
 <div id='tab_settings'>
 <fieldset>

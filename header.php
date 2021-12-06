@@ -7,6 +7,9 @@ else {
    $country = is_private_ip($ip) ? 'EN' : trim(file_get_contents("http://ipinfo.io/{$ip}/country"));
 
    switch($country) {
+      case 'FR':
+         $lang = 'fr';
+         break;
       case 'UA':
          $lang = 'ua';
          break;
