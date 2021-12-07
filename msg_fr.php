@@ -102,9 +102,12 @@ $TOOLTIP_SCROLLSYNC = 'Activer la synchronisation du défilement des colonnes de
 $SCROLLSYNC = 'Synchronisation du défilement';
 $TOOLTIP_SHORTCONTEXT = 'Restreindre le contexte du résultat de la recherche à un nombre donné de caractères';
 $SHORTCONTEXT = 'Longueur du contexte des résultats de recherche (caractères)';
-$TOOLTIP_SENT_CONTEXT = 'Résultats de recherche dans le contexte d’une phrase au lieu d\'un paragraphe complet';
+$TOOLTIP_SENT_CONTEXT = 'Résultats de recherche dans le contexte d’une phrase au lieu d’un paragraphe complet';
 $SENT_CONTEXT = 'Contexte des phrases pour les résultats de recherche';
 $TOOLTIP_PAR_CONTEXT = 'Résultats de recherche dans le contexte d’un paragraphe';
 $PAR_CONTEXT = 'Contexte du paragraphe pour les résultats de recherche';
+$THEME_HELP = 'Thème visuel pour l’application';
+$LANGUAGE_HELP = 'Sélectionner la langue de l’interface';
+$TEXT_SIZE_HELP = 'Sélectionner la taille de la police de caractères du texte';
 $GOOGLE_TAB_ID = '655353357';
 ?>

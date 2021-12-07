@@ -106,5 +106,8 @@ $TOOLTIP_SENT_CONTEXT = 'Search results in the context of one sentence instead o
 $SENT_CONTEXT = 'Sentence context for search results';
 $TOOLTIP_PAR_CONTEXT = 'Search results in the context of one paragraph';
 $PAR_CONTEXT = 'Paragraph context for search results';
+$THEME_HELP = 'Visual theme for the application';
+$LANGUAGE_HELP = 'Select the interface language';
+$TEXT_SIZE_HELP = 'Select the text font size';
 $GOOGLE_TAB_ID = '655353357';
 ?>

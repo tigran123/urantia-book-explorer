@@ -1,13 +1,13 @@
 <?php
 require 'header.php';
 
-$text_size_selector = "<label for='ts'>$TEXT_SIZE</label> <select id='ts'";
+$text_size_selector = "<label for='ts' title='$TEXT_SIZE_HELP'>$TEXT_SIZE</label> <select id='ts' title='$TEXT_SIZE_HELP'";
 $text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '17px', '18px', '19px', '20px', '21px', '22px', '24px'];
 foreach($text_sizes as $key) $text_size_selector .= "<option value='$key'>$key</option>";
 $text_size_selector .= "</select>";
 
 $site_langs = ['en' => 'English', 'fr' => 'français', 'ru' => 'русский', 'ua' => 'український'];
-$site_lang_selector = "<label for='language'>$LANGUAGE</label> <select id='language'>";
+$site_lang_selector = "<label for='language' title='$LANGUAGE_HELP'>$LANGUAGE</label> <select id='language' title='$LANGUAGE_HELP'>";
 foreach($site_langs as $key => $value) {
    if ($lang == $key) $site_lang_selector .= "<option selected value='$key'>$value</option>";
    else $site_lang_selector .= "<option value='$key'>$value</option>";
@@ -20,7 +20,7 @@ $themes = ['ui-lightness' => 'UI Lightness', 'base' => 'Base', 'black-tie' => 'B
            'pepper-grinder' => 'Pepper Grinder', 'redmond' => 'Redmond', 'smoothness' => 'Smoothness',
            'south-street' => 'South Street', 'start' => 'Start', 'sunny' => 'Sunny'];
 
-$themes_selector = "<label for='themes'>$THEME</label> <select id='themes'>";
+$themes_selector = "<label for='themes' title='$THEME_HELP'>$THEME</label> <select id='themes' title='$THEME_HELP'>";
 foreach($themes as $key => $value) {
    if ($theme == $key) $themes_selector .= "<option selected value='$key'>$value</option>";
    else $themes_selector .= "<option value='$key'>$value</option>";
