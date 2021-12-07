@@ -705,10 +705,15 @@ $.widget('custom.combobox', {
    _createShowAllButton: function() {
       var input = this.input,
       wasOpen = false;
+      var lang = getCookie('lang');
+      if (lang == 'ru') showall = 'Огласить весь список';
+      else if (lang == 'ua') showall = 'Оголосити весь перелік';
+      else if (lang == 'en') showall = 'Show all items';
+      else if (lang == 'fr') showall = 'Afficher tous les articles';
 
       $('<a>')
       .attr('tabIndex', -1 )
-      .attr('title','Show All Items')
+      .attr('title', showall)
       .tooltip()
       .appendTo(this.wrapper)
       .button({
