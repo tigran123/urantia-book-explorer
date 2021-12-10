@@ -227,8 +227,8 @@ function SetSearchOptions(queryString){
    $('#search_text').val(t);
 };
 
-$('#search_part').selectmenu({change: function() { $('#search_text').focus(); }, width: 120});
-$('#search_mode').selectmenu({change: function() { $('#search_text').focus(); }, width: 140});
+$('#search_part').selectmenu({change: function() { $('#search_text').focus(); }, width: 180});
+$('#search_mode').selectmenu({change: function() { $('#search_text').focus(); }, width: 160});
 $('#search_range').selectmenu({change: function() { $('#search_text').focus(); }, width: 180});
 
 $(document).tooltip({ content: function () { return this.getAttribute("title"); }, }); /* this enables html in tooltips */
