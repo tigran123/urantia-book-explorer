@@ -2,7 +2,7 @@
 require 'header.php';
 
 $text_size_selector = "<label for='ts' title='$TEXT_SIZE_HELP'>$TEXT_SIZE</label> <select id='ts' title='$TEXT_SIZE_HELP'";
-$text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '17px', '18px', '19px', '20px', '21px', '22px', '24px'];
+$text_sizes = ['10px', '12px', '13px', '14px', '15px', '16px', '17px', '18px', '19px', '20px', '21px', '22px', '23px', '24px', '25px', '26px'];
 foreach($text_sizes as $key) $text_size_selector .= "<option value='$key'>$key</option>";
 $text_size_selector .= "</select>";
 
