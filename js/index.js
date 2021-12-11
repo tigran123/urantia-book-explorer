@@ -343,7 +343,7 @@ $('.coltxt').bind('mouseup', function(e) {
 });
 
 $('.colupdown').click(function() {
-   var coltxt = '#' + $(this).parent().attr('id').replace('hdr','txt');
+   var coltxt = '#' + $(this).parent().attr('id').replace('hdr','txt').replace('col5txt','search_results').replace('col6txt','notes');
    offset = $(this).attr('name') == 'up' ? 0 : $(coltxt)[0].scrollHeight;
    $(coltxt).scrollTo(offset, get_delay());
 });

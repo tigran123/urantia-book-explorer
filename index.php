@@ -219,16 +219,28 @@ echo "<div id='tabs'>
     <div class='coltitle coltxttitle' id='col4title'></div>
   </th>
   <th class='col5 headers' id='col5hdr' title='$PRESS_CTRL_5'>
+    <a href='javascript:void(0)' class='colupdown' name='down' title='$SCROLL_DOWN'>
+       <span class='ui-icon ui-icon-circle-arrow-s'></span>
+    </a>
     <span class='coltitle' id='col5title'>$SEARCH_RESULTS <span id='search_total'></span></span>
     <a href='javascript:void(0)' class='colclose' id='col5close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
+    <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
+       <span class='ui-icon ui-icon-circle-arrow-n'></span>
+    <a>
   </th>
   <th class='col6 headers' id='col6hdr' title='$PRESS_CTRL_6'>
+    <a href='javascript:void(0)' class='colupdown' name='down' title='$SCROLL_DOWN'>
+       <span class='ui-icon ui-icon-circle-arrow-s'></span>
+    </a>
     <span class='coltitle' id='col6title'>$NOTES <span id='notes_total'></span></span>
     <a href='javascript:void(0)' class='colclose' id='col6close' title='$CLOSE_WINDOW'>
        <span class='ui-icon ui-icon-closethick'></span>
     </a>
+    <a href='javascript:void(0)' class='colupdown' name='up' title='$SCROLL_UP'>
+       <span class='ui-icon ui-icon-circle-arrow-n'></span>
+    <a>
   </th>
 <tr>
   <td class='col0' id='col0toc' valign='top'>
