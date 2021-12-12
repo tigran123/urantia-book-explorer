@@ -1,4 +1,4 @@
-if (getCookie("expcpanel") == 0) $('#explorer_control').addClass('hidden');
+if (getCookie('expcpanel') == '0') $('#explorer_control').addClass('hidden');
 var active_column = localStorage.getItem("active_column");
 var current_paragraph = localStorage.getItem("current_paragraph"); // TODO: 20200815 Al
 if (active_column == undefined) {
