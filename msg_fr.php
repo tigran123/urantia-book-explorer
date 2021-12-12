@@ -109,5 +109,6 @@ $PAR_CONTEXT = 'Contexte du paragraphe pour les résultats de recherche';
 $THEME_HELP = 'Thème visuel pour l’application';
 $LANGUAGE_HELP = 'Sélectionner la langue de l’interface';
 $TEXT_SIZE_HELP = 'Sélectionner la taille de la police de caractères du texte';
+$EXPCPANEL = 'Réglage de votre écran';
 $GOOGLE_TAB_ID = '655353357';
 ?>

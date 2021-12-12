@@ -27,6 +27,10 @@ else {
    setcookie('lang', $lang, $expire);
 }
 
+$expcpanel = 1;
+if (isset($_COOKIE['expcpanel']))
+   $expcpanel = $_COOKIE['expcpanel'];
+
 $shortcontext = 0;
 if (isset($_COOKIE['shortcontext']))
    $shortcontext = $_COOKIE['shortcontext'];

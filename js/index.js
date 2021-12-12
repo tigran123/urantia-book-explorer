@@ -1,3 +1,4 @@
+if (getCookie("expcpanel") == 0) $('#explorer_control').addClass('hidden');
 var active_column = localStorage.getItem("active_column");
 var current_paragraph = localStorage.getItem("current_paragraph"); // TODO: 20200815 Al
 if (active_column == undefined) {
@@ -246,6 +247,12 @@ $("#shortcontext_lenght").focusout(function(){
    var value = parseInt($(this).val());
    if (value > 100) $(this).val(100);
    if (value < 0)   $(this).val(0);
+});
+
+$('#expcpanel').change(function() {
+   document.cookie = 'expcpanel=' + ($(this).is(':checked') ? 1 : 0) + '; expires=Fri, 31 Dec 9999 23:59:59 GMT';
+   $('#explorer_control').toggleClass('hidden');
+   $('#max_height').click();
 });
 
 $('#animations').change(function() {
@@ -541,8 +548,7 @@ $(document).keydown(function(event) {
       $('#max_height').click();
    } else if (ctrl && key == 69) { /* Ctrl + E */
       event.preventDefault();
-      $('#explorer_control').toggleClass('hidden');
-      $('#max_height').click();
+      $('#expcpanel').click();
    } else if (ctrl && key == 83) { /* Ctrl + S */
       event.preventDefault();
       $('#search_control').toggleClass('hidden');

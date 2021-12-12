@@ -25,9 +25,12 @@ foreach($themes as $key => $value) {
    if ($theme == $key) $themes_selector .= "<option selected value='$key'>$value</option>";
    else $themes_selector .= "<option value='$key'>$value</option>";
 }
-$themes_selector .= "</select>";
+$themes_selector .= "</select><BR>";
 
-$tooltips_checkbox = "<BR><input id='tooltips' type='checkbox' value='1'".($tooltips == 1 ? " checked" : "").">";
+$expcpanel_checkbox = "<BR><input id='expcpanel' type='checkbox' value='1'".($expcpanel == 1 ? " checked" : "").">";
+$expcpanel_checkbox .= "<label for='expcpanel'>$EXPCPANEL</label><BR>";
+
+$tooltips_checkbox = "<input id='tooltips' type='checkbox' value='1'".($tooltips == 1 ? " checked" : "").">";
 $tooltips_checkbox .= "<label title='$TOOLTIP_ON_TOOLTIPS' for='tooltips'>$TOOLTIPS</label><BR>";
 
 $animations_checkbox = "<input id='animations' type='checkbox' value='1'".($animations == 1 ? " checked" : "").">";
@@ -262,7 +265,7 @@ echo "<div id='tabs'>
 <div id='tab_settings'>
 <fieldset>
 <legend>$SETTINGS</legend>
-<div>$text_size_selector $site_lang_selector $themes_selector $tooltips_checkbox $animations_checkbox $scrollsync_checkbox $shortcontext_checkbox</div>
+<div>$text_size_selector $site_lang_selector $themes_selector $expcpanel_checkbox $tooltips_checkbox $animations_checkbox $scrollsync_checkbox $shortcontext_checkbox</div>
 </fieldset>
 </div>
 
