@@ -110,8 +110,8 @@ $('.colmod').selectmenu({
    if (mod_idx == undefined) {
       switch(+cnum) {
          case 1: mod_idx = 1; break;
-         case 2: mod_idx = 4; break;
-         case 3: mod_idx = 2; break;
+         case 2: mod_idx = 25; break;
+         case 3: mod_idx = 23; break;
          case 4: mod_idx = 5; break;
          default: mod_idx = 1; break;
       }
