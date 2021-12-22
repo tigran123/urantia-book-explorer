@@ -90,7 +90,10 @@ $('.colmod').selectmenu({
       var col = $(this).attr('id').replace('mod', '');
       var mod_idx = ui.item.value;
       var paper = colpaper_map[col];
-      $('#' + col + 'txt').load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
+      var filename = 'text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html';
+      $('#' + col + 'txt').load(filename, function(response, status, xhr) {
+         if (status == 'error') location.reload(); // reload is needed to show the empty column if the load fails
+      });
       if (col == active_column) load_notes(mod_idx);
       $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
          var toc = $(this).find('.toc');
