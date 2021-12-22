@@ -91,7 +91,7 @@ $('.colmod').selectmenu({
       var mod_idx = ui.item.value;
       var paper = colpaper_map[col];
       $('#' + col + 'txt').load('text/' + mod_idx + '/p' + ("000" + paper).slice(-3) + '.html');
-      load_notes(mod_idx);
+      if (col == active_column) load_notes(mod_idx);
       $('#' + col + 'toc').load('text/' + mod_idx + '/toc.html', function() {
          var toc = $(this).find('.toc');
          toc.bonsai();
