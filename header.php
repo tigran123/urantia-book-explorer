@@ -64,6 +64,9 @@ $htmlhead = "<!DOCTYPE html>
 <meta name='description' content='$DESCRIPTION'>
 <meta name='rating' content='general'>
 <meta name='author' content='$AUTHOR'>
+<meta http-equiv='Cache-Control' content='no-cache, no-store, must-revalidate' />
+<meta http-equiv='Pragma' content='no-cache' />
+<meta http-equiv='Expires' content='0' />
 <link rel='shortcut icon' href='img/favicon.ico'>
 <title>$TITLE</title>
 <link id='stylesheet' rel='stylesheet' href='jquery/jquery-ui-themes-1.12.1/themes/$theme/jquery-ui.min.css'>
