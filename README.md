@@ -83,12 +83,7 @@ So I can easily start and stop Apache by using `a` and `aa` command shortcuts.
 
 Go to the following URL in your web browser `http://127.0.0.1:8080`.
 I recommend Samsung Internet Browser as it actually works without Internet access,
-unlike Google Chrome, which requires Internet for no reason whatsoever. Namely,
-Google Chrome works only for a few seconds and after that it stops working with the
-nasty message `Offline` shown in the URL window and it blocks all non-static activity
-on the website, thus disabling it completely. Fortunately, Samsung Internet Browser
-does not do anything of the sort at the moment. But please remember that on this planet
-all software is constantly degrading, so I recommend to NOT UPDATE Samsung browser, just
-in case if they break it as well in order to comply with Google's nasty so-called "security guidelines".
+unlike Google Chrome, which in the past had some glitches with connecting to the locally
+running web browser. But in the recent versions they seem to have fixed this problem...
 
 That is it.
