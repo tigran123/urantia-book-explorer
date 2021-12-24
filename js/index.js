@@ -480,14 +480,13 @@ $('#search').click(function(event) {
 
       $('#search_text').addClass('loading').prop('disabled', true);
       $('#search').button('disable');
-      var _link = '' + location.pathname + url_search_req;
-      window.history.pushState('', '', _link);
 
       var search_req = o.ajax_search_req;
       $.ajax({url: search_req, dataType: 'json', success: function(data) {
          var json = JSON.parse(data);
+         var _link = '' + location.pathname + url_search_req;
          $('#search_results').html(json.matches);
-         $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')<span class="ui-icon 	ui-icon-extlink"></span>');
+         $('#search_total').html('(' + json.match_count + '/' + json.par_count + ')<span class="ui-icon ui-icon-extlink"></span>');
          $('#col5title').wrap('<a href="'+_link+'"></a>');
          //$('#search_text').removeClass('loading').prop('disabled', false).val(json.text).focus();
          $('#search_text').removeClass('loading').prop('disabled', false);
