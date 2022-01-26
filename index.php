@@ -98,7 +98,7 @@ echo "<div id='tabs'>
 <tr><td class='key'>Ctrl + H</td><td>$SHOW_HIDE_TABS</td><td class='key'>Ctrl + 6</td><td>$SHOW_HIDE_NOTES</td></tr>
 <tr><td class='key'>Ctrl + M</td><td>$MAX_HEIGHT_HELP</td><td class='key'>Ctrl + A</td><td>$IGNORE_CASE_HELP</td></tr>
 <tr><td class='key'>Ctrl + B</td><td>$MAX_WIDTH_HELP</td><td class='key'>Ctrl + P</td><td>$TOGGLE_TOOLTIPS</td></tr>
-<tr><td class='key'>Ctrl + E</td><td>$SHOW_HIDE_EXPLORER_PANEL</td></tr>
+<tr><td class='key'>Ctrl + E</td><td>$SHOW_HIDE_EXPLORER_PANEL</td><<td class='key'>Ctrl + F5</td><td>$RELOAD_UBEX</td></tr>
 <th colspan=4 title='$HELP_TIP'><hr>$HELP_SEARCH</th>
 <tr><td class='key'>N:M.L</td><td colspan=3>$HELP_GOTO</td></tr>
 <tr><td class='key'>*</td><td colspan=3>$ANY_SYMBOLS0</td></tr>

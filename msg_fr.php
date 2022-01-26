@@ -4,6 +4,7 @@ $TRANSLATIONS = 'TRADUCTIONS';
 $SOURCE_CODE = 'Code source';
 $SOURCE_CODE_TEXT = 'Le code source de <b>The Urantia Book Explorer</b> est librement disponible ici <b><a href="https://github.com/tigran123/urantia-book-explorer">dépôt GitHub de l’auteur</a></b> et tout le monde est invité à participer au développement du programme.';
 $TOGGLE_TOOLTIPS = 'Activer/Désactiver les infobulles';
+$RELOAD_UBEX = 'Recharger le <b>The Urantia Book Explorer</b>';
 $CLOSE_WINDOW = 'Fermer cette colonne';
 $CONTACT_DETAILS = 'Coordonnées de contact';
 $CONTACT_TEXT = 'Vous pouvez contacter l’auteur de l’application <b>The Urantia Book Explorer</b> d’une des deux façons suivantes: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';

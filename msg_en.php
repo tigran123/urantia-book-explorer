@@ -4,6 +4,7 @@ $TRANSLATIONS = 'TRANSLATIONS';
 $SOURCE_CODE = 'Source code';
 $SOURCE_CODE_TEXT = 'The source code of <b>The Urantia Book Explorer</b> is freely available in the <b><a href="https://github.com/tigran123/urantia-book-explorer">author\'s github repository</a></b> and everyone is welcome to join in the development of the program.';
 $TOGGLE_TOOLTIPS = 'Toggle tooltips ON/OFF';
+$RELOAD_UBEX = 'Reload <b>The Urantia Book Explorer</b>';
 $CLOSE_WINDOW = 'Close this column';
 $CONTACT_DETAILS = 'Contact details';
 $CONTACT_TEXT = 'You may contact the author of <b>The Urantia Book Explorer</b> application in one of the following ways: <ol><li>Email: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Skype: <b>tigran.aivazian</b></li></ol>';

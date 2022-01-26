@@ -4,6 +4,7 @@ $TRANSLATIONS = 'ПЕРЕВОДЫ';
 $SOURCE_CODE = 'Первоисходники';
 $SOURCE_CODE_TEXT = 'Первоисходники программы <b>Исследователь Книги Урантии</b> доступны бесплатно в <b><a href="https://github.com/tigran123/urantia-book-explorer">гитхаб репозитории автора</a></b> и мы будем рады всем, кто захочет помочь в разработке программы.';
 $TOGGLE_TOOLTIPS = 'Вкл/Выкл. авто-подсказку';
+$RELOAD_UBEX = 'Перезагрузить <b>Исследователь Книги Урантии</b>';
 $CLOSE_WINDOW = 'Убрать данный столбец';
 $CONTACT_DETAILS = 'Контактные данные';
 $CONTACT_TEXT = 'Вы можете связаться с автором программы <b>Исследователь Книги Урантии</b> следующим образом: <ol><li>Эл. почта: <b><a href="mailto:aivazian.tigran@gmail.com">aivazian.tigran@gmail.com</a></b></li><li>Скайп: <b>tigran.aivazian</b></li></ol>';
