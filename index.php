@@ -298,6 +298,6 @@ echo "<div id='tabs'>
 
 </div>"; /* tabs div */
 
-include 'statcounter.html';
+/* include 'statcounter.html'; */
 echo $htmlfoot;
 ?>
