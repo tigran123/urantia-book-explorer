@@ -6,6 +6,7 @@ exclude.txt
 logs/
 TODO
 tools/
+cgi-bin/
 .git/
 books/
 README.md
